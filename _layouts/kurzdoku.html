@@ -1,0 +1,174 @@
+{% assign projekt_id = page.url | remove_first: "/" | split: "/" | first | prepend: "/" %}
+{% assign projekt = site.projekte | where: "id", projekt_id | first %}
+
+<!DOCTYPE html>
+<html lang="de">
+
+    <head>
+        <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+        <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0">
+        <meta name="description" content="{{ site.description }}">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+        <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css">
+        <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/assets/styles/style.css" />
+        <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/assets/images/favicon.ico">
+
+        <!-- Meta -->
+        <meta property="og:site_name" content="{{ site.name }}">
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:description"
+            content="Die Projektergebnisse von {{ page.people | join: ' & '}} für das Modul Screendesign im {{ page.semester }}">
+        <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}../{{page.teaserimage}}">
+        <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta name="twitter:site" content="@micologne">
+    </head>
+
+    <body data-url="{{page.url}}">
+        <section class="hero is-black is-large has-margin">
+            <!-- Hero header: will stick at the top -->
+            <div class="hero-head">
+                <header class="nav">
+                    <div class="container">
+                        <div class="nav-left">
+                            <a href="{{ site.baseurl }}/" class="nav-item"><img src="{{ site.avatar }}" /></a>
+                        </div>
+                        <span class="nav-toggle">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </span>
+                        <div class="nav-right nav-menu">
+                            {% for item in site.data.nav %}
+                            {% if item.url contains "http" %}
+                            <a class="nav-item" href="{{item.url}}" class="nav-item">{{item.name}}</a>
+                            {% else %}
+                            <a class="nav-item" href="{{ site.baseurl }}/{{item.url}}"
+                                class="nav-item">{{item.name}}</a>
+                            {% endif %}
+                            {% endfor %}
+
+                        </div>
+                    </div>
+                </header>
+            </div>
+
+            <!-- Hero content: will be in the middle -->
+            <div class="hero-body is-header"
+                style="background-image:linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0,
+                0.5)),url(../{{page.teaserimage}}); background-size:
+                cover;
+                background-position: center center;">
+
+                <div class="container">
+                    <h1 class="title is-1 is-inverse">
+                        {{ page.title }}
+                    </h1><br>
+                    <h2 class="subtitle is-3 has-shadow is-inverse">
+                        {{ page.people | join: ' & '}}
+                    </h2>
+                </div>
+            </div>
+        </section>
+        <section class="section">
+            <div class="container">
+                <div class="content is-simple">
+                    <dl class="overview">
+                        <dt>Kontext</dt>
+                        <dd>{{ page.context | default: projekt.context }}</dd>
+                        <dt>Modul</dt>
+                        <dd>{{ page.modul | default: projekt.modul }}</dd>
+                        <dt>Semester</dt>
+                        <dd>{{ page.semester | default: projekt.semester }}</dd>
+                        <dt>Studiengang</dt>
+                        <dd>{{ page.studiengang | default: projekt.studiengang }}</dd>
+                    </dl>
+                </div>
+                <div class="content is-medium">
+                    {{ content }}
+                </div>
+            </div>
+        </section>
+        <section class="section">
+            <div class="container">
+                {% if page.gallery.size > 0 %}
+                <div class="swiper-container">
+                    <div class="swiper-controls">
+                        <div class="prev"><svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24"
+                            width="24">
+                            <path d="M0 0h24v24H0z" fill="none" />
+                            <path d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z" /></svg></div>
+                        <div class="next">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24">
+                                <path d="M0 0h24v24H0z" fill="none" />
+                                <path d="M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z" /></svg></div>
+                    </div>
+                    <div class="swiper-wrapper">
+                        <!-- Slides -->
+                        {%- for file in page.gallery -%}
+                        {%- if file contains "http" -%}
+                        <img class="swiper-slide"
+                                style="max-height: 500px; width: auto; object-fit: contain;"
+                                src="{{ file }}">
+                        {%- else -%}
+                        <img class="swiper-slide"
+                            style="max-height: 500px; width: auto; object-fit: contain;"
+                            src="../{{ file }}">
+                        {% endif %}
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+            </div>
+        </section>
+
+        {% if page.styleguide %}
+        <section class="section">
+            <div class="container">
+                <div class="content is-medium">
+                    <h3>Style-Guide</h3>
+                    {%- if page.styleguide contains "http" -%}
+                    <img alt="Styleguide für das Projekt von {{ page.people | join: ' & '}}" src="{{ page.styleguide }}" style="width: 100%;">
+                    {%- else -%}
+                    <img alt="Styleguide für das Projekt von {{ page.people | join: ' & '}}" src="../{{ page.styleguide }}" style="width: 100%;">
+                    {% endif %}
+                </div>
+            </div>
+        </section>
+        {% endif %}        
+
+        <footer class="footer is-non-print">
+            <div class="container">
+                <div class="columns">
+                    <div class="column is-8">
+                        <ul class="menu-list">
+                            {% for item in site.navigation %}
+                            <li><a href="{{ site.baseurl }}/{{item.url}}" class="nav-item">{{item.name}}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div class="column">
+                        <div class="content is-small">
+                            <p>Diese Arbeiten sind im Rahmen des Moduls
+                                <a href="https://th-koeln.github.io/mi-bachelor-screendesign">Screendesign</a>
+                                im Studiengang <a
+                                    href="https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php">Medieninformatik
+                                    Bachelor</a>
+                                der <a href="https://www.th-koeln.de/hochschule/impressum_8159.php">TH Köln</a>
+                                entstanden.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+        </footer>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.3/showdown.min.js"></script>
+        <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/screendesign.js"></script>
+
+    </body>
+
+</html>

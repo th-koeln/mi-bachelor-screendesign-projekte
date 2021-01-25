@@ -1,0 +1,38 @@
+---
+layout: default
+---
+{% assign projekte = site.projekte | reverse %}
+{% for projekt in projekte %}
+<section class="section">
+    <div class="container">
+
+        <h3 class="title is-1">{{ projekt.title }}: {{ projekt.subtitle }}</h1>
+            <h4 class="subtitle">{{ projekt.context }}</h2>
+                <div class="content">
+                    <p>{{ projekt.excerpt | strip_html | truncate: "300", "" | strip }}... <a
+                            href="{{site.baseurl}}{{ projekt.url }}" title="Über das Projekt">Mehr erfahren</a></p>
+                </div>
+
+                <div class="is-tab-wrap">
+
+                    {% for kurzdoku in site.kurzdokus %}
+                    {% assign projekt_id = kurzdoku.url | remove_first: "/" | split: "/" | first | prepend: "/" %}
+                    {% if projekt_id != projekt.id %}
+                        {% continue %}
+                    {% endif %}
+
+                    <div class="card is-overview-item is-tab-content">
+                        <img src="{{site.baseurl}}{{projekt.url}}{{kurzdoku.teaserimage}}" class="card-image">
+
+                        <div class="card-footer">
+                            <p><a class="card-footer-item"
+                                    href="{{site.baseurl}}{{kurzdoku.url}}">{{ kurzdoku.people | join: ' & '}}</a></p>
+                        </div>
+                    </div>
+                    {% endfor %}
+
+                </div>
+
+    </div>
+</section>
+{% endfor %}

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="de">
+
+    <head>
+        <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+        <!--[if lt IE 9]>
+        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, maximum-scale=1.0">
+        <meta name="description" content="{{ site.description }}">
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
+        <link href="https://fonts.googleapis.com/css?family=PT+Sans" rel="stylesheet">
+        <link rel="stylesheet" type="text/css" href="{{ site.url }}{{ site.baseurl }}/assets/styles/style.css" />
+        <link rel="shortcut icon" type="image/x-icon" href="{{ site.url }}{{site.baseurl}}/assets/images/favicon.ico">
+
+        <!-- Meta -->
+        <meta property="og:site_name" content="{{ site.name }}">
+        <meta property="og:title" content="{{ page.title }}">
+        <meta property="og:description" content="{{ site.description }}">
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@micologne">
+    </head>
+
+    <body data-url="{{page.url}}">
+        <section class="hero is-black is-small">
+            <!-- Hero header: will stick at the top -->
+            <div class="hero-head">
+                <header class="nav">
+                    <div class="container">
+                        <div class="nav-left">
+                            <a href="{{ site.baseurl }}/" class="nav-item"><img src="{{ site.avatar }}" /></a>
+                        </div>
+                        <span class="nav-toggle">
+                            <span></span>
+                            <span></span>
+                            <span></span>
+                        </span>
+                        <div class="nav-right nav-menu">
+                            {% for item in site.data.nav %}
+                            {% if item.url contains "http" %}
+                            <a class="nav-item" href="{{item.url}}" class="nav-item">{{item.name}}</a>
+                            {% else %}
+                            <a class="nav-item" href="{{ site.baseurl }}/{{item.url}}"
+                                class="nav-item">{{item.name}}</a>
+                            {% endif %}
+                            {% endfor %}
+
+                        </div>
+                    </div>
+                </header>
+            </div>
+
+            <!-- Hero content: will be in the middle -->
+            <div class="hero-body is-header">
+                <div class="container">
+                    <h1 class="title is-1">
+                        {{ site.name }}
+                    </h1>
+                    <h2 class="subtitle is-3">
+                        {{ site.description }}
+                    </h2>
+                </div>
+            </div>
+        </section>
+
+        {{ content }}
+
+        <footer class="footer is-non-print">
+            <div class="container">
+                <div class="columns">
+                    <div class="column is-8">
+                        <ul class="menu-list">
+                            {% for item in site.navigation %}
+                            <li><a href="{{ site.baseurl }}/{{item.url}}" class="nav-item">{{item.name}}</a></li>
+                            {% endfor %}
+                        </ul>
+                    </div>
+                    <div class="column">
+                        <div class="content is-small">
+                            <p>Diese Arbeiten sind im Rahmen des Moduls
+                                <a href="https://th-koeln.github.io/mi-bachelor-screendesign">Screendesign</a>
+                                im Studiengang <a
+                                    href="https://www.th-koeln.de/studium/medieninformatik-bachelor_2379.php">Medieninformatik
+                                    Bachelor</a>
+                                der <a href="https://www.th-koeln.de/hochschule/impressum_8159.php">TH Köln</a>
+                                entstanden.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+        </footer>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/1.8.3/showdown.min.js"></script>
+        <script type="text/javascript" src="{{ site.baseurl }}/assets/js/screendesign.js"></script>
+
+    </body>
+
+</html>

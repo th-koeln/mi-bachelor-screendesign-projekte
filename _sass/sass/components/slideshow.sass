@@ -1,0 +1,23 @@
+.swiper-controls
+    display: flex
+    flex-direction: row
+    justify-content: flex-end
+    margin-bottom: $bfs
+    margin-right: -10px
+
+    .prev,
+    .next
+        display: inline-block
+        cursor: pointer
+        padding: 5px
+
+        svg
+            fill: $mi-black
+            height: $bfs*1.8
+            width: $bfs*1.8
+        
+        &.swiper-button-disabled
+
+            cursor: default
+            svg
+                fill: rgba($mi-black, 0.2)
