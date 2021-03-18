@@ -5,10 +5,10 @@ people:
     - Anastasia Chouliaras
 teaserimage: schleipfer-chouliaras-teaser.png
 gallery:
-    - nachname1-nachname2-bild1.png
-    - nachname1-nachname2-bild2.png
-    - nachname1-nachname2-bild3.png
-    - nachname1-nachname2-bild4.png
+    - schleipfer-chouliaras-bild1.png
+    - schleipfer-chouliaras-bild2.png
+    - schleipfer-chouliaras-bild3.png
+    - schleipfer-chouliaras-bild4.png
 styleguide: schleipfer-chouliaras-styleguide.svg
 ---
 
