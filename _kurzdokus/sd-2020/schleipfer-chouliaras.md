@@ -3,7 +3,7 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Nadine Schleipfer
     - Anastasia Chouliaras
-teaserimage: nachname1-nachname2-teaser.png
+teaserimage: schleipfer-chouliaras-teaser.png
 gallery:
     - nachname1-nachname2-bild1.png
     - nachname1-nachname2-bild2.png
@@ -12,6 +12,13 @@ gallery:
 styleguide: schleipfer-chouliaras-styleguide.svg
 ---
 
-Bitte verfassen Sie hier ein Abstract mit maximal 600 Worten. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+In der folgenden Projektausarbeitung wurde eine Funktionserweiterung für das „Cranach Digital Archive“ erstellt, 
+ein Forschungsprojekt zur digitalen Erschließung der Gemälde von einem der bedeutendsten Maler der deutschen
+ Renaissance, Lucas Cranach dem Älteren. In dem Online Archiv sind über 1.100 Gemälde und 10.500 Abbildungen
+aus Privatsammlungen teils als Infrarot-Reflektographien und Röntgenaufnahmen dokumentiert.
+  
+In dem Projekt, welches Teil des Medieninformatik Studiengangs der TH Köln ist, sollte ein Entwurf erarbeitet 
+erden, der sich randlos in das bestehende System integriert und dabei im UI Design reduziert, klar und
+selbsterklärend ist. Die Zielgruppe der Anwendern bildet sich aus Professionellen die mit Kunsthistorischen
+Werken arbeiten. 
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
