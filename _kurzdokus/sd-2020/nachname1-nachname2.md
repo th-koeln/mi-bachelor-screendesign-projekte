@@ -2,15 +2,25 @@
 title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Sebastian Brock
-teaserimage: nachname1-nachname2-teaser.png
+teaserimage: brock-teaser.png
 gallery:
-    - nachname1-nachname2-bild1.png
-    - nachname1-nachname2-bild2.png
-    - nachname1-nachname2-bild3.png
-    - nachname1-nachname2-bild4.png
-styleguide: nachname1-nachname2-styleguide.svg
+    - brock-01_bildauswahl.png
+    - brock-02_bildauswahl_abzuege.png
+    - brock-03_bildauswahl_finished.png
+    - brock-04_favorites.png
+    - brock-05_favorites-selected.png
+    - brock-06_vergleich.png
+    - brock-07_vergleich-stack.png
+    - brock-08_vergleich-bildausschnitt.png
+    - brock-09_vergleich-bildausschnitt-finished.png
+    - brock-10_vergleich-zoom.png
+    - brock-11_vergleich-bildaufteilung.png
+    - brock-12_vergleich-bildaufteilung-finished.png
+styleguide: brock-styleguide.svg
 ---
 
-Bitte verfassen Sie hier ein Abstract mit maximal 600 Worten. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Ziel bei diesem Projekt war es, das Cranach Digital Archive um die Funktion eines Bildervergleichs zu erweitern. Die Screens sollten dabei primär auf eine professionelle Benutzergruppe zugeschnitten, aber trotzdem intuitiv und übersichtlich sein. Um dies zu erreichen, wurde das "zurückhaltende" und minimalistische Design des cda_ in seinem Kern beibehalten, und darauf aufgebaut. 
+Zusätzlich sind die Screens an vielen Stellen durch bereits etablierte Elemente inspiriert, zum Beispiel durch das Prinzip eines Werkzeugkastens zur Auswahl von Funktionen (u.a. bekannt aus Adobe Photoshop, Microsoft Word, ...). Durch diese bereits bekannten Prinzipien wird es für viele erstmalige Benutzer des Systems ein leichterer Einstieg.
 
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend nec, pharetra ut augue. Integer quam nunc, consequat nec egestas ac, volutpat ac nisi. Sed consectetur dignissim dignissim. Donec pretium est sit amet ipsum fringilla feugiat. Aliquam erat volutpat. Maecenas scelerisque, orci sit amet cursus tincidunt, libero nisl eleifend tortor, vitae cursus risus mauris vitae nisi. Cras laoreet ultrices ligula eget tempus. Aenean metus purus, iaculis ut imperdiet eget, sodales et massa. Duis pellentesque nisl vel massa dapibus non lacinia velit volutpat. Maecenas accumsan interdum sodales. In hac habitasse platea dictumst. Pellentesque ornare blandit orci, eget tristique risus convallis ut. Vivamus a sapien neque. Morbi malesuada massa ac sapien luctus vulputate.
+Alle Screens sind für WIMP-Geräte gestaltet worden, und enthalten die volle Funktionalität, welche von der Projektaufgabe vorgegeben wurde. (Auch alle optionalen Funktionen). Alle verwendeten Farben entsprechen den Vorgaben, und nahezu alle Größen und Abstände (95%) orientieren sich an der Renard-10-Serie.
+Weiterhin wurden alle verwendeten Icons selbst erstellt, mit der Ausnahme eines Schloss-Symbols, welches von "Material Design" bezogen wurde (material.io).
