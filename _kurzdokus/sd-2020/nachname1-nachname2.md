@@ -1,8 +1,7 @@
 ---
 title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
-    - Vorname Nachname1
-    - Vorname Nachname2
+    - Sebastian Brock
 teaserimage: nachname1-nachname2-teaser.png
 gallery:
     - nachname1-nachname2-bild1.png
