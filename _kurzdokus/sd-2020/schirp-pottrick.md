@@ -3,13 +3,18 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Fabian Schirp
     - Nicolas Pottrick
-teaserimage: nachname1-nachname2-teaser.png
+teaserimage: schirp-pottrick-teaser.png
 gallery:
-    - nachname1-nachname2-bild1.png
-    - nachname1-nachname2-bild2.png
-    - nachname1-nachname2-bild3.png
-    - nachname1-nachname2-bild4.png
-styleguide: nachname1-nachname2-styleguide.svg
+    - schirp-pottrick-uj1.png
+    - schirp-pottrick-uj2.png
+    - schirp-pottrick-uj3.png
+    - schirp-pottrick-uj4.png
+    - schirp-pottrick-uj5.png
+    - schirp-pottrick-uj6.png
+    - schirp-pottrick-uj7.png
+    - schirp-pottrick-uj8.png
+    - schirp-pottrick-uj9.png
+styleguide: schirp-pottrick-styleguide.svg
 ---
 
 Unser Designentwurf basiert auf den uns zur Verfügung gestellten Figma-Dateien.
