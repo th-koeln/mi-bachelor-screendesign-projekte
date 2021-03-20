@@ -3,13 +3,17 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Verena Heissbach
     - Anne Germund
-teaserimage: nachname1-nachname2-teaser.png
+teaserimage: heissbach-germund-teaser.png
 gallery:
-    - nachname1-nachname2-bild1.png
-    - nachname1-nachname2-bild2.png
-    - nachname1-nachname2-bild3.png
-    - nachname1-nachname2-bild4.png
-styleguide: nachname1-nachname2-styleguide.svg
+    - heissbach-germund-bild1.png
+    - heissbach-germund-bild2.png
+    - heissbach-germund-bild3.png
+    - heissbach-germund-bild4.png
+    - heissbach-germund-bild5.png
+    - heissbach-germund-bild6.png
+    - heissbach-germund-bild7.png
+    - heissbach-germund-bild8.png
+styleguide: heissbach-germund-styleguide.svg
 ---
 
 Die diesjährige Projektaufgabe bestand darin, für das Cranach Digital Archive (CDA) ein Gestaltungs- und Interaktionskonzept der Funktionserweiterung „Bilder vergleichen“ zu entwickeln, die auf WIMP-fähigen Computern und größeren Touchdevices funktionieren soll. Das Design sollte sich dabei an den gegebenen Kommunikationszielen orientieren: professionell, klar, möglichst einfach, reduziert, akzentuiert und zeitlos. Unser Ziel war es in diesem Zuge, das bestehende Design sinnvoll zu ergänzen und die Gestaltung auch bei der Entwicklung neuer Screens konsistent weiterzuführen. Der Fokus soll hierbei weiterhin auf den Kunstwerken liegen, daher sollte das Design so zurückhaltend wie möglich entwickelt werden.
