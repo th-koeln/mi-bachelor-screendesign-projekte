@@ -7,10 +7,10 @@ teaserimage: sd-202021-teaser-engeln-schaefer.png
 gallery:
     - sd-202021-galerieMobile-engeln-schaefer.png
     - sd-202021-sammlungMobile1-engeln-schaefer.png
+    - sd-202021-sammlungDesktop2-engeln-schaefer.png
     - sd-202021-vergleichMobile1-engeln-schaefer.png
     - sd-202021-vergleichMobile2-engeln-schaefer.png
     - sd-202021-vergleichMobile3-engeln-schaefer.png
-    - sd-202021-sammlungDesktop2-engeln-schaefer.png
     - sd-202021-vergleichDesktop3-engeln-schaefer.png
 styleguide: sd-202021-styleguide-engeln-schaefer.svg
 ---
