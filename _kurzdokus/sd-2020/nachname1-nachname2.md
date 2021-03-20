@@ -28,3 +28,5 @@ Das diesjährige Projekt in Screendesign beschäftigt sich mit der Erweiterung d
 - personalisierte Ausschnitte eines bestimmten Bildabschnitts vergleichen
 
 Zudem soll die Anwendung für Experten auf VIMP-Geräten und Touchdevices neun Zoll funktionieren.
+Der Haupteil dieser Erweiterung bezieht sich auf das Vergleichen zweier oder mehrerer Bilder, sowie das Hinzufügen und Löschen von Bildern, die im Vorhinein vom Beutzer festgelegt worden sind, und dessen Funktionen.
+
