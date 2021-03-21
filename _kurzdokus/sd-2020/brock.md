@@ -4,18 +4,9 @@ people:
     - Sebastian Brock
 teaserimage: brock-teaser.png
 gallery:
-    - brock-01_bildauswahl.png
-    - brock-02_bildauswahl_abzuege.png
     - brock-03_bildauswahl_finished.png
-    - brock-04_favorites.png
     - brock-05_favorites-selected.png
-    - brock-06_vergleich.png
-    - brock-07_vergleich-stack.png
     - brock-08_vergleich-bildausschnitt.png
-    - brock-09_vergleich-bildausschnitt-finished.png
-    - brock-10_vergleich-zoom.png
-    - brock-11_vergleich-bildaufteilung.png
-    - brock-12_vergleich-bildaufteilung-finished.png
 styleguide: brock-styleguide.svg
 ---
 
