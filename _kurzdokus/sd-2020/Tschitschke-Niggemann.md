@@ -3,7 +3,7 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Christian Tschitschke
     - Jonas Niggemann
-teaserimage: 
+teaserimage: Tschitschke-Niggeamann-teaser.png
 gallery:
     - Tschitschke-Niggemann-bild1.png
     - Tschitschke-Niggemann-bild2.png
