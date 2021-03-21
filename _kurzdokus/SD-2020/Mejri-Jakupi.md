@@ -1,8 +1,8 @@
 ---
 title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
-      -Dalila Mejri
-      -Egzona Jakupi
+  - Dalila Mejri
+  - Egzona Jakupi
 teaserimage: Mejri-Jakupi-teaser.png
 gallerie: 
       -Mejri-Jakupi-Bild9.png
@@ -24,7 +24,6 @@ Zum einen der Look-Zoom der für bestimmte Uses Cases zum Vorteil wird, da er di
 Des Weiteren ist die Möglichkeit am Desktop Ausschnitte zu makieren und zu vergleichen.
 Um den aktuellen Design der Seite entgegenzukommen wurde der Hintergrund überwiegend Dunkel gehalten.
 Die Kommunikationsziele und Systematiken wurden durch das einfache und strukturierte Design erreicht. 
-
 
 
 
