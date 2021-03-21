@@ -5,15 +5,15 @@ people:
     - Jannis Klein
 teaserimage: gerold-klein-teaser.png
 gallery:
-    - sd-202021-screen-archiv-pc-gerold-klein.png
-    - sd-202021-screen-detail-pc-gerold-klein.png
-    - sd-202021-screen-sammlung-pc-gerold-klein.png
-    - sd-202021-screen-sammlung-auswahl-pc-gerold-klein.png
-    - sd-202021-screen-vergleich-zwei-bilder-ohne-menue-pc-gerold-klein.png
-    - sd-202021-screen-vergleich-zwei-bilder-mit-menue-pc-gerold-klein.png
-    - sd-202021-screen-vergleich-vier-bilder-ohne-menue-pc-gerold-klein.png
-    - sd-202021-screen-vergleich-vier-bilder-mit-menue-pc-gerold-klein.png
-styleguide: gerold-klein-styleguide-patternlab.svg
+    - gerold-klein-bild1.png
+    - gerold-klein-bild2.png
+    - gerold-klein-bild3.png
+    - gerold-klein-bild4.png
+    - gerold-klein-bild5.png
+    - gerold-klein-bild6.png
+    - gerold-klein-bild7.png
+    - gerold-klein-bild8.png
+styleguide: gerold-klein-styleguide.svg
 ---
 
 
