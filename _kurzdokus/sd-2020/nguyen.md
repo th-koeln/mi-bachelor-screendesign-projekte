@@ -6,7 +6,7 @@ teaserimage: nguyen-teaser.png
 gallery:
     - nguyen-macbookpro-mainpage.png
     - nguyen-macbookpro-sammlungfavoriten.png
-    - nguyen-macbookpro-zweibildernvergleich.png
+    - nguyen-macbookpro-zweibildervergleich.png
     - nguyen-macbookpro-aufteilung.png
     - nguyen-macbookpro-zoom.png
     - nguyen-macbookpro-multivergleich.png
