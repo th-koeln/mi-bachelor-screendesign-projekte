@@ -3,7 +3,7 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Nick Crisci
     - Paul Johne
-teaserimage: nachname1-nachname2-teaser.png
+teaserimage: Crisci-Johne-teaser.png
 gallery:
     - Crisci-Johne-bild1.png
     - Crisci-Johne-bild2.png
