@@ -9,11 +9,6 @@ gallery:
     - bulut-grimmeisen-bild2.png
     - bulut-grimmeisen-bild3.png
     - bulut-grimmeisen-bild4.png
-    - bulut-grimmeisen-bild5.png
-    - bulut-grimmeisen-bild6.png
-    - bulut-grimmeisen-bild7.png
-    - bulut-grimmeisen-bild8.png
-    - bulut-grimmeisen-bild9.png
 styleguide: bulut-grimmeisen-styleguide.svg
 ---
 
