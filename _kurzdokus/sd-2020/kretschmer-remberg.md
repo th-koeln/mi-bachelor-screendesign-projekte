@@ -9,7 +9,7 @@ gallery:
     - kretschmer-remberg-bild2.png
     - kretschmer-remberg-bild3.png
     - kretschmer-remberg-bild4.png
-styleguide: nachname1-nachname2-styleguide.svg
+styleguide: kretschmer-remberg-styleguide.svg
 ---
 
 Die Grundlage für das bearbeitete Projekt bilden das vorhandene minimalistische Design des Lucas Cranach Archive (CDA) und dessen aktueller Prototyp, welcher uns im Vorhinein bereitgestellt wurde. Die Aufgabe bestand darin ein Gestaltungs- und Interaktionskonzept für die Funktionserweiterung «Bilder vergleichen» passend für das aktuelle Design zu entwerfen. Als Basis für das Konzept wurde dem Nutzer die Möglichkeit gegeben aus einer Bildersammlung, sich einzelne Bilder auszuwählen und diese zu einer näheren Auswahl hinzuzufügen. Für das «Bilder sammeln» wurde der Ansatz gewählt dem Nutzer die Möglichkeit zu geben sich die Artefakte in einer Einzelansicht mit zusätzlichen Informationen anzusehen. Darüber hinaus ist es dem Nutzer in dieser Ansicht möglich die verschiedenen Zustände des Bildes per Lupensymbol zu vergrößern, um sie einzeln zu begutachten, oder sie mit dem Plussymbol der Auswahl für den Bildervergleich hinzuzufügen.
