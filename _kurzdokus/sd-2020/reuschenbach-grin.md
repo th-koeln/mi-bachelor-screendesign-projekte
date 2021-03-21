@@ -3,13 +3,16 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Franziska Eva Reuschenbach
     - Emely Grin
-teaserimage: nachname1-nachname2-teaser.png
+teaserimage: Reuschenbach-Grin-teaser.png
 gallery:
-    - nachname1-nachname2-bild1.png
-    - nachname1-nachname2-bild2.png
-    - nachname1-nachname2-bild3.png
-    - nachname1-nachname2-bild4.png
-styleguide: nachname1-nachname2-styleguide.svg
+    - Reuschenbach-Grin-bild1.png
+    - Reuschenbach-Grin-bild2.png
+    - Reuschenbach-Grin-bild3.png
+    - Reuschenbach-Grin-bild4.png
+    - Reuschenbach-Grin-bild5.png
+    - Reuschenbach-Grin-bild6.png
+    - Reuschenbach-Grin-bild7.png
+styleguide: Reuschenbach-Grin-styleguide.svg
 ---
 
 Die Arbeitsgrundlage und das Design beruht auf der bereits vorhandenen Website des Cranach Digital Archive und dem vorgegebenen Style Guide. Die Funktionen Bilder sammeln und vergleichen bietet Kunsthistorikern oder allgemein Experten in diesem Bereich die Möglichkeit, sich intensiv mit den Gemälden oder Drucken auseinanderzusetzen und neue Kenntnisse zu erlangen.
