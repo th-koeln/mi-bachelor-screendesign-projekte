@@ -9,6 +9,7 @@ gallery:
     - repke-bensch_malavé-bild2.png
     - repke-bensch_malavé-bild3.png
     - repke-bensch_malavé-bild4.png
+    - repke-bensch_malavé-bild5.png
 styleguide: repke-bensch_malavé-styleguide.svg
 ---
 
