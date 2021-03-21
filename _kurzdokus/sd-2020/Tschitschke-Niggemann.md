@@ -13,7 +13,6 @@ gallery:
     - Tschitschke-Niggemann-bild6.png
     - Tschitschke-Niggemann-bild7.png
     - Tschitschke-Niggemann-bild8.png
-    - Tschitschke-Niggemann-bild9.png
 styleguide: Tschitschke-Niggemann-styleguide.svg
 ---
 
