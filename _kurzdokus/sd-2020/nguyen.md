@@ -29,3 +29,5 @@ Wenn zwei Bilder ausgewählt und vergleicht würden, hätte der Nutzer die Mögl
 Wenn man ein Bild mit vielen anderen Bildern vergleichen wollte, sollte man erstmal das Bild auswählen, dann das Element "Vergleich" im Navigation-Bar klicken und dann weiter die Bilder, mit den man das erste Bild vergleichen wollte, weiter auswählen. Aus dem Bildschirm käme ein Button "mit..." vor. Nach dem Auswählen der Bilder könnte man einfach das Button "mit..." klicken und dann die Ergebnisse sofort sehen. Man könnte auch ein Bild von dem Stack in rechte Seite klicken, um die Beschreibung dieses Bilds zu sehen.
 
 Im Übersicht-Seite könnte der Nutzer auch die Archivalien durchsuchen. Im Navigation-Bar findet man ein Burger-Icon, wo man die Archivalien nach bestimmten Arten suchen könnte. Man könnte die Felder ausfüllen und die Arten unten auswählen. Die Pfeile bedienen sich die Details für die Arten, die man mit dem Durchsuchen nutzen kann.
+
+Link zum Prototyp https://www.figma.com/proto/Z4k9YnsXhrXuQEEGVGvq5k/MacBook-Pro?node-id=6%3A83&viewport=829%2C-578%2C0.17534533143043518&scaling=min-zoom
