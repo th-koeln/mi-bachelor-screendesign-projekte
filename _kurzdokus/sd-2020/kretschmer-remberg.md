@@ -5,10 +5,10 @@ people:
     - Luca Remberg
 teaserimage: nachname1-nachname2-teaser.png
 gallery:
-    - nachname1-nachname2-bild1.png
-    - nachname1-nachname2-bild2.png
-    - nachname1-nachname2-bild3.png
-    - nachname1-nachname2-bild4.png
+    - kretschmer-remberg-bild1.png
+    - kretschmer-remberg-bild2.png
+    - kretschmer-remberg-bild3.png
+    - kretschmer-remberg-bild4.png
 styleguide: nachname1-nachname2-styleguide.svg
 ---
 
