@@ -3,13 +3,13 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Beyza Kumas
     - Esra Sancak
-teaserimage: Kumas-Sancak-teaser.png
+teaserimage: kumas-sancak-teaser.png
 gallery:
-    - Kumas-Sancak-bild1.png
-    - Kumas-Sancak-bild2.png
-    - Kumas-Sancak-bild3.png
-    - Kumas-Sancak-bild4.png
-styleguide: Kumas-Sancak-Styleguide-Patternlab.svg
+    - kumas-sancak-bild1.png
+    - kumas-sancak-bild2.png
+    - kumas-sancak-bild3.png
+    - kumas-sancak-bild4.png
+styleguide: kumas-sancak-styleguide-patternlab.svg
 ---
 Ein Projekt für das Modul Screendesign im Medieninformatik Bachelor an der TH Köln.
 
