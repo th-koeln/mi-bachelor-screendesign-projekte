@@ -24,18 +24,19 @@ Das diesjährige Projekt in Screendesign beschäftigt sich mit der Erweiterung d
 Zudem soll die Anwendung für Experten auf WIMP-Geräten und Touchdevices mit neun Zoll funktionieren.
 Der Hauptteil dieser Erweiterung bezieht sich auf das Vergleichen zweier oder mehreren Artefakten, sowie das Hinzufügen und Löschen dieser in eine Sammlung. Dabei sind folgende Funktonen zur Realisierung vorgegeben worden:
 
--das Hinzufügen und das Entfernen von Artefakten in einer Sammlung
--das Anzeigen dieser Sammlung
--eine Indikation, ob ein Artefakt teil der Sammlung ist oder nicht
--eine Sortierung dieser Sammlung
--die Auswahl von Artefakten zum Vergleichen
--der Start und das Beenden des Vergleichs
--die Änderung der Aufteilung im Vergleich
--ein Lock Zoom
--ein Lock Panning
--das Vergleichen mehrerer Artefakte
--das Vergleichen eines Artefaktes mit einem Stapel aus Artefakten
--das Vergleichen von Ausschnitten
+- das Hinzufügen und das Entfernen von Artefakten in einer Sammlung
+- das Anzeigen dieser Sammlung
+- eine Indikation, ob ein Artefakt teil der Sammlung ist oder nicht
+- eine Sortierung dieser Sammlung
+- die Auswahl von Artefakten zum Vergleichen
+- der Start und das Beenden des Vergleichs
+- die Änderung der Aufteilung im Vergleich
+- ein Lock Zoom
+- ein Lock Panning
+- das Vergleichen mehrerer Artefakte
+- das Vergleichen eines Artefaktes mit einem Stapel aus Artefakten
+- das Vergleichen von Ausschnitten
+
 
 Nun zu unserem Endresultat der Konzeptbearbeitung. Mit Beachtung der Vorgaben und Lehren, die wir in der Vorlesung mitgenommen haben, entwickelten wir eine Lösung, die vor allem mit ihrer Simplizität alle Kommunikationsziele erzielt und Funktionen gut umsetzt. Unser Ziel war es mit unseren Kenntnissen ein simples und funktionsfähiges System hervorzubringen statt eines, welches zwar sehr professionell aussieht, aber mit einer hohen Komplexität den Nutzer nur verwirrt und nicht zufrieden stellt.
 
