@@ -7,11 +7,11 @@ teaserimage: Häring-Hammer-Teaser.png
 gallery:
     - Häring-Hammer-Hauptseite.png
     - Häring-Hammer-Detailseite.png
-    - Häring-Hammer-Modal.png
     - Häring-Hammer-SammlungAnzeigen.png
     - Häring-Hammer-Vergleichen.png
-    - Häring-Hammer-VergleichenDelete.png
+    - Häring-Hammer-Modal.png
     - Häring-Hammer-VergleichenMulti.png
+    - Häring-Hammer-VergleichenDelete.png
 styleguide: Häring-Hammer-Styleguide.svg
 ---
 Das diesjährige Projekt dreht sich um das Cranach Digital Archive (CDA), eine Initiative der Stiftung Museum Kunstpalast, Düsseldorf und der Technischen Hochschule Köln in Zusammenarbeit mit über 270 Museen, Forschungseinrichtungen und Kirchgemeinden in 30 Ländern, gefördert durch die Andrew W. Mellon Foundation.
