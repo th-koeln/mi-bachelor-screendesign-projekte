@@ -3,16 +3,16 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Lennard Häring
     - Marius Hammer
-teaserimage: Häring-Hammer-Teaser.png
+teaserimage: Haering-Hammer-Teaser.png
 gallery:
-    - Häring-Hammer-Hauptseite.png
-    - Häring-Hammer-Detailseite.png
-    - Häring-Hammer-Modal.png
-    - Häring-Hammer-SammlungAnzeigen.png
-    - Häring-Hammer-Vergleichen.png
-    - Häring-Hammer-VergleichenDelete.png
-    - Häring-Hammer-VergleichenMulti.png
-styleguide: Häring-Hammer-Styleguide.svg
+    - Haering-Hammer-Hauptseite.png
+    - Haering-Hammer-Detailseite.png
+    - Haering-Hammer-Modal.png
+    - Haering-Hammer-SammlungAnzeigen.png
+    - Haering-Hammer-Vergleichen.png
+    - Haering-Hammer-VergleichenDelete.png
+    - Haering-Hammer-VergleichenMulti.png
+styleguide: Haering-Hammer-Styleguide.svg
 ---
 Das diesjährige Projekt dreht sich um das Cranach Digital Archive (CDA), eine Initiative der Stiftung Museum Kunstpalast, Düsseldorf und der Technischen Hochschule Köln in Zusammenarbeit mit über 270 Museen, Forschungseinrichtungen und Kirchgemeinden in 30 Ländern, gefördert durch die Andrew W. Mellon Foundation.
 Die Aufgabe besteht darin, das Archiv so zu erweitern, dass Bilder gesammelt und verglichen werden können. Bei den Endgeräten wurde sich für Touchdevices ab 9 Zoll und WIMP-Geräte entschieden. WIMP-Geräte haben wir noch einmal in “mittel” große und FullHD Geräte unterteilt. Bei der Zielgruppe handelt es sich um Experten.

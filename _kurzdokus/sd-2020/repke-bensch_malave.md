@@ -3,14 +3,14 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Kevin Repke
     - Mauricio Bensch Malavé
-teaserimage: repke-bensch_malavé-teaser.png
+teaserimage: repke-bensch_malave-teaser.png
 gallery:
-    - repke-bensch_malavé-bild1.png
-    - repke-bensch_malavé-bild2.png
-    - repke-bensch_malavé-bild3.png
-    - repke-bensch_malavé-bild4.png
-    - repke-bensch_malavé-bild5.png
-styleguide: repke-bensch_malavé-styleguide.svg
+    - repke-bensch_malave-bild1.png
+    - repke-bensch_malave-bild2.png
+    - repke-bensch_malave-bild3.png
+    - repke-bensch_malave-bild4.png
+    - repke-bensch_malave-bild5.png
+styleguide: repke-bensch_malave-styleguide.svg
 ---
 
 Das diesjährige Projekt in Screendesign beschäftigt sich mit der Erweiterung des Cranach Digital Archives (CDA) mithilfe eines Designkonzeptes. "Bilder einfügen" und "Bilder vergleichen" sind die Oberfunktionen, die im Schwerpunkt der Konzeptbearbeitung liegen. Bei der Konzeptbearbeitung müssen folgende Kommunikationsziele beachtet werden:
