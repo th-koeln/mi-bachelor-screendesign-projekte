@@ -3,16 +3,16 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Lara Engeln
     - Domenic Schäfer
-teaserimage: sd-202021-teaser-engeln-schaefer.png
+teaserimage: engeln-schaefer-teaser.png
 gallery:
-    - sd-202021-galerieMobile-engeln-schaefer.png
-    - sd-202021-sammlungMobile1-engeln-schaefer.png
-    - sd-202021-sammlungDesktop2-engeln-schaefer.png
-    - sd-202021-vergleichMobile1-engeln-schaefer.png
-    - sd-202021-vergleichMobile2-engeln-schaefer.png
-    - sd-202021-vergleichMobile3-engeln-schaefer.png
-    - sd-202021-vergleichDesktop3-engeln-schaefer.png
-styleguide: sd-202021-styleguide-engeln-schaefer.svg
+    - engeln-schaefer-galerieMobile.png
+    - engeln-schaefer-sammlungMobile1.png
+    - engeln-schaefer-sammlungDesktop2.png
+    - engeln-schaefer-vergleichMobile1.png
+    - engeln-schaefer-vergleichMobile2.png
+    - engeln-schaefer-vergleichMobile3.png
+    - engeln-schaefer-vergleichDesktop3.png
+styleguide: engeln-schaefer-styleguide.svg
 ---
 
 Um das Chranach Digital Archive mit der Funktion zum Vergleichen von Bildern zu erweitern und dies möglichst professionell, simpel aber dennoch ansprechend für Experten zu gestalten, wurden die folgenden Designs konzipiert.
