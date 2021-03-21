@@ -2,14 +2,13 @@
 title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Abdelbasset Moujtahid
-    - Vorname Nachname2
 teaserimage: moujtahid-teaser.png
 gallery:
     - moujtahid-bild1.png
     - moujtahid-bild2.png
     - moujtahid-bild3.png
     - moujtahid-bild4.png
-styleguide:moujtahid-styleguide.svg
+styleguide: moujtahid-styleguide.svg
 ---
 
 Als Basis diente das Lucas Cranach Archive und in diesem Fall die mitgegebene Figma Vorlage.
