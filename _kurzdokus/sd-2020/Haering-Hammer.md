@@ -7,11 +7,12 @@ teaserimage: Haering-Hammer-Teaser.png
 gallery:
     - Haering-Hammer-Hauptseite.png
     - Haering-Hammer-Detailseite.png
-    - Haering-Hammer-Modal.png
-    - Haering-Hammer-SammlungAnzeigen.png
+    - Haering-Hammer-SammlungAnzeigen.png  
     - Haering-Hammer-Vergleichen.png
-    - Haering-Hammer-VergleichenDelete.png
+    - Haering-Hammer-Modal.png
     - Haering-Hammer-VergleichenMulti.png
+    - Haering-Hammer-VergleichenDelete.png
+    
 styleguide: Haering-Hammer-Styleguide.svg
 ---
 Das diesjährige Projekt dreht sich um das Cranach Digital Archive (CDA), eine Initiative der Stiftung Museum Kunstpalast, Düsseldorf und der Technischen Hochschule Köln in Zusammenarbeit mit über 270 Museen, Forschungseinrichtungen und Kirchgemeinden in 30 Ländern, gefördert durch die Andrew W. Mellon Foundation.
