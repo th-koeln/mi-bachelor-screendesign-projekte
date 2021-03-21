@@ -5,10 +5,10 @@ people:
     - Luca Remberg
 teaserimage: kretschmer-remberg-teaser.png
 gallery:
-    - kretschmer-remberg-bild1.png
-    - kretschmer-remberg-bild2.png
-    - kretschmer-remberg-bild3.png
-    - kretschmer-remberg-bild4.png
+    - kretschmer-remberg-suche.png
+    - kretschmer-remberg-auswahl.png
+    - kretschmer-remberg-vergleich1.png
+    - kretschmer-remberg-vergleich2.png
 styleguide: kretschmer-remberg-styleguide.svg
 ---
 
