@@ -3,7 +3,7 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Yannik Leon Kretschmer
     - Luca Remberg
-teaserimage: nachname1-nachname2-teaser.png
+teaserimage: kretschmer-remberg-teaser.png
 gallery:
     - kretschmer-remberg-bild1.png
     - kretschmer-remberg-bild2.png
