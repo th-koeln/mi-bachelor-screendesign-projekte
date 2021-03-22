@@ -3,7 +3,7 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Dalila Mejri
     - Egzona Jakupi
-teaserimage: Mejri-Jakupi-teaser.png
+teaserimage: jakupi-mejri-teaser.png
 gallerie:
    - jakupi-mejri-bild9.png
    - jakupi-mejri-bild11.png
