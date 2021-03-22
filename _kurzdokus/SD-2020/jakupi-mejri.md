@@ -4,7 +4,7 @@ people:
     - Dalila Mejri
     - Egzona Jakupi
 teaserimage: jakupi-mejri-teaser.png
-gallerie:
+gallery:
    - jakupi-mejri-bild9.png
    - jakupi-mejri-bild11.png
    - jakupi-mejri-bild13.png
