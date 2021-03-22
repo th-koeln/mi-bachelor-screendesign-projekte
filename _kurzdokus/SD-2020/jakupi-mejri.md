@@ -1,16 +1,16 @@
 ---
 title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
-- Dalila Mejri
-- Egzona Jakupi
+    - Dalila Mejri
+    - Egzona Jakupi
 teaserimage: Mejri-Jakupi-teaser.png
 gallerie:
-- Mejri-Jakupi-Bild9.png
-- Mejri-Jakupi-Bild11.png
-- Mejri-Jakupi-Bild13.png
-- Jakupi1-Mejri2-Bild.1.png
-- Jakupi1-Mejri2-Bild.6.png
-Styleguide: Mejri-Jakupi-Styleguide.svg
+   - jakupi-mejri-bild9.png
+   - jakupi-mejri-bild11.png
+   - jakupi-mejri-bild13.png
+   - jakupi-mejri-bild1.png
+   - jakupi-mejri-bild6.png
+styleguide: jakupi-mejri-styleguide.svg
 ---
 Die diesjährige Projektaufgabe bestand darin, für das Cranach Digital Archiv (CDA) ein Gestaltung-und Interaktionskonzept für die Funktionserweiterung Bilder vergleichen zu entwickeln.
 Die Funktionserweiterung richtet sich an Experten, soll aber dennoch so einfach wie möglich für den Nutzer gestaltet sein, damit er ein oder mehrere Bilder miteinander vergleichen kann. 
