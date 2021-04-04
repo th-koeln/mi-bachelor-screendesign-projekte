@@ -3,18 +3,18 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Yasha Müller
     - Luca de Nitto
-teaserimage: sd-202021-teaser-mueller-de_nitto.png
+teaserimage: mueller-denitto-teaser.png
 gallery:
-    - sd-202021-desktop-mueller-de_nitto-1.png
-    - sd-202021-desktop-mueller-de_nitto-2.png
-    - sd-202021-desktop-mueller-de_nitto-3.png  
-    - sd-202021-desktop-mueller-de_nitto-4.png
-    - sd-202021-desktop-mueller-de_nitto-5.png
-    - sd-202021-desktop-mueller-de_nitto-6.png
-    - sd-202021-desktop-mueller-de_nitto-7.png
-    - sd-202021-desktop-mueller-de_nitto-8.png
+    - mueller-denitto-desktop-1.png
+    - mueller-denitto-desktop-2.png
+    - mueller-denitto-desktop-3.png
+    - mueller-denitto-desktop-4.png
+    - mueller-denitto-desktop-5.png
+    - mueller-denitto-desktop-6.png
+    - mueller-denitto-desktop-7.png
+    - mueller-denitto-desktop-8.png
 
-styleguide: sd-202021-styleguide-mueller-de_nitto.svg
+styleguide: mueller-denitto-styleguide.svg
 ---
 Im Rahmen des Projekts sollte das Cranach Digital Archive (CDA) um eine Funktion erweitert werden, in welcher Varianten eines einzelnen Cranach-Werks einander gegenübergestellt und miteinander verglichen werden können.
 
