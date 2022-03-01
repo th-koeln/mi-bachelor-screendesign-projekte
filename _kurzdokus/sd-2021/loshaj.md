@@ -1,5 +1,5 @@
 ---
-title: Template für die Kurzdoku
+title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE
 people:
     - Ylli Loshaj
 teaserimage: mustermann-beispiel-teaser.jpg
