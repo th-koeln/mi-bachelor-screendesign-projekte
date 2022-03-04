@@ -2,7 +2,7 @@
 title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE
 people:
     - Ylli Loshaj
-teaserimage: mustermann-beispiel-teaser.jpg
+teaserimage: sd-202122-teaser-loshaj.png
 gallery:
     - sd-202122-gestaltungsportfolio-loshaj-1.png
     - sd-202122-gestaltungsportfolio-loshaj-2.png
