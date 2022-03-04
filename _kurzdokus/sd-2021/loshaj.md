@@ -4,8 +4,10 @@ people:
     - Ylli Loshaj
 teaserimage: mustermann-beispiel-teaser.jpg
 gallery:
-    - mustermann-beispiel-002-kurzdoku.jpg
-    - mustermann-beispiel-003-kurzdoku.jpg
+    - sd-202122-gestaltungsportfolio-loshaj-1.png
+    - sd-202122-gestaltungsportfolio-loshaj-2.png
+    - sd-202122-gestaltungsportfolio-loshaj-4.png
+    - sd-202122-gestaltungsportfolio-loshaj-5.png
 styleguide: sd-202122-styleguide-loshaj.svg
 ---
 
