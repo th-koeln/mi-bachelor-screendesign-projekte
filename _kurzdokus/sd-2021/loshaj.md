@@ -6,8 +6,12 @@ teaserimage: sd-202122-teaser-loshaj.png
 gallery:
     - sd-202122-gestaltungsportfolio-loshaj-1.png
     - sd-202122-gestaltungsportfolio-loshaj-2.png
+    - sd-202122-gestaltungsportfolio-loshaj-3.png
     - sd-202122-gestaltungsportfolio-loshaj-4.png
     - sd-202122-gestaltungsportfolio-loshaj-5.png
+    - sd-202122-gestaltungsportfolio-loshaj-6.png
+    - sd-202122-gestaltungsportfolio-loshaj-7.png
+    - sd-202122-gestaltungsportfolio-loshaj-8.png
 styleguide: sd-202122-styleguide-loshaj.svg
 ---
 
