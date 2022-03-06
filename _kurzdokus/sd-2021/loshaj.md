@@ -12,6 +12,8 @@ gallery:
     - sd-202122-gestaltungsportfolio-loshaj-6.png
     - sd-202122-gestaltungsportfolio-loshaj-7.png
     - sd-202122-gestaltungsportfolio-loshaj-8.png
+    - sd-202122-gestaltungsportfolio-loshaj-9.png
+    - sd-202122-gestaltungsportfolio-loshaj-10.png
 styleguide: sd-202122-styleguide-loshaj.svg
 ---
 
