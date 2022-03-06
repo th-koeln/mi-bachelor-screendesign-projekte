@@ -1,8 +1,8 @@
 ---
-title: Template für die Kurzdoku
+title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE
 people:
-    - Klaus Mustermann
-    - Beate Beispiel
+    - Lukas Hufnagel
+    - Paul Hufnagel
 teaserimage: mustermann-beispiel-teaser.jpg
 gallery:
     - mustermann-beispiel-002-kurzdoku.jpg
