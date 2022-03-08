@@ -10,7 +10,7 @@ gallery:
     - sd-202122-mockup_3-pipper-jolbej.png
     - sd-202122-mockup_4-pipper-jolbej.png
     - sd-202122-mockup_5-pipper-jolbej.png
-styleguide: sd-202122-styleguide-pipper-jolbej.svg
+styleguide: sd-202122-styleguide_resized-pipper-jolbej.svg
 ---
 
 Die Problematik der Online-Buchhandlung Vincent & Voltaire war eine schier unübersichtliche Anzahl an Büchern und Werken. So konnten Kunden nicht für sich nach dem suchen, was für sie relevant ist.
