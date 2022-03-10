@@ -14,7 +14,7 @@ gallery:
     - hufnagel-hufnagel-bücherübersicht-desktop-1.jpg
     - hufnagel-hufnagel-bücherübersicht-desktop-2.jpg
     - hufnagel-hufnagel-exploration-desktop.jpg
-    - hufnagel-hufnagel-exploration-handy.jpg
+    - hufnagel-hufnagel-exploration-handy-ui.jpg
     - hufnagel-hufnagel-exploration-tablet.jpg
 styleguide: hufnagel-hufnagel-styleguide.svg
 ---
