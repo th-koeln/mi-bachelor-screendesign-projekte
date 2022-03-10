@@ -3,7 +3,7 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Lukas Hufnagel
     - Paul Hufnagel
-teaserimage: mustermann-beispiel-teaser.jpg
+teaserimage: hufnagel-hufnagel-VundV-teaser.jpg
 gallery:
     - hufnagel-hufnagel-Sidebar-handy.jpg
     - hufnagel-hufnagel-Sidebar-tablet.jpg
