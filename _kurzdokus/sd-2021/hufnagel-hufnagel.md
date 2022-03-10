@@ -5,9 +5,19 @@ people:
     - Paul Hufnagel
 teaserimage: mustermann-beispiel-teaser.jpg
 gallery:
-    - mustermann-beispiel-002-kurzdoku.jpg
-    - mustermann-beispiel-003-kurzdoku.jpg
-styleguide: mustermann-beispiel-styleguide.svg
+    - hufnagel-hufnagel-Sidebar-handy.jpg
+    - hufnagel-hufnagel-Sidebar-tablet.jpg
+    - hufnagel-hufnagel-Suchseite-desktop.jpg
+    - hufnagel-hufnagel-Suchseite-handy.jpg
+    - hufnagel-hufnagel-Suchseite-tablet.jpg
+    - hufnagel-hufnagel-Themenübersicht-desktop.jpg
+    - hufnagel-hufnagel-bücherübersicht-desktop-1.jpg
+    - hufnagel-hufnagel-bücherübersicht-desktop-2.jpg
+    - hufnagel-hufnagel-exploration-desktop.jpg
+    - hufnagel-hufnagel-exploration-handy.jpg
+    - hufnagel-hufnagel-exploration-tablet.jpg
+    - 
+styleguide: hufnagel-hufnagel-styleguide.svg
 ---
 
 Die zugrunde gelegte Thematik zu dem Screendesign-Modul 2021 ist „Vincent&Voltaire“, eine Online-Buchhandlung. Ziel der Aufgabe ist es Stöber- & Entdeckerformate für diese zu entwerfen und die Webseite allgemein so zu optimieren, dass die Webseite dazu einlädt, den Besucher zum Stöbern und Entdecken anzuregen. Dabei war es wichtig, keine Re-Designs zu entwickeln, da diese vom Kunden nicht gewünscht waren. Die Webseite sollte also ihren Stil und Charme beibehalten und nur um etwaige Optimierungen und Funktionalitäten erweitert werden.
