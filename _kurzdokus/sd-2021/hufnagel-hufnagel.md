@@ -16,7 +16,6 @@ gallery:
     - hufnagel-hufnagel-exploration-desktop.jpg
     - hufnagel-hufnagel-exploration-handy.jpg
     - hufnagel-hufnagel-exploration-tablet.jpg
-    - 
 styleguide: hufnagel-hufnagel-styleguide.svg
 ---
 
