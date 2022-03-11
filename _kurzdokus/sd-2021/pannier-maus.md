@@ -27,3 +27,4 @@ Dies passiert in einem Pop-Up Fenster. So kann der Nutzer wieder schnell zurück
 jedoch dazu ein Buch zu kaufen, kann er auf 'mehr Erfahren' klicken und so zur richtigen Detailansicht des Buches gelangen. 
 Dieses Prinzip wurde auf die verschiedenen Viewportgrößen angepasst. 
 Im Großen und Ganzen hat sich dabei aber lediglich das Format verändert, die Logik dahinter bleibt die gleiche. 
+Prototyp (Laptop Version: https://www.figma.com/proto/hTKEJFWSfB49KGNr5kHwrJ/ScreendesignPROJEKT?node-id=0%3A1&scaling=scale-down&starting-point-node-id=99%3A5&show-proto-sidebar=1
