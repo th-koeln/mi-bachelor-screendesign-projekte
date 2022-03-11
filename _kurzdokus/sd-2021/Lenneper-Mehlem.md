@@ -7,7 +7,9 @@ teaserimage: Lenneper-Mehlem-Header.png
 gallery:
     - Lenneper-Mehlem-Device-Mockup_iPad_Variante1_MitTitel.png
     - Lenneper-Mehlem-Device-Mockup_iPad_Variante1_MitTitel_PopUp.png
-    - Lenneper-Mehlem-iPad_PopUp.png
+    - Lenneper-Mehlem-Device-Mockup_iPad_Variante2_OhneTitel.png
+    - Lenneper-Mehlem-Device-Mockup_iPad_Variante2OhneTitel_PopUp.png
+    - Lenneper-Mehlem-iPad_PopUp.JPG
     - Lenneper-Mehlem-PC_Layout.png
     - Lenneper-Mehlem-PC_LayoutPopUp.png
     - Lenneper-Mehlem-Pop-Up_fenster_SOUND_OF_MOUNTAINS.png
