@@ -1,5 +1,5 @@
 ---
-title: Kurzdokumentation Vincent und Voltaire  Projekt 2021
+title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE
 people:
     - Marie Pannier
     - Zoe Maus
