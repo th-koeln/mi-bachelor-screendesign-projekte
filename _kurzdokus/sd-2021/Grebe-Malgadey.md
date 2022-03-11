@@ -44,8 +44,6 @@ Der Büchertisch soll auf der Startseite jeder Kategorie zu finden sein, mit ein
 
 Finaler klickbarer Prototype:
 
-https://www.figma.com/proto/QIHO3zff6L1Z1OvV2CC6Rl/BookTable?node-id=10%3A770&scaling=min-zoom&starting-point-node-id=113%3A4321&show-proto-sidebar=1
-
 https://www.figma.com/proto/QIHO3zff6L1Z1OvV2CC6Rl/BookTable?node-id=113%3A4321&scaling=min-zoom&starting-point-node-id=113%3A4321&show-proto-sidebar=1
 
 
