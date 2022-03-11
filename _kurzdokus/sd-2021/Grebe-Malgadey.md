@@ -5,8 +5,22 @@ people:
     - Nino Malgadey
 teaserimage: Grebe-Malgadey-Teser-MockUp.png
 gallery:
-    - mustermann-beispiel-002-kurzdoku.jpg
-    - mustermann-beispiel-003-kurzdoku.jpg
+    - Grebe-Malgadey-Desktop-MockUp.png
+    - Grebe-Malgadey-Desktop-01.png
+    - Grebe-Malgadey-Desktop-02.png
+    - Grebe-Malgadey-Desktop-03.png
+    - Grebe-Malgadey-Desktop-04.png
+    - Grebe-Malgadey-Mobile-MockUp.png
+    - Grebe-Malgadey-Mobile-01.png
+    - Grebe-Malgadey-Mobile-02.png
+    - Grebe-Malgadey-Mobile-03.png
+    - Grebe-Malgadey-Mobile-04.png
+    - Grebe-Malgadey-Mobile-05.png
+    - Grebe-Malgadey-Tablet-MockUp.png
+    - Grebe-Malgadey-Tablet-01.png
+    - Grebe-Malgadey-Tablet-02.png
+    - Grebe-Malgadey-Tablet-03.png
+    - Grebe-Malgadey-Tablet-04.png
 styleguide: Grebe-Malgadey-Styleguide.svg
 ---
 
