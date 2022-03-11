@@ -3,7 +3,7 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Lisa Grebe
     - Nino Malgadey
-teaserimage: mustermann-beispiel-teaser.jpg
+teaserimage: Grebe-Malgadey-Teser-MockUp.png
 gallery:
     - mustermann-beispiel-002-kurzdoku.jpg
     - mustermann-beispiel-003-kurzdoku.jpg
