@@ -7,7 +7,7 @@ teaserimage: Grebe-Malgadey-Teser-MockUp.png
 gallery:
     - mustermann-beispiel-002-kurzdoku.jpg
     - mustermann-beispiel-003-kurzdoku.jpg
-styleguide: mustermann-beispiel-styleguide.svg
+styleguide: Grebe-Malgadey-Styleguide.svg
 ---
 
 Projektaufgabe dieses Jahres war die Entwicklung von Stöber- und Entdeckerformaten für “Vincent & Voltaire”, eine inhaberin-geführte, unabhängige, female-founded Online Buchhandlung. Mit den neuen Stöberformaten soll das Gefühl einer klassischen Buchhandlung vermittelt werden und durch gute Beratung der Kunden mehr Bücher verkauft werden.
