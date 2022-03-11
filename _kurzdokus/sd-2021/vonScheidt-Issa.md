@@ -9,8 +9,6 @@ gallery:
     - sd-202122-d-vonScheidt-Issa-buecherregale-popup.png
     - sd-202122-d-vonScheidt-Issa-buechertische.png
     - sd-202122-t-vonScheidt-Issa-buecherregale.png
-    - sd-202122-t-vonScheidt-Issa-buecherregale-popup.png
-    - sd-202122-t-vonScheidt-Issa-buechertische.png
 styleguide: sd-202122-vonScheidt-Issa-styleguide.svg
 ---
 
