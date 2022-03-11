@@ -28,3 +28,7 @@ Wir entschieden uns schlussendlich für den Büchertisch, da hier vor allem die 
 
 Der Büchertisch soll auf der Startseite jeder Kategorie zu finden sein, mit einer Auswahl an entsprechenden, passenden Büchern. Erscheint ein Titel interessant, können Kunden durch Tippen oder einen Klick (je nach Endgerät) auf einen pulsierenden Punkt zu einer Detailansicht des gewünschten Buches kommen. Dort befinden sich weitere Bilder, Infotexte und Zitate zum Buch, und die Möglichkeit den Artikel im Warenkorb oder auf der Wunschliste zu speichern. Diese Ansicht kann durch ein entsprechendes Icon wieder verlassen werden, wodurch man zur Ansicht des gesamten Buchtisches zurückkehrt.
 
+Finaler klickbarer Prototype:
+https://www.figma.com/proto/QIHO3zff6L1Z1OvV2CC6Rl/BookTable?node-id=10%3A770&scaling=min-zoom&starting-point-node-id=113%3A4321&show-proto-sidebar=1
+
+
