@@ -14,6 +14,13 @@ gallery:
     - hinzer-khemiri-016-kurzdoku.jpg
     - hinzer-khemiri-020-kurzdoku.jpg
     - hinzer-khemiri-021-kurzdoku.jpg
+    - hinzer-khemiri-022-kurzdoku.jpg
+    - hinzer-khemiri-023-kurzdoku.jpg
+    - hinzer-khemiri-024-kurzdoku.jpg
+    - hinzer-khemiri-025-kurzdoku.jpg
+    - hinzer-khemiri-026-kurzdoku.jpg
+    - hinzer-khemiri-027-kurzdoku.jpg
+    - hinzer-khemiri-028-kurzdoku.jpg
     - hinzer-khemiri-031-kurzdoku.jpg
     - hinzer-khemiri-032-kurzdoku.jpg
     - hinzer-khemiri-033-kurzdoku.jpg
