@@ -9,7 +9,6 @@ gallery:
     - benjumea-desktop-3.png
     - benjumea-desktop-4.png
     - benjumea-desktop-5.png
-gallery:
     - benjumea-tablet-1.png
     - benjumea-tablet-2.png
     - benjumea-tablet-3.png
