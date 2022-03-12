@@ -32,3 +32,5 @@ Zuletzt haben wir dafür gesorgt, dass mehr Bücher auf einen Screen passen und 
 Die Kommunikationsziele wurden dahingehend verwirklicht,
 dass die Seite an Übersicht gewonnen hat wodurch diese mehr zum Stöbern einlädt und auf weniger Platz zu mehr Themen informiert und zum Informieren einlädt. 
 Alles in Allem ist die Seite Benutzerfreundlicher und übersichtlicher geworden.
+
+Prototyp: https://www.figma.com/proto/QHW64LSkoIo6kBLRovFofT/Vincent-%26-Voltair?page-id=0%3A1&node-id=0%3A1&viewport=241%2C48%2C0.16&scaling=scale-down&starting-point-node-id=8%3A31&show-proto-sidebar=1
