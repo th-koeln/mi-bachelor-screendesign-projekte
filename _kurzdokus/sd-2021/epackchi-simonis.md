@@ -6,36 +6,9 @@ people:
 teaserimage: mustermann-beispiel-teaser.jpg
 gallery:
     - Epackchi-Arwin-Desktop.png
-    - Epackchi-Arwin-Desktop-1.png
-    - Epackchi-Arwin-Desktop-1a.png
-    - Epackchi-Arwin-Desktop-1b.png
-    - Epackchi-Arwin-Desktop-1c.png
-    - Epackchi-Arwin-Desktop-2.png
-    - Epackchi-Arwin-Desktop-2a.png
-    - Epackchi-Arwin-Desktop-2b.png
-    - Epackchi-Arwin-Desktop-2c.png
-    - Epackchi-Arwin-Desktop-3.png
-    - Epackchi-Arwin-Desktop-3a.png
-    - Epackchi-Arwin-Desktop-3b.png
-    - Epackchi-Arwin-Desktop-3c.png
-    - Epackchi-Arwin-Desktop-Ende-1.png
+    - Epackchi-Arwin-Desktop-3a.png 
     - Epackchi-Arwin-Desktop-Ende-2.png
-    - Epackchi-Simonis-Smartphone-1.png
-    - Epackchi-Simonis-Smartphone-1a.png
-    - Epackchi-Simonis-Smartphone-1b.png
-    - Epackchi-Simonis-Smartphone-1c.png
-    - Epackchi-Simonis-Smartphone-2.png
-    - Epackchi-Simonis-Smartphone-2a.png
-    - Epackchi-Simonis-Smartphone-2b.png
-    - Epackchi-Simonis-Smartphone-2c.png
-    - Epackchi-Simonis-Smartphone-3.png
-    - Epackchi-Simonis-Smartphone-3a.png
-    - Epackchi-Simonis-Smartphone-3b.png
-    - Epackchi-Simonis-Smartphone-3c.png
     - Epackchi-Simonis-Smartphone-Ende-1.png
-    - Epackchi-Simonis-Smartphone-Ende-2.png
-    - Epackchi-Simonis-Smartphone-Ende-3.png
-    - Epackchi-Simonis-Smartphone-Ende-4.png
 styleguide: Epackchi-Simonis-styleguide.svg
 ---
 
