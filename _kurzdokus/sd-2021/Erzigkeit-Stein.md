@@ -11,20 +11,11 @@ gallery:
     - Erzigkeit-Stein-Übersicht_Ipad.png
     - Erzigkeit-Stein-Cardview_Ipad.png
     - Erzigkeit-Stein-Klimaschutz_Ipad.png
-Varianten:
     - Erzigkeit-Stein-Übersicht_Iphone.png
     - Erzigkeit-Stein-Cardview_Iphone.png
     - Erzigkeit-Stein-Klimaschutz_Iphone.png
     - Erzigkeit-Stein-Kategorie_Iphone.png
-styleguide: 
-    - Erzigkeit-Stein-Typo_Titel.svg
-    - Erzigkeit-Stein-Typo_Mengentext.svg
-    - Erzigkeit-Stein-Schriftgrößen.svg
-    - Erzigkeit-Stein-Layout.svg
-    - Erzigkeit-Stein-Größen_Abstände.svg
-    - Erzigkeit-Stein-Farben_Icons.svg
-    - Erzigkeit-Stein-Buttons_Logo.svg
-    - Erzigkeit-Stein-Bilder.svg
+styleguide: Erzigkeit-Stein-StyleGuide.svg
 ---
 
 Die Webseite von Vincent & Voltaire wurde mit einer ganz neuen Webseiten Designsprache erstellt.
