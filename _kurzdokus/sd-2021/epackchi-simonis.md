@@ -1,15 +1,15 @@
 ---
-title: Template für die Kurzdoku
+title: Erweiterung der Stöber und Entdeckerformate der Online-Buchhandlung Vincent & Voltaire
 people:
     - Arwin Epackchi
     - Luca Simonis
-teaserimage: mustermann-beispiel-teaser.jpg
+teaserimage: epackchi-beispiel-simonis.png
 gallery:
     - Epackchi-Arwin-Desktop.png
     - Epackchi-Arwin-Desktop-3a.png 
     - Epackchi-Arwin-Desktop-Ende-2.png
     - Epackchi-Simonis-Smartphone-Ende-1.png
-styleguide: Epackchi-Simonis-styleguide.svg
+styleguide: epackchi-simonis-styleguide.svg
 ---
 
 Vincent & Voltaire ist eine Online-Buchhandlung mit einer großen Variation an Büchern aus den verschiedensten Genres. Diese Auswahl sorgt dafür, dass es für jeden das passende Buch gibt. 
