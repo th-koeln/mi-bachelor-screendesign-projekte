@@ -1,5 +1,5 @@
 ---
-title: Template für die Kurzdoku
+title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE
 people:
     - Lea Calinski
     - Meliha Schadwinkel
