@@ -1,7 +1,7 @@
 ---
-title: Template für die Kurzdoku
+title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE
 people:
-    - Maria Paula Benjumea
+    - Maria Paula Benjumea Cañón
 teaserimage: benjumea-teaser.png
 gallery:
     - benjumea-desktop-1.png
