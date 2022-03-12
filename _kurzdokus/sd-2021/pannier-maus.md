@@ -3,17 +3,17 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Marie Pannier
     - Zoe Maus
-teaserimage: pannier-maus-Coverflow.jpg
+teaserimage: pannier-maus-Coverflow.png
 gallery:
-    - pannier-maus-handyFlow.jpg
-    - pannier-maus-Ipad1.jpg
-    - pannier-maus-ipad3.jpg
-    - pannier-maus-ipad4.jpg
-    - pannier-maus-Coverflow.jpg
-    - pannier-maus-Popup2.jpg
-    - pannier-maus-Filter1.jpg
-    - pannier-maus-Detailansicht1.jpg
-    - pannier-maus-Detailansicht3.jpg
+    - pannier-maus-handyFlow.png
+    - pannier-maus-Ipad1.png
+    - pannier-maus-ipad3.png
+    - pannier-maus-ipad4.png
+    - pannier-maus-Coverflow.png
+    - pannier-maus-Popup2.png
+    - pannier-maus-Filter1.png
+    - pannier-maus-Detailansicht1.png
+    - pannier-maus-Detailansicht3.png
 styleguide: pannier-maus-Styleguide.svg
 ---
 
@@ -27,4 +27,4 @@ Dies passiert in einem Pop-Up Fenster. So kann der Nutzer wieder schnell zurück
 jedoch dazu ein Buch zu kaufen, kann er auf 'mehr Erfahren' klicken und so zur richtigen Detailansicht des Buches gelangen. 
 Dieses Prinzip wurde auf die verschiedenen Viewportgrößen angepasst. 
 Im Großen und Ganzen hat sich dabei aber lediglich das Format verändert, die Logik dahinter bleibt die gleiche. 
-Prototyp (Laptop Version: https://www.figma.com/proto/hTKEJFWSfB49KGNr5kHwrJ/ScreendesignPROJEKT?node-id=0%3A1&scaling=scale-down&starting-point-node-id=99%3A5&show-proto-sidebar=1
+Prototyp (Laptop Version: https://www.figma.com/proto/hTKEJFWSfB49KGNr5kHwrJ/ScreendesignPROJEKT?node-id=0%3A1&scaling=scale-down&starting-point-node-id=99%3A5&show-proto-sidebar=1 ) 
