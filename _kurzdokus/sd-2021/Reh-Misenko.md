@@ -3,7 +3,7 @@ title: Erweiterung der «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE
 people:
     - Richard Reh
     - Vassilij Misenko
-teaserimage: Reh-Misenko-teaser.png
+teaserimage: Reh-Misenko-Desktop-4.png
 gallery:
     - Reh-Misenko-Desktop-1.png
     - Reh-Misenko-Desktop-2.png
