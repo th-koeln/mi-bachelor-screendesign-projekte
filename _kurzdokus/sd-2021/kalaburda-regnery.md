@@ -3,7 +3,7 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Marko Kalaburda
     - Florian Regnery
-teaserimage: kalaburda-regnery-teaser
+teaserimage: kalaburda-regnery-teaser.png
 gallery:
     - kalaburda-regnery-browser-1.png
     - kalaburda-regnery-browser-2.png
