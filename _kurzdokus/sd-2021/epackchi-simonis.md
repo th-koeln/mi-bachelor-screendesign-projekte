@@ -1,5 +1,5 @@
 ---
-title: Erweiterung der <<Stöber und Entdeckerformate>> der Online-Buchhandlung VINCENT & VOLTAIRE
+title: Erweiterung der Stöber und Entdeckerformate der Online-Buchhandlung VINCENT & VOLTAIRE
 people:
     - Arwin Epackchi
     - Luca Simonis
