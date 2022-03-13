@@ -34,3 +34,6 @@ Sobald der Nutzer die Kategorie ausgewählt hat, für die er sich interessiert, 
 
 Das Designkonzept sollte sich mit geringem Aufwand umsetzen lassen, da hier vordergründig die bereits programmierte Buchthemen-Navigation auf die Startseite integriert wird. Die restlichen Änderungen sind im Wesentlichen eine Anpassung des Designs, das genau wie die Buchcover, besonders ästhetisch herausstechen soll.
 
+Bedienbarer Prototyp:
+https://xd.adobe.com/view/793fbe6f-a6d0-45ee-a87f-ac8e0125ac88-2c6c/?fullscreen&hints=off
+
