@@ -3,7 +3,7 @@ title: Erweiterung der <<Stöber und Entdeckerformate>> der Online-Buchhandlung 
 people:
     - Arwin Epackchi
     - Luca Simonis
-teaserimage: epackchi-beispiel-simonis.png
+teaserimage: epackchi-simonis-teaser.png
 gallery:
     - Epackchi-Arwin-Desktop.png
     - Epackchi-Arwin-Desktop-3a.png 
