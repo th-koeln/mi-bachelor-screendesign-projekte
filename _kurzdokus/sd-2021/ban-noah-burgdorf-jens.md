@@ -14,7 +14,7 @@ gallery:
   - sd-202122-Content_02_Seite_6_Eingeklappt-Ban-Burgdorf.png.png
   - sd-202122-Handy-Content_02_Seite_3_Eingeklappt-Ban-Burgdorf.png.png
   - sd-202122-Handy-Content_02_Seite_5_Eingeklappt-Ban-Burgdorf.png.png
-  - sd-202122-Handy-Praeferenzauswahl.png.png
+  - sd-202122-Handy-Praeferenzenauswahl-Ban-Burgdorf.png.png
 
 styleguide: sd-202122-Styleguide-Ban-Burgdorf.svg
 ---
