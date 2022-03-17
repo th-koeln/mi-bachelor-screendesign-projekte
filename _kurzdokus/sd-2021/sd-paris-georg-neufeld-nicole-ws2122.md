@@ -4,7 +4,7 @@ people:
     - Georg Paris
     - Nicole Neufeld
     
-teaserimage: sd-paris-neufeld- Mockup-2122.png
+teaserimage: sd-paris-neufeld-Mockup-2122.png
 
 gallery:
     - sd-paris-neufeld-device-Ipad-1-2122.png
