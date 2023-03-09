@@ -5,7 +5,7 @@ people:
     - Sekarja Benaggoune
 teaserimage: Benaggoune-El-Masoudi-Teaser.png
 gallery:
-    - Benaggoune-El-Masoudi-Desktop-1-Kurzdoku.png
+    - Benaggoune-El-Masoudi-Desktop-1-Kurzdoku
     - Benaggoune-El-Masoudi-Desktop-2-Kurzdoku.png
     - Benaggoune-El-Masoudi-Desktop-3-Kurzdoku.png
     - Benaggoune-El-Masoudi-Desktop-4-Kurzdoku.png
