@@ -29,4 +29,6 @@ gallery:
 styleguide: Benaggoune-El-Masoudi-Styleguide.svg
 ---
 
-TEXT
+Im Rahmen des Screendesign Projekts sollte ein Gestaltungs- und Interaktionskonzept für die neue Ansicht «Bildstandorte anzeigen» entwickelt und gestaltet werden.
+Die Erweiterung sollte für Smartphones, Tablets und WIMP-fähige Computer funktionieren. Die POIs sollten auf einer Weltkarte die interaktiv und mit der Maus oder dem Finger bewegt werden kann dargestellt werden. Zudem sollte das Design professionell, klar, möglichst einfach, reduziert und zeitlos sein.
+
