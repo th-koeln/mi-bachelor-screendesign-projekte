@@ -3,7 +3,7 @@ title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung
 people:
     - Paula Vuco
     - Zara Zaric
-teaserimage: mustermann-beispiel-teaser.jpg
+teaserimage: Vuco-Zaric-Teaser.png
 gallery:
     - mustermann-beispiel-002-kurzdoku.jpg
     - mustermann-beispiel-003-kurzdoku.jpg
