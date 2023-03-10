@@ -5,8 +5,15 @@ people:
     - Amelie Schmitgen
 teaserimage: Schmitgen-Mamudi-Teaser.jpg
 gallery:
-    - mustermann-beispiel-002-kurzdoku.jpg
-    - mustermann-beispiel-003-kurzdoku.jpg
+    - Schmitgen-Mamudi-Tablet-Startseite-01.jpg
+    - Schmitgen-Mamudi-Tablet-Suchseite-02.jpg
+    - Schmitgen-Mamudi-Tablet-Detailseite-01.jpg
+    - Schmitgen-Mamudi-Desktop-Suchseite-01.jpg
+    - Schmitgen-Mamudi-Desktop-Suchseite-05.jpg
+    - Schmitgen-Mamudi-Mobile-Startseite-01.jpg
+    - Schmitgen-Mamudi-Smartphone-Startseite-02.jpg
+    - Schmitgen-Mamudi-Smartphone-Suchseite-08.jpg
+    - Schmitgen-Mamudi-Smartphone-Suchseite-06.jpg
 styleguide: Schmitgen-Mamudi-Styleguide.svg
 ---
 
