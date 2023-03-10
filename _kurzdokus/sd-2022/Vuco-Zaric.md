@@ -5,8 +5,14 @@ people:
     - Zara Zaric
 teaserimage: Vuco-Zaric-Teaser.png
 gallery:
-    - mustermann-beispiel-002-kurzdoku.jpg
-    - mustermann-beispiel-003-kurzdoku.jpg
+    - Vuco-Zaric-Wimp.1.png
+    - Vuco-Zaric-Wimp.2.png
+    - Vuco-Zaric-Wimp.5.png
+    - Vuco-Zaric-Wimp.7.png
+    - Vuco-Zaric-Wimp.10.png
+    - Vuco-Zaric-Wimp.11.png
+    - Vuco-Zaric-iPhone.2.png
+    - Vuco-Zaric-iPhone.6.png
 styleguide: Vuco-Zaric-Styleguide.svg
 ---
 
@@ -21,3 +27,5 @@ Zunächst galt es das Cranach Digital Archive für diese Vorgänge zu analysiere
 Die Karte ist interaktiv und besitz einem Zoom- und einem Fullscreen-Button. POIs wurden mithilfe von Kreise mit der Anzahl an Werken dargestellt. Der Einstiegspunkt der Karte bildet herausgezoomt die Länder ab, welche POIs mit der Anzahl der Werke im betreffenden Land abbilden. Mithilfe der Zoom Funktion oder dem einfachen klicken auf ein Land wird dem User erlaubt, einen näheren Einblick in ein bestimmtes Land zu erzielen und die POIs untergliedern sich in Städte. Sobald der User eine Stadt auswählt, wird ihm ein Element dargelegt, welches die zugehörigen Institutionen der Stadt auflistet als auch eine kleine Ansicht der entsprechenden Werke. Wird der Einblick der Werke angeklickt, öffnet sich die originale Version der CDA ohne Karte mit einer Ansicht von Werken der ausgewählten Stadt. Durch das Klicken auf den Karten Button wechselt der Screen zurück auf die integrierte Karten Ansicht. Mittels einem Klick auf den Pfeil neben der Institution wird ein Infotext zur Institution bereitgestellt, um Experten und Interessierte den Standort empfehlen zu besuchen und sich mit dem Standort auseinanderzusetzen. 
 Ein Klick auf eine Institution wechselt die Ansicht der aufgelisteten Werke in die der ausgewählten Institution. Während eine Stadt ausgewählt wird, wird kontinuierlich die entsprechenden Werke neben der Karte aufgelistet.
 Die Karte ermöglicht des Weiteren, dem User ein Werk in der Liste anzuklicken, um den Standort zu ermitteln. Währenddem navigiert die Karte zum jeweiligen Standort. Dabei wird ein Element über dem entsprechenden Standort geöffnet. Dieses führt einen Überblick des Werkes und die entsprechende Institution vor. Durch den implementierten Button „weitere Werke“ wird dem User die Möglichkeit gegeben, weitere Werke der Institution sich anzuschauen und einen ersten Einblick des Standorts zu bekommen. Schließlich wurde auch in der Detailseite die aktuelle Position des Werkes auf einer Minikarte dargestellt. Hierdurch ergibt sich die Möglichkeit, dem User mehr über den Standort des Werkes zu erfahren und zahlreiche andere Werke in der Nähe zu erkunden. Der Einstiegspunkt befindet sich auf der Suchseite, da diese dem User erlaubt, eine gefilterte Auswahl der Werke anzeigen zu lassen als auch nach bestimmten Werken oder Städten zu suchen.
+
+https://www.figma.com/proto/xKaWIn9fmbi90pYt7kzTg6/screendesign-projekt22?page-id=106%3A1105&node-id=99%3A535&viewport=173%2C309%2C0.14&scaling=scale-down&starting-point-node-id=99%3A535
