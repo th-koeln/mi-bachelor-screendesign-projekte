@@ -7,7 +7,7 @@ teaserimage: Vuco-Zaric-Teaser.png
 gallery:
     - mustermann-beispiel-002-kurzdoku.jpg
     - mustermann-beispiel-003-kurzdoku.jpg
-styleguide: mustermann-beispiel-styleguide.svg
+styleguide: Vuco-Zaric-Styleguide.svg
 ---
 
 Lucas Cranach der Ältere war ein deutscher Maler und Grafiker der Renaissance. Er war einer der wichtigsten Künstler seiner Zeit und schuf zahlreiche Gemälde, Holzschnitte und Kupferstiche. Seit Oktober 2009 arbeiten der Kunstpalast in Düsseldorf und die Technische Hochschule Köln gemeinsam an einem Forschungsprojekt zur digitalen Erschließung der Gemälde von Lucas Cranach dem Älteren. Dabei sind sie im Verbund mit 310 Partnern aus 31 Ländern tätig. Das Ziel besteht darin, eine internetbasierte Plattform zu entwickeln, die den Austausch und die Vermittlung von neuen Forschungsergebnissen im Bereich der Kunstgeschichte, Technologie und Naturwissenschaft ermöglicht. Diese Plattform soll über die Grenzen von Institutionen und Ländern hinweg funktionieren und somit internationale Zusammenarbeit fördern. Das Hauptziel besteht darin, der Öffentlichkeit ein besseres Verständnis der Kunstwerke von Lucas Cranach zu vermitteln und Forscher dabei zu unterstützen, offene Fragen zur Zuschreibung und Organisation seiner Werkstatt zu beantworten.
