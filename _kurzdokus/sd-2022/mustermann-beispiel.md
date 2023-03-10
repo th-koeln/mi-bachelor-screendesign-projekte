@@ -1,5 +1,5 @@
 ---
-title:Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»
+title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»
 people:
     - Paula Vuco
     - Zara Zaric
