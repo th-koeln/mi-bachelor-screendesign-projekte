@@ -1,8 +1,8 @@
 ---
 title: Template für die Kurzdoku
 people:
-    - Klaus Mustermann
-    - Beate Beispiel
+    - Paula Vuco
+    - Zara Zaric
 teaserimage: mustermann-beispiel-teaser.jpg
 gallery:
     - mustermann-beispiel-002-kurzdoku.jpg
