@@ -1,5 +1,5 @@
 ---
-title: Template für die Kurzdoku
+title:Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»
 people:
     - Paula Vuco
     - Zara Zaric
