@@ -3,11 +3,24 @@ title: Ortsbezogene Darstellung von Gemälden für das Cranach Digital Archieve 
 people:
     - Richard Reh
     - Rene Wiskirchen
-teaserimage: mustermann-beispiel-teaser.jpg
+teaserimage: Reh-Wiskirchen-teaser.png
 gallery:
-    - mustermann-beispiel-002-kurzdoku.jpg
-    - mustermann-beispiel-003-kurzdoku.jpg
-styleguide: mustermann-beispiel-styleguide.svg
+    - Reh-Wiskirchen-desktop-1.png
+    - Reh-Wiskirchen-desktop-2.png
+    - Reh-Wiskirchen-desktop-3.png
+    - Reh-Wiskirchen-desktop-4.png
+    - Reh-Wiskirchen-desktop-5.png
+    - Reh-Wiskirchen-tablet-1.png
+    - Reh-Wiskirchen-tablet-2.png
+    - Reh-Wiskirchen-tablet-3.png
+    - Reh-Wiskirchen-tablet-4.png
+    - Reh-Wiskirchen-tablet-5.png
+    - Reh-Wiskirchen-smartphone-1.png
+    - Reh-Wiskirchen-smartphone-2.png
+    - Reh-Wiskirchen-smartphone-3.png
+    - Reh-Wiskirchen-smartphone-4.png
+    - Reh-Wiskirchen-smartphone-5.png
+styleguide: Reh-Wiskirchen-styleguide.svg
 ---
 
 Im Rahmen einer Projektarbeit soll eine neue Such - und Darstellungsmöglichkeit für die Webseite des digitalen Lucas Cranach Archives gefunden werden. Dabei soll eine Ortsbezogene Darstellung der Gemälde implementiert werden, dank der eine Suche der Gemälde nach Standort gelingen soll.
