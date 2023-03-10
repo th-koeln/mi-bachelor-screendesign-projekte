@@ -6,9 +6,7 @@ people:
 teaserimage: koepppen-martinez-teaser.png
 gallery:
     - koeppen-martinez-styleguide.svg
-    - /koeppen_martinez_unbenutzte_ideen/koeppen-martinez-unbenutzte-ideen-dynamische-cluster.png
-    - /koeppen_martinez_unbenutzte_ideen/koeppen-martinez-unbenutzte-ideen-heatmap.png
-    - /koeppen_martinez_unbenutzte_ideen/koeppen-martinez-unbenutzte-ideen-ohne-cluster.png
+    - /koeppen_martinez_desktop_screens/koeppen-martinez-desktop-0-einstiegspunkt.png
     - /koeppen_martinez_desktop_screens/koeppen-martinez-desktop-1-0-weltkarte.png
     - /koeppen_martinez_desktop_screens/koeppen-martinez-desktop-1-1-weltkarte-zoom.png
     - /koeppen_martinez_desktop_screens/koeppen-martinez-desktop-1-2-weltkarte-suche.png
@@ -52,6 +50,9 @@ gallery:
     - /koeppen_martinez_tablet_screens/koeppen-martinez-tablet-4-1-ausgewaehlter-pin-karte.png
     - /koeppen_martinez_tablet_screens/koeppen-martinez-tablet-4-2-ausgewaehlter-cluster.png
     - /koeppen_martinez_tablet_screens/koeppen-martinez-tablet-4-3-ausgewaehlter-cluster-karte.png
+    - /koeppen_martinez_unbenutzte_ideen/koeppen-martinez-unbenutzte-ideen-dynamische-cluster.png
+    - /koeppen_martinez_unbenutzte_ideen/koeppen-martinez-unbenutzte-ideen-heatmap.png
+    - /koeppen_martinez_unbenutzte_ideen/koeppen-martinez-unbenutzte-ideen-ohne-cluster.png
 styleguide: koeppen-martinez-styleguide.svg
 ---
 
