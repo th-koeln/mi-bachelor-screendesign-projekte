@@ -1,8 +1,8 @@
 ---
 title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»
 people:
-    - Clemens Brachtendorf
-    - Maximilian Jaik
+    - vorname_nachname_1
+    - vorname_nachname_2
 teaserimage: mustermann-beispiel-teaser.jpg
 gallery:
     - mustermann-beispiel-002-kurzdoku.jpg
