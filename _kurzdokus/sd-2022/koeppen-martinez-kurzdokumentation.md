@@ -3,7 +3,7 @@ title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung
 people:
     - Mauricio Köppen
     - Anouk Martinez Wieczorek
-teaserimage: koepppen-martinez-teaser.png
+teaserimage: koeppen-martinez-teaser.jpg
 gallery:
     - koeppen-martinez-styleguide.svg
     - /koeppen_martinez_desktop_screens/koeppen-martinez-desktop-0-einstiegspunkt.png
