@@ -12,6 +12,7 @@ gallery:
     - Benaggoune-El-Masoudi-Desktop-5.png
     - Benaggoune-El-Masoudi-Desktop-6.png
     - Benaggoune-El-Masoudi-Desktop-7.png
+    - Benaggoune-El-Masoudi-Desktop-8.png
     - Benaggoune-El-Masoudi-Smartphone-1.png
     - Benaggoune-El-Masoudi-Smartphone-2.png
     - Benaggoune-El-Masoudi-Smartphone-3.png
