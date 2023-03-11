@@ -1,8 +1,8 @@
 ---
-title: Template für die Kurzdoku
+title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»
 people:
-    - Klaus Mustermann
-    - Beate Beispiel
+    - Clemens Brachtendorf
+    - Maximilian Jaik
 teaserimage: mustermann-beispiel-teaser.jpg
 gallery:
     - mustermann-beispiel-002-kurzdoku.jpg
