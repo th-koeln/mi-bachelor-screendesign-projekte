@@ -30,8 +30,10 @@ styleguide: Benaggoune-El-Masoudi-Styleguide.svg
 ---
 
 Im Rahmen des Screendesign Projekts sollte ein Gestaltungs- und Interaktionskonzept für die neue Ansicht «Bildstandorte anzeigen» entwickelt und gestaltet werden.
-Die Erweiterung sollte für Smartphones, Tablets und WIMP-fähige Computer funktionieren. Desweiteren sollten die POIs auf einer Weltkarte die interaktiv und mit der Maus oder dem Finger bewegt werden kann dargestellt werden. Experten und Interessierte sind hauptsächlich die Zielgruppe zudem sollte das Design professionell, klar, möglichst einfach, reduziert und zeitlos sein. Einstiegpunkt ist die Suchseite mit der Enthaltenden Karte, wo sich Linksbündig die Filter Elemente befinden.
 
-Beginnend ist die Karte auf Deutschland gerichtet, weil die meisten Artefakte dort vorhanden sind. Der Name des Standorts wird dem Benutzer stets unten zentriert des Bildschirms angezeigt. Rechtsbündig der Ortsnennung wird die Anzahl der Artefakte, die sich an diesem Standort befinden angezeigt.  
+Die Erweiterung sollte für Smartphones, Tablets und WIMP-fähige Computer funktionieren. Desweiteren sollten die POIs auf einer Weltkarte die interaktiv und mit der Maus oder dem Finger bewegt werden kann dargestellt werden. Experten und Interessierte sind hauptsächlich die Zielgruppe zudem sollte das Design professionell, klar, möglichst einfach, reduziert und zeitlos sein. 
+
+Einstiegpunkt ist die Suchseite mit der Enthaltenden Karte, wo sich Rechtsbündig die Filter Elemente befinden, die sich auch wieder einklappen lassen, um ein Vollbild der Karte zu erhalten. Beginnend ist die Karte auf Deutschland gerichtet, weil die meisten Artefakte dort vorhanden sind. Der Name des Standorts wird dem Benutzer stets unten zentriert des Bildschirms angezeigt. Rechtsbündig der Ortsnennung wird die Anzahl der Artefakte, die sich an diesem Standort befinden angezeigt.  
+  
 
 
