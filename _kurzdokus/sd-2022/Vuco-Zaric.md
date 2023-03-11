@@ -13,6 +13,8 @@ gallery:
     - Vuco-Zaric-Wimp.11.png
     - Vuco-Zaric-iPhone.2.png
     - Vuco-Zaric-iPhone.6.png
+    - Vuco-Zaric-iPad.3.png
+    - Vuco-Zaric-iPhone.9.png
 styleguide: Vuco-Zaric-Styleguide.svg
 ---
 
