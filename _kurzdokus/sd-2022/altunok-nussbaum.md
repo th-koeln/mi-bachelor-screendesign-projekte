@@ -5,20 +5,20 @@ people:
     - Vanessa Nussbaum
 teaserimage: altunok-nussbaum-teaser.png
 gallery:
-    -altunok-nussbaum-desktop1.png
-    -altunok-nussbaum-desktop2.png
-    -altunok-nussbaum-desktop3.png
-    -altunok-nussbaum-phone1.png
-    -altunok-nussbaum-phone2.png
-    -altunok-nussbaum-phone3.png
-    -altunok-nussbaum-phone4.png
-    -altunok-nussbaum-phone5.png
-    -altunok-nussbaum-phone6.png
-    -altunok-nussbaum-tablet1.png
-    -altunok-nussbaum-tablet2.png
-    -altunok-nussbaum-tablet3.png
-    -altunok-nussbaum-tablet4.png
-    -altunok-nussbaum-tablet5.png
+    - altunok-nussbaum-desktop1.png
+    - altunok-nussbaum-desktop2.png
+    - altunok-nussbaum-desktop3.png
+    - altunok-nussbaum-phone1.png
+    - altunok-nussbaum-phone2.png
+    - altunok-nussbaum-phone3.png
+    - altunok-nussbaum-phone4.png
+    - altunok-nussbaum-phone5.png
+    - altunok-nussbaum-phone6.png
+    - altunok-nussbaum-tablet1.png
+    - altunok-nussbaum-tablet2.png
+    - altunok-nussbaum-tablet3.png
+    - altunok-nussbaum-tablet4.png
+    - altunok-nussbaum-tablet5.png
    
 styleguide: altunok-nussbaum-styleguide.svg
 ---

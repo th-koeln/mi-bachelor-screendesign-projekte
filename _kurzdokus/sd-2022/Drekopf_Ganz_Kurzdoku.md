@@ -3,7 +3,7 @@ title: Ortsbezogene Darstellung der Artefakte des CDA
 people:
   - Mona Drekopf
   - Jacqueline Ganz
-teaserimage: Drekopf_Danz_Teaser.png
+teaserimage: Drekopf_Ganz_Teaser.png
 gallery: 
     - Drekopf_Ganz_Desktop_Startseite.png
     - Drekopf_Ganz_Desktop_Karte.png
