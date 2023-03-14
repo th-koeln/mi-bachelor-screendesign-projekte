@@ -10,7 +10,7 @@ gallery:
     - Schmitgen-Mamudi-Tablet-Detailseite-01.jpg
     - Schmitgen-Mamudi-Desktop-Suchseite-01.jpg
     - Schmitgen-Mamudi-Desktop-Suchseite-05.jpg
-    - Schmitgen-Mamudi-Mobile-Startseite-01.jpg
+    - Schmitgen-Mamudi-Smartphone-Startseite-01.jpg
     - Schmitgen-Mamudi-Smartphone-Startseite-02.jpg
     - Schmitgen-Mamudi-Smartphone-Suchseite-08.jpg
     - Schmitgen-Mamudi-Smartphone-Suchseite-06.jpg
