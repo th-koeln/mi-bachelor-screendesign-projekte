@@ -6,8 +6,8 @@ people:
 teaserimage: Benaggoune-El-Masoudi-Teaser.png
 gallery:
     - Benaggoune-El-Masoudi-Desktop-1.png
-    - Benaggoune-El-Masoudi-Desktop-2png
-    - Benaggoune-El-Masoudi-Desktop-3png
+    - Benaggoune-El-Masoudi-Desktop-2.png
+    - Benaggoune-El-Masoudi-Desktop-3.png
     - Benaggoune-El-Masoudi-Desktop-4.png
     - Benaggoune-El-Masoudi-Desktop-5.png
     - Benaggoune-El-Masoudi-Desktop-6.png
@@ -22,9 +22,8 @@ gallery:
     - Benaggoune-El-Masoudi-Smartphone-7.png
     - Benaggoune-El-Masoudi-Smartphone-8.png
     - Benaggoune-El-Masoudi-Smartphone-9.png
-    - Benaggoune-El-Masoudi-Tablet_Horizontalpng
+    - Benaggoune-El-Masoudi-Tablet_Horizontal.png
     - Benaggoune-El-Masoudi-Tablet_Vertikal.png
-    - 
 styleguide: Benaggoune-El-Masoudi-Styleguide.svg
 ---
 
