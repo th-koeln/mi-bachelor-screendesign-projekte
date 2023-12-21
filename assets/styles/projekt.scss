@@ -102,9 +102,21 @@ html {}
   background-size: cover;
   background-position: center center;
   .title {
+    background-color: #000;
+    display: inline-block;
+    padding: $bfs /4 $bfs $bfs /2;
+    line-height: 120%;
     font-weight: 700;
     font-size: $bfs * 3;
-    text-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    margin-bottom: 0;
+  }
+  .subtitle {
+    background-color: #fff;
+    color: #000 !important;
+    display: inline-block;
+    padding: $bfs /2 $bfs $bfs /2;
+    line-height: 120%;
+    margin-top: 0 !important;
   }
 }
 
