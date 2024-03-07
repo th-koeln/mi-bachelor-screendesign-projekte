@@ -18,7 +18,7 @@ gallery:
     - sd-bernhardt-diekmann_t-03-Suche-0.1.png
     - sd-bernhardt-diekmann_t-04-Content.png
 
-styleguide: henrichsmeyer-zink-styleguide.svg
+styleguide: sd-bernhardt-diekmann_styleguide.svg
 ---
 
 Das Ziel des diesjährigen Projekts im Modul Screendesign besteht darin, ein Gestaltungskonzept für eine gemeinsame Wissensplattform für Informatikstudiengänge an der TH Köln zu entwickeln. Diese Plattform soll kuratiertes Wissen und Best Practices rund um Projekte und Projektarbeit an einem zentralen Ort zugänglich machen.
