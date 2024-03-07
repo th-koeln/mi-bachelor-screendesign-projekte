@@ -2,7 +2,7 @@
 title: Projekt 2023: ProjectSurvival4All Sympathische und praktische Survival Tipps für die Projektarbeit im Studium und darüber hinaus
 people:
     - Buraq Durukan
-    - Sebastian Gielen Pereira
+    - Sebastian Gielen-Pereira
 teaserimage: Durukan-Gielen-teaserimage.png
 gallery:
     - Durukan-Gielen-Desktop1.png
