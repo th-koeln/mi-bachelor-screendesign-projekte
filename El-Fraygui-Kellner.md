@@ -12,9 +12,9 @@ gallery:
     - El-Fraygui-Kellner-Desktop-05.png
     - El-Fraygui-Kellner-Desktop-06.png
     - El-Fraygui-Kellner-Desktop-07.png
-   
+
+    - El-Fraygui-Kellner-Mobile-1.png
     - El-Fraygui-Kellner-Mobile-01.png
-    - El-Fraygui-Kellner-Mobile-02.png
     - El-Fraygui-Kellner-Mobile-03.png
     - El-Fraygui-Kellner-Mobile-04.png
     - El-Fraygui-Kellner-Mobile-05.png
