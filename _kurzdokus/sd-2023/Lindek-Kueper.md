@@ -3,7 +3,7 @@ title: ProjectSurvival4All - Praktische Tipps für die Projektarbeit im Studium 
 people:
     - Jonas Lindek
     - Tom Küper
-teaserimage: Lindek-Kueper-teaser.png
+teaserimage: Lindek-Kueper-Teaser.png
 gallery:
     - Lindek-Kueper-Desktop-1.png
     - Lindek-Kueper-Desktop-2.png
