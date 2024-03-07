@@ -3,7 +3,7 @@ title: ProjectSurvival4All
 people:
     - Cordelia Fehrenbacher
     - Jesaja Storm
-teaserimage: Fehrenbacher-Storm-teaser.png
+teaserimage: Fehrenbacher-Storm-tablet-5.png
 gallery:
     - Fehrenbacher-Storm-mobile-1.png
     - Fehrenbacher-Storm-mobile-2.png
