@@ -5,9 +5,22 @@ people:
     - Tom Küper
 teaserimage: Lindek-Kueper-teaser.png
 gallery:
-    - Lindek-Kueper-bild1.png
-    - Lindek-Kueper-bild2.png
-    - Lindek-Kueper-bild3.png
+    - Lindek-Kueper-Desktop-1.png
+    - Lindek-Kueper-Desktop-2.png
+    - Lindek-Kueper-Desktop-3.png
+    - Lindek-Kueper-Desktop-4.png
+    - Lindek-Kueper-Desktop-5.png
+    - Lindek-Kueper-Desktop-6.png
+    - Lindek-Kueper-Smartphone-1.png
+    - Lindek-Kueper-Smartphone-2.png
+    - Lindek-Kueper-Smartphone-3.png
+    - Lindek-Kueper-Smartphone-4.png
+    - Lindek-Kueper-Smartphone-5.png
+    - Lindek-Kueper-Tablet-1.png
+    - Lindek-Kueper-Tablet-2.png
+    - Lindek-Kueper-Tablet-3.png
+    - Lindek-Kueper-Tablet-4.png
+    - Lindek-Kueper-Tablet-5.png
 styleguide: Lindek-Kueper-styleguide.svg
 ---
 
