@@ -16,7 +16,7 @@ gallery:
     - Walsh-Merzouk-Tablet-Survival4All.png
     - Walsh-Merzouk-Tablet-ProfilePage.png
 
-styleguide: Calisir-Nikolic-Style_Guide.svg
+styleguide: Walsh-Merzouk-StyleGuide.svg
 ---
 
 
