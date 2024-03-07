@@ -1,25 +1,32 @@
 ---
-title: Ortsbezogene Darstellung der Artefakte des CDA
+title: ProjectSurvival4All – Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus 
 people:
-  - Mona Drekopf
-  - Jacqueline Ganz
-teaserimage: Drekopf_Ganz_Teaser.png
+  - Yassin El-Fraygui
+  - Maximilian Kellner
+teaserimage: El-Fraygui-Kellner-teaser.png
 gallery: 
-    - Drekopf_Ganz_Desktop_Startseite.png
-    - Drekopf_Ganz_Desktop_Karte.png
-    - Drekopf_Ganz_Desktop_Karte_Suche.png
-    - Drekopf_Ganz_Desktop_Detailseite.png
-    - Drekopf_Ganz_Desktop_Auswahl_Gemälde.png
-    - Drekopf_Ganz_Desktop_Zoomverhalten_Großansicht.png
-    - Drekopf_Ganz_Desktop_Zoomverhalten_Großstadt.png
-    - Drekopf_Ganz_Desktop_Zoomverhalten_Ort.png
-    - Drekopf_Ganz_Desktop_Karte_vorherige_iteration.png
-    - Drekopf_Ganz_Desktop_Karte_suche_vorherige_iteration.png
-    - Drekopf_Ganz_iPad_Kartenansicht.png
-    - Drekopf_Ganz_iPad_Suche.png
-    - Drekopf_Ganz_iPhone_Kartenansicht.png
-    - Drekopf_Ganz_iPhone_Suche1.png
-    - Drekopf_Ganz_iPhone_Suche2.png
+    - El-Fraygui-Kellner-Desktop-01.png
+    - El-Fraygui-Kellner-Desktop-02.png
+    - El-Fraygui-Kellner-Desktop-03.png
+    - El-Fraygui-Kellner-Desktop-04.png
+    - El-Fraygui-Kellner-Desktop-05.png
+    - El-Fraygui-Kellner-Desktop-06.png
+    - El-Fraygui-Kellner-Desktop-07.png
+   
+    - El-Fraygui-Kellner-Mobile-01.png
+    - El-Fraygui-Kellner-Mobile-02.png
+    - El-Fraygui-Kellner-Mobile-03.png
+    - El-Fraygui-Kellner-Mobile-04.png
+    - El-Fraygui-Kellner-Mobile-05.png
+   
+    - El-Fraygui-Kellner-Tablet-hochkant-01.png
+    - El-Fraygui-Kellner-Tablet-hochkant-02.png
+    - El-Fraygui-Kellner-Tablet-hochkant-03.png
+   
+    - El-Fraygui-Kellner-Tablet-quer-01.png
+    - El-Fraygui-Kellner-Tablet-quer-02.png
+    - El-Fraygui-Kellner-Tablet-quer-03.png
+      
 styleguide: El-Fraygui-Kellner-StyleGuide.svg
 ---
 
