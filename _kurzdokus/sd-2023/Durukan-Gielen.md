@@ -12,7 +12,6 @@ gallery:
     - Durukan-Gielen-Tablet1.png
     - Durukan-Gielen-Tablet2.png
 styleguide: Durukan-Gielen-Styleguide.svg
-
 ---
 Die Ausgangsbasis des Projekts für das Wintersemester im Fachbereich Screendesign 2024 besteht in der Entwicklung einer umfassenden Online-Ressource für Projektmanagement an der Technischen Hochschule Köln.  Ziel ist es, Studierenden und externen Fachkräften hochwertige Materialien, Tools und Ratschläge zur Verbesserung ihrer Projektmanagementfähigkeiten sowie zur erfolgreichen Durchführung von Projekten bereitzustellen.
 Unser Auftrag umfasst die Gestaltung einer ansprechenden und benutzerfreundlichen Online-Plattform, die für drei verschiedene Gerätetypen optimiert ist: Smartphone, Tablet und WIMP-Geräte. Dabei soll das bestehende Design der Hochschule als Grundlage dienen, jedoch sollte die Plattform als eigenständig erkennbar sein. Aus diesem Grund haben wir Grundlegende Bausteine wie Schrift und Farben Größtenteils von der Webseite der TH übernommen um das Gefühl des Designs Beizubehalten.
