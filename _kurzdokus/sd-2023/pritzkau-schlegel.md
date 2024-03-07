@@ -24,7 +24,7 @@ gallery:
     - pritzkau-schlegel-bild17.png
     - pritzkau-schlegel-bild18.png
     - pritzkau-schlegel-bild19.png
-styleguide: - pritzkau-schlegel-styleguide.svg
+styleguide: pritzkau-schlegel-styleguide.svg
 ---
 
 Das Projekt "ProjectSurvival4All" dient als Wissensplattform, auf welcher der Erwerb verschiedener Fähigkeiten erleichtert wird. Hierbei wird kuratiertes Wissen bereitgestellt, und so wird das Erlernen von Best-Practices bei Projekten und der Arbeit an dieser vermittelt. All dies wird an einem zentralem Ort angeboten, wobei der Zugang zu Modulspezifischen Informationen nicht auf die angehörigkeit zu einem spezifischem Modul beschränkt wird.
