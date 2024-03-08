@@ -23,10 +23,6 @@ gallery:
     - m_feldmann_dedy_autorensuche.png
     - m_feldmann_dedy_artikelsuche.png
     - m_feldmann_dedy_phasensuche.png
-
-
-
-
 styleguide: feldmann_dedy_styleguide.svg
 ---
 
