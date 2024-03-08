@@ -3,13 +3,19 @@ title: ProjectSurvival4All
 people:
     - Hendrik Runde
     - 
-teaserimage: Crisci-Johne-teaser.png
+teaserimage: sd-TeaserBild-Runde.png
 gallery:
-    - Crisci-Johne-bild1.png
-    - Crisci-Johne-bild2.png
-    - Crisci-Johne-bild3.png
-    - Crisci-Johne-bild4.png
-styleguide: Crisci-Johne-styleguide.svg
+    - sd-HauptseiteDesktop-Runde.png
+    - sd-HauptseiteAnregungDesktop-Runde.png
+    - sd-HauptseiteSucheDesktop-Runde.png
+    - sd-HauptseiteFilterDesktop-Runde.png
+    - sd-HauptseiteCIDesktop-Runde.png
+    - sd-HauptseiteIpad-Runde.png
+    - sd-HauptseiteHandy-Runde.png
+    - sd-HauptseiteAktuellesHandy-Runde.png
+    - sd-HauptseiteMenüHandy-Runde.png
+    - sd-HauptseiteCIHandy-Runde.png
+styleguide: sd-Styleguide-Runde.svg
 ---
 
 Die vorliegende Projektarbeit wurde im Wintersemester 2023/24 im Modul Screendesign entwickelt und beschäftigt sich mit der Umsetzung einer gemeinsamen Wissensplattform namens ProjectSurvival4All. 
