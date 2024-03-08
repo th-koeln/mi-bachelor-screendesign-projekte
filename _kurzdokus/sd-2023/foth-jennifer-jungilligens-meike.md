@@ -3,34 +3,34 @@ title: ProjectSurvival4All – Sympathische und praktische Survival-Tipps für d
 people:
     - Jennifer Foth
     - Meike Jungilligens
-teaserimage: foth-jungilligens-teaser-image.png
+teaserimage: foth-jennifer-jungilligens-meike-teaser-image.png
 gallery:
-    - desktop/01-homepage.png
-    - desktop/02-homepage-filter-menu-open.png
-    - desktop/03-homepage-filters-applied.png
-    - desktop/04-content-item-1.png
-    - desktop/05-content-item-2.png
-    - desktop/06-favoriten.png
-    - desktop/07-autoren-uebersicht.png
-    - desktop/08-autorenprofil.png
-    - tablet/01-homepage.png
-    - tablet/02-homepage-filter-menu-open.png
-    - tablet/03-homepage-filters-applied.png
-    - tablet/04-content-item-1.png
-    - tablet/05-content-item-2.png
-    - tablet/06-favoriten.png
-    - tablet/07-autoren-uebersicht.png
-    - tablet/08-autorenprofil.png
-    - mobile/01-homepage.png
-    - mobile/02-homepage-filter-menu-open.png
-    - mobile/03-homepage-filters-applied.png
-    - mobile/04-content-item-1.png
-    - mobile/05-content-item-2.png
-    - mobile/06-favoriten.png
-    - mobile/07-autoren-uebersicht.png
-    - mobile/08-autorenprofil.png
-    - mobile/09-homepage-side-menu-open.png
-styleguide: foth-jungilligens-styleguide.svg
+    - foth-jennifer-jungilligens-meike-d01-homepage.png
+    - foth-jennifer-jungilligens-meike-d02-homepage-filter-menu-open.png
+    - foth-jennifer-jungilligens-meike-d03-homepage-filters-applied.png
+    - foth-jennifer-jungilligens-meike-d04-content-item-1.png
+    - foth-jennifer-jungilligens-meike-d05-content-item-2.png
+    - foth-jennifer-jungilligens-meike-d06-favoriten.png
+    - foth-jennifer-jungilligens-meike-d07-autoren-uebersicht.png
+    - foth-jennifer-jungilligens-meike-d08-autorenprofil.png
+    - foth-jennifer-jungilligens-meike-t01-homepage.png
+    - foth-jennifer-jungilligens-meike-t02-homepage-filter-menu-open.png
+    - foth-jennifer-jungilligens-meike-t03-homepage-filters-applied.png
+    - foth-jennifer-jungilligens-meike-t04-content-item-1.png
+    - foth-jennifer-jungilligens-meike-t05-content-item-2.png
+    - foth-jennifer-jungilligens-meike-t06-favoriten.png
+    - foth-jennifer-jungilligens-meike-t07-autoren-uebersicht.png
+    - foth-jennifer-jungilligens-meike-t08-autorenprofil.png
+    - foth-jennifer-jungilligens-meike-m01-homepage.png
+    - foth-jennifer-jungilligens-meike-m02-homepage-filter-menu-open.png
+    - foth-jennifer-jungilligens-meike-m03-homepage-filters-applied.png
+    - foth-jennifer-jungilligens-meike-m04-content-item-1.png
+    - foth-jennifer-jungilligens-meike-m05-content-item-2.png
+    - foth-jennifer-jungilligens-meike-m06-favoriten.png
+    - foth-jennifer-jungilligens-meike-m07-autoren-uebersicht.png
+    - foth-jennifer-jungilligens-meike-m08-autorenprofil.png
+    - foth-jennifer-jungilligens-meike-m09-homepage-side-menu-open.png
+styleguide: foth-jennifer-jungilligens-meike-styleguide.svg
 ---
 
 Das diesjährige Screendesignprojekt dreht sich um die Entwicklung der Wissensplattform "ProjectSurvival4All". Ihr Ziel liegt darin, How-Tos und bewährte Methoden für die Projektarbeit zu sammeln und Studierende bei der Bewältigung ihrer Projekte zu unterstützen. Zudem trägt "ProjectSurvival4All" sogenannte Open Educational Resources bei: Die bereitgestellten Lehrinhalte können von Interessierten weiterverwendet werden.
