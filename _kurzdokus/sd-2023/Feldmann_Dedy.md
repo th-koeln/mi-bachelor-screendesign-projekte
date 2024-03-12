@@ -1,5 +1,5 @@
 ---
-title: Projekt 2023\: ProjectSurvival4All
+title: Projekt 2023 - ProjectSurvival4All
 people:
     - Maximilian Feldmann
     - Christian Dedy
