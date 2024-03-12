@@ -14,12 +14,9 @@ gallery:
     - Irmscher_Korte_Tablet_Content_Video_Gescrollt.png
     - Irmscher_Korte_Tablet_Content_gescrollt.png
     - Irmscher_Korte_Tablet_Content_Hochladen.png
-- Irmscher_Korte_Handy_Homepage_gescrollt.png
-- Irmscher_Korte_Handy_ContentItem_gescrollt.png
-- Irmscher_Korte_Handy_Content_Hochladen_gescrollt.png
-
-
-
+    - Irmscher_Korte_Handy_Homepage_gescrollt.png
+    - Irmscher_Korte_Handy_ContentItem_gescrollt.png
+    - Irmscher_Korte_Handy_Content_Hochladen_gescrollt.png
 styleguide: Irmscher_Korte_Styleguide.svg
 ---
 
