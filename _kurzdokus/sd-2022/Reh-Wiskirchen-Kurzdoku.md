@@ -3,23 +3,23 @@ title: Ortsbezogene Darstellung von Gemälden für das Cranach Digital Archieve 
 people:
     - Richard Reh
     - Rene Wiskirchen
-teaserimage: Reh-Wiskirchen-teaser.png
+teaserimage: Reh-Wiskirchen-teaser.webp
 gallery:
-    - Reh-Wiskirchen-desktop-1.png
-    - Reh-Wiskirchen-desktop-2.png
-    - Reh-Wiskirchen-desktop-3.png
-    - Reh-Wiskirchen-desktop-4.png
-    - Reh-Wiskirchen-desktop-5.png
-    - Reh-Wiskirchen-tablet-1.png
-    - Reh-Wiskirchen-tablet-2.png
-    - Reh-Wiskirchen-tablet-3.png
-    - Reh-Wiskirchen-tablet-4.png
-    - Reh-Wiskirchen-tablet-5.png
-    - Reh-Wiskirchen-smartphone-1.png
-    - Reh-Wiskirchen-smartphone-2.png
-    - Reh-Wiskirchen-smartphone-3.png
-    - Reh-Wiskirchen-smartphone-4.png
-    - Reh-Wiskirchen-smartphone-5.png
+    - Reh-Wiskirchen-desktop-1.webp
+    - Reh-Wiskirchen-desktop-2.webp
+    - Reh-Wiskirchen-desktop-3.webp
+    - Reh-Wiskirchen-desktop-4.webp
+    - Reh-Wiskirchen-desktop-5.webp
+    - Reh-Wiskirchen-tablet-1.webp
+    - Reh-Wiskirchen-tablet-2.webp
+    - Reh-Wiskirchen-tablet-3.webp
+    - Reh-Wiskirchen-tablet-4.webp
+    - Reh-Wiskirchen-tablet-5.webp
+    - Reh-Wiskirchen-smartphone-1.webp
+    - Reh-Wiskirchen-smartphone-2.webp
+    - Reh-Wiskirchen-smartphone-3.webp
+    - Reh-Wiskirchen-smartphone-4.webp
+    - Reh-Wiskirchen-smartphone-5.webp
 styleguide: Reh-Wiskirchen-styleguide.svg
 ---
 

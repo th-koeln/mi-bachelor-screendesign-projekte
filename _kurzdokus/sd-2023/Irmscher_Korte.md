@@ -3,20 +3,20 @@ title: Projekt Survival 4 All
 people:
     - Leandra Irmscher
     - Tabitha Korte
-teaserimage: Irmscher_Korte_Teaser.png
+teaserimage: Irmscher_Korte_Teaser.webp
 gallery:
-    - Irmscher_Korte_DesktopHomepageScroll.png
-    - Irmscher_Korte_DesktopContenItem_Video_gescrollt.png
-    - Irmscher_Korte_DesktopContentItem_gescrollt.png
-    - Irmscher_Korte_Desktop_Favoriten_gescrollt.png
-    - Irmscher_Korte_Desktop_ContentHochladen.png
-    - Irmscher_Korte_Tablet_Homepage_gescrollt.png
-    - Irmscher_Korte_Tablet_Content_Video_Gescrollt.png
-    - Irmscher_Korte_Tablet_Content_gescrollt.png
-    - Irmscher_Korte_Tablet_Content_Hochladen.png
-    - Irmscher_Korte_Handy_Homepage_gescrollt.png
-    - Irmscher_Korte_Handy_ContentItem_gescrollt.png
-    - Irmscher_Korte_Handy_Content_Hochladen_gescrollt.png
+    - Irmscher_Korte_DesktopHomepageScroll.webp
+    - Irmscher_Korte_DesktopContenItem_Video_gescrollt.webp
+    - Irmscher_Korte_DesktopContentItem_gescrollt.webp
+    - Irmscher_Korte_Desktop_Favoriten_gescrollt.webp
+    - Irmscher_Korte_Desktop_ContentHochladen.webp
+    - Irmscher_Korte_Tablet_Homepage_gescrollt.webp
+    - Irmscher_Korte_Tablet_Content_Video_Gescrollt.webp
+    - Irmscher_Korte_Tablet_Content_gescrollt.webp
+    - Irmscher_Korte_Tablet_Content_Hochladen.webp
+    - Irmscher_Korte_Handy_Homepage_gescrollt.webp
+    - Irmscher_Korte_Handy_ContentItem_gescrollt.webp
+    - Irmscher_Korte_Handy_Content_Hochladen_gescrollt.webp
 styleguide: Irmscher_Korte_Styleguide.svg
 ---
 

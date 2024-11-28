@@ -2,20 +2,20 @@
 title: Gestaltungskonzept "Bildstandorte" für "Cranach Digital Archive" von Stepan Krivosheev
 people:
     - Stepan Krivosheev
-teaserimage: Krivosheev-Teaser.png
+teaserimage: Krivosheev-Teaser.webp
 gallery:
-    - Krivosheev-WIMP1.png
-    - Krivosheev-WIMP2.png
-    - Krivosheev-WIMP3.png
-    - Krivosheev-WIMP3-Filter.png
-    - Krivosheev-WIMP4.png
-    - Krivosheev-WIMP5.png
-    - Krivosheev-Tablet1.png
-    - Krivosheev-Tablet2.png
-    - Krivosheev-Tablet3.png
-    - Krivosheev-Phone1.png
-    - Krivosheev-Phone2.png
-    - Krivosheev-Phone3.png
+    - Krivosheev-WIMP1.webp
+    - Krivosheev-WIMP2.webp
+    - Krivosheev-WIMP3.webp
+    - Krivosheev-WIMP3-Filter.webp
+    - Krivosheev-WIMP4.webp
+    - Krivosheev-WIMP5.webp
+    - Krivosheev-Tablet1.webp
+    - Krivosheev-Tablet2.webp
+    - Krivosheev-Tablet3.webp
+    - Krivosheev-Phone1.webp
+    - Krivosheev-Phone2.webp
+    - Krivosheev-Phone3.webp
 styleguide: Krivosheev-StyleGuide.svg
 ---
 

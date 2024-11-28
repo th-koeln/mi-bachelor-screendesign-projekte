@@ -3,24 +3,26 @@ title: ProjectSurvival4All - Praktische Tipps für die Projektarbeit im Studium 
 people:
     - Jonas Lindek
     - Tom Küper
-teaserimage: Lindek-Kueper-Teaser.png
+teaserimage: lindek-kueper-desktop-1.webp
+
 gallery:
-    - Lindek-Kueper-Desktop-1.png
-    - Lindek-Kueper-Desktop-2.png
-    - Lindek-Kueper-Desktop-3.png
-    - Lindek-Kueper-Desktop-4.png
-    - Lindek-Kueper-Desktop-5.png
-    - Lindek-Kueper-Desktop-6.png
-    - Lindek-Kueper-Smartphone-1.png
-    - Lindek-Kueper-Smartphone-2.png
-    - Lindek-Kueper-Smartphone-3.png
-    - Lindek-Kueper-Smartphone-4.png
-    - Lindek-Kueper-Smartphone-5.png
-    - Lindek-Kueper-Tablet-1.png
-    - Lindek-Kueper-Tablet-2.png
-    - Lindek-Kueper-Tablet-3.png
-    - Lindek-Kueper-Tablet-4.png
-    - Lindek-Kueper-Tablet-5.png
+    - lindek-kueper-desktop-6.webp
+    - lindek-kueper-smartphone-2.webp
+    - lindek-kueper-desktop-7.webp
+    - lindek-kueper-smartphone-3.webp
+    - lindek-kueper-smartphone-4.webp
+    - lindek-kueper-tablet-2.webp
+    - lindek-kueper-smartphone-5.webp
+    - lindek-kueper-desktop-1.webp
+    - lindek-kueper-desktop-2.webp
+    - lindek-kueper-desktop-3.webp
+    - lindek-kueper-desktop-10.webp
+    - lindek-kueper-tablet-1.webp
+    - lindek-kueper-desktop-8.webp
+    - lindek-kueper-desktop-4.webp
+    - lindek-kueper-desktop-5.webp
+    - lindek-kueper-smartphone-1.webp
+    - lindek-kueper-desktop-9.webp
 styleguide: Lindek-Kueper-styleguide.svg
 ---
 

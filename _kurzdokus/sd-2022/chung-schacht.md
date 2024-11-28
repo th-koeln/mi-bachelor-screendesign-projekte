@@ -3,25 +3,25 @@ title: Umsetzung einer ortsbezogenen Darstellung der Artefakte im Cranach Digita
 people:
     - Sing Mao Chung
     - Morris Schacht
-teaserimage: chung-schacht-desktop-1.png
+teaserimage: chung-schacht-desktop-1.webp
 gallery:
-    - chung-schacht-desktop-1.png
-    - chung-schacht-desktop-2.png
-    - chung-schacht-desktop-3.png
-    - chung-schacht-desktop-4.png
-    - chung-schacht-desktop-5.png
-    - chung-schacht-desktop-6.png
-    - chung-schacht-mobile-1.png
-    - chung-schacht-mobile-2.png
-    - chung-schacht-mobile-3.png
-    - chung-schacht-mobile-4.png
-    - chung-schacht-mobile-5.png
-    - chung-schacht-mobile-6.png
-    - chung-schacht-mobile-7.png
-    - chung-schacht-tablet-1.png
-    - chung-schacht-tablet-2.png
-    - chung-schacht-tablet-3.png
-    - chung-schacht-tablet-4.png
+    - chung-schacht-desktop-1.webp
+    - chung-schacht-desktop-2.webp
+    - chung-schacht-desktop-3.webp
+    - chung-schacht-desktop-4.webp
+    - chung-schacht-desktop-5.webp
+    - chung-schacht-desktop-6.webp
+    - chung-schacht-mobile-1.webp
+    - chung-schacht-mobile-2.webp
+    - chung-schacht-mobile-3.webp
+    - chung-schacht-mobile-4.webp
+    - chung-schacht-mobile-5.webp
+    - chung-schacht-mobile-6.webp
+    - chung-schacht-mobile-7.webp
+    - chung-schacht-tablet-1.webp
+    - chung-schacht-tablet-2.webp
+    - chung-schacht-tablet-3.webp
+    - chung-schacht-tablet-4.webp
 
 
 styleguide: chung-schacht-styleguide.svg

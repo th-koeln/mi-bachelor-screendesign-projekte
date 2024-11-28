@@ -3,16 +3,16 @@ title: Endecker & Stöberfunktion für Vincent & Voltaire
 people:
     - Annika Lenneper
     - Niklas Mehlem
-teaserimage: Lenneper-Mehlem-Header.png
+teaserimage: Lenneper-Mehlem-Header.webp
 gallery:
-    - Lenneper-Mehlem-Device-Mockup_iPad_Variante1_MitTitel.png
-    - Lenneper-Mehlem-Device-Mockup_iPad_Variante1_MitTitel_PopUp.png
-    - Lenneper-Mehlem-Device-Mockup_iPad_Variante2_OhneTitel.png
-    - Lenneper-Mehlem-Device-Mockup_iPad_Variante2OhneTitel_PopUp.png
+    - Lenneper-Mehlem-Device-Mockup_iPad_Variante1_MitTitel.webp
+    - Lenneper-Mehlem-Device-Mockup_iPad_Variante1_MitTitel_PopUp.webp
+    - Lenneper-Mehlem-Device-Mockup_iPad_Variante2_OhneTitel.webp
+    - Lenneper-Mehlem-Device-Mockup_iPad_Variante2OhneTitel_PopUp.webp
     - Lenneper-Mehlem-iPad_PopUp.JPG
-    - Lenneper-Mehlem-PC_Layout.png
-    - Lenneper-Mehlem-PC_LayoutPopUp.png
-    - Lenneper-Mehlem-Pop-Up_fenster_SOUND_OF_MOUNTAINS.png
+    - Lenneper-Mehlem-PC_Layout.webp
+    - Lenneper-Mehlem-PC_LayoutPopUp.webp
+    - Lenneper-Mehlem-Pop-Up_fenster_SOUND_OF_MOUNTAINS.webp
 styleguide: Lenneper-Mehlem-Style_GuideSVG.svg
 ---
 

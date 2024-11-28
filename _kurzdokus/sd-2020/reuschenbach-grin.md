@@ -3,15 +3,15 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Franziska Eva Reuschenbach
     - Emely Grin
-teaserimage: Reuschenbach-Grin-teaser.png
+teaserimage: Reuschenbach-Grin-teaser.webp
 gallery:
-    - Reuschenbach-Grin-bild1.png
-    - Reuschenbach-Grin-bild2.png
-    - Reuschenbach-Grin-bild3.png
-    - Reuschenbach-Grin-bild4.png
-    - Reuschenbach-Grin-bild5.png
-    - Reuschenbach-Grin-bild6.png
-    - Reuschenbach-Grin-bild7.png
+    - Reuschenbach-Grin-bild1.webp
+    - Reuschenbach-Grin-bild2.webp
+    - Reuschenbach-Grin-bild3.webp
+    - Reuschenbach-Grin-bild4.webp
+    - Reuschenbach-Grin-bild5.webp
+    - Reuschenbach-Grin-bild6.webp
+    - Reuschenbach-Grin-bild7.webp
 styleguide: Reuschenbach-Grin-styleguide.svg
 ---
 

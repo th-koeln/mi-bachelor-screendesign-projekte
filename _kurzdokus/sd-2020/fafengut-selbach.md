@@ -3,12 +3,12 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Paul Fafengut
     - Yannik Selbach
-teaserimage: fafengut-selbach-teaser.png
+teaserimage: fafengut-selbach-teaser.webp
 gallery:
-    - fafengut-selbach-bild1.png
-    - fafengut-selbach-bild2.png
-    - fafengut-selbach-bild3.png
-    - fafengut-selbach-bild4.png
+    - fafengut-selbach-bild1.webp
+    - fafengut-selbach-bild2.webp
+    - fafengut-selbach-bild3.webp
+    - fafengut-selbach-bild4.webp
 styleguide: fafengut-selbach-styleguide.svg
 
 ---

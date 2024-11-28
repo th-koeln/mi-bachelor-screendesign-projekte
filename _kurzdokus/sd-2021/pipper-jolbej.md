@@ -3,13 +3,13 @@ title: Verbesserung der Stöber- und Entdeckerformate der Online-Buchhandlung Vi
 people:
     - Anton Pipper
     - Simon Jolbej
-teaserimage: sd-202122-mockup_3-pipper-jolbej.png
+teaserimage: sd-202122-mockup_3-pipper-jolbej.webp
 gallery:
-    - sd-202122-mockup_1-pipper-jolbej.png
-    - sd-202122-mockup_2-pipper-jolbej.png
-    - sd-202122-mockup_3-pipper-jolbej.png
-    - sd-202122-mockup_4-pipper-jolbej.png
-    - sd-202122-mockup_5-pipper-jolbej.png
+    - sd-202122-mockup_1-pipper-jolbej.webp
+    - sd-202122-mockup_2-pipper-jolbej.webp
+    - sd-202122-mockup_3-pipper-jolbej.webp
+    - sd-202122-mockup_4-pipper-jolbej.webp
+    - sd-202122-mockup_5-pipper-jolbej.webp
 styleguide: sd-202122-styleguide_resized-pipper-jolbej.svg
 ---
 

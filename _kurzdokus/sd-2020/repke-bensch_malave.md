@@ -3,13 +3,13 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Kevin Repke
     - Mauricio Bensch Malavé
-teaserimage: repke-bensch_malave-teaser.png
+teaserimage: repke-bensch_malave-teaser.webp
 gallery:
-    - repke-bensch_malave-bild1.png
-    - repke-bensch_malave-bild2.png
-    - repke-bensch_malave-bild3.png
-    - repke-bensch_malave-bild4.png
-    - repke-bensch_malave-bild5.png
+    - repke-bensch_malave-bild1.webp
+    - repke-bensch_malave-bild2.webp
+    - repke-bensch_malave-bild3.webp
+    - repke-bensch_malave-bild4.webp
+    - repke-bensch_malave-bild5.webp
 styleguide: repke-bensch_malave-styleguide.svg
 ---
 

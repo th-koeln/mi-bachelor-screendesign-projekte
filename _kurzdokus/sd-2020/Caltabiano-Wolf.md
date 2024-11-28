@@ -3,11 +3,11 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Enrico Caltabiano
     - Domenic Wolf
-teaserimage: Caltabiano-Wolf-teaser.png
+teaserimage: Caltabiano-Wolf-teaser.webp
 gallery:
-    - Caltabiano-Wolf-bild1.png
-    - Caltabiano-Wolf-bild2.png
-    - Caltabiano-Wolf-bild3.png
+    - Caltabiano-Wolf-bild1.webp
+    - Caltabiano-Wolf-bild2.webp
+    - Caltabiano-Wolf-bild3.webp
 styleguide: Caltabiano-Wolf-Styleguide-Patternlab.svg
 ---
 

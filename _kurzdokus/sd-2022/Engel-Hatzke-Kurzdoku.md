@@ -3,20 +3,20 @@ title: Gestaltungskonzept für «Ortsbezogene Dartstellung der Artefakte» für 
 people:
   - Timo Engel
   - Raziel Ludovico Hatzke
-teaserimage: Engel-Hatzke-Teaser.png
+teaserimage: Engel-Hatzke-Teaser.webp
 gallery: 
-  - Engel-Hatzke-WIMPMap1.png
-  - Engel-Hatzke-WIMPMap2.png
-  - Engel-Hatzke-WIMPMap3.png
-  - Engel-Hatzke-WIMPMap4.png
-  - Engel-Hatzke-WIMPMapFullscreen.png
-  - Engel-Hatzke-MobileMap1.png
-  - Engel-Hatzke-MobileMap2.png
-  - Engel-Hatzke-MobileMap3.png
-  - Engel-Hatzke-MobileMapFilter1.png
-  - Engel-Hatzke-MobileMapZoom1.png
-  - Engel-Hatzke-MobileMapZoom2.png
-  - Engel-Hatzke-MobileMapZoom4.png
+  - Engel-Hatzke-WIMPMap1.webp
+  - Engel-Hatzke-WIMPMap2.webp
+  - Engel-Hatzke-WIMPMap3.webp
+  - Engel-Hatzke-WIMPMap4.webp
+  - Engel-Hatzke-WIMPMapFullscreen.webp
+  - Engel-Hatzke-MobileMap1.webp
+  - Engel-Hatzke-MobileMap2.webp
+  - Engel-Hatzke-MobileMap3.webp
+  - Engel-Hatzke-MobileMapFilter1.webp
+  - Engel-Hatzke-MobileMapZoom1.webp
+  - Engel-Hatzke-MobileMapZoom2.webp
+  - Engel-Hatzke-MobileMapZoom4.webp
 styleguide: Engel-Hatzke-Styleguide.svg
 ---
 Im Rahmen des Projekts wurde ein Designkonzept zur Erweiterung der Funktionalität des _Cranach Digital Archive_ - ein digitales Archiv, welches die Werke des malers Lucas Cranach aus dem 16. jahrhundert sammelt. Die 2406 Werke werden in einem Gitternetz angezeigt und Subsets können über verschiedene Filter in der Sidebar herausgefiltert werden. Eine dieser Filteroptionen ist der Standort der jewiligen Sammlung.

@@ -3,29 +3,29 @@ title: Endecker & Stöberfunktion für Vincent & Voltaire
 people:
     - Wiskirchen Rene
     - Fels Marvin
-teaserimage: sd-202122-Desktop-Startseite-WISKIRCHEN-FELS.png
+teaserimage: sd-202122-Desktop-Startseite-WISKIRCHEN-FELS.webp
 gallery:
-    - sd-202122-IPhone-Startseite-WISKIRCHEN-FELS.png
-    - sd-202122-IPad-Startseite-WISKIRCHEN-FELS.png
-    - sd-202122-Desktop-Startseite-WISKIRCHEN-FELS.png
-    - sd-202122-IPhone-Neuerscheinungen-WISKIRCHEN-FELS.png
-    - sd-202122-IPad-Neuerscheinungen-WISKIRCHEN-FELS.png
-    - sd-202122-Desktop-Neuerscheinungen-WISKIRCHEN-FELS.png
-    - sd-202122-IPhone-Menü-WISKIRCHEN-FELS.png
-    - sd-202122-IPad-Menü-WISKIRCHEN-FELS.png
-    - sd-202122-Desktop-Menü-WISKIRCHEN-FELS.png
-    - sd-202122-IPhone-Buchansicht-WISKIRCHEN-FELS.png
-    - sd-202122-IPad-Buchansicht-WISKIRCHEN-FELS.png
-    - sd-202122-Desktop-Buchansicht-WISKIRCHEN-FELS.png
-    - sd-202122-IPhone-Genre-WISKIRCHEN-FELS.png
-    - sd-202122-IPad-Genre-WISKIRCHEN-FELS.png
-    - sd-202122-Desktop-Genre-WISKIRCHEN-FELS.png
-    - sd-202122-IPhone-Buchansicht(Verwurf)-WISKIRCHEN-FELS.png
-    - sd-202122-IPad-Buchansicht(Verwurf)-WISKIRCHEN-FELS.png
-    - sd-202122-Desktop-Buchansicht(Verwurf)-WISKIRCHEN-FELS.png
-    - sd-202122-IPhone-Startseite(Verwurf)-WISKIRCHEN-FELS.png
-    - sd-202122-IPad-Startseite(Verwurf)-WISKIRCHEN-FELS.png
-    - sd-202122-Desktop-Startseite(Verwurf)-WISKIRCHEN-FELS.png
+    - sd-202122-IPhone-Startseite-WISKIRCHEN-FELS.webp
+    - sd-202122-IPad-Startseite-WISKIRCHEN-FELS.webp
+    - sd-202122-Desktop-Startseite-WISKIRCHEN-FELS.webp
+    - sd-202122-IPhone-Neuerscheinungen-WISKIRCHEN-FELS.webp
+    - sd-202122-IPad-Neuerscheinungen-WISKIRCHEN-FELS.webp
+    - sd-202122-Desktop-Neuerscheinungen-WISKIRCHEN-FELS.webp
+    - sd-202122-IPhone-Menü-WISKIRCHEN-FELS.webp
+    - sd-202122-IPad-Menü-WISKIRCHEN-FELS.webp
+    - sd-202122-Desktop-Menü-WISKIRCHEN-FELS.webp
+    - sd-202122-IPhone-Buchansicht-WISKIRCHEN-FELS.webp
+    - sd-202122-IPad-Buchansicht-WISKIRCHEN-FELS.webp
+    - sd-202122-Desktop-Buchansicht-WISKIRCHEN-FELS.webp
+    - sd-202122-IPhone-Genre-WISKIRCHEN-FELS.webp
+    - sd-202122-IPad-Genre-WISKIRCHEN-FELS.webp
+    - sd-202122-Desktop-Genre-WISKIRCHEN-FELS.webp
+    - sd-202122-IPhone-Buchansicht(Verwurf)-WISKIRCHEN-FELS.webp
+    - sd-202122-IPad-Buchansicht(Verwurf)-WISKIRCHEN-FELS.webp
+    - sd-202122-Desktop-Buchansicht(Verwurf)-WISKIRCHEN-FELS.webp
+    - sd-202122-IPhone-Startseite(Verwurf)-WISKIRCHEN-FELS.webp
+    - sd-202122-IPad-Startseite(Verwurf)-WISKIRCHEN-FELS.webp
+    - sd-202122-Desktop-Startseite(Verwurf)-WISKIRCHEN-FELS.webp
 styleguide: Wiskirchen-Fels-Style_GuideSVG.svg
 ---
 Zu Beginn haben wir uns die originale Webseite von Vincent & Voltaire angesehen und einen genauen Blick darauf geworfen.

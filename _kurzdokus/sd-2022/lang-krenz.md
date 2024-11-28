@@ -3,25 +3,25 @@ title: Kurzdoku Screendesign Projekt 22/23
 people:
     - Paul Lang
     - Bogdan Krenz
-teaserimage: lang-krenz-teaser.png
+teaserimage: lang-krenz-teaser.webp
 gallery:
-    - lang-krenz-desktop-001-index.png
-    - lang-krenz-desktop-002-map.png
-    - lang-krenz-desktop-003-map-overlay.png
-    - lang-krenz-desktop-004-map-overlay-filtered.png
-    - lang-krenz-desktop-005-detail.png
-    - lang-krenz-tablet-001-index.png
-    - lang-krenz-tablet-002-map.png
-    - lang-krenz-tablet-003-map-overlay.png
-    - lang-krenz-tablet-004-map-overlay-filtered.png
-    - lang-krenz-tablet-005-detail.png
-    - lang-krenz-phone-001-index.png
-    - lang-krenz-phone-002-map.png
-    - lang-krenz-phone-003-map-pin-selected.png
-    - lang-krenz-phone-004-map-filter.png
-    - lang-krenz-phone-005-map-overlay.png
-    - lang-krenz-phone-006-detail.png
-    - lang-krenz-phone-007-detail-map.png
+    - lang-krenz-desktop-001-index.webp
+    - lang-krenz-desktop-002-map.webp
+    - lang-krenz-desktop-003-map-overlay.webp
+    - lang-krenz-desktop-004-map-overlay-filtered.webp
+    - lang-krenz-desktop-005-detail.webp
+    - lang-krenz-tablet-001-index.webp
+    - lang-krenz-tablet-002-map.webp
+    - lang-krenz-tablet-003-map-overlay.webp
+    - lang-krenz-tablet-004-map-overlay-filtered.webp
+    - lang-krenz-tablet-005-detail.webp
+    - lang-krenz-phone-001-index.webp
+    - lang-krenz-phone-002-map.webp
+    - lang-krenz-phone-003-map-pin-selected.webp
+    - lang-krenz-phone-004-map-filter.webp
+    - lang-krenz-phone-005-map-overlay.webp
+    - lang-krenz-phone-006-detail.webp
+    - lang-krenz-phone-007-detail-map.webp
 styleguide: lang-krenz-styleguide.svg
 ---
 

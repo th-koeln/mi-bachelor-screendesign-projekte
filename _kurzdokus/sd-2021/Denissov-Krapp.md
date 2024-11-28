@@ -3,17 +3,17 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Artur Denissov
     - Lennard Krapp
-teaserimage: Denissov-Krapp-Teaser.png
+teaserimage: Denissov-Krapp-Teaser.webp
 gallery:
-    - Denissov-Krapp-Highlights-Desktop.png
-    - Denissov-Krapp-Highlights-TabletHorizontal.png
-    - Denissov-Krapp-Highlights-TabletVertikal.png
-    - Denissov-Krapp-UnserTeam-Desktop.png
-    - Denissov-Krapp-UnserTeam-TabletHorizontal.png
-    - Denissov-Krapp-UnserTeam-TabletVertikal.png
-    - Denissov-Krapp-Sale-Desktop.png
-    - Denissov-Krapp-Sale-TabletHorizontal.png
-    - Denissov-Krapp-Sale-TabletVertikal.png
+    - Denissov-Krapp-Highlights-Desktop.webp
+    - Denissov-Krapp-Highlights-TabletHorizontal.webp
+    - Denissov-Krapp-Highlights-TabletVertikal.webp
+    - Denissov-Krapp-UnserTeam-Desktop.webp
+    - Denissov-Krapp-UnserTeam-TabletHorizontal.webp
+    - Denissov-Krapp-UnserTeam-TabletVertikal.webp
+    - Denissov-Krapp-Sale-Desktop.webp
+    - Denissov-Krapp-Sale-TabletHorizontal.webp
+    - Denissov-Krapp-Sale-TabletVertikal.webp
 styleguide: Denissov-Krapp-Styleguide.svg
 ---
 

@@ -2,18 +2,18 @@
 title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE
 people:
     - Maria Paula Benjumea Cañón
-teaserimage: benjumea-teaser.png
+teaserimage: benjumea-teaser.webp
 gallery:
-    - benjumea-desktop-1.png
-    - benjumea-desktop-2.png
-    - benjumea-desktop-3.png
-    - benjumea-desktop-4.png
-    - benjumea-desktop-5.png
-    - benjumea-tablet-1.png
-    - benjumea-tablet-2.png
-    - benjumea-tablet-3.png
-    - benjumea-tablet-4.png
-    - benjumea-tablet-5.png
+    - benjumea-desktop-1.webp
+    - benjumea-desktop-2.webp
+    - benjumea-desktop-3.webp
+    - benjumea-desktop-4.webp
+    - benjumea-desktop-5.webp
+    - benjumea-tablet-1.webp
+    - benjumea-tablet-2.webp
+    - benjumea-tablet-3.webp
+    - benjumea-tablet-4.webp
+    - benjumea-tablet-5.webp
     
 styleguide: benjumea-styleguide.svg
 ---

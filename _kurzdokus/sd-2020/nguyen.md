@@ -2,18 +2,18 @@
 title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Trang Nguyen
-teaserimage: nguyen-teaser.png
+teaserimage: nguyen-teaser.webp
 gallery:
-    - nguyen-macbookpro-mainpage.png
-    - nguyen-macbookpro-sammlungfavoriten.png
-    - nguyen-macbookpro-zweibildervergleich.png
-    - nguyen-macbookpro-aufteilung.png
-    - nguyen-macbookpro-zoom.png
-    - nguyen-macbookpro-multivergleich.png
-    - nguyen-macbookpro-stacks.png
-    - nguyen-macbookpro-detail.png
-    - nguyen-ipadpro-mainpage.png
-    - nguyen-ipadpro-bildvergleich.png
+    - nguyen-macbookpro-mainpage.webp
+    - nguyen-macbookpro-sammlungfavoriten.webp
+    - nguyen-macbookpro-zweibildervergleich.webp
+    - nguyen-macbookpro-aufteilung.webp
+    - nguyen-macbookpro-zoom.webp
+    - nguyen-macbookpro-multivergleich.webp
+    - nguyen-macbookpro-stacks.webp
+    - nguyen-macbookpro-detail.webp
+    - nguyen-ipadpro-mainpage.webp
+    - nguyen-ipadpro-bildvergleich.webp
 styleguide: nguyen-styleguide.svg
 ---
 

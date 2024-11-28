@@ -3,14 +3,14 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Andreas Schurawlev
     - Mayess Sammoud
-teaserimage: sammoud-schurawlev-teaser.png
+teaserimage: sammoud-schurawlev-teaser.webp
 gallery:
-    - sammoud-schurawlev-1.png
-    - sammoud-schurawlev-2.png
-    - sammoud-schurawlev-3.png
-    - sammoud-schurawlev-4.png
-    - sammoud-schurawlev-5.png
-    - sammoud-schurawlev-6.png
+    - sammoud-schurawlev-1.webp
+    - sammoud-schurawlev-2.webp
+    - sammoud-schurawlev-3.webp
+    - sammoud-schurawlev-4.webp
+    - sammoud-schurawlev-5.webp
+    - sammoud-schurawlev-6.webp
 styleguide: sammoud-schurawlev-styleguide.svg
 ---
 

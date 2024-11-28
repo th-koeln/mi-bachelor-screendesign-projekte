@@ -3,18 +3,18 @@ title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung
 people:
     - Paula Vuco
     - Zara Zaric
-teaserimage: Vuco-Zaric-Teaser.png
+teaserimage: Vuco-Zaric-Teaser.webp
 gallery:
-    - Vuco-Zaric-Wimp.1.png
-    - Vuco-Zaric-Wimp.2.png
-    - Vuco-Zaric-Wimp.5.png
-    - Vuco-Zaric-Wimp.7.png
-    - Vuco-Zaric-Wimp.10.png
-    - Vuco-Zaric-Wimp.11.png
-    - Vuco-Zaric-iPhone.2.png
-    - Vuco-Zaric-iPhone.6.png
-    - Vuco-Zaric-iPad.3.png
-    - Vuco-Zaric-iPad.9.png
+    - Vuco-Zaric-Wimp.1.webp
+    - Vuco-Zaric-Wimp.2.webp
+    - Vuco-Zaric-Wimp.5.webp
+    - Vuco-Zaric-Wimp.7.webp
+    - Vuco-Zaric-Wimp.10.webp
+    - Vuco-Zaric-Wimp.11.webp
+    - Vuco-Zaric-iPhone.2.webp
+    - Vuco-Zaric-iPhone.6.webp
+    - Vuco-Zaric-iPad.3.webp
+    - Vuco-Zaric-iPad.9.webp
 styleguide: Vuco-Zaric-Styleguide.svg
 ---
 

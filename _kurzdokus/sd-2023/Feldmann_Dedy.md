@@ -3,26 +3,26 @@ title: Projekt 2023 - ProjectSurvival4All
 people:
     - Maximilian Feldmann
     - Christian Dedy
-teaserimage: feldmann_dedy_teaser.png
+teaserimage: feldmann_dedy_teaser.webp
 gallery:
-    - feldmann_dedy_phasensuche.png
-    - feldmann_dedy_artikelsuche.png
-    - feldmann_dedy_feedback.png
-    - feldmann_dedy_autorensuche.png
-    - feldmann_dedy_reader_selektiv.png
-    - feldmann_dedy_reader_semi_fullscreen.png
-    - feldmann_dedy_ueberuns.png
-    - feldmann_dedy_startseite.png
-    - feldmann_dedy_fullscreen.png
-    - feldmann_dedy_welcome.png
-    - m_feldmann_dedy_welcome.png
-    - m_feldmann_dedy_startseite.png
-    - m_feldmann_dedy_reader_selektiv.png
-    - m_feldmann_dedy_fullscreen.png
-    - m_feldmann_dedy_ueberuns.png
-    - m_feldmann_dedy_autorensuche.png
-    - m_feldmann_dedy_artikelsuche.png
-    - m_feldmann_dedy_phasensuche.png
+    - feldmann_dedy_phasensuche.webp
+    - feldmann_dedy_artikelsuche.webp
+    - feldmann_dedy_feedback.webp
+    - feldmann_dedy_autorensuche.webp
+    - feldmann_dedy_reader_selektiv.webp
+    - feldmann_dedy_reader_semi_fullscreen.webp
+    - feldmann_dedy_ueberuns.webp
+    - feldmann_dedy_startseite.webp
+    - feldmann_dedy_fullscreen.webp
+    - feldmann_dedy_welcome.webp
+    - m_feldmann_dedy_welcome.webp
+    - m_feldmann_dedy_startseite.webp
+    - m_feldmann_dedy_reader_selektiv.webp
+    - m_feldmann_dedy_fullscreen.webp
+    - m_feldmann_dedy_ueberuns.webp
+    - m_feldmann_dedy_autorensuche.webp
+    - m_feldmann_dedy_artikelsuche.webp
+    - m_feldmann_dedy_phasensuche.webp
 styleguide: feldmann_dedy_styleguide.svg
 ---
 

@@ -3,12 +3,12 @@ title: Erweiterung der «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE
 people:
     - Alessa von Scheidt
     - Leyla Issa
-teaserimage: sd-202122-vonScheidt-Issa-teaser.png
+teaserimage: sd-202122-vonScheidt-Issa-teaser.webp
 gallery:
-    - sd-202122-d-vonScheidt-Issa-buecherregale.png
-    - sd-202122-t-vonScheidt-Issa-buecherregale.png
-    - sd-202122-d-vonScheidt-Issa-buecherregale-popup.png
-    - sd-202122-d-vonScheidt-Issa-buechertische.png
+    - sd-202122-d-vonScheidt-Issa-buecherregale.webp
+    - sd-202122-t-vonScheidt-Issa-buecherregale.webp
+    - sd-202122-d-vonScheidt-Issa-buecherregale-popup.webp
+    - sd-202122-d-vonScheidt-Issa-buechertische.webp
 styleguide: sd-202122-vonScheidt-Issa-styleguide.svg
 ---
 

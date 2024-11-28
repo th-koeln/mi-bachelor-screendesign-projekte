@@ -3,16 +3,16 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Verena Heissbach
     - Anne Germund
-teaserimage: heissbach-germund-teaser.png
+teaserimage: heissbach-germund-teaser.webp
 gallery:
-    - heissbach-germund-bild1.png
-    - heissbach-germund-bild2.png
-    - heissbach-germund-bild3.png
-    - heissbach-germund-bild4.png
-    - heissbach-germund-bild5.png
-    - heissbach-germund-bild6.png
-    - heissbach-germund-bild7.png
-    - heissbach-germund-bild8.png
+    - heissbach-germund-bild1.webp
+    - heissbach-germund-bild2.webp
+    - heissbach-germund-bild3.webp
+    - heissbach-germund-bild4.webp
+    - heissbach-germund-bild5.webp
+    - heissbach-germund-bild6.webp
+    - heissbach-germund-bild7.webp
+    - heissbach-germund-bild8.webp
 styleguide: heissbach-germund-styleguide.svg
 ---
 

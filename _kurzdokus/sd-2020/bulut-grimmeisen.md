@@ -3,12 +3,12 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Emre Bulut
     - David Grimmeisen
-teaserimage: bulut-grimmeisen-teaser.png
+teaserimage: bulut-grimmeisen-teaser.webp
 gallery:
-    - bulut-grimmeisen-bild1.png
-    - bulut-grimmeisen-bild2.png
-    - bulut-grimmeisen-bild3.png
-    - bulut-grimmeisen-bild4.png
+    - bulut-grimmeisen-bild1.webp
+    - bulut-grimmeisen-bild2.webp
+    - bulut-grimmeisen-bild3.webp
+    - bulut-grimmeisen-bild4.webp
 styleguide: bulut-grimmeisen-styleguide.svg
 ---
 

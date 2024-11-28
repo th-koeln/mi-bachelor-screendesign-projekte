@@ -2,11 +2,11 @@
 title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Sebastian Brock
-teaserimage: brock-teaser.png
+teaserimage: brock-teaser.webp
 gallery:
-    - brock-03_bildauswahl_finished.png
-    - brock-05_favorites-selected.png
-    - brock-08_vergleich-bildausschnitt.png
+    - brock-03_bildauswahl_finished.webp
+    - brock-05_favorites-selected.webp
+    - brock-08_vergleich-bildausschnitt.webp
 styleguide: brock-styleguide.svg
 ---
 

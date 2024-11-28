@@ -3,27 +3,27 @@ title: ProjectSurvival4All
 people:
     - Ben Pritzkau
     - Robin Schlegel
-teaserimage: pritzkau-schlegel-teaser.png
+teaserimage: pritzkau-schlegel-teaser.webp
 gallery:
-    - pritzkau-schlegel-bild1.png
-    - pritzkau-schlegel-bild2.png
+    - pritzkau-schlegel-bild1.webp
+    - pritzkau-schlegel-bild2.webp
     - pritzkau-schlegel-bild3-png
-    - pritzkau-schlegel-bild4.png
-    - pritzkau-schlegel-bild5.png
-    - pritzkau-schlegel-bild6.png
-    - pritzkau-schlegel-bild7.png
-    - pritzkau-schlegel-bild8.png
-    - pritzkau-schlegel-bild9.png
-    - pritzkau-schlegel-bild10.png
-    - pritzkau-schlegel-bild11.png
-    - pritzkau-schlegel-bild12.png
-    - pritzkau-schlegel-bild13.png
-    - pritzkau-schlegel-bild14.png
-    - pritzkau-schlegel-bild15.png
-    - pritzkau-schlegel-bild16.png
-    - pritzkau-schlegel-bild17.png
-    - pritzkau-schlegel-bild18.png
-    - pritzkau-schlegel-bild19.png
+    - pritzkau-schlegel-bild4.webp
+    - pritzkau-schlegel-bild5.webp
+    - pritzkau-schlegel-bild6.webp
+    - pritzkau-schlegel-bild7.webp
+    - pritzkau-schlegel-bild8.webp
+    - pritzkau-schlegel-bild9.webp
+    - pritzkau-schlegel-bild10.webp
+    - pritzkau-schlegel-bild11.webp
+    - pritzkau-schlegel-bild12.webp
+    - pritzkau-schlegel-bild13.webp
+    - pritzkau-schlegel-bild14.webp
+    - pritzkau-schlegel-bild15.webp
+    - pritzkau-schlegel-bild16.webp
+    - pritzkau-schlegel-bild17.webp
+    - pritzkau-schlegel-bild18.webp
+    - pritzkau-schlegel-bild19.webp
 styleguide: pritzkau-schlegel-styleguide.svg
 ---
 

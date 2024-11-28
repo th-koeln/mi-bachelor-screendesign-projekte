@@ -3,27 +3,27 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Marko Kalaburda
     - Florian Regnery
-teaserimage: kalaburda-regnery-teaser.png
+teaserimage: kalaburda-regnery-teaser.webp
 gallery:
-    - kalaburda-regnery-browser-1.png
-    - kalaburda-regnery-browser-2.png
-    - kalaburda-regnery-browser-3.png
-    - kalaburda-regnery-browser-4.png
-    - kalaburda-regnery-browser-5.png
-    - kalaburda-regnery-browser-6.png
-    - kalaburda-regnery-browser-7.png
-    - kalaburda-regnery-browser-8.png
-    - kalaburda-regnery-browser-9.png
-    - kalaburda-regnery-touch-1.png
-    - kalaburda-regnery-touch-2.png
-    - kalaburda-regnery-touch-3.png
-    - kalaburda-regnery-touch-4.png
-    - kalaburda-regnery-touch-5.png
-    - kalaburda-regnery-touch-6.png
-    - kalaburda-regnery-touch-7.png
-    - kalaburda-regnery-touch-8.png
-    - kalaburda-regnery-touch-9.png
-    - kalaburda-regnery-touch-10.png
+    - kalaburda-regnery-browser-1.webp
+    - kalaburda-regnery-browser-2.webp
+    - kalaburda-regnery-browser-3.webp
+    - kalaburda-regnery-browser-4.webp
+    - kalaburda-regnery-browser-5.webp
+    - kalaburda-regnery-browser-6.webp
+    - kalaburda-regnery-browser-7.webp
+    - kalaburda-regnery-browser-8.webp
+    - kalaburda-regnery-browser-9.webp
+    - kalaburda-regnery-touch-1.webp
+    - kalaburda-regnery-touch-2.webp
+    - kalaburda-regnery-touch-3.webp
+    - kalaburda-regnery-touch-4.webp
+    - kalaburda-regnery-touch-5.webp
+    - kalaburda-regnery-touch-6.webp
+    - kalaburda-regnery-touch-7.webp
+    - kalaburda-regnery-touch-8.webp
+    - kalaburda-regnery-touch-9.webp
+    - kalaburda-regnery-touch-10.webp
     
 
 styleguide: kalaburda-regnery-styleguide.svg

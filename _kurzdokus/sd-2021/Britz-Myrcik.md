@@ -3,37 +3,37 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Joelle Britz
     - Daniel Myrcik
-teaserimage: Britz-Myrcik-teaser.png
+teaserimage: Britz-Myrcik-teaser.webp
 gallery:
-    - Britz-Myrcik-Stöbern_komplett.png
-    - Britz-Myrcik-Stöbern_1.png
-    - Britz-Myrcik-Stöbern_2.png
-    - Britz-Myrcik-Abenteuer_komplett.png
-    - Britz-Myrcik-Abenteuer_1.png
-    - Britz-Myrcik-Abenteuer_2.png
-    - Britz-Myrcik-Abenteuer_3.png
-    - Britz-Myrcik-Abenteuer_4.png
-    - Britz-Myrcik-Abenteuer_5.png
-    - Britz-Myrcik-Abenteuer_6.png
-    - Britz-Myrcik-Abenteuer_7.png
-    - Britz-Myrcik-Bookazine_komplett.png
-    - Britz-Myrcik-Bookazine_1.png
-    - Britz-Myrcik-Bookazine_2.png
-    - Britz-Myrcik-Tablet_Homescreen.png
-    - Britz-Myrcik-Tablet_Menue_1.png
-    - Britz-Myrcik-Tablet_Menue_2.png
-    - Britz-Myrcik-Tablet_Suche.png
-    - Britz-Myrcik-Tablet_Stöbern_komplett.png
-    - Britz-Myrcik-Tablet_Stöbern_1.png
-    - Britz-Myrcik-Tablet_Stöbern_2.png
-    - Britz-Myrcik-Tablet_Abenteuer_komplett.png
-    - Britz-Myrcik-Tablet_Abenteuer_1.png
-    - Britz-Myrcik-Tablet_Abenteuer_2.png
-    - Britz-Myrcik-Tablet_Abenteuer_3.png
-    - Britz-Myrcik-Tablet_Abenteuer_4.png
-    - Britz-Myrcik-Tablet_Abenteuer_5.png
-    - Britz-Myrcik-Tablet_Abenteuer_6.png
-    - Britz-Myrcik-Tablet_Bookazine.png
+    - Britz-Myrcik-Stöbern_komplett.webp
+    - Britz-Myrcik-Stöbern_1.webp
+    - Britz-Myrcik-Stöbern_2.webp
+    - Britz-Myrcik-Abenteuer_komplett.webp
+    - Britz-Myrcik-Abenteuer_1.webp
+    - Britz-Myrcik-Abenteuer_2.webp
+    - Britz-Myrcik-Abenteuer_3.webp
+    - Britz-Myrcik-Abenteuer_4.webp
+    - Britz-Myrcik-Abenteuer_5.webp
+    - Britz-Myrcik-Abenteuer_6.webp
+    - Britz-Myrcik-Abenteuer_7.webp
+    - Britz-Myrcik-Bookazine_komplett.webp
+    - Britz-Myrcik-Bookazine_1.webp
+    - Britz-Myrcik-Bookazine_2.webp
+    - Britz-Myrcik-Tablet_Homescreen.webp
+    - Britz-Myrcik-Tablet_Menue_1.webp
+    - Britz-Myrcik-Tablet_Menue_2.webp
+    - Britz-Myrcik-Tablet_Suche.webp
+    - Britz-Myrcik-Tablet_Stöbern_komplett.webp
+    - Britz-Myrcik-Tablet_Stöbern_1.webp
+    - Britz-Myrcik-Tablet_Stöbern_2.webp
+    - Britz-Myrcik-Tablet_Abenteuer_komplett.webp
+    - Britz-Myrcik-Tablet_Abenteuer_1.webp
+    - Britz-Myrcik-Tablet_Abenteuer_2.webp
+    - Britz-Myrcik-Tablet_Abenteuer_3.webp
+    - Britz-Myrcik-Tablet_Abenteuer_4.webp
+    - Britz-Myrcik-Tablet_Abenteuer_5.webp
+    - Britz-Myrcik-Tablet_Abenteuer_6.webp
+    - Britz-Myrcik-Tablet_Bookazine.webp
     
 styleguide: Britz-Myrcik-Styleguide.svg
 ---

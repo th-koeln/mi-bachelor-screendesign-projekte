@@ -3,14 +3,14 @@ title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung
 people:
     - Angelina Maurer
     - Ines Breidbach
-teaserimage: sd-teaser-breidbach-maurer.png
+teaserimage: sd-teaser-breidbach-maurer.webp
 gallery:
-    - sd-tablet-p-1-start-breidbach-maurer.png
-    - sd-tablet-p-2-search-breidbach-maurer.png
-    - sd-tablet-p-3-weltkarte-breidbach-maurer.png
-    - sd-tablet-p-4-landauswahl-breidbach-maurer.png
-    - sd-tablet-p-5-1-detail-breidbach-maurer.png
-    - sd-tablet-p-5-2-detail-map-breidbach-maurer.png
+    - sd-tablet-p-1-start-breidbach-maurer.webp
+    - sd-tablet-p-2-search-breidbach-maurer.webp
+    - sd-tablet-p-3-weltkarte-breidbach-maurer.webp
+    - sd-tablet-p-4-landauswahl-breidbach-maurer.webp
+    - sd-tablet-p-5-1-detail-breidbach-maurer.webp
+    - sd-tablet-p-5-2-detail-map-breidbach-maurer.webp
 styleguide: sd-styleguide-breidbach-maurer.svg
 ---
 

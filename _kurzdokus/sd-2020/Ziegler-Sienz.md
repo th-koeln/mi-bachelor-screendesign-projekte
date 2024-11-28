@@ -5,11 +5,11 @@ people:
     - Yasmin Ziegler
 teaserimage: Ziegler-Sienz-teaser.jpeg
 gallery:
-    - Ziegler-Sienz-bild1.png
-    - Ziegler-Sienz-bild2.png
-    - Ziegler-Sienz-bild3.png
-    - Ziegler-Sienz-bild4.png
-    - Ziegler-Sienz-bild5.png
+    - Ziegler-Sienz-bild1.webp
+    - Ziegler-Sienz-bild2.webp
+    - Ziegler-Sienz-bild3.webp
+    - Ziegler-Sienz-bild4.webp
+    - Ziegler-Sienz-bild5.webp
 styleguide: Ziegler-Sienz-patternlab.svg
 ---
 

@@ -2,20 +2,20 @@
 title: ProjectSurvival4All - Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus
 people:
     - Ricardo Timm
-teaserimage: timm-mockup-1-macbook-teaser.png
+teaserimage: timm-mockup-1-macbook-teaser.webp
 gallery:
-    - timm-desktop-1-mainpage.png
-    - timm-desktop-2-mainpage.png
-    - timm-desktop-3-contentpage.png
-    - timm-desktop-4-contentpage.png
-    - timm-desktop-5-contentpage.png
-    - timm-ipad-1-mainpage-horizontal.png
-    - timm-ipad-2-contenptage-horizontal.png
-    - timm-ipad-3-mainpage-vertikal.png
-    - timm-ipad-4-contentpage-vertikal.png
-    - timm-mockup-1-macbook-teaser.png
-    - timm-mockup-2-ipadhorizontal.png
-    - timm-mockup-3-ipadvertikal.png
+    - timm-desktop-1-mainpage.webp
+    - timm-desktop-2-mainpage.webp
+    - timm-desktop-3-contentpage.webp
+    - timm-desktop-4-contentpage.webp
+    - timm-desktop-5-contentpage.webp
+    - timm-ipad-1-mainpage-horizontal.webp
+    - timm-ipad-2-contenptage-horizontal.webp
+    - timm-ipad-3-mainpage-vertikal.webp
+    - timm-ipad-4-contentpage-vertikal.webp
+    - timm-mockup-1-macbook-teaser.webp
+    - timm-mockup-2-ipadhorizontal.webp
+    - timm-mockup-3-ipadvertikal.webp
 styleguide: timm-style-guide.svg
 ---
 

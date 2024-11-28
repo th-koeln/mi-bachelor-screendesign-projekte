@@ -3,15 +3,15 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Lara Engeln
     - Domenic Schäfer
-teaserimage: engeln-schaefer-teaser.png
+teaserimage: engeln-schaefer-teaser.webp
 gallery:
-    - engeln-schaefer-galerieMobile.png
-    - engeln-schaefer-sammlungMobile1.png
-    - engeln-schaefer-sammlungDesktop2.png
-    - engeln-schaefer-vergleichMobile1.png
-    - engeln-schaefer-vergleichMobile2.png
-    - engeln-schaefer-vergleichMobile3.png
-    - engeln-schaefer-vergleichDesktop3.png
+    - engeln-schaefer-galerieMobile.webp
+    - engeln-schaefer-sammlungMobile1.webp
+    - engeln-schaefer-sammlungDesktop2.webp
+    - engeln-schaefer-vergleichMobile1.webp
+    - engeln-schaefer-vergleichMobile2.webp
+    - engeln-schaefer-vergleichMobile3.webp
+    - engeln-schaefer-vergleichDesktop3.webp
 styleguide: engeln-schaefer-styleguide.svg
 ---
 

@@ -3,15 +3,15 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Orhan Serdar Karakas
     - Hendrick Runde
-teaserimage: Notzon-Klein-Header.png
+teaserimage: Notzon-Klein-Header.webp
 gallery:
-    - Karakas-Runde-tablet1.png
-    - Karakas-Runde-tablet2.png
-    - Karakas-Runde-tablet3.png
-    - Karakas-Runde-Laptop1.png
-    - Karakas-Runde-Laptop2.png
-    - Karakas-Runde-Laptop3.png
-    - Karakas-Runde-Laptop4.png
+    - Karakas-Runde-tablet1.webp
+    - Karakas-Runde-tablet2.webp
+    - Karakas-Runde-tablet3.webp
+    - Karakas-Runde-Laptop1.webp
+    - Karakas-Runde-Laptop2.webp
+    - Karakas-Runde-Laptop3.webp
+    - Karakas-Runde-Laptop4.webp
 
 styleguide: Karakas-Runde-styleguide.svg
 ---

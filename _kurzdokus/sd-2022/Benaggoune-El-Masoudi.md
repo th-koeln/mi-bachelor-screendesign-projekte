@@ -3,27 +3,27 @@ title: Neue Ansicht «Ortsbezogene Dartstellung der Artefakte» im Cranach Digit
 people:
     - Ilias El-Masoudi
     - Sekarja Benaggoune
-teaserimage: Benaggoune-El-Masoudi-Teaser.png
+teaserimage: Benaggoune-El-Masoudi-Teaser.webp
 gallery:
-    - Benaggoune-El-Masoudi-Desktop-1.png
-    - Benaggoune-El-Masoudi-Desktop-2.png
-    - Benaggoune-El-Masoudi-Desktop-3.png
-    - Benaggoune-El-Masoudi-Desktop-4.png
-    - Benaggoune-El-Masoudi-Desktop-5.png
-    - Benaggoune-El-Masoudi-Desktop-6.png
-    - Benaggoune-El-Masoudi-Desktop-7.png
-    - Benaggoune-El-Masoudi-Desktop-8.png
-    - Benaggoune-El-Masoudi-Smartphone-1.png
-    - Benaggoune-El-Masoudi-Smartphone-2.png
-    - Benaggoune-El-Masoudi-Smartphone-3.png
-    - Benaggoune-El-Masoudi-Smartphone-4.png
-    - Benaggoune-El-Masoudi-Smartphone-5.png
-    - Benaggoune-El-Masoudi-Smartphone-6.png
-    - Benaggoune-El-Masoudi-Smartphone-7.png
-    - Benaggoune-El-Masoudi-Smartphone-8.png
-    - Benaggoune-El-Masoudi-Smartphone-9.png
-    - Benaggoune-El-Masoudi-Tablet_Horizontal.png
-    - Benaggoune-El-Masoudi-Tablet_Vertikal.png
+    - Benaggoune-El-Masoudi-Desktop-1.webp
+    - Benaggoune-El-Masoudi-Desktop-2.webp
+    - Benaggoune-El-Masoudi-Desktop-3.webp
+    - Benaggoune-El-Masoudi-Desktop-4.webp
+    - Benaggoune-El-Masoudi-Desktop-5.webp
+    - Benaggoune-El-Masoudi-Desktop-6.webp
+    - Benaggoune-El-Masoudi-Desktop-7.webp
+    - Benaggoune-El-Masoudi-Desktop-8.webp
+    - Benaggoune-El-Masoudi-Smartphone-1.webp
+    - Benaggoune-El-Masoudi-Smartphone-2.webp
+    - Benaggoune-El-Masoudi-Smartphone-3.webp
+    - Benaggoune-El-Masoudi-Smartphone-4.webp
+    - Benaggoune-El-Masoudi-Smartphone-5.webp
+    - Benaggoune-El-Masoudi-Smartphone-6.webp
+    - Benaggoune-El-Masoudi-Smartphone-7.webp
+    - Benaggoune-El-Masoudi-Smartphone-8.webp
+    - Benaggoune-El-Masoudi-Smartphone-9.webp
+    - Benaggoune-El-Masoudi-Tablet_Horizontal.webp
+    - Benaggoune-El-Masoudi-Tablet_Vertikal.webp
 styleguide: Benaggoune-El-Masoudi-Styleguide.svg
 ---
 

@@ -3,19 +3,19 @@ title: Optimierung des Stöber- und Entdeckerformats für VINCENT & VOLTAIRE
 people:
     - Tom Höhler
     - Tony Nguyen
-teaserimage: hoehler-nguyen-teaser.png
+teaserimage: hoehler-nguyen-teaser.webp
 gallery:
-    - hoehler-nguyen-startseite.png
-    - hoehler-nguyen-stoebern.png
-    - hoehler-nguyen-buchthemen.png
-    - hoehler-nguyen-buchthema.png
-    - hoehler-nguyen-subthema.png
-    - hoehler-nguyen-buchauswahl.png
-    - hoehler-nguyen-tablet-stoebern.png
-    - hoehler-nguyen-tablet-buchthemen.png
-    - hoehler-nguyen-tablet-buchthema.png
-    - hoehler-nguyen-tablet-subthema.png
-    - hoehler-nguyen-tablet-buchauswahl.png
+    - hoehler-nguyen-startseite.webp
+    - hoehler-nguyen-stoebern.webp
+    - hoehler-nguyen-buchthemen.webp
+    - hoehler-nguyen-buchthema.webp
+    - hoehler-nguyen-subthema.webp
+    - hoehler-nguyen-buchauswahl.webp
+    - hoehler-nguyen-tablet-stoebern.webp
+    - hoehler-nguyen-tablet-buchthemen.webp
+    - hoehler-nguyen-tablet-buchthema.webp
+    - hoehler-nguyen-tablet-subthema.webp
+    - hoehler-nguyen-tablet-buchauswahl.webp
 styleguide: hoehler-nguyen-styleguide.svg
 ---
 

@@ -3,15 +3,15 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Caterina Sophia Thimm
     - Linda Maiworm
-teaserimage: maiworm-thimm-teaser.png
+teaserimage: maiworm-thimm-teaser.webp
 gallery:
-    - maiworm-thimm-bild1.png
-    - maiworm-thimm-bild2.png
-    - maiworm-thimm-bild3.png
-    - maiworm-thimm-bild4.png
-    - maiworm-thimm-bild5.png
-    - maiworm-thimm-bild6.png
-    - maiworm-thimm-bild7.png
+    - maiworm-thimm-bild1.webp
+    - maiworm-thimm-bild2.webp
+    - maiworm-thimm-bild3.webp
+    - maiworm-thimm-bild4.webp
+    - maiworm-thimm-bild5.webp
+    - maiworm-thimm-bild6.webp
+    - maiworm-thimm-bild7.webp
 styleguide: maiworm-thimm-styleguide.svg
 ---
 

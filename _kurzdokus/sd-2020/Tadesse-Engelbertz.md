@@ -3,14 +3,14 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Helina Tadesse
     - Esther Engelbertz
-teaserimage: tadesse-engelbertz-teaser.png
+teaserimage: tadesse-engelbertz-teaser.webp
 gallery:
-    - tadesse-engelbertz-bild1.png
-    - tadesse-engelbertz-bild2.png
-    - tadesse-engelbertz-bild3.png
-    - tadesse-engelbertz-bild4.png
-    - tadesse-engelbertz-bild5.png
-    - tadesse-engelbertz-bild6.png
+    - tadesse-engelbertz-bild1.webp
+    - tadesse-engelbertz-bild2.webp
+    - tadesse-engelbertz-bild3.webp
+    - tadesse-engelbertz-bild4.webp
+    - tadesse-engelbertz-bild5.webp
+    - tadesse-engelbertz-bild6.webp
 styleguide: tadesse-engelbertz-styleguide.svg
 ---
 

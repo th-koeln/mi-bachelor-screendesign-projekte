@@ -2,21 +2,21 @@
 title: Funktionserweiterung «Bildstandorte anzeigen» im Cranach Digital Archive
 people:
     - Manuel Hesse
-teaserimage: hesse-sd-01-teaser.png
+teaserimage: hesse-sd-01-teaser.webp
 gallery:
-    - hesse-01-d-suchseite.png
-    - hesse-02-d-artefaktkarte.png
-    - hesse-03-d-artefaktkarte-filter.png
-    - hesse-04-d-artefaktkarte-auswahl.png
-    - hesse-05-d-artefaktkarte-auswahl-nächstes-bild.png
-    - hesse-06-d-detailseite-beispiel.png
-    - hesse-01-m-artefaktkarte.png
-    - hesse-02-m-artefaktkarte-auswahl.png
-    - hesse-03-m-detailseite-1.png
-    - hesse-04-m-detailseite-2.png
-    - hesse-01-t-artefaktkarte.png
-    - hesse-02-t-artefaktkarte-auswahl.png
-    - hesse-03-t-detailseite.png
+    - hesse-01-d-suchseite.webp
+    - hesse-02-d-artefaktkarte.webp
+    - hesse-03-d-artefaktkarte-filter.webp
+    - hesse-04-d-artefaktkarte-auswahl.webp
+    - hesse-05-d-artefaktkarte-auswahl-nächstes-bild.webp
+    - hesse-06-d-detailseite-beispiel.webp
+    - hesse-01-m-artefaktkarte.webp
+    - hesse-02-m-artefaktkarte-auswahl.webp
+    - hesse-03-m-detailseite-1.webp
+    - hesse-04-m-detailseite-2.webp
+    - hesse-01-t-artefaktkarte.webp
+    - hesse-02-t-artefaktkarte-auswahl.webp
+    - hesse-03-t-detailseite.webp
 
 styleguide: hesse-sd-styleguide.svg
 ---

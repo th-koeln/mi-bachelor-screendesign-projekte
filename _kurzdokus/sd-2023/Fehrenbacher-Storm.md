@@ -3,26 +3,26 @@ title: ProjectSurvival4All
 people:
     - Cordelia Fehrenbacher
     - Jesaja Storm
-teaserimage: Fehrenbacher-Storm-tablet-5.png
+teaserimage: Fehrenbacher-Storm-tablet-5.webp
 gallery:
-    - Fehrenbacher-Storm-mobile-1.png
-    - Fehrenbacher-Storm-mobile-2.png
-    - Fehrenbacher-Storm-mobile-3.png
-    - Fehrenbacher-Storm-mobile-4.png
-    - Fehrenbacher-Storm-mobile-5.png
-    - Fehrenbacher-Storm-mobile-6.png
-    - Fehrenbacher-Storm-tablet-1.png
-    - Fehrenbacher-Storm-tablet-2.png
-    - Fehrenbacher-Storm-tablet-3.png
-    - Fehrenbacher-Storm-tablet-4.png
-    - Fehrenbacher-Storm-tablet-5.png
-    - Fehrenbacher-Storm-tablet-6.png
-    - Fehrenbacher-Storm-desktop-1.png
-    - Fehrenbacher-Storm-desktop-2.png
-    - Fehrenbacher-Storm-desktop-3.png
-    - Fehrenbacher-Storm-desktop-4.png
-    - Fehrenbacher-Storm-desktop-5.png
-    - Fehrenbacher-Storm-desktop-6.png
+    - Fehrenbacher-Storm-mobile-1.webp
+    - Fehrenbacher-Storm-mobile-2.webp
+    - Fehrenbacher-Storm-mobile-3.webp
+    - Fehrenbacher-Storm-mobile-4.webp
+    - Fehrenbacher-Storm-mobile-5.webp
+    - Fehrenbacher-Storm-mobile-6.webp
+    - Fehrenbacher-Storm-tablet-1.webp
+    - Fehrenbacher-Storm-tablet-2.webp
+    - Fehrenbacher-Storm-tablet-3.webp
+    - Fehrenbacher-Storm-tablet-4.webp
+    - Fehrenbacher-Storm-tablet-5.webp
+    - Fehrenbacher-Storm-tablet-6.webp
+    - Fehrenbacher-Storm-desktop-1.webp
+    - Fehrenbacher-Storm-desktop-2.webp
+    - Fehrenbacher-Storm-desktop-3.webp
+    - Fehrenbacher-Storm-desktop-4.webp
+    - Fehrenbacher-Storm-desktop-5.webp
+    - Fehrenbacher-Storm-desktop-6.webp
 styleguide: Fehrenbacher-Storm-Styleguide.svg
 ---
 

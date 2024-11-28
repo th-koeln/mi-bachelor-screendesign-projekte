@@ -3,17 +3,17 @@ title: ProjectSurvival4All – Sympathische und praktische Survival-Tipps für d
 people:
     - Paula Klein
     - Jason Hartono
-teaserimage: klein-hartono-teaser.png
+teaserimage: klein-hartono-teaser.webp
 gallery:
-    - klein-hartono-WIMP1.png
-    - klein-hartono-WIMP2.png
-    - klein-hartono-WIMP3.png
-    - klein-hartono-WIMP4.png
-    - klein-hartono-phone1.png
-    - klein-hartono-phone2.png
-    - klein-hartono-tablet1.png
-    - klein-hartono-tablet2.png
-    - klein-hartono-tablet3.png
+    - klein-hartono-WIMP1.webp
+    - klein-hartono-WIMP2.webp
+    - klein-hartono-WIMP3.webp
+    - klein-hartono-WIMP4.webp
+    - klein-hartono-phone1.webp
+    - klein-hartono-phone2.webp
+    - klein-hartono-tablet1.webp
+    - klein-hartono-tablet2.webp
+    - klein-hartono-tablet3.webp
    
 styleguide: klein-hartono-styleguide.svg
 ---

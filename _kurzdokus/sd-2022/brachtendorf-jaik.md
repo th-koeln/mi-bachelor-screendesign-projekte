@@ -3,31 +3,31 @@ title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung
 people:
     - Clemens Brachtendorf
     - Maximilian Jaik
-teaserimage: Desktop_CDA_Standorte_Vollbild_07.png
+teaserimage: Desktop_CDA_Standorte_Vollbild_07.webp
 gallery:
-    - Desktop_CDA_Startseite_01.png
-    - Desktop_CDA_AlleWerke_02.png
-    - Desktop_CDA_Standorte_03.png
-    - Pop_Up_Desktop_CDA_Deutschland_04.png
-    - Desktop_CDA_Standorte_ZoomIn_05.png
-    - Pop_Up_Desktop_CDA_Dresden_06.png
-    - Desktop_CDA_Standorte_Vollbild_07.png
-    - Desktop_CDA_Standorte_Vollbild_ZoomIn_08.png
-    - Desktop_CDA_Gemälde_09.png
-    - Desktop_CDA_Gemälde_Deutschland_10.png
-    - Desktop_CDA_Gemälde_Gregor_Brück_Detail_11.png
-    - Desktop_CDA_Gemälde_Dresden_12.png
-    - Desktop_CDA_Gemälde_Katharinenaltar_Details_13.png
-    - Mobile_CDA_Startseite_01.png
-    - Mobile_CDA_Vollbild_Map_02.png
-    - Pop_Up_Mobile_CDA_Deutschland_03.png
-    - Suchanpassung_durch_Pup_Up_04.png
-    - Detailseite_Kanzler_Minimap_05.png
-    - Mobile_CDA_Vollbild_Map_Zoom_1_06.png
-    - Mobile_Vollbild_Map_Zoom_2_07.png
-    - Pop_Up_Mobile_CDA_Dresden_08.png
-    - Suchanpassung_durch_Pup_Up_09.png
-    - Detailseite_Katharinenaltar_Minimap_010.png
+    - Desktop_CDA_Startseite_01.webp
+    - Desktop_CDA_AlleWerke_02.webp
+    - Desktop_CDA_Standorte_03.webp
+    - Pop_Up_Desktop_CDA_Deutschland_04.webp
+    - Desktop_CDA_Standorte_ZoomIn_05.webp
+    - Pop_Up_Desktop_CDA_Dresden_06.webp
+    - Desktop_CDA_Standorte_Vollbild_07.webp
+    - Desktop_CDA_Standorte_Vollbild_ZoomIn_08.webp
+    - Desktop_CDA_Gemälde_09.webp
+    - Desktop_CDA_Gemälde_Deutschland_10.webp
+    - Desktop_CDA_Gemälde_Gregor_Brück_Detail_11.webp
+    - Desktop_CDA_Gemälde_Dresden_12.webp
+    - Desktop_CDA_Gemälde_Katharinenaltar_Details_13.webp
+    - Mobile_CDA_Startseite_01.webp
+    - Mobile_CDA_Vollbild_Map_02.webp
+    - Pop_Up_Mobile_CDA_Deutschland_03.webp
+    - Suchanpassung_durch_Pup_Up_04.webp
+    - Detailseite_Kanzler_Minimap_05.webp
+    - Mobile_CDA_Vollbild_Map_Zoom_1_06.webp
+    - Mobile_Vollbild_Map_Zoom_2_07.webp
+    - Pop_Up_Mobile_CDA_Dresden_08.webp
+    - Suchanpassung_durch_Pup_Up_09.webp
+    - Detailseite_Katharinenaltar_Minimap_010.webp
 styleguide: brachtendorf-jaik-styleguide.svg
 ---
 

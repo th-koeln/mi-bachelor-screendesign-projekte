@@ -3,14 +3,14 @@ title: ProjectSurvival4All – Praktishce Survival-Tipps für die Projektarbeit 
 people:
     - Sebastian Fuhrmann
     - Gökhan Serindik
-teaserimage: fuhrmann-serindik-teaser.png
+teaserimage: fuhrmann-serindik-teaser.webp
 gallery:
-    - fuhrmann-serindik-wimp-startseite.png
-    - fuhrmann-serindik-wimp-artikelinhalt.png
-    - fuhrmann-serindik-tablet-startseite.png
-    - fuhrmann-serindik-tablet-artikelinhalt.png
-    - fuhrmann-serindik-mobile-startseite.png
-    - fuhrmann-serindik-mobile-artikelinhalt.png
+    - fuhrmann-serindik-wimp-startseite.webp
+    - fuhrmann-serindik-wimp-artikelinhalt.webp
+    - fuhrmann-serindik-tablet-startseite.webp
+    - fuhrmann-serindik-tablet-artikelinhalt.webp
+    - fuhrmann-serindik-mobile-startseite.webp
+    - fuhrmann-serindik-mobile-artikelinhalt.webp
 styleguide: fuhrmann-serindik-styleguide.svg
 ---
 

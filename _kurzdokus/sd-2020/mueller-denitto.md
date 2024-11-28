@@ -3,16 +3,16 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Yasha Müller
     - Luca de Nitto
-teaserimage: mueller-denitto-teaser.png
+teaserimage: mueller-denitto-teaser.webp
 gallery:
-    - mueller-denitto-desktop-1.png
-    - mueller-denitto-desktop-2.png
-    - mueller-denitto-desktop-3.png
-    - mueller-denitto-desktop-4.png
-    - mueller-denitto-desktop-5.png
-    - mueller-denitto-desktop-6.png
-    - mueller-denitto-desktop-7.png
-    - mueller-denitto-desktop-8.png
+    - mueller-denitto-desktop-1.webp
+    - mueller-denitto-desktop-2.webp
+    - mueller-denitto-desktop-3.webp
+    - mueller-denitto-desktop-4.webp
+    - mueller-denitto-desktop-5.webp
+    - mueller-denitto-desktop-6.webp
+    - mueller-denitto-desktop-7.webp
+    - mueller-denitto-desktop-8.webp
 
 styleguide: mueller-denitto-styleguide.svg
 ---

@@ -3,33 +3,33 @@ title: ProjectSurvival4All – Sympathische und praktische Survival-Tipps für d
 people:
     - Jennifer Foth
     - Meike Jungilligens
-teaserimage: foth-jennifer-jungilligens-meike-teaser-image.png
+teaserimage: foth-jennifer-jungilligens-meike-teaser-image.webp
 gallery:
-    - foth-jennifer-jungilligens-meike-d01-homepage.png
-    - foth-jennifer-jungilligens-meike-d02-homepage-filter-menu-open.png
-    - foth-jennifer-jungilligens-meike-d03-homepage-filters-applied.png
-    - foth-jennifer-jungilligens-meike-d04-content-item-1.png
-    - foth-jennifer-jungilligens-meike-d05-content-item-2.png
-    - foth-jennifer-jungilligens-meike-d06-favoriten.png
-    - foth-jennifer-jungilligens-meike-d07-autoren-uebersicht.png
-    - foth-jennifer-jungilligens-meike-d08-autorenprofil.png
-    - foth-jennifer-jungilligens-meike-t01-homepage.png
-    - foth-jennifer-jungilligens-meike-t02-homepage-filter-menu-open.png
-    - foth-jennifer-jungilligens-meike-t03-homepage-filters-applied.png
-    - foth-jennifer-jungilligens-meike-t04-content-item-1.png
-    - foth-jennifer-jungilligens-meike-t05-content-item-2.png
-    - foth-jennifer-jungilligens-meike-t06-favoriten.png
-    - foth-jennifer-jungilligens-meike-t07-autoren-uebersicht.png
-    - foth-jennifer-jungilligens-meike-t08-autorenprofil.png
-    - foth-jennifer-jungilligens-meike-m01-homepage.png
-    - foth-jennifer-jungilligens-meike-m02-homepage-filter-menu-open.png
-    - foth-jennifer-jungilligens-meike-m03-homepage-filters-applied.png
-    - foth-jennifer-jungilligens-meike-m04-content-item-1.png
-    - foth-jennifer-jungilligens-meike-m05-content-item-2.png
-    - foth-jennifer-jungilligens-meike-m06-favoriten.png
-    - foth-jennifer-jungilligens-meike-m07-autoren-uebersicht.png
-    - foth-jennifer-jungilligens-meike-m08-autorenprofil.png
-    - foth-jennifer-jungilligens-meike-m09-homepage-side-menu-open.png
+    - foth-jennifer-jungilligens-meike-d01-homepage.webp
+    - foth-jennifer-jungilligens-meike-d02-homepage-filter-menu-open.webp
+    - foth-jennifer-jungilligens-meike-d03-homepage-filters-applied.webp
+    - foth-jennifer-jungilligens-meike-d04-content-item-1.webp
+    - foth-jennifer-jungilligens-meike-d05-content-item-2.webp
+    - foth-jennifer-jungilligens-meike-d06-favoriten.webp
+    - foth-jennifer-jungilligens-meike-d07-autoren-uebersicht.webp
+    - foth-jennifer-jungilligens-meike-d08-autorenprofil.webp
+    - foth-jennifer-jungilligens-meike-t01-homepage.webp
+    - foth-jennifer-jungilligens-meike-t02-homepage-filter-menu-open.webp
+    - foth-jennifer-jungilligens-meike-t03-homepage-filters-applied.webp
+    - foth-jennifer-jungilligens-meike-t04-content-item-1.webp
+    - foth-jennifer-jungilligens-meike-t05-content-item-2.webp
+    - foth-jennifer-jungilligens-meike-t06-favoriten.webp
+    - foth-jennifer-jungilligens-meike-t07-autoren-uebersicht.webp
+    - foth-jennifer-jungilligens-meike-t08-autorenprofil.webp
+    - foth-jennifer-jungilligens-meike-m01-homepage.webp
+    - foth-jennifer-jungilligens-meike-m02-homepage-filter-menu-open.webp
+    - foth-jennifer-jungilligens-meike-m03-homepage-filters-applied.webp
+    - foth-jennifer-jungilligens-meike-m04-content-item-1.webp
+    - foth-jennifer-jungilligens-meike-m05-content-item-2.webp
+    - foth-jennifer-jungilligens-meike-m06-favoriten.webp
+    - foth-jennifer-jungilligens-meike-m07-autoren-uebersicht.webp
+    - foth-jennifer-jungilligens-meike-m08-autorenprofil.webp
+    - foth-jennifer-jungilligens-meike-m09-homepage-side-menu-open.webp
 styleguide: foth-jennifer-jungilligens-meike-styleguide.svg
 ---
 

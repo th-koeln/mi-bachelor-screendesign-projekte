@@ -3,18 +3,18 @@ title: Template für die Kurzdoku
 people:
     - Moritz Erzigkeit
     - Jannik Stein
-teaserimage: Erzigkeit-Stein-Übersicht_Desktop.png
+teaserimage: Erzigkeit-Stein-Übersicht_Desktop.webp
 gallery:
-    - Erzigkeit-Stein-Übersicht_Desktop.png
-    - Erzigkeit-Stein-Cardview_Desktop.png
-    - Erzigkeit-Stein-Klimaschutz_Desktop.png
-    - Erzigkeit-Stein-Übersicht_Ipad.png
-    - Erzigkeit-Stein-Cardview_Ipad.png
-    - Erzigkeit-Stein-Klimaschutz_Ipad.png
-    - Erzigkeit-Stein-Übersicht_Iphone.png
-    - Erzigkeit-Stein-Cardview_Iphone.png
-    - Erzigkeit-Stein-Klimaschutz_Iphone.png
-    - Erzigkeit-Stein-Kategorie_Iphone.png
+    - Erzigkeit-Stein-Übersicht_Desktop.webp
+    - Erzigkeit-Stein-Cardview_Desktop.webp
+    - Erzigkeit-Stein-Klimaschutz_Desktop.webp
+    - Erzigkeit-Stein-Übersicht_Ipad.webp
+    - Erzigkeit-Stein-Cardview_Ipad.webp
+    - Erzigkeit-Stein-Klimaschutz_Ipad.webp
+    - Erzigkeit-Stein-Übersicht_Iphone.webp
+    - Erzigkeit-Stein-Cardview_Iphone.webp
+    - Erzigkeit-Stein-Klimaschutz_Iphone.webp
+    - Erzigkeit-Stein-Kategorie_Iphone.webp
 styleguide: Erzigkeit-Stein-StyleGuide.svg
 ---
 

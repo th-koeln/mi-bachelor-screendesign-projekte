@@ -3,16 +3,16 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Angelina Hesse
     - Justin Huynh
-teaserimage: hesse-huynh-teaser.png
+teaserimage: hesse-huynh-teaser.webp
 gallery:
-    - hesse-huynh-desktop-allebuecher.png
-    - hesse-huynh-desktop-kategorien.png
-    - hesse-huynh-desktop-stoebern.png
-    - hesse-huynh-tablet-allebuecher.png
-    - hesse-huynh-tablet-kategorien.png
-    - hesse-huynh-tablet-stoebern.png
-    - hesse-huynh-mobile-allebuecher.png
-    - hesse-huynh-mobile-stoebern.png
+    - hesse-huynh-desktop-allebuecher.webp
+    - hesse-huynh-desktop-kategorien.webp
+    - hesse-huynh-desktop-stoebern.webp
+    - hesse-huynh-tablet-allebuecher.webp
+    - hesse-huynh-tablet-kategorien.webp
+    - hesse-huynh-tablet-stoebern.webp
+    - hesse-huynh-mobile-allebuecher.webp
+    - hesse-huynh-mobile-stoebern.webp
 styleguide: hesse-huynh-styleguide.svg
 ---
 

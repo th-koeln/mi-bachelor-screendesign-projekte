@@ -5,18 +5,18 @@ people:
     - Meliha Schadwinkel
 teaserimage: Calinski-Schadwinkel-Mockup-Header.jpg
 gallery:
-    - Calinski-Schadwinkel-Desktop-01.png
-    - Calinski-Schadwinkel-Desktop-02.png
-    - Calinski-Schadwinkel-Desktop-03.png
-    - Calinski-Schadwinkel-Desktop-04.png
-    - Calinski-Schadwinkel-Tablet-01.png
-    - Calinski-Schadwinkel-Tablet-02.png
-    - Calinski-Schadwinkel-Tablet-03.png
-    - Calinski-Schadwinkel-Tablet-04.png
-    - Calinski-Schadwinkel-Smartphone-01.png
-    - Calinski-Schadwinkel-Smartphone-02.png
-    - Calinski-Schadwinkel-Smartphone-03.png
-    - Calinski-Schadwinkel-Smartphone-04.png
+    - Calinski-Schadwinkel-Desktop-01.webp
+    - Calinski-Schadwinkel-Desktop-02.webp
+    - Calinski-Schadwinkel-Desktop-03.webp
+    - Calinski-Schadwinkel-Desktop-04.webp
+    - Calinski-Schadwinkel-Tablet-01.webp
+    - Calinski-Schadwinkel-Tablet-02.webp
+    - Calinski-Schadwinkel-Tablet-03.webp
+    - Calinski-Schadwinkel-Tablet-04.webp
+    - Calinski-Schadwinkel-Smartphone-01.webp
+    - Calinski-Schadwinkel-Smartphone-02.webp
+    - Calinski-Schadwinkel-Smartphone-03.webp
+    - Calinski-Schadwinkel-Smartphone-04.webp
 styleguide: Calinski-Schadwinkel-StyleGuide.svg
 ---
 

@@ -3,12 +3,12 @@ title: Erweiterung der Stöber und Entdeckerformate der Online-Buchhandlung VINC
 people:
     - Arwin Epackchi
     - Luca Simonis
-teaserimage: epackchi-simonis-teaser.png
+teaserimage: epackchi-simonis-teaser.webp
 gallery:
-    - Epackchi-Arwin-Desktop.png
-    - Epackchi-Arwin-Desktop-3a.png 
-    - Epackchi-Arwin-Desktop-Ende-2.png
-    - Epackchi-Simonis-Smartphone-Ende-1.png
+    - Epackchi-Arwin-Desktop.webp
+    - Epackchi-Arwin-Desktop-3a.webp 
+    - Epackchi-Arwin-Desktop-Ende-2.webp
+    - Epackchi-Simonis-Smartphone-Ende-1.webp
 styleguide: epackchi-simonis-styleguide.svg
 ---
 

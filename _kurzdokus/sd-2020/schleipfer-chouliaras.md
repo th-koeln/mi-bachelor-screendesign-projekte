@@ -3,12 +3,12 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Nadine Schleipfer
     - Anastasia Chouliaras
-teaserimage: schleipfer-chouliaras-teaser.png
+teaserimage: schleipfer-chouliaras-teaser.webp
 gallery:
-    - schleipfer-chouliaras-bild1.png
-    - schleipfer-chouliaras-bild2.png
-    - schleipfer-chouliaras-bild3.png
-    - schleipfer-chouliaras-bild4.png
+    - schleipfer-chouliaras-bild1.webp
+    - schleipfer-chouliaras-bild2.webp
+    - schleipfer-chouliaras-bild3.webp
+    - schleipfer-chouliaras-bild4.webp
 styleguide: schleipfer-chouliaras-styleguide.svg
 ---
 

@@ -3,29 +3,29 @@ title: ProjectSurvival4All – Sympathische und praktische Survival-Tipps für d
 people:
   - Yassin El-Fraygui
   - Maximilian Kellner
-teaserimage: El-Fraygui-Kellner-teaser.png
+teaserimage: El-Fraygui-Kellner-teaser.webp
 gallery: 
-    - El-Fraygui-Kellner-Desktop_1.png
-    - El-Fraygui-Kellner-Desktop-02.png
-    - El-Fraygui-Kellner-Desktop-03.png
-    - El-Fraygui-Kellner-Desktop-04.png
-    - El-Fraygui-Kellner-Desktop-05.png
-    - El-Fraygui-Kellner-Desktop-06.png
-    - El-Fraygui-Kellner-Desktop-07.png
+    - El-Fraygui-Kellner-Desktop_1.webp
+    - El-Fraygui-Kellner-Desktop-02.webp
+    - El-Fraygui-Kellner-Desktop-03.webp
+    - El-Fraygui-Kellner-Desktop-04.webp
+    - El-Fraygui-Kellner-Desktop-05.webp
+    - El-Fraygui-Kellner-Desktop-06.webp
+    - El-Fraygui-Kellner-Desktop-07.webp
 
-    - El-Fraygui-Kellner-Mobile-1.png
-    - El-Fraygui-Kellner-Mobile-01.png
-    - El-Fraygui-Kellner-Mobile-03.png
-    - El-Fraygui-Kellner-Mobile-04.png
-    - El-Fraygui-Kellner-Mobile-05.png
+    - El-Fraygui-Kellner-Mobile-1.webp
+    - El-Fraygui-Kellner-Mobile-01.webp
+    - El-Fraygui-Kellner-Mobile-03.webp
+    - El-Fraygui-Kellner-Mobile-04.webp
+    - El-Fraygui-Kellner-Mobile-05.webp
    
-    - El-Fraygui-Kellner-Tablet-vertical-01.png
-    - El-Fraygui-Kellner-Tablet-vertical-02.png
-    - El-Fraygui-Kellner-Tablet-vertical-03.png
+    - El-Fraygui-Kellner-Tablet-vertical-01.webp
+    - El-Fraygui-Kellner-Tablet-vertical-02.webp
+    - El-Fraygui-Kellner-Tablet-vertical-03.webp
    
-    - El-Fraygui-Kellner-Tablet-quer-01.png
-    - El-Fraygui-Kellner-Tablet-quer-02.png
-    - El-Fraygui-Kellner-Tablet-quer-03.png
+    - El-Fraygui-Kellner-Tablet-quer-01.webp
+    - El-Fraygui-Kellner-Tablet-quer-02.webp
+    - El-Fraygui-Kellner-Tablet-quer-03.webp
       
 styleguide: El-Fraygui-Kellner-StyleGuide.svg
 ---

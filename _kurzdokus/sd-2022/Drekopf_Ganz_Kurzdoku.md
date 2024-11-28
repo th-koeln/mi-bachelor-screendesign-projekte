@@ -3,23 +3,23 @@ title: Ortsbezogene Darstellung der Artefakte des CDA
 people:
   - Mona Drekopf
   - Jacqueline Ganz
-teaserimage: Drekopf_Ganz_Teaser.png
+teaserimage: Drekopf_Ganz_Teaser.webp
 gallery: 
-    - Drekopf_Ganz_Desktop_Startseite.png
-    - Drekopf_Ganz_Desktop_Karte.png
-    - Drekopf_Ganz_Desktop_Karte_Suche.png
-    - Drekopf_Ganz_Desktop_Detailseite.png
-    - Drekopf_Ganz_Desktop_Auswahl_Gemälde.png
-    - Drekopf_Ganz_Desktop_Zoomverhalten_Großansicht.png
-    - Drekopf_Ganz_Desktop_Zoomverhalten_Großstadt.png
-    - Drekopf_Ganz_Desktop_Zoomverhalten_Ort.png
-    - Drekopf_Ganz_Desktop_Karte_vorherige_iteration.png
-    - Drekopf_Ganz_Desktop_Karte_suche_vorherige_iteration.png
-    - Drekopf_Ganz_iPad_Kartenansicht.png
-    - Drekopf_Ganz_iPad_Suche.png
-    - Drekopf_Ganz_iPhone_Kartenansicht.png
-    - Drekopf_Ganz_iPhone_Suche1.png
-    - Drekopf_Ganz_iPhone_Suche2.png
+    - Drekopf_Ganz_Desktop_Startseite.webp
+    - Drekopf_Ganz_Desktop_Karte.webp
+    - Drekopf_Ganz_Desktop_Karte_Suche.webp
+    - Drekopf_Ganz_Desktop_Detailseite.webp
+    - Drekopf_Ganz_Desktop_Auswahl_Gemälde.webp
+    - Drekopf_Ganz_Desktop_Zoomverhalten_Großansicht.webp
+    - Drekopf_Ganz_Desktop_Zoomverhalten_Großstadt.webp
+    - Drekopf_Ganz_Desktop_Zoomverhalten_Ort.webp
+    - Drekopf_Ganz_Desktop_Karte_vorherige_iteration.webp
+    - Drekopf_Ganz_Desktop_Karte_suche_vorherige_iteration.webp
+    - Drekopf_Ganz_iPad_Kartenansicht.webp
+    - Drekopf_Ganz_iPad_Suche.webp
+    - Drekopf_Ganz_iPhone_Kartenansicht.webp
+    - Drekopf_Ganz_iPhone_Suche1.webp
+    - Drekopf_Ganz_iPhone_Suche2.webp
 styleguide: Drekopf_Ganz_Styleguide.svg
 ---
 

@@ -3,13 +3,13 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Fatih Haskan
     - Yannick Schäfer
-teaserimage: haskan-schaefer-teaser.png
+teaserimage: haskan-schaefer-teaser.webp
 gallery:
-    - haskan-schaefer-bild1.png
-    - haskan-schaefer-bild2.png
-    - haskan-schaefer-bild3.png
-    - haskan-schaefer-bild4.png
-    - haskan-schaefer-bild5.png
+    - haskan-schaefer-bild1.webp
+    - haskan-schaefer-bild2.webp
+    - haskan-schaefer-bild3.webp
+    - haskan-schaefer-bild4.webp
+    - haskan-schaefer-bild5.webp
 styleguide: haskan-schaefer-stylsheet.svg
 ---
 

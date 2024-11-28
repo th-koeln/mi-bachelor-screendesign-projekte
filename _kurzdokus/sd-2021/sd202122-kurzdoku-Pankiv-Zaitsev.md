@@ -3,20 +3,20 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Christian Pankiv
     - Anton Zaitsev
-teaserimage: sd-202122-teaser-Pankiv-Zaitsev.png
+teaserimage: sd-202122-teaser-Pankiv-Zaitsev.webp
 gallery:
-    - sd-202122-001main_desktop_full-Pankiv-Zaitsev.png
-    - sd-202122-002main_desktop_part-Pankiv-Zaitsev.png
-    - sd-202122-003overlay_desktop_full-Pankiv-Zaitsev.png
-    - sd-202122-004overlay_desktop_1-Pankiv-Zaitsev.png
-    - sd-202122-005overlay_desktop_2-Pankiv-Zaitsev.png
-    - sd-202122-006main_mobile_full-Pankiv-Zaitsev.png
-    - sd-202122-007main_mobile_part-Pankiv-Zaitsev.png
-    - sd-202122-008overlay_mobile_full-Pankiv-Zaitsev.png
-    - sd-202122-009overlay_mobile_1-Pankiv-Zaitsev.png
-    - sd-202122-010overlay_mobile_2-Pankiv-Zaitsev.png
-    - sd-202122-011overlay_mobile_3-Pankiv-Zaitsev.png
-    - sd-202122-012overlay_mobile_4-Pankiv-Zaitsev.png
+    - sd-202122-001main_desktop_full-Pankiv-Zaitsev.webp
+    - sd-202122-002main_desktop_part-Pankiv-Zaitsev.webp
+    - sd-202122-003overlay_desktop_full-Pankiv-Zaitsev.webp
+    - sd-202122-004overlay_desktop_1-Pankiv-Zaitsev.webp
+    - sd-202122-005overlay_desktop_2-Pankiv-Zaitsev.webp
+    - sd-202122-006main_mobile_full-Pankiv-Zaitsev.webp
+    - sd-202122-007main_mobile_part-Pankiv-Zaitsev.webp
+    - sd-202122-008overlay_mobile_full-Pankiv-Zaitsev.webp
+    - sd-202122-009overlay_mobile_1-Pankiv-Zaitsev.webp
+    - sd-202122-010overlay_mobile_2-Pankiv-Zaitsev.webp
+    - sd-202122-011overlay_mobile_3-Pankiv-Zaitsev.webp
+    - sd-202122-012overlay_mobile_4-Pankiv-Zaitsev.webp
 styleguide: sd-202122-styleguide-Pankiv-Zaitsev.svg
 ---
 

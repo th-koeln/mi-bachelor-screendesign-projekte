@@ -3,12 +3,12 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Thyron Voß-Busch
     - Oliver Russmann
-teaserimage: voß-busch-russmann-teaser.png
+teaserimage: voß-busch-russmann-teaser.webp
 gallery:
-    - voß-busch-russmann-bild1.png
-    - voß-busch-russmann-bild2.png
-    - voß-busch-russmann-bild3.png
-    - voß-busch-russmann-bild4.png
+    - voß-busch-russmann-bild1.webp
+    - voß-busch-russmann-bild2.webp
+    - voß-busch-russmann-bild3.webp
+    - voß-busch-russmann-bild4.webp
 styleguide: voß-busch-russmann-styleguide.svg
 ---
 

@@ -4,12 +4,12 @@ people:
     - Achelia Selim
     - Sofia Neubert
     - Chan Ching Ying
-teaserimage: chan-neubert-selim-teaser.png
+teaserimage: chan-neubert-selim-teaser.webp
 gallery:
-    - chan-neubert-selim-bild1.png
-    - chan-neubert-selim-bild2.png
-    - chan-neubert-selim-bild3.png
-    - chan-neubert-selim-bild4.png
+    - chan-neubert-selim-bild1.webp
+    - chan-neubert-selim-bild2.webp
+    - chan-neubert-selim-bild3.webp
+    - chan-neubert-selim-bild4.webp
 styleguide: chan-neubert-selim-styleguide.svg
 ---
 

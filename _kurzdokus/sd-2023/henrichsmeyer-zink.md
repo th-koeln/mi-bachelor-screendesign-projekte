@@ -3,18 +3,18 @@ title: ProjectSurvival4All - Sympathische und praktische Survival-Tipps für die
 people:
     - Mia Charlotte Henrichsmeyer
     - Cosima Hiromi Zink
-teaserimage: henrichsmeyer-zink-vorschau.png
+teaserimage: henrichsmeyer-zink-vorschau.webp
 gallery:
-    - henrichsmeyer-zink-desktop-content.png
-    - henrichsmeyer-zink-desktop-sortierung.png
-    - henrichsmeyer-zink-desktop-startseite.png
-    - henrichsmeyer-zink-smartphone-content.png
-    - henrichsmeyer-zink-smartpone-menü.png
-    - henrichsmeyer-zink-smartphone-sortierung.png
-    - henrichsmeyer-zink-smartphone-startseite.png
-    - henrichsmeyer-zink-tablet-content.png
-    - henrichsmeyer-zink-tablet-sortierung.png
-    - henrichsmeyer-zink-tablet-startseite.png
+    - henrichsmeyer-zink-desktop-content.webp
+    - henrichsmeyer-zink-desktop-sortierung.webp
+    - henrichsmeyer-zink-desktop-startseite.webp
+    - henrichsmeyer-zink-smartphone-content.webp
+    - henrichsmeyer-zink-smartpone-menü.webp
+    - henrichsmeyer-zink-smartphone-sortierung.webp
+    - henrichsmeyer-zink-smartphone-startseite.webp
+    - henrichsmeyer-zink-tablet-content.webp
+    - henrichsmeyer-zink-tablet-sortierung.webp
+    - henrichsmeyer-zink-tablet-startseite.webp
 styleguide: henrichsmeyer-zink-styleguide.svg
 ---
 

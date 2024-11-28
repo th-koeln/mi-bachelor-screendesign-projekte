@@ -5,19 +5,19 @@ people:
   - Rojin Göcen
 teaserimage: sd-einstiegsseite-desktop-goecen-witscher.jpg
 gallery: 
-  - sd-detailseite-desktop-goecen-witscher.png
-  - sd-detailseite-smartphone-goecen-witscher.png
-  - sd-detailseite-tablet-goecen-witscher.png
+  - sd-detailseite-desktop-goecen-witscher.webp
+  - sd-detailseite-smartphone-goecen-witscher.webp
+  - sd-detailseite-tablet-goecen-witscher.webp
   - sd-einstiegsseite-desktop-goecen-witscher.jpg
-  - sd-einstiegsseite-smartphone-goecen-witscher.png
+  - sd-einstiegsseite-smartphone-goecen-witscher.webp
   - sd-einstiegsseite-tablet-goecen-witscher.jpg
-  - sd-filterfunktion-1-smartphone-goecen-witscher.png
-  - sd-filterfunktion-2-smartphone-goecen-witscher.png
-  - sd-filterfunktion-desktop-goecen-witscher.png
-  - sd-filterfunktion-tablet-goecen-witscher.png
-  - sd-weltkarte-desktop-goecen-witscher.png
-  - sd-weltkarte-tablet-goecen-witscher.png
-  - sd-weltkarte-zoom-desktop-goecen-witscher.png
+  - sd-filterfunktion-1-smartphone-goecen-witscher.webp
+  - sd-filterfunktion-2-smartphone-goecen-witscher.webp
+  - sd-filterfunktion-desktop-goecen-witscher.webp
+  - sd-filterfunktion-tablet-goecen-witscher.webp
+  - sd-weltkarte-desktop-goecen-witscher.webp
+  - sd-weltkarte-tablet-goecen-witscher.webp
+  - sd-weltkarte-zoom-desktop-goecen-witscher.webp
 styleguide: Styleguide.svg
 ---
 Der Maler und Grafiker Lucas Cranach galt im Zeitalter der Renaissance als einer der berühmtesten Künstler seiner Zeit.

@@ -2,18 +2,18 @@
 title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE
 people:
     - Ylli Loshaj
-teaserimage: sd-202122-teaser-loshaj.png
+teaserimage: sd-202122-teaser-loshaj.webp
 gallery:
-    - sd-202122-gestaltungsportfolio-loshaj-1.png
-    - sd-202122-gestaltungsportfolio-loshaj-2.png
-    - sd-202122-gestaltungsportfolio-loshaj-3.png
-    - sd-202122-gestaltungsportfolio-loshaj-4.png
-    - sd-202122-gestaltungsportfolio-loshaj-5.png
-    - sd-202122-gestaltungsportfolio-loshaj-6.png
-    - sd-202122-gestaltungsportfolio-loshaj-7.png
-    - sd-202122-gestaltungsportfolio-loshaj-8.png
-    - sd-202122-gestaltungsportfolio-loshaj-9.png
-    - sd-202122-gestaltungsportfolio-loshaj-10.png
+    - sd-202122-gestaltungsportfolio-loshaj-1.webp
+    - sd-202122-gestaltungsportfolio-loshaj-2.webp
+    - sd-202122-gestaltungsportfolio-loshaj-3.webp
+    - sd-202122-gestaltungsportfolio-loshaj-4.webp
+    - sd-202122-gestaltungsportfolio-loshaj-5.webp
+    - sd-202122-gestaltungsportfolio-loshaj-6.webp
+    - sd-202122-gestaltungsportfolio-loshaj-7.webp
+    - sd-202122-gestaltungsportfolio-loshaj-8.webp
+    - sd-202122-gestaltungsportfolio-loshaj-9.webp
+    - sd-202122-gestaltungsportfolio-loshaj-10.webp
 styleguide: sd-202122-styleguide-loshaj.svg
 ---
 

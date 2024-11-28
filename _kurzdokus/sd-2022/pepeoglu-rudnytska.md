@@ -3,22 +3,22 @@ title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Darstellung 
 people:
     - Alara Pepeoglu
     - Kateryna Rudnytska
-teaserimage: pepeoglu-rudnytska-teaser.png
+teaserimage: pepeoglu-rudnytska-teaser.webp
 gallery:
-    - pepeoglu-rudnytska-laptop1.png
-    - pepeoglu-rudnytska-laptop2.png
-    - pepeoglu-rudnytska-laptop3.png
-    - pepeoglu-rudnytska-laptop4.png
-    - pepeoglu-rudnytska-laptop5.png
-    - pepeoglu-rudnytska-smartphone1.png
-    - pepeoglu-rudnytska-smartphone2.png
-    - pepeoglu-rudnytska-smartphone3.png
-    - pepeoglu-rudnytska-smartphone4.png
-    - pepeoglu-rudnytska-tablet1.png
-    - pepeoglu-rudnytska-tablet2.png
-    - pepeoglu-rudnytska-tablet3.png
-    - pepeoglu-rudnytska-tablet4.png
-    - pepeoglu-rudnytska-tablet5.png
+    - pepeoglu-rudnytska-laptop1.webp
+    - pepeoglu-rudnytska-laptop2.webp
+    - pepeoglu-rudnytska-laptop3.webp
+    - pepeoglu-rudnytska-laptop4.webp
+    - pepeoglu-rudnytska-laptop5.webp
+    - pepeoglu-rudnytska-smartphone1.webp
+    - pepeoglu-rudnytska-smartphone2.webp
+    - pepeoglu-rudnytska-smartphone3.webp
+    - pepeoglu-rudnytska-smartphone4.webp
+    - pepeoglu-rudnytska-tablet1.webp
+    - pepeoglu-rudnytska-tablet2.webp
+    - pepeoglu-rudnytska-tablet3.webp
+    - pepeoglu-rudnytska-tablet4.webp
+    - pepeoglu-rudnytska-tablet5.webp
 styleguide: pepeoglu-rudnytska-styleguide.svg
 ---
 

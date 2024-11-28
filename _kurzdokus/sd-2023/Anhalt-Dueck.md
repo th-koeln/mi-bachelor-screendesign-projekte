@@ -3,18 +3,18 @@ title: ProjectSurvival4All – Sympathische und praktische Survival-Tipps für d
 people:
     - Julius Anhalt
     - Daniel Dück
-teaserimage: Anhalt-Dueck-Teaser.png
+teaserimage: Anhalt-Dueck-Teaser.webp
 gallery:
-    - Anhalt-Dueck-Hauptseite.png
-    - Anhalt-Dueck-Hauptseite_gescrollt.png
-    - Anhalt-Dueck-Suche_und_Filter.png
-    - Anhalt-Dueck-Content.png
-    - Anhalt-Dueck-Content_gescrollt.png
-    - Anhalt-Dueck-Favoriten.png
-    - Anhalt-Dueck-Content_add.png
-    - Anhalt-Dueck-Tablet-Hauptseite_gescrollt.png
-    - Anhalt-Dueck-Smartphone-Favoriten_Variante2.png
-    - Anhalt-Dueck-Smartphone-Content.png
+    - Anhalt-Dueck-Hauptseite.webp
+    - Anhalt-Dueck-Hauptseite_gescrollt.webp
+    - Anhalt-Dueck-Suche_und_Filter.webp
+    - Anhalt-Dueck-Content.webp
+    - Anhalt-Dueck-Content_gescrollt.webp
+    - Anhalt-Dueck-Favoriten.webp
+    - Anhalt-Dueck-Content_add.webp
+    - Anhalt-Dueck-Tablet-Hauptseite_gescrollt.webp
+    - Anhalt-Dueck-Smartphone-Favoriten_Variante2.webp
+    - Anhalt-Dueck-Smartphone-Content.webp
 styleguide: Anhalt-Dueck-Styleguide.svg
 ---
 

@@ -3,15 +3,15 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Lennard Häring
     - Marius Hammer
-teaserimage: Haering-Hammer-Teaser.png
+teaserimage: Haering-Hammer-Teaser.webp
 gallery:
-    - Haering-Hammer-Hauptseite.png
-    - Haering-Hammer-Detailseite.png
-    - Haering-Hammer-SammlungAnzeigen.png  
-    - Haering-Hammer-Vergleichen.png
-    - Haering-Hammer-Modal.png
-    - Haering-Hammer-VergleichenMulti.png
-    - Haering-Hammer-VergleichenDelete.png
+    - Haering-Hammer-Hauptseite.webp
+    - Haering-Hammer-Detailseite.webp
+    - Haering-Hammer-SammlungAnzeigen.webp  
+    - Haering-Hammer-Vergleichen.webp
+    - Haering-Hammer-Modal.webp
+    - Haering-Hammer-VergleichenMulti.webp
+    - Haering-Hammer-VergleichenDelete.webp
     
 styleguide: Haering-Hammer-Styleguide.svg
 ---

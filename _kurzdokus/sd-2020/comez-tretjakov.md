@@ -3,12 +3,12 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Fatmagül Cömez
     - Julia Tretjakov
-teaserimage: comez-tretjakov-teaser.png
+teaserimage: comez-tretjakov-teaser.webp
 gallery:
-    - comez-tretjakov-bild1.png
-    - comez-tretjakov-bild2.png
-    - comez-tretjakov-bild3.png
-    - comez-tretjakov-bild4.png
+    - comez-tretjakov-bild1.webp
+    - comez-tretjakov-bild2.webp
+    - comez-tretjakov-bild3.webp
+    - comez-tretjakov-bild4.webp
 styleguide: comez-tretjakov-styleguide.svg
 ---
 

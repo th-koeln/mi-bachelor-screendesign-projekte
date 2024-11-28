@@ -3,18 +3,18 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Joash Koshan
     - Nick Klassen
-teaserimage: sd-202122-teaser-koshan-klassen.png
+teaserimage: sd-202122-teaser-koshan-klassen.webp
 gallery:
-    - sd-202122-mac-01-koshan-klassen.png
-    - sd-202122-mac-02-koshan-klassen.png
-    - sd-202122-mac-03-koshan-klassen.png
-    - sd-202122-mac-04-koshan-klassen.png
-    - sd-202122-mac-05-koshan-klassen.png
-    - sd-202122-ipad-01-koshan-klassen.png
-    - sd-202122-ipad-02-koshan-klassen.png
-    - sd-202122-ipad-03-koshan-klassen.png
-    - sd-202122-ipad-04-koshan-klassen.png
-    - sd-202122-ipad-05-koshan-klassen.png
+    - sd-202122-mac-01-koshan-klassen.webp
+    - sd-202122-mac-02-koshan-klassen.webp
+    - sd-202122-mac-03-koshan-klassen.webp
+    - sd-202122-mac-04-koshan-klassen.webp
+    - sd-202122-mac-05-koshan-klassen.webp
+    - sd-202122-ipad-01-koshan-klassen.webp
+    - sd-202122-ipad-02-koshan-klassen.webp
+    - sd-202122-ipad-03-koshan-klassen.webp
+    - sd-202122-ipad-04-koshan-klassen.webp
+    - sd-202122-ipad-05-koshan-klassen.webp
     
 styleguide: sd-202122-styleguide-koshan-klassen.svg
 ---

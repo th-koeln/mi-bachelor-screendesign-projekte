@@ -3,17 +3,17 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Marie Pannier
     - Zoe Maus
-teaserimage: pannier-maus-Coverflow.png
+teaserimage: pannier-maus-Coverflow.webp
 gallery:
-    - pannier-maus-handyFlow.png
-    - pannier-maus-Ipad1.png
-    - pannier-maus-ipad3.png
-    - pannier-maus-ipad4.png
-    - pannier-maus-Coverflow.png
-    - pannier-maus-Popup2.png
-    - pannier-maus-Filter1.png
-    - pannier-maus-Detailansicht1.png
-    - pannier-maus-Detailansicht3.png
+    - pannier-maus-handyFlow.webp
+    - pannier-maus-Ipad1.webp
+    - pannier-maus-ipad3.webp
+    - pannier-maus-ipad4.webp
+    - pannier-maus-Coverflow.webp
+    - pannier-maus-Popup2.webp
+    - pannier-maus-Filter1.webp
+    - pannier-maus-Detailansicht1.webp
+    - pannier-maus-Detailansicht3.webp
 styleguide: pannier-maus-Styleguide.svg
 ---
 

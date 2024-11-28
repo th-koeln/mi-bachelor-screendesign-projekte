@@ -3,18 +3,18 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
   - Noah Kyeong-Seo Ban
   - Jens Burgdorf
-teaserimage: sd-ban-burgdorf-teaser.png.png
+teaserimage: sd-ban-burgdorf-teaser.png.webp
 gallery:
 
-  - sd-202122-Content_01_Seite_1-Ban-Burgdorf.png.png
-  - sd-202122-Content_02_Seite_3-Ban-Burgdorf.png.png
-  - sd-202122-Content_02_Seite_5-Ban-Burgdorf.png.png
-  - sd-202122-Content_02_Seite_6-Ban-Burgdorf.png.png
-  - sd-202122-Praeferenzenauswahl-Ban-Burgdorf.png.png
-  - sd-202122-Content_02_Seite_6_Eingeklappt-Ban-Burgdorf.png.png
-  - sd-202122-Handy-Content_02_Seite_3_Eingeklappt-Ban-Burgdorf.png.png
-  - sd-202122-Handy-Content_02_Seite_5_Eingeklappt-Ban-Burgdorf.png.png
-  - sd-202122-Handy-Praeferenzenauswahl-Ban-Burgdorf.png.png
+  - sd-202122-Content_01_Seite_1-Ban-Burgdorf.png.webp
+  - sd-202122-Content_02_Seite_3-Ban-Burgdorf.png.webp
+  - sd-202122-Content_02_Seite_5-Ban-Burgdorf.png.webp
+  - sd-202122-Content_02_Seite_6-Ban-Burgdorf.png.webp
+  - sd-202122-Praeferenzenauswahl-Ban-Burgdorf.png.webp
+  - sd-202122-Content_02_Seite_6_Eingeklappt-Ban-Burgdorf.png.webp
+  - sd-202122-Handy-Content_02_Seite_3_Eingeklappt-Ban-Burgdorf.png.webp
+  - sd-202122-Handy-Content_02_Seite_5_Eingeklappt-Ban-Burgdorf.png.webp
+  - sd-202122-Handy-Praeferenzenauswahl-Ban-Burgdorf.png.webp
 
 styleguide: sd-202122-Styleguide-Ban-Burgdorf.svg
 ---

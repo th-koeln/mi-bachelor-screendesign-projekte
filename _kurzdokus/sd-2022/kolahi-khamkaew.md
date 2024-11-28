@@ -3,28 +3,28 @@ title: Neue Ansicht für das Cranach Digital Archive <<Ortbezogene Darstellung d
 people:
     - Elahe Kolahi
     - Phithaya Khamkaew
-teaserimage: kolahi-khamkaew-teaser.png
+teaserimage: kolahi-khamkaew-teaser.webp
 gallery:
-    - kolahi-khamkaew-präs-01.png
-    - kolahi-khamkaew-präs-02.png
-    - kolahi-khamkaew-präs-03.png
-    - kolahi-khamkaew-präs-04.png
-    - kolahi-khamkaew-präs-05.png
-    - kolahi-khamkaew-präs-06.png
-    - kolahi-khamkaew-präs-07-00.png
-    - kolahi-khamkaew-präs-07-01.png
-    - kolahi-khamkaew-präs-08.png
-    - kolahi-khamkaew-präs-09.png
-    - kolahi-khamkaew-präs-10.png
-    - kolahi-khamkaew-präs-11.png
-    - kolahi-khamkaew-präs-12.png
-    - kolahi-khamkaew-präs-13.png
-    - kolahi-khamkaew-präs-14.png
-    - kolahi-khamkaew-präs-15.png
-    - kolahi-khamkaew-präs-16.png
-    - kolahi-khamkaew-präs-17.png
-    - kolahi-khamkaew-präs-18.png
-    - kolahi-khamkaew-präs-19.png
+    - kolahi-khamkaew-präs-01.webp
+    - kolahi-khamkaew-präs-02.webp
+    - kolahi-khamkaew-präs-03.webp
+    - kolahi-khamkaew-präs-04.webp
+    - kolahi-khamkaew-präs-05.webp
+    - kolahi-khamkaew-präs-06.webp
+    - kolahi-khamkaew-präs-07-00.webp
+    - kolahi-khamkaew-präs-07-01.webp
+    - kolahi-khamkaew-präs-08.webp
+    - kolahi-khamkaew-präs-09.webp
+    - kolahi-khamkaew-präs-10.webp
+    - kolahi-khamkaew-präs-11.webp
+    - kolahi-khamkaew-präs-12.webp
+    - kolahi-khamkaew-präs-13.webp
+    - kolahi-khamkaew-präs-14.webp
+    - kolahi-khamkaew-präs-15.webp
+    - kolahi-khamkaew-präs-16.webp
+    - kolahi-khamkaew-präs-17.webp
+    - kolahi-khamkaew-präs-18.webp
+    - kolahi-khamkaew-präs-19.webp
 styleguide: kolahi-khamkaew-styleguide.svg
 ---
 Das Ziel des Screendesign Projekts ist es, ein Gestaltungs- und Interaktionskonzept für die neue Ansicht "Bildstandorte anzeigen" zu entwickeln und zu gestalten. Dabei wird eine ortsbezogene Übersicht der Artefakte bereitgestellt.

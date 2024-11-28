@@ -3,20 +3,20 @@ title: ProjectSurvival4All - Sympathische und praktische Survival-Tipps für die
 people:
     - Cherilyn Bernhardt
     - Lukas Diekmann
-teaserimage: sd_Coverbild-Bernhardt-Diekmann.png
+teaserimage: sd_Coverbild-Bernhardt-Diekmann.webp
 gallery:
-    - sd-bernhardt-diekmann_d-01-startseite.png
-    - sd-bernhardt-diekmann_d-02-about.png
-    - sd-bernhardt-diekmann_d-03-suche-0.1.png
-    - sd-bernhardt-diekmann_d-04-content.png
-    - sd-bernhardt-diekmann_m-01-startseite-0.1.png
-    - sd-bernhardt-diekmann_m-02-about.png
-    - sd-bernhardt-diekmann_m-03-suche-0.1.png
-    - sd-bernhardt-diekmann_m-04-content.png
-    - sd-bernhardt-diekmann_t-01-Startseite.png
-    - sd-bernhardt-diekmann_t-02-About.png
-    - sd-bernhardt-diekmann_t-03-Suche-0.1.png
-    - sd-bernhardt-diekmann_t-04-Content.png
+    - sd-bernhardt-diekmann_d-01-startseite.webp
+    - sd-bernhardt-diekmann_d-02-about.webp
+    - sd-bernhardt-diekmann_d-03-suche-0.1.webp
+    - sd-bernhardt-diekmann_d-04-content.webp
+    - sd-bernhardt-diekmann_m-01-startseite-0.1.webp
+    - sd-bernhardt-diekmann_m-02-about.webp
+    - sd-bernhardt-diekmann_m-03-suche-0.1.webp
+    - sd-bernhardt-diekmann_m-04-content.webp
+    - sd-bernhardt-diekmann_t-01-Startseite.webp
+    - sd-bernhardt-diekmann_t-02-About.webp
+    - sd-bernhardt-diekmann_t-03-Suche-0.1.webp
+    - sd-bernhardt-diekmann_t-04-Content.webp
 
 styleguide: sd-bernhardt-diekmann_styleguide.svg
 ---

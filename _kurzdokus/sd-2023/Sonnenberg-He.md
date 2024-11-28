@@ -3,28 +3,28 @@ title: ProjektSurvival4All, eine Wissensplattform für Projekte und Projektarbei
 people:
     - Daniel Sonnenberg
     - Chenghua He
-teaserimage: Sonnenberg-He-Teaser.png
+teaserimage: Sonnenberg-He-Teaser.webp
 gallery:
-    - Sonnenberg-He-Frontpage-Desktop.png
-    - Sonnenberg-He-Frontpage-Tablet.png
-    - Sonnenberg-He-Frontpage-Phone.png
-    - Sonnenberg-He-Frontpage-Filter-Desktop.png
-    - Sonnenberg-He-Frontpage-Idea-Desktop.png
-    - Sonnenberg-He-Frontpage-Idea-Tablet.png
-    - Sonnenberg-He-Frontpage-Idea-Phone.png
-    - Sonnenberg-He-Frontpage-Feedback-Desktop.png
-    - Sonnenberg-He-Frontpage-Feedback-Tablet.png
-    - Sonnenberg-He-Frontpage-Feedback-Phone.png
-    - Sonnenberg-He-Favorites-Desktop.png
-    - Sonnenberg-He-Favorites-Tablet.png
-    - Sonnenberg-He-Favorites-Phone.png
-    - Sonnenberg-He-Contentpage-PDF-Top-Desktop.png
-    - Sonnenberg-He-Contentpage-Video-Top-Desktop.png
-    - Sonnenberg-He-Contentpage-Video-Top-Tablet.png
-    - Sonnenberg-He-Contentpage-Video-Top-Phone.png
-    - Sonnenberg-He-Contentpage-Video-Bottom-Desktop.png
-    - Sonnenberg-He-Contentpage-Video-Bottom-Tablet.png
-    - Sonnenberg-He-Contentpage-Video-Bottom-Phone.png
+    - Sonnenberg-He-Frontpage-Desktop.webp
+    - Sonnenberg-He-Frontpage-Tablet.webp
+    - Sonnenberg-He-Frontpage-Phone.webp
+    - Sonnenberg-He-Frontpage-Filter-Desktop.webp
+    - Sonnenberg-He-Frontpage-Idea-Desktop.webp
+    - Sonnenberg-He-Frontpage-Idea-Tablet.webp
+    - Sonnenberg-He-Frontpage-Idea-Phone.webp
+    - Sonnenberg-He-Frontpage-Feedback-Desktop.webp
+    - Sonnenberg-He-Frontpage-Feedback-Tablet.webp
+    - Sonnenberg-He-Frontpage-Feedback-Phone.webp
+    - Sonnenberg-He-Favorites-Desktop.webp
+    - Sonnenberg-He-Favorites-Tablet.webp
+    - Sonnenberg-He-Favorites-Phone.webp
+    - Sonnenberg-He-Contentpage-PDF-Top-Desktop.webp
+    - Sonnenberg-He-Contentpage-Video-Top-Desktop.webp
+    - Sonnenberg-He-Contentpage-Video-Top-Tablet.webp
+    - Sonnenberg-He-Contentpage-Video-Top-Phone.webp
+    - Sonnenberg-He-Contentpage-Video-Bottom-Desktop.webp
+    - Sonnenberg-He-Contentpage-Video-Bottom-Tablet.webp
+    - Sonnenberg-He-Contentpage-Video-Bottom-Phone.webp
 styleguide: Sonnenberg-He-Styleguide.svg
 ---
 

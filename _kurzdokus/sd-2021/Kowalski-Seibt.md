@@ -3,16 +3,16 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Collin Seibt
     - Konstantin Kowalski
-teaserimage: Kowalski-Seibt-Teaser.png
+teaserimage: Kowalski-Seibt-Teaser.webp
 gallery:
-    - Kowalski-Seibt-FrontpagePC.png
-    - Kowalski-Seibt-BuchseitePC.png
-    - Kowalski-Seibt-NeuerscheinungenPC.png
-    - Kowalski-Seibt-NeuerscheinungenPC.png
-    - Kowalski-Seibt-Frontpage-MOBILE.png
-    - Kowalski-Seibt-Frontpage+Navi-MOBILE.png
-    - Kowalski-Seibt-Frontpage+Navi-(Buchthemen)-MOBILE.png
-    - Kowalski-Seibt-Abenteuer-Bücher-MOBILE.png
+    - Kowalski-Seibt-FrontpagePC.webp
+    - Kowalski-Seibt-BuchseitePC.webp
+    - Kowalski-Seibt-NeuerscheinungenPC.webp
+    - Kowalski-Seibt-NeuerscheinungenPC.webp
+    - Kowalski-Seibt-Frontpage-MOBILE.webp
+    - Kowalski-Seibt-Frontpage+Navi-MOBILE.webp
+    - Kowalski-Seibt-Frontpage+Navi-(Buchthemen)-MOBILE.webp
+    - Kowalski-Seibt-Abenteuer-Bücher-MOBILE.webp
 styleguide: Kowalski-Seibt-Styleguide.svg
 ---
 

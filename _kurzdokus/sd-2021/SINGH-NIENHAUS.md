@@ -3,15 +3,15 @@ title: Gestaltungskonzepte für „Stöber- und Entdeckerformate“ für VINCENT
 people:
     - Prerit Singh
     - Sven Nienhaus
-teaserimage: SINGH-NIENHAUS-teaser.png
+teaserimage: SINGH-NIENHAUS-teaser.webp
 gallery:
-    - SINGH-NIENHAUS-Desktop1.png
-    - SINGH-NIENHAUS-Desktop2.png  
-    - SINGH-NIENHAUS-Desktop3.png 
-    - SINGH-NIENHAUS-Desktop4.png
-    - SINGH-NIENHAUS-Tablet1.png
-    - SINGH-NIENHAUS-Tablet2.png
-    - SINGH-NIENHAUS-Tablet3.png
+    - SINGH-NIENHAUS-Desktop1.webp
+    - SINGH-NIENHAUS-Desktop2.webp  
+    - SINGH-NIENHAUS-Desktop3.webp 
+    - SINGH-NIENHAUS-Desktop4.webp
+    - SINGH-NIENHAUS-Tablet1.webp
+    - SINGH-NIENHAUS-Tablet2.webp
+    - SINGH-NIENHAUS-Tablet3.webp
 styleguide: SINGH-NIENHAUS-Styleguide.svg
 ---
 

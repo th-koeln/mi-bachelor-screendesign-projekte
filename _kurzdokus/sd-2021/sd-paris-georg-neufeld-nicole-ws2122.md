@@ -4,13 +4,13 @@ people:
     - Georg Paris
     - Nicole Neufeld
     
-teaserimage: sd-paris-neufeld-Mockup-2122.png
+teaserimage: sd-paris-neufeld-Mockup-2122.webp
 
 gallery:
-    - sd-paris-neufeld-device-Ipad-1-2122.png
-    - sd-paris-neufeld-device-Ipad-2-2122.png
-    - sd-paris-neufeld-device-WIMP-1-2122.png
-    - sd-paris-neufeld-device-WIMP-2-2122.png
+    - sd-paris-neufeld-device-Ipad-1-2122.webp
+    - sd-paris-neufeld-device-Ipad-2-2122.webp
+    - sd-paris-neufeld-device-WIMP-1-2122.webp
+    - sd-paris-neufeld-device-WIMP-2-2122.webp
       
 styleguide: sd-paris-neufeld-styleguide-2122.svg
 ---

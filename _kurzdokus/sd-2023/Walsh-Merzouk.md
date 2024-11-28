@@ -3,18 +3,18 @@ title: Neue Website für die Studierenden der TH Köln «ProjektSurvival4All»
 people:
     - Rasmus Walsh
     - Amin Merzouk
-teaserimage: Walsh-Merzouk-Teaser.png
+teaserimage: Walsh-Merzouk-Teaser.webp
 gallery:
-    - Walsh-Merzouk-Desktop-Homescreen.png
-    - Walsh-Merzouk-Desktop-HomePreview.png
-    - Walsh-Merzouk-Desktop-Contentitem1.png
-    - Walsh-Merzouk-iPhone-Homescreen.png
-    - Walsh-Merzouk-iPhone-ContentPreview.png
-    - Walsh-Merzouk-iPhone-ValidationPopup.png
-    - Walsh-Merzouk-Tablet-Homescreen.png
-    - Walsh-Merzouk-Tablet-HomePreview.png
-    - Walsh-Merzouk-Tablet-Survival4All.png
-    - Walsh-Merzouk-Tablet-ProfilePage.png
+    - Walsh-Merzouk-Desktop-Homescreen.webp
+    - Walsh-Merzouk-Desktop-HomePreview.webp
+    - Walsh-Merzouk-Desktop-Contentitem1.webp
+    - Walsh-Merzouk-iPhone-Homescreen.webp
+    - Walsh-Merzouk-iPhone-ContentPreview.webp
+    - Walsh-Merzouk-iPhone-ValidationPopup.webp
+    - Walsh-Merzouk-Tablet-Homescreen.webp
+    - Walsh-Merzouk-Tablet-HomePreview.webp
+    - Walsh-Merzouk-Tablet-Survival4All.webp
+    - Walsh-Merzouk-Tablet-ProfilePage.webp
 
 styleguide: Walsh-Merzouk-StyleGuide.svg
 ---

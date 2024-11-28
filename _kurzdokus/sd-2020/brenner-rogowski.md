@@ -3,13 +3,13 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Nico Brenner
     - Daniel Rogowski
-teaserimage: brenner-rogowski-001_teaser.png
+teaserimage: brenner-rogowski-001_teaser.webp
 gallery:
-    - brenner-rogowski-002_kurzdoku.png
-    - brenner-rogowski-003_kurzdoku.png
-    - brenner-rogowski-004_kurzdoku.png
+    - brenner-rogowski-002_kurzdoku.webp
+    - brenner-rogowski-003_kurzdoku.webp
+    - brenner-rogowski-004_kurzdoku.webp
     - brenner-rogowski-005_kurzdoku.jpg
-    - brenner-rogowski-006_kurzdoku.png
+    - brenner-rogowski-006_kurzdoku.webp
 styleguide: brenner-rogowski-style_guide.svg
 ---
 

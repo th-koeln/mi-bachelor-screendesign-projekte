@@ -2,14 +2,14 @@
 title: ProjectSurvival4All – Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus
 people:
     - Marvin Fels
-teaserimage: sd-mockup-Fels-Desktop.png
+teaserimage: sd-mockup-Fels-Desktop.webp
 gallery:
-    - sd-designkonzept-Fels-Desktop-Startseite.png
-    - sd-designkonzept-Fels-Desktop-StartseitePreview.png
-    - sd-designkonzept-Fels-Desktop-Content.png
-    - sd-designkonzept-Fels-IPad-ContentMitKommentar.png
-    - sd-designkonzept-Fels-IPad-FavoritenAusgeklappt.png
-    - sd-designkonzept-Fels-IPad-Startseite.png
+    - sd-designkonzept-Fels-Desktop-Startseite.webp
+    - sd-designkonzept-Fels-Desktop-StartseitePreview.webp
+    - sd-designkonzept-Fels-Desktop-Content.webp
+    - sd-designkonzept-Fels-IPad-ContentMitKommentar.webp
+    - sd-designkonzept-Fels-IPad-FavoritenAusgeklappt.webp
+    - sd-designkonzept-Fels-IPad-Startseite.webp
 styleguide: sd-styleguide-Fels.svg
 ---
 

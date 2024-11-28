@@ -3,16 +3,16 @@ title: ProjectSurvival4All – Sympathische und praktische Survival-Tipps für d
 people:
     - Ben Oswald
     - Amy Rösch
-teaserimage: oswald-roesch-teaser.png
+teaserimage: oswald-roesch-teaser.webp
 gallery:
-    - oswald-roesch-wimp-homepage.png
-    - oswald-roesch-wimp-cards.png
-    - oswald-roesch-wimp-contentitem.png
-    - oswald-roesch-wimp-account.png
-    - oswald-roesch-mobile-homepage.png
-    - oswald-roesch-mobile-cards.png
-    - oswald-roesch-mobile-contentitem.png
-    - oswald-roesch-mobile-account.png
+    - oswald-roesch-wimp-homepage.webp
+    - oswald-roesch-wimp-cards.webp
+    - oswald-roesch-wimp-contentitem.webp
+    - oswald-roesch-wimp-account.webp
+    - oswald-roesch-mobile-homepage.webp
+    - oswald-roesch-mobile-cards.webp
+    - oswald-roesch-mobile-contentitem.webp
+    - oswald-roesch-mobile-account.webp
 ---
 
 Im Rahmen des diesjährigen Screendesign Projektes soll die Wissensplattform „ProjectSurvival4All“ geschaffen werden, die es den Studenten ermöglicht, alle relevanten Informationen zum Thema Projektarbeit an einem zentralen Ort zu finden. Dadurch sollen hilfesuchende Studenten schnell und einfach ein fundiertes Verständnis für die Projektarbeit erhalten. 

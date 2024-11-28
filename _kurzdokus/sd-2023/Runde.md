@@ -3,18 +3,18 @@ title: ProjectSurvival4All
 people:
     - Hendrik Runde
     - 
-teaserimage: sd-TeaserBild-Runde.png
+teaserimage: sd-TeaserBild-Runde.webp
 gallery:
-    - sd-HauptseiteDesktop-Runde.png
-    - sd-HauptseiteAnregungDesktop-Runde.png
-    - sd-HauptseiteSucheDesktop-Runde.png
-    - sd-HauptseiteFilterDesktop-Runde.png
-    - sd-HauptseiteCIDesktop-Runde.png
-    - sd-HauptseiteIpad-Runde.png
-    - sd-HauptseiteHandy-Runde.png
-    - sd-HauptseiteAktuellesHandy-Runde.png
-    - sd-HauptseiteMenüHandy-Runde.png
-    - sd-HauptseiteCIHandy-Runde.png
+    - sd-HauptseiteDesktop-Runde.webp
+    - sd-HauptseiteAnregungDesktop-Runde.webp
+    - sd-HauptseiteSucheDesktop-Runde.webp
+    - sd-HauptseiteFilterDesktop-Runde.webp
+    - sd-HauptseiteCIDesktop-Runde.webp
+    - sd-HauptseiteIpad-Runde.webp
+    - sd-HauptseiteHandy-Runde.webp
+    - sd-HauptseiteAktuellesHandy-Runde.webp
+    - sd-HauptseiteMenüHandy-Runde.webp
+    - sd-HauptseiteCIHandy-Runde.webp
 styleguide: sd-Styleguide-Runde.svg
 ---
 

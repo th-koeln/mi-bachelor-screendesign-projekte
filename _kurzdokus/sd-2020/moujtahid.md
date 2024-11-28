@@ -2,12 +2,12 @@
 title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Abdelbasset Moujtahid
-teaserimage: moujtahid-teaser.png
+teaserimage: moujtahid-teaser.webp
 gallery:
-    - moujtahid-bild1.png
-    - moujtahid-bild2.png
-    - moujtahid-bild3.png
-    - moujtahid-bild4.png
+    - moujtahid-bild1.webp
+    - moujtahid-bild2.webp
+    - moujtahid-bild3.webp
+    - moujtahid-bild4.webp
 styleguide: moujtahid-styleguide.svg
 ---
 

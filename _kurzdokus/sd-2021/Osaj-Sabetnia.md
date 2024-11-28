@@ -5,14 +5,14 @@ people:
     - Mohammadamin Benjamin Sabetnia
 teaserimage: Osaj-Sabetnia-Teaser.jpg
 gallery:
-    - Osaj-Sabetnia-Desktop-01.png
-    - Osaj-Sabetnia-Desktop-02.png
-    - Osaj-Sabetnia-Desktop-03.png
-    - Osaj-Sabetnia-Desktop-04.png
-    - Osaj-Sabetnia-Tablet-01.png
-    - Osaj-Sabetnia-Tablet-02.png
-    - Osaj-Sabetnia-Tablet-03.png
-    - Osaj-Sabetnia-Tablet-04.png
+    - Osaj-Sabetnia-Desktop-01.webp
+    - Osaj-Sabetnia-Desktop-02.webp
+    - Osaj-Sabetnia-Desktop-03.webp
+    - Osaj-Sabetnia-Desktop-04.webp
+    - Osaj-Sabetnia-Tablet-01.webp
+    - Osaj-Sabetnia-Tablet-02.webp
+    - Osaj-Sabetnia-Tablet-03.webp
+    - Osaj-Sabetnia-Tablet-04.webp
 styleguide: Osaj-Sabetnia-Styleguide.svg
 ---
 

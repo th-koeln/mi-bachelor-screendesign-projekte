@@ -3,22 +3,22 @@ title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung
 people:
     - Cansel Altunok
     - Vanessa Nussbaum
-teaserimage: altunok-nussbaum-teaser.png
+teaserimage: altunok-nussbaum-teaser.webp
 gallery:
-    - altunok-nussbaum-desktop1.png
-    - altunok-nussbaum-desktop2.png
-    - altunok-nussbaum-desktop3.png
-    - altunok-nussbaum-phone1.png
-    - altunok-nussbaum-phone2.png
-    - altunok-nussbaum-phone3.png
-    - altunok-nussbaum-phone4.png
-    - altunok-nussbaum-phone5.png
-    - altunok-nussbaum-phone6.png
-    - altunok-nussbaum-tablet1.png
-    - altunok-nussbaum-tablet2.png
-    - altunok-nussbaum-tablet3.png
-    - altunok-nussbaum-tablet4.png
-    - altunok-nussbaum-tablet5.png
+    - altunok-nussbaum-desktop1.webp
+    - altunok-nussbaum-desktop2.webp
+    - altunok-nussbaum-desktop3.webp
+    - altunok-nussbaum-phone1.webp
+    - altunok-nussbaum-phone2.webp
+    - altunok-nussbaum-phone3.webp
+    - altunok-nussbaum-phone4.webp
+    - altunok-nussbaum-phone5.webp
+    - altunok-nussbaum-phone6.webp
+    - altunok-nussbaum-tablet1.webp
+    - altunok-nussbaum-tablet2.webp
+    - altunok-nussbaum-tablet3.webp
+    - altunok-nussbaum-tablet4.webp
+    - altunok-nussbaum-tablet5.webp
    
 styleguide: altunok-nussbaum-styleguide.svg
 ---

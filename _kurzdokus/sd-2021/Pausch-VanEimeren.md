@@ -3,17 +3,17 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Tim Pausch
     - Colin van Eimeren
-teaserimage: Pausch-VanEimeren-teaser.png
+teaserimage: Pausch-VanEimeren-teaser.webp
 gallery:
-    - Pausch-VanEimeren-Startseite.png
-    - Pausch-VanEimeren-StoeberseiteFull.png
-    - Pausch-VanEimeren-Stoeberseite.png
-    - Pausch-VanEimeren-PopUpHorizontal.png
-    - Pausch-VanEimeren-PopUpVertical.png
-    - Pausch-VanEimeren-StoeberseiteBigVersion.png
-    - Pausch-VanEimeren-IPadPopUpVertical.png
-    - Pausch-VanEimeren-IPadPopUpHorizontal.png
-    - Pausch-VanEimeren-IPadBigVersion.png
+    - Pausch-VanEimeren-Startseite.webp
+    - Pausch-VanEimeren-StoeberseiteFull.webp
+    - Pausch-VanEimeren-Stoeberseite.webp
+    - Pausch-VanEimeren-PopUpHorizontal.webp
+    - Pausch-VanEimeren-PopUpVertical.webp
+    - Pausch-VanEimeren-StoeberseiteBigVersion.webp
+    - Pausch-VanEimeren-IPadPopUpVertical.webp
+    - Pausch-VanEimeren-IPadPopUpHorizontal.webp
+    - Pausch-VanEimeren-IPadBigVersion.webp
 styleguide: Pausch-VanEimeren-styleguide.svg
 ---
 

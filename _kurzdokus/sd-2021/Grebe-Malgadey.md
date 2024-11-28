@@ -3,24 +3,24 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Lisa Grebe
     - Nino Malgadey
-teaserimage: Grebe-Malgadey-Teser-MockUp.png
+teaserimage: Grebe-Malgadey-Teser-MockUp.webp
 gallery:
-    - Grebe-Malgadey-Desktop-MockUp.png
-    - Grebe-Malgadey-Desktop-01.png
-    - Grebe-Malgadey-Desktop-02.png
-    - Grebe-Malgadey-Desktop-03.png
-    - Grebe-Malgadey-Desktop-04.png
-    - Grebe-Malgadey-Mobile-MockUp.png
-    - Grebe-Malgadey-Mobile-01.png
-    - Grebe-Malgadey-Mobile-02.png
-    - Grebe-Malgadey-Mobile-03.png
-    - Grebe-Malgadey-Mobile-04.png
-    - Grebe-Malgadey-Mobile-05.png
-    - Grebe-Malgadey-Tablet-MockUp.png
-    - Grebe-Malgadey-Tablet-01.png
-    - Grebe-Malgadey-Tablet-02.png
-    - Grebe-Malgadey-Tablet-03.png
-    - Grebe-Malgadey-Tablet-04.png
+    - Grebe-Malgadey-Desktop-MockUp.webp
+    - Grebe-Malgadey-Desktop-01.webp
+    - Grebe-Malgadey-Desktop-02.webp
+    - Grebe-Malgadey-Desktop-03.webp
+    - Grebe-Malgadey-Desktop-04.webp
+    - Grebe-Malgadey-Mobile-MockUp.webp
+    - Grebe-Malgadey-Mobile-01.webp
+    - Grebe-Malgadey-Mobile-02.webp
+    - Grebe-Malgadey-Mobile-03.webp
+    - Grebe-Malgadey-Mobile-04.webp
+    - Grebe-Malgadey-Mobile-05.webp
+    - Grebe-Malgadey-Tablet-MockUp.webp
+    - Grebe-Malgadey-Tablet-01.webp
+    - Grebe-Malgadey-Tablet-02.webp
+    - Grebe-Malgadey-Tablet-03.webp
+    - Grebe-Malgadey-Tablet-04.webp
 styleguide: Grebe-Malgadey-Styleguide.svg
 ---
 

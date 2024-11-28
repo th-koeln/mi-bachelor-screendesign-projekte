@@ -3,16 +3,16 @@ title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung
 people:
     - Mila Calisir
     - Stefan Nikolic
-teaserimage: Calisir-Nikolic-Teaser.png
+teaserimage: Calisir-Nikolic-Teaser.webp
 gallery:
-    - Calisir-Nikolic-Einstiegspunkt.png
-    - Calisir-Nikolic-Suchseite-Karte-gr.png
-    - Calisir-Nikolic-Suchseite-Karte-kl.png
-    - Calisir-Nikolic-Detailseite-Minikarte.png
-    - Calisir-Nikolic-gefilterte_Ansicht.png
-    - Calisir-Nikolic-Phone-1.png
-    - Calisir-Nikolic-Phone-2.png
-    - Calisir-Nikolic-Tablet.png
+    - Calisir-Nikolic-Einstiegspunkt.webp
+    - Calisir-Nikolic-Suchseite-Karte-gr.webp
+    - Calisir-Nikolic-Suchseite-Karte-kl.webp
+    - Calisir-Nikolic-Detailseite-Minikarte.webp
+    - Calisir-Nikolic-gefilterte_Ansicht.webp
+    - Calisir-Nikolic-Phone-1.webp
+    - Calisir-Nikolic-Phone-2.webp
+    - Calisir-Nikolic-Tablet.webp
 styleguide: Calisir-Nikolic-Style_Guide.svg
 ---
 

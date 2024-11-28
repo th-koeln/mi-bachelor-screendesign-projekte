@@ -3,14 +3,14 @@ title: Funktionserweiterung "Ortsbezogene Darstellung der Artefakte" für das Cr
 people:
     - Alwin Meisenhelter
     - Sandra Launer
-teaserimage: meisenhelter-launer-teaser.png
+teaserimage: meisenhelter-launer-teaser.webp
 gallery:
-    - meisenhelter-launer-001-kurzdoku.png
-    - meisenhelter-launer-002-kurzdoku.png
-    - meisenhelter-launer-003-kurzdoku.png
-    - meisenhelter-launer-004-kurzdoku.png
-    - meisenhelter-launer-005-kurzdoku.png
-    - meisenhelter-launer-006-kurzdoku.png
+    - meisenhelter-launer-001-kurzdoku.webp
+    - meisenhelter-launer-002-kurzdoku.webp
+    - meisenhelter-launer-003-kurzdoku.webp
+    - meisenhelter-launer-004-kurzdoku.webp
+    - meisenhelter-launer-005-kurzdoku.webp
+    - meisenhelter-launer-006-kurzdoku.webp
 styleguide: meisenhelter-launer-styleguide.svg
 ---
 

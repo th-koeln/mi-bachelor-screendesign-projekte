@@ -3,34 +3,34 @@ title: Cranach Digital Archive “Ortsbezogene Dartstellung der Artefakte”
 people:
     - María José Luna Valenzuela
     - Javier Montufar Pérez
-teaserimage: Luna-Montufar-teaser.png
+teaserimage: Luna-Montufar-teaser.webp
 gallery:
-    - Luna-Montufar-desktop-bild1.png
-    - Luna-Montufar-desktop-bild2.png
-    - Luna-Montufar-desktop-bild3.png
-    - Luna-Montufar-desktop-bild4.png
-    - Luna-Montufar-desktop-bild5.png
-    - Luna-Montufar-desktop-bild6.png
-    - Luna-Montufar-desktop-bild7.png
-    - Luna-Montufar-desktop-bild8.png
-    - Luna-Montufar-desktop-bild9.png
-    - Luna-Montufar-desktop-bild10.png
-    - Luna-Montufar-ipad-bild1.png
-    - Luna-Montufar-ipad-bild2.png
-    - Luna-Montufar-ipad-bild3.png
-    - Luna-Montufar-ipad-bild4.png
-    - Luna-Montufar-ipad-bild5.png
-    - Luna-Montufar-ipad-bild6.png
-    - Luna-Montufar-ipad-bild7.png
-    - Luna-Montufar-mobile-bild1.png
-    - Luna-Montufar-mobile-bild2.png
-    - Luna-Montufar-mobile-bild3.png
-    - Luna-Montufar-mobile-bild4.png
-    - Luna-Montufar-mobile-bild5.png
-    - Luna-Montufar-mobile-bild6.png
-    - Luna-Montufar-mobile-bild7.png
-    - Luna-Montufar-mobile-bild8.png
-    - Luna-Montufar-mobile-bild9.png
+    - Luna-Montufar-desktop-bild1.webp
+    - Luna-Montufar-desktop-bild2.webp
+    - Luna-Montufar-desktop-bild3.webp
+    - Luna-Montufar-desktop-bild4.webp
+    - Luna-Montufar-desktop-bild5.webp
+    - Luna-Montufar-desktop-bild6.webp
+    - Luna-Montufar-desktop-bild7.webp
+    - Luna-Montufar-desktop-bild8.webp
+    - Luna-Montufar-desktop-bild9.webp
+    - Luna-Montufar-desktop-bild10.webp
+    - Luna-Montufar-ipad-bild1.webp
+    - Luna-Montufar-ipad-bild2.webp
+    - Luna-Montufar-ipad-bild3.webp
+    - Luna-Montufar-ipad-bild4.webp
+    - Luna-Montufar-ipad-bild5.webp
+    - Luna-Montufar-ipad-bild6.webp
+    - Luna-Montufar-ipad-bild7.webp
+    - Luna-Montufar-mobile-bild1.webp
+    - Luna-Montufar-mobile-bild2.webp
+    - Luna-Montufar-mobile-bild3.webp
+    - Luna-Montufar-mobile-bild4.webp
+    - Luna-Montufar-mobile-bild5.webp
+    - Luna-Montufar-mobile-bild6.webp
+    - Luna-Montufar-mobile-bild7.webp
+    - Luna-Montufar-mobile-bild8.webp
+    - Luna-Montufar-mobile-bild9.webp
 styleguide: Luna-Montufar-style-guide.svg
 ---
 

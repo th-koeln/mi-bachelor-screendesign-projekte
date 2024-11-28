@@ -3,14 +3,14 @@ title: ProjectSurvival4All Sympathische und praktische Survival Tipps für die P
 people:
     - Buraq Durukan
     - Sebastian Gielen-Pereira
-teaserimage: Durukan-Gielen-teaserimage.png
+teaserimage: Durukan-Gielen-teaserimage.webp
 gallery:
-    - Durukan-Gielen-Desktop1.png
-    - Durukan-Gielen-Desktop2.png
-    - Durukan-Gielen-Handy1.png
-    - Durukan-Gielen-Handy2.png
-    - Durukan-Gielen-Tablet1.png
-    - Durukan-Gielen-Tablet2.png
+    - Durukan-Gielen-Desktop1.webp
+    - Durukan-Gielen-Desktop2.webp
+    - Durukan-Gielen-Handy1.webp
+    - Durukan-Gielen-Handy2.webp
+    - Durukan-Gielen-Tablet1.webp
+    - Durukan-Gielen-Tablet2.webp
 styleguide: Durukan-Gielen-Styleguide.svg
 ---
 Die Ausgangsbasis des Projekts für das Wintersemester im Fachbereich Screendesign 2024 besteht in der Entwicklung einer umfassenden Online-Ressource für Projektmanagement an der Technischen Hochschule Köln.  Ziel ist es, Studierenden und externen Fachkräften hochwertige Materialien, Tools und Ratschläge zur Verbesserung ihrer Projektmanagementfähigkeiten sowie zur erfolgreichen Durchführung von Projekten bereitzustellen.

@@ -3,16 +3,16 @@ title: Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive
 people:
     - Tom Gerold
     - Jannis Klein
-teaserimage: gerold-klein-teaser.png
+teaserimage: gerold-klein-teaser.webp
 gallery:
-    - gerold-klein-bild1.png
-    - gerold-klein-bild2.png
-    - gerold-klein-bild3.png
-    - gerold-klein-bild4.png
-    - gerold-klein-bild5.png
-    - gerold-klein-bild6.png
-    - gerold-klein-bild7.png
-    - gerold-klein-bild8.png
+    - gerold-klein-bild1.webp
+    - gerold-klein-bild2.webp
+    - gerold-klein-bild3.webp
+    - gerold-klein-bild4.webp
+    - gerold-klein-bild5.webp
+    - gerold-klein-bild6.webp
+    - gerold-klein-bild7.webp
+    - gerold-klein-bild8.webp
 styleguide: gerold-klein-styleguide.svg
 ---
 

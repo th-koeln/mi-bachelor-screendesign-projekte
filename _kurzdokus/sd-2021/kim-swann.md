@@ -3,13 +3,13 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Tscho Young Nina Kim
     - John Swann
-teaserimage: kim-swann-teaser.png
+teaserimage: kim-swann-teaser.webp
 gallery:
-    - kim-swann-desktop-collapsed-bright.png
-    - kim-swann-desktop-expanded-bright.png
-    - kim-swann-ihpone-12pro-collapsed.png
-    - kim-swann-ihpone-12pro-expanded.png
-    - kim-swann-ipad-mini-collapsed.png
+    - kim-swann-desktop-collapsed-bright.webp
+    - kim-swann-desktop-expanded-bright.webp
+    - kim-swann-ihpone-12pro-collapsed.webp
+    - kim-swann-ihpone-12pro-expanded.webp
+    - kim-swann-ipad-mini-collapsed.webp
 styleguide: kim-swann-styleguide.svg
 ---
 

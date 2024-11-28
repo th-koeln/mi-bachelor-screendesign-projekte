@@ -3,17 +3,17 @@ title: Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VO
 people:
     - Patricia Henskes
     - Lisa Fuhrmann
-teaserimage: sd-henskes-patricia-fuhrmann-lisa-ws2122-teaser.png
+teaserimage: sd-henskes-patricia-fuhrmann-lisa-ws2122-teaser.webp
 gallery:
-    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-desktop-01-d-start.png
-    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-desktop-02-d-tool.png
-    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-desktop-03-d-toolclicked.png
-    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-tablet-01-t-start.png
-    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-tablet-02-t-tool.png
-    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-tablet-03-t-variant-toolclicked.png
-    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-smartphone-01-s-start.png
-    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-smartphone-02-s-tool.png
-    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-smartphone-03-s-toolclicked.png
+    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-desktop-01-d-start.webp
+    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-desktop-02-d-tool.webp
+    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-desktop-03-d-toolclicked.webp
+    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-tablet-01-t-start.webp
+    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-tablet-02-t-tool.webp
+    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-tablet-03-t-variant-toolclicked.webp
+    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-smartphone-01-s-start.webp
+    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-smartphone-02-s-tool.webp
+    - sd-henskes-patricia-fuhrmann-lisa-ws2122-screens-smartphone-03-s-toolclicked.webp
 styleguide: sd-henskes-patricia-fuhrmann-lisa-ws2122-styleguide.svg
 ---
 

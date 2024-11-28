@@ -3,17 +3,17 @@ title: Endecker & Stöberfunktion für Vincent & Voltaire
 people:
     - Anton Berg
     - Jan Rosenfeld
-teaserimage: Berg-Rosenfeld-teaser.png
+teaserimage: Berg-Rosenfeld-teaser.webp
 gallery:
-    - Berg-Rosenfeld-desktop1.png
-    - Berg-Rosenfeld-desktop2.png
-    - Berg-Rosenfeld-desktop3.png
-    - Berg-Rosenfeld-tablet1.png
-    - Berg-Rosenfeld-tablet2.png
-    - Berg-Rosenfeld-tablet3.png
-    - Berg-Rosenfeld-tablet4.png
-    - Berg-Rosenfeld-tablet5.png
-    - Berg-Rosenfeld-tablet6.png
+    - Berg-Rosenfeld-desktop1.webp
+    - Berg-Rosenfeld-desktop2.webp
+    - Berg-Rosenfeld-desktop3.webp
+    - Berg-Rosenfeld-tablet1.webp
+    - Berg-Rosenfeld-tablet2.webp
+    - Berg-Rosenfeld-tablet3.webp
+    - Berg-Rosenfeld-tablet4.webp
+    - Berg-Rosenfeld-tablet5.webp
+    - Berg-Rosenfeld-tablet6.webp
 
 styleguide: Berg-Rosenfeld-styleguide.svg
 ---

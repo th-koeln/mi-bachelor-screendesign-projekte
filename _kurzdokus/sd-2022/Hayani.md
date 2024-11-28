@@ -2,17 +2,17 @@
 title: Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»
 people:
     - Karam Hayani
-teaserimage: Hayani-teaser.png
+teaserimage: Hayani-teaser.webp
 gallery:
-    - Hayani-WIMP-fähigestgerät-Karte.png
-    - Hayani-WIMP-Fähigesgerät-Trefferseite.png
-    - Hayani-WIMP-Fähigesgerät-Trefferseite.png
-    - Hayani-Tab-Trefferseite.png
-    - Hayani-Tab-Suchseite.png
-    - Hayani-Tab-Karte.png
-    - Hayani-Smartphone-Trefferseite.png
-    - Hayani-Smartphone-suchseite.png
-    - Hayani-Smartphone-Karte.png
+    - Hayani-WIMP-fähigestgerät-Karte.webp
+    - Hayani-WIMP-Fähigesgerät-Trefferseite.webp
+    - Hayani-WIMP-Fähigesgerät-Trefferseite.webp
+    - Hayani-Tab-Trefferseite.webp
+    - Hayani-Tab-Suchseite.webp
+    - Hayani-Tab-Karte.webp
+    - Hayani-Smartphone-Trefferseite.webp
+    - Hayani-Smartphone-suchseite.webp
+    - Hayani-Smartphone-Karte.webp
 styleguide: Hayani-Styleguide.svg
 ---
 
