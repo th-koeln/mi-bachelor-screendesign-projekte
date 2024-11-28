@@ -2,7 +2,6 @@
 title: ProjectSurvival4All
 people:
     - Hendrik Runde
-    - 
 teaserimage: sd-TeaserBild-Runde.webp
 gallery:
     - sd-HauptseiteDesktop-Runde.webp

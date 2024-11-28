@@ -13,23 +13,23 @@ gallery:
     - foth-jennifer-jungilligens-meike-d06-favoriten.webp
     - foth-jennifer-jungilligens-meike-d07-autoren-uebersicht.webp
     - foth-jennifer-jungilligens-meike-d08-autorenprofil.webp
-    - foth-jennifer-jungilligens-meike-t01-homepage.webp
-    - foth-jennifer-jungilligens-meike-t02-homepage-filter-menu-open.webp
-    - foth-jennifer-jungilligens-meike-t03-homepage-filters-applied.webp
+    - foth-jennifer-jungilligens-meike-t01-homescreen.webp
+    - foth-jennifer-jungilligens-meike-t02-homescreen-filter-menu-open.webp
+    - foth-jennifer-jungilligens-meike-t03-homescreen-filters-applied.webp
     - foth-jennifer-jungilligens-meike-t04-content-item-1.webp
     - foth-jennifer-jungilligens-meike-t05-content-item-2.webp
     - foth-jennifer-jungilligens-meike-t06-favoriten.webp
     - foth-jennifer-jungilligens-meike-t07-autoren-uebersicht.webp
     - foth-jennifer-jungilligens-meike-t08-autorenprofil.webp
-    - foth-jennifer-jungilligens-meike-m01-homepage.webp
-    - foth-jennifer-jungilligens-meike-m02-homepage-filter-menu-open.webp
-    - foth-jennifer-jungilligens-meike-m03-homepage-filters-applied.webp
+    - foth-jennifer-jungilligens-meike-m01-homescreen.webp
+    - foth-jennifer-jungilligens-meike-m02-homescreen-filter-menu-open.webp
+    - foth-jennifer-jungilligens-meike-m03-homescreen-filters-applied.webp
     - foth-jennifer-jungilligens-meike-m04-content-item-1.webp
     - foth-jennifer-jungilligens-meike-m05-content-item-2.webp
     - foth-jennifer-jungilligens-meike-m06-favoriten.webp
     - foth-jennifer-jungilligens-meike-m07-autoren-uebersicht.webp
     - foth-jennifer-jungilligens-meike-m08-autorenprofil.webp
-    - foth-jennifer-jungilligens-meike-m09-homepage-side-menu-open.webp
+    - foth-jennifer-jungilligens-meike-m09-homescreen-side-menu-open.webp
 styleguide: foth-jennifer-jungilligens-meike-styleguide.svg
 ---
 
