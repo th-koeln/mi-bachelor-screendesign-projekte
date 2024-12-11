@@ -9,8 +9,8 @@ gallery:
     - klein-hartono-WIMP2.webp
     - klein-hartono-WIMP3.webp
     - klein-hartono-WIMP4.webp
-    - klein-hartono-phone1.webp
-    - klein-hartono-phone2.webp
+    - klein-hartono-smartphone1.webp
+    - klein-hartono-smartphone2.webp
     - klein-hartono-tablet1.webp
     - klein-hartono-tablet2.webp
     - klein-hartono-tablet3.webp
