@@ -1,8 +1,8 @@
 ---
 title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
-    - 
-    - 
+    - Yousef Belbachir
+    - Emirhan Gürkan
 teaserimage: 
 gallery:
     - 
