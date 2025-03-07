@@ -9,9 +9,11 @@ gallery:
     - Zecha-Meisenhelter-Startseite2.jpeg
     - Zecha-Meisenhelter-SubPageLucas1.jpeg
     - Zecha-Meisenhelter-SubPageLucas2.jpeg
-    -
-    -
-    -
+    - Zecha-Meisenhelter-SubPageLuther.jpeg
+    - Zecha-Meisenhelter-SubPageAktuelles1.jpeg
+    - Zecha-Meisenhelter-SubPageAktuelles2.jpeg
+    - Zecha-Meisenhelter-SubPageForschung1.jpeg
+    - Zecha-Meisenhelter-SubPageForschung2.jpeg
 ---
 
 Bitte verfassen sie hier einen Abstract mit maximal 600 Worten.
