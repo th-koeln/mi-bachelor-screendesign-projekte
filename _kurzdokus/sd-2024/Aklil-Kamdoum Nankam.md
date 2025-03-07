@@ -38,10 +38,10 @@ Die Startseite wurde so konzipiert, dass sie eine intuitive Orientierung ermögl
 ### Aktuelles 
 Der Bereich für aktuelle Informationen wurde überarbeitet, um eine übersichtliche Darstellung wissenschaftlicher Erkenntnisse und Projektupdates zu gewährleisten.
 
-### Literatur
+### Publikation
 Dieser Bereich wurde strukturiert, um relevante wissenschaftliche Beiträge gezielt zugänglich zu machen.
 
-### Bildarchiv
+###  Bildliteratur
 Die Darstellung und Organisation der hochauflösenden Bildinhalte wurde verbessert. Nutzer können gezielter nach Abbildungen suchen und diese in einer für Forschungszwecke optimalen Qualität betrachten.
 
 ## Nutzerzentrierter Ansatz
