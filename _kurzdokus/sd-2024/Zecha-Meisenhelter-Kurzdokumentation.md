@@ -5,15 +5,20 @@ people:
     - Rina Meisenhelter
 teaserimage: 
 gallery:
-    - Zecha-Meisenhelter-Startseite1.jpeg
-    - Zecha-Meisenhelter-Startseite2.jpeg
-    - Zecha-Meisenhelter-SubPageLucas1.jpeg
-    - Zecha-Meisenhelter-SubPageLucas2.jpeg
-    - Zecha-Meisenhelter-SubPageLuther.jpeg
-    - Zecha-Meisenhelter-SubPageAktuelles1.jpeg
-    - Zecha-Meisenhelter-SubPageAktuelles2.jpeg
-    - Zecha-Meisenhelter-SubPageForschung1.jpeg
-    - Zecha-Meisenhelter-SubPageForschung2.jpeg
+    - Zecha-Meisenhelter-Startseite1.jpg
+    - Zecha-Meisenhelter-Startseite2.jpg
+    - Zecha-Meisenhelter-NavigationBar.jpg
+    - Zecha-Meisenhelter-SubPageLucas1.jpg
+    - Zecha-Meisenhelter-SubPageLucas2.jpg
+    - Zecha-Meisenhelter-SubPageLuther.jpg
+    - Zecha-Meisenhelter-SubPageAktuelles1.jpg
+    - Zecha-Meisenhelter-SubPageAktuelles2.jpg
+    - Zecha-Meisenhelter-SubPageForschung1.jpg
+    - Zecha-Meisenhelter-SubPageForschung2.jpg
+    - Zecha-Meisenhelter-PhoneStartseite.jpg
+    - Zecha-Meisenhelter-PhoneNavigation.jpg
+    - Zecha-Meisenhelter-PhoneAktuelles.jpg
+    - Zecha-Meisenhelter-PhoneFooter.jpg
 ---
 
 Bitte verfassen sie hier einen Abstract mit maximal 600 Worten.
