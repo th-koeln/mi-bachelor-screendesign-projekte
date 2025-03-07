@@ -3,7 +3,7 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Thea Elisabeth Kamdoum-Nankam
     - Liya Aklil
-teaserimage: 
+teaserimage: Aklil-Kamdoum Nankam-Header-Bild.png
 gallery:
     - 
     -
