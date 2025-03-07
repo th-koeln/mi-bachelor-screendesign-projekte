@@ -10,6 +10,7 @@ gallery:
     - Eigenseer-Mohamed-bild3.png
     - Eigenseer-Mohamed-bild4.png
     - Eigenseer-Mohamed-bild5.png
+    - Eigenseer-Mohamed-bild6.png
 ---
 
 Das Ziel der Projektaufgabe 2024/25 im Modul Screendesign war die Entwicklung eines modernen und zugleich zurückhaltenden Designs für den redaktionellen Bereich des Cranach Digital Archive (CDA). Das neue Gestaltungskonzept sollte sich an den Designprinzipien von Kunst- und Kulturinstitutionen orientieren: Klarheit, Struktur und eine unaufdringliche, aber visuell ansprechende Gestaltung. Die Inhalte und Kunstwerke sollten im Mittelpunkt stehen, während das Interface eine einfache, intuitive Nutzung ermöglichen sollte. Ein weiteres zentrales Element des Konzepts war der Desktop-First-Ansatz, der aber auch eine funktionale und optisch ansprechende Nutzung auf mobilen Endgeräten sicherstellt.
