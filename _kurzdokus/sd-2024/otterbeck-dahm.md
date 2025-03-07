@@ -21,7 +21,7 @@ gallery:
 
 ### Einleitung
 
-Das diesjährige Projekt sah eine möglichst barrierefreie Umgestaltung des redaktionellen Bereiches des „Cranach Digital Archive“ (CDA) vor, in Anlehnung an die bereits bestehende Suche und die Artefakt-Seiten. Als Zielgruppe wurden primär professionelle Nutzer:innen erfasst, allerdings auch mit Raum für interessierte Leser:innen der breiteren Öffentlichkeit. Demnach sollte das neue Designkonzept „professionell, klar, möglichst einfach, reduziert, akzentuiert und zeitlos“ sein, Desktop-first, jedoch auch auf WIMP- und Touch-Geräten funktionieren. Ein vorgegebener Styleguide lenkte die Umgestaltung fortwährend und   
+Das diesjährige Projekt sah eine möglichst barrierefreie Umgestaltung des redaktionellen Bereiches des „Cranach Digital Archive“ (CDA) vor, in Anlehnung an die bereits bestehende Suche und die Artefakt-Seiten. Als Zielgruppe wurden primär professionelle Nutzer:innen erfasst, allerdings auch mit Raum für interessierte Leser:innen der breiteren Öffentlichkeit. Demnach sollte das neue Designkonzept „professionell, klar, möglichst einfach, reduziert, akzentuiert und zeitlos“ sein, Desktop-first, jedoch auch auf WIMP- und Touch-Geräten funktionieren. Ein vorgegebener Styleguide lenkte die Umgestaltung fortwährend.
 
 
 ### Startseite
@@ -31,7 +31,7 @@ Die Startseite wartet mit einem dunklen Farbschema und reduzierten Inhalten mit 
 
 ### Header und Footer
 
-Alle weiteren Inhalte der Website sind über die neue Navigationsleiste im Header direkt oder über Drop-Downs, sowie über ein zusätzliches Suchfeld unkompliziert erreichbar. Über die drei Punkte ganz rechts lassen sich Seiteneinstellungen aufrufen, die u.a. auch Menschen mit Einschränkungen eine barrierearme Nutzung ermöglichen sollen.  Da der Header auf allen Seiten des CDA gleich ist, ermöglicht ein Klick auf das Logo links oben eine schnelle Rückkehr zur Startseite. Ein Back-to-Top-Button am rechten Bildschirmrand verhilft zusätzlich stets zu einer schnellen Rückkehr zum Seitenbeginn und somit zur Navigation. 
+Alle weiteren Inhalte der Website sind über die neue Navigationsleiste im Header direkt oder über Drop-Downs, sowie über ein zusätzliches Suchfeld unkompliziert erreichbar. Über die drei Punkte ganz rechts lassen sich Seiteneinstellungen aufrufen, die u. a. auch Menschen mit Einschränkungen eine barrierearme Nutzung ermöglichen sollen.  Da der Header auf allen Seiten des CDA gleich ist, ermöglicht ein Klick auf das Logo links oben eine schnelle Rückkehr zur Startseite. Ein Back-to-Top-Button am rechten Bildschirmrand verhilft zusätzlich stets zu einer schnellen Rückkehr zum Seitenbeginn und somit zur Navigation. 
 Der Footer wurde lediglich um einen Link zur Kontaktseite ergänzt, der aus Gründen der Leserlichkeit von der Startseite entfernt wurde, und den Inhalten wurde mehr Platz gegeben, was auch für die mobile Version nötig war, damit die Inhalte sich nicht überlappen.
 
 
@@ -39,7 +39,7 @@ Der Footer wurde lediglich um einen Link zur Kontaktseite ergänzt, der aus Grü
 
 Neben der Startseite haben wir uns den Seiten zu Lucas Cranach, „Über Uns“ und „Forschung gewidmet. All diese Seiten haben gemeinsam, dass sie viel Fließtext beinhalten und in erster Linie aufklären, also nicht notwendigerweise optisch auffallen sollen. Daher sind sie layout-technisch sehr ähnlich aufgebaut: der Haupttext nimmt einen Großteil des horizontalen Raumes ein, allerdings wurde auf der linken Seite Platz für die Kapitelauswahl gelassen, die beim Scrollen immerzu an derselben Stelle oben links verbleibt und den aktuellen Textabschnitt indiziert, was eine unkomplizierte Navigation über die teils signifikanten Textmengen ermöglicht. Hier ließe sich eine Parallele zu Wikipedia ziehen, weshalb viele Nutzer:innen des CDA auch auf eine gewisse Erfahrung zurückgreifen dürften. Die minimalistische Optik setzt lediglich farbliche Akzente und lenkt so den Fokus auf die Inhalte. Darüber hinaus begegnen „Kurzüberblicke“ den immer kürzer werdenden Aufmerksamkeitsspannen der Nutzenden durch prägnante Zusammenfassungen und bieten einen Vorgeschmack auf die Inhalte. Sie heben sich klar durch einen Rahmen ab und sind sichtbar vor den entsprechenden Inhalten zu finden. Bilder, farblich unterlegte Info-Tafeln, großzügige Absätze und dezente Trennlinien teilen zudem Texte und andere Inhalte in handhabbare Stücke, verleihen den Informationen jedoch auch optische Vielfalt und Abwechslung. 
 
-Neben diesen Gemeinsamkeiten heben sich z.B. „Über Uns“ noch durch ein weiteres Video und „Forschung“ durch die Verwendung von Infotafeln mit Drop-Down-Funktion ab. Erwähnenswert ist hier, dass inhaltlich wenig, bis nichts geändert wurde und die Inhalte größtenteils übernommen wurden. 
+Neben diesen Gemeinsamkeiten heben sich z. B. „Über Uns“ noch durch ein weiteres Video und „Forschung“ durch die Verwendung von Infotafeln mit Drop-Down-Funktion ab. Erwähnenswert ist hier, dass inhaltlich wenig, bis nichts geändert wurde und die Inhalte größtenteils übernommen wurden. 
 
 
 ### Fazit
