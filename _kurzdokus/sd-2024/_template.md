@@ -35,10 +35,10 @@ Ein zeitgemäßes und professionelles Design wurde entwickelt. Besondere Schwerp
 ### Startseite
 Die Startseite wurde so konzipiert, dass sie eine intuitive Orientierung ermöglicht. Wichtige Inhalte sind klar erkennbar und leicht zugänglich, was den Einstieg in die Plattform erleichtert.
 
-### Aktuelles & Neuigkeiten
+### Aktuelles 
 Der Bereich für aktuelle Informationen wurde überarbeitet, um eine übersichtliche Darstellung wissenschaftlicher Erkenntnisse und Projektupdates zu gewährleisten.
 
-### Literatur & Einzelartikel
+### Literatur
 Dieser Bereich wurde strukturiert, um relevante wissenschaftliche Beiträge gezielt zugänglich zu machen.
 
 ### Bildarchiv
