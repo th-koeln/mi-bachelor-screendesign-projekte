@@ -5,7 +5,7 @@ people:
     - Anna Stein
 teaserimage: 
 gallery:
-    - [Startseite Desktop](./schindler-stein-desktop-startseite.png)
+    - schindler-stein-desktop-startseite.png
     -
     -
 ---
