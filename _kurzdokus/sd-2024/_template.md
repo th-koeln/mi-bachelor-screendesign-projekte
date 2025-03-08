@@ -3,11 +3,27 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people: Soheb Parsa, Alina Ewert
     - 
     - 
-teaserimage: 
+teaserimage: sd-Startseite-Parsa-Ewert.png
 gallery:
-    - 
-    -
-    -
+    - sd-Aktuelles1-Parsa-Ewert.png
+    - sd-Aktuelles2-Parsa-Ewert.png
+    - sd-Aktuelles3-Parsa-Ewert.png
+    - sd-Forschung1-Parsa-Ewert.png
+    - sd-Forschung2-Parsa-Ewert.png
+    - sd-Forschung3-Parsa-Ewert.png
+    - sd-Forschung4-Parsa-Ewert.png
+    - sd-Forschung5-Parsa-Ewert.png
+    - sd-Forschung6-Parsa-Ewert.png
+    - sd-Cranach-Parsa-Ewert.png
+    - sd-Cranach2-Parsa-Ewert.png
+    - sd-Cranach3-Parsa-Ewert.png
+    - sd-MobileStart-Parsa-Ewert.png
+    - sd-MobileForschung-Parsa-Ewert.png
+    - sd-MobileForschung2-Parsa-Ewert.png
+    - sd-MobileCranach-Parsa-Ewert.png
+    - sd-MobileCranach2-Parsa-Ewert.png
+    - sd-Menue-Parsa-Ewert.png
+    - sd-Menue2-Parsa-Ewert.png
 ---
 
 Kurzdokumentation zum Screendesign-Projekt
@@ -19,7 +35,3 @@ Das Redesign besteht aus der Startseite und den folgenden drei Inhaltsseiten: di
 Um eine harmonische Gestaltung zu erreichen, wurden die Abstände bei der Desktop-Version weitgehend einheitlich gesetzt, mit häufig genutzten Werten wie 30, 49, 80 und 160 px. In der mobilen Version wurden diese angepasst, um eine kompakte und nutzerfreundliche Darstellung zu gewährleisten, wobei Werte wie 8, 14, 30 und 49 px verwendet wurden. Ein einfacher Prototyp wurde für die "Aktuelles"-Seite der Desktop-Version erstellt, der einen Slider mit einer Wartezeit und einer interaktiven Steuerung über sichtbare Pfeile enthält. Zudem wurden Animationen integriert, die eine flüssige Weiterleitung zwischen Seiten ermöglichen. Der Footer wurde ebenfalls überarbeitet, wobei unwichtigere Informationen nach unten verschoben wurden, um die Übersichtlichkeit zu erhöhen.
 
 Die Umsetzung des Designs folgte weitgehend unseren ursprünglichen Vorstellungen. Dennoch führten mehrere Feedbackrunden und Supportgespräche dazu, dass einige Aspekte gezielt optimiert wurden. Störende Elemente wurden entfernt, die Benutzerfreundlichkeit weiter verbessert und das Design verfeinert. Die Systematik des Gestaltungskonzepts basiert auf durchdachten Pixelabständen und einer klaren Typografie, die eine einfache, aber ansprechende Nutzererfahrung ermöglicht. Eine der wichtigsten Erkenntnisse aus diesem Projekt war, dass weniger oft mehr ist: Durch die Reduzierung auf das Wesentliche konnte eine optimale Gestaltung erreicht werden. Gleichzeitig hat sich gezeigt, wie wertvoll kontinuierliches Feedback ist, um mögliche Schwächen frühzeitig zu erkennen und zu beheben.
-
-Bitte verfassen sie hier einen Abstract mit maximal 600 Worten.
-
-Fügen Sie oben bei "people" die Namen ihrer Gruppenmitglieder ein. Bei "teaserimage" und "gallery" geben Sie nun die korrekten Filename der vorher in diesem Ordner von Ihnen abgelegten Bilder an. Die Galerie kann/sollte natürlich erweitert werden.
