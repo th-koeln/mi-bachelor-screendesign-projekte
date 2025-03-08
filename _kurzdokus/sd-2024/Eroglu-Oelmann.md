@@ -11,6 +11,7 @@ gallery:
     - sd-desktop_startseite_footer-eroglu-oelmann.png
     - sd-desktop_navigationsmenue-eroglu-oelmann.png
     - sd-desktop_inhaltsseite_lucas_cranach_eingeklappt-eroglu-oelmann.png
+    - sd-desktop_inhaltsseite_lucas_cranach_ausgeklappt-eroglu-oelmann.png
     - sd-desktop_inhaltsseite_forschung_eingeklappt-eroglu-oelmann.png
     - sd-desktop_inhaltsseite_aktuelles_eingeklappt-eroglu-oelmann.png
     - sd-tablet_startseite_abschnitt1-eroglu-oelmann.png
@@ -18,6 +19,7 @@ gallery:
     - sd-tablet_startseite_abschnitt3-eroglu-oelmann.png
     - sd-tablet_navigationsmenue-eroglu-oelmann.png
     - sd-tablet_inhaltsseite_lucas_cranach_eingeklappt-eroglu-oelmann.png
+    - sd-tablet_inhaltsseite_lucas_cranach_ausgeklappt-eroglu-oelmann.png
     - sd-tablet_inhaltsseite_forschung_eingeklappt-eroglu-oelmann.png
     - sd-tablet_inhaltsseite_aktuelles_eingeklappt-eroglu-oelmann.png
 ---
