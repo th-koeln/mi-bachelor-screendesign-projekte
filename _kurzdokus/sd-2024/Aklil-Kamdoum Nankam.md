@@ -15,8 +15,7 @@ gallery:
     - Aklil-Kamdoum Nankam-Publikation-iPhone SE_1_2.jpg
     - Aklil-Kamdoum Nankam-Aktuell-Desktop 1.2_jpg
     - Aklil-Kamdoum Nankam-Aktuell-Desktop 1_1.jpg
-    - Aklil-Kamdoum Nankam-Aktuell-Desktop 1.
-_3.jpg
+    - Aklil-Kamdoum Nankam-Aktuell-Desktop 1._3.jpg
     - Aklil-Kamdoum Nankam-Aktuell-iPhone SE - 1_1.jpg
     - Aklil-Kamdoum Nankam-Aktuell-iPhone SE - 1_2.jpg
     - Aklil-Kamdoum Nankam-Aktuell-iPhone SE - 1_3.jpg
