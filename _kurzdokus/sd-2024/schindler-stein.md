@@ -3,7 +3,8 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Laura Schindler
     - Anna Stein
-teaserimage: - schindler-stein-teaser-image.jpg
+teaserimage: 
+    - schindler-stein-teaser-image.jpg
 gallery:
     - schindler-stein-desktop-startseite.png
     - schindler-stein-desktop-navidropdown.png 
