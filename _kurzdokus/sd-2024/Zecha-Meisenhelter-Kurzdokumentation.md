@@ -3,7 +3,7 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Daria Zecha
     - Rina Meisenhelter
-teaserimage: 
+teaserimage: Zecha-Meisenhelter-Teaser.jpg
 gallery:
     - Zecha-Meisenhelter-Startseite1.jpg
     - Zecha-Meisenhelter-Startseite2.jpg
