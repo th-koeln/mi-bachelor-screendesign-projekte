@@ -5,20 +5,24 @@ people:
     - Liya Aklil
 teaserimage: Aklil-Kamdoum Nankam-Header-Bild.png
 gallery:
-    - Aklil-Kamdoum Nankam-Header-Bild.png
-    - Aklil-Kamdoum Nankam-Publikation-Tablet 1.jpg
-    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz) Tablet 3.jpg
-    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz) Tablet 4.jpg
-    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz) Tablet.jpg
-    - Aklil-Kamdoum Nankam-Footer.jpg
-    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-Desktop 1.jpg
-    - Aklil-Kamdoum Nankam-Startseite-Desktop 3.2.jpg
-    - Aklil-Kamdoum Nankam-Startseite-Desktop 3.1.jpg
-    - Aklil-Kamdoum Nankam-Startseite-Desktop 4.jpg
-    - Aklil-Kamdoum Nankam-Startseite-iPhone SE 1.1.jpg
-    - Aklil-Kamdoum Nankam-Startseite-iPhone SE 1.3.jpg
-    - Aklil-Kamdoum Nankam-Header.png
-    
+    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-Desktop 1_4.jpg
+    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-iPhone SE 1_1.jpg
+    -     - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz) Tablet 3.jpg
+    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-iPhone SE 1_3.jpg
+    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-iPhone SE 1_4.jpg
+    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-iphone SE 1_5.jpg
+    - Aklil-Kamdoum Nankam-Publikation-iPhone SE_1_1.jpg
+    - Aklil-Kamdoum Nankam-Publikation-iPhone SE_1_2.jpg
+    - Aklil-Kamdoum Nankam-Aktuell-Desktop 1.2_jpg
+    - Aklil-Kamdoum Nankam-Aktuell-Desktop 1_1.jpg
+    - Aklil-Kamdoum Nankam-Aktuell-Desktop 1.
+_3.jpg
+    - Aklil-Kamdoum Nankam-Aktuell-iPhone SE - 1_1.jpg
+    - Aklil-Kamdoum Nankam-Aktuell-iPhone SE - 1_2.jpg
+    - Aklil-Kamdoum Nankam-Aktuell-iPhone SE - 1_3.jpg
+    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-Desktop 1_1.jpg
+    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-Desktop 1_2.jpg
+    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-Desktop 1_3.jpg
     - Aklil-Kamdoum Nankam-Header-Bild.png
     - Aklil-Kamdoum Nankam-Publikation-Tablet 1.jpg
     - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz) Tablet 3.jpg
