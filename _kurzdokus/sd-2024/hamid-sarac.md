@@ -3,10 +3,10 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Rana Hamid
     - Gizem Sarac
-teaserimage: hamid-sarac
+teaserimage: 
 gallery:
-    - hamid-sarac
-    -hamid-sarac
+    - 
+    -
     -
 ---
 
