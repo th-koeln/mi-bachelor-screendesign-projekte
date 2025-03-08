@@ -13,6 +13,5 @@ gallery:
 styleguide: ermemis-phan-styleguide.pdf
 ---
 
-Bitte verfassen sie hier einen Abstract mit maximal 600 Worten.
-
-Fügen Sie oben bei "people" die Namen ihrer Gruppenmitglieder ein. Bei "teaserimage" und "gallery" geben Sie nun die korrekten Filename der vorher in diesem Ordner von Ihnen abgelegten Bilder an. Die Galerie kann/sollte natürlich erweitert werden.
+Im diesjährigen Projekt im Screendesign ist die Neugestaltung des Cranach Archives das Thema. Um genau zu sein wird der redaktioneller Bereich neu gestaltet. Die Seiten wurden analysiert auf Stärken und Schwächen von die weiter aufgebaut wurden. Ziel unseres Teams war es mit den anderen Bereichen des Archives zu harmonisieren, das bestandene Design nicht zu groß zu ändern und auf die Funktion des Wissensvergeben zu verbessern. Es wurden nur die Übersichtlichkeit der verbessert indem angezeigte der Informationen in kleineren Stücken präsentiert wird und dem Besucher gelassen wird. 
+Mithilfe Figma wurden insgesamt 4 Bereiche der Seite bearbeitet: die Hauptseite, Lucas Cranach, Aktuelles und Unsere Partner. 
