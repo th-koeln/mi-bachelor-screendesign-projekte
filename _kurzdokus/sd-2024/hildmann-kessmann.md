@@ -10,9 +10,14 @@ gallery:
     - sd-mockup_de_04-hildmann-kessmann.webp
     - sd-mockup_de_06-hildmann-kessmann.webp
     - sd-mockup_de_07-hildmann-kessmann.webp
+    - sd-mockup_vid_01_autoscroll-hildmann-kessmann.webp
+    - sd-mockup_vid_02_timeline-hildmann-kessmann.webp
+    - sd-mockup_vid_03_multipage-hildmann-kessmann.webp
+    - sd-mockup_vid_04_interaction-hildmann-kessmann.webp
     - sd-mockup_de_10-hildmann-kessmann.webp
     - sd-mockup_tab_04-hildmann-kessmann.webp
     - sd-mockup_tab_06-hildmann-kessmann.webp
+    - sd-mockup_vid_05_touch-hildmann-kessmann.webp
     - sd-mockup_mob_03-hildmann-kessmann.webp
     - sd-mockup_mob_04-hildmann-kessmann.webp
     - sd-mockup_mob_06-hildmann-kessmann.webp
