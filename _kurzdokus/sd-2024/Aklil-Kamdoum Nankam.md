@@ -7,7 +7,7 @@ teaserimage: Aklil-Kamdoum Nankam-Header-Bild.png
 gallery:
     - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-Desktop 1_4.jpg
     - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-iPhone SE 1_1.jpg
-    -     - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz) Tablet 3.jpg
+    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz) Tablet 3.jpg
     - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-iPhone SE 1_3.jpg
     - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-iPhone SE 1_4.jpg
     - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-iphone SE 1_5.jpg
