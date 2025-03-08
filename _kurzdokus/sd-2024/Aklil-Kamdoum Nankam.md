@@ -1,4 +1,4 @@
-   ---
+---
 title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Thea Elisabeth Kamdoum-Nankam
