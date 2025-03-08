@@ -1,5 +1,5 @@
 ---
- title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
+title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
  people:
      - Thea Elisabeth Kamdoum-Nankam
      - Liya Aklil
@@ -8,11 +8,7 @@
      - 
      -
      -
- ---
- 
- Bitte verfassen sie hier einen Abstract mit maximal 600 Worten.
- 
- Fügen Sie oben bei "people" die Namen ihrer Gruppenmitglieder ein. Bei "teaserimage" und "gallery" geben Sie nun die korrekten Filename der vorher in diesem Ordner von Ihnen abgelegten Bilder an. Die Galerie kann/sollte natürlich erweitert werden.
+   ---
  # Projektkontext
  
  Im Rahmen des Moduls Screendesign im Bachelorstudiengang Medieninformatik an der Technischen Hochschule Köln wurde die Website des Cranach Digital Archive (CDA) analysiert, überarbeitet und optimiert. Ziel war es, die Benutzerfreundlichkeit, die Informationsarchitektur und das visuelle Design der bestehenden Plattform zu verbessern.
