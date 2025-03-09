@@ -7,15 +7,15 @@ teaserimage: massa-schaffrinski-desktop-startseite.jpg
 gallery:
     - massa-schaffrinski-desktop-startseite.jpg
     - massa-schaffrinski-desktop-darkmode.jpg
-    - 
-    - 
+    - massa-schaffrinski-desktop-aktuelles.jpg
+    - massa-schaffrinski-desktop-cranach.jpg
     - massa-schaffrinski-desktop-cranach-zugeklappt.jpg
-    - 
-    - 
+    - massa-schaffrinski-desktop-forschung.jpg
+    - massa-schaffrinski-mobil-startseite.jpg
     - massa-schaffrinski-mobil-swipedemo.jpg
     - massa-schaffrinski-mobil-menu.jpg
-    - 
-    - 
+    - massa-schaffrinski-mobil-forschung.jpg
+    - massa-schaffrinski-mobil-forschung-navigation.jpg
 ---
 
 Im Rahmen des Screendesign-Projekts 2024 wurde ein Redesign für den redaktionellen Bereich des Cranach Digital Archive (CDA) entwickelt. Das CDA ist ein Forschungsprojekt, das seit 2009 die umfassende digitale Erschließung und Dokumentation der Werke von Lucas Cranach dem Älteren, seiner Söhne und seiner Werkstatt zum Ziel hat. Das CDA bietet hochauflösende Bilddaten, wissenschaftliche Analysen und kuratorische Informationen und richtet sich dabei nicht nur an das Fachpublikum sondern auch interessierte Laien.
