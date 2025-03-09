@@ -7,7 +7,7 @@ teaserimage: otterbeck-dahm-teaser.jpg
 gallery:
     - otterbeck-dahm-desktop-startseite.jpg
     - otterbeck-dahm-settings.jpg
-    - otterbeck-dahm-desktop-lucas-cranach_lucas_cranach.jpg
+    - otterbeck-dahm-desktop-lucas-cranach.jpg
     - otterbeck-dahm-desktop-lucas-cranach_hans_cranach.jpg
     - otterbeck-dahm-desktop-ueber-uns_die_ausgangssituation-auschnitt_mengentext.jpg
     - otterbeck-dahm-desktop-ueber-uns_produktion.jpg
