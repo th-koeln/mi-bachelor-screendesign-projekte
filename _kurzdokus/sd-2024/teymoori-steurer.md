@@ -7,10 +7,10 @@ teaserimage: Teymoori-Steurer-Teaser.jpg
 gallery:
     - Teymoori-Steurer-Startseite.jpg
     - Teymoori-Steurer-Startseite Zoom.jpg
-    - Teymoori-Steurer-StartseiteMobile.jpg
-    - Teymoori-Steurer-Sidebar.jpg
-    - Teymoori-Steurer-Inhalt1.jpg
-    - Teymoori-Steurer-Zeitstrahl.jpg
+    - Teymoori-Steurer-StartseiteMobileCut.jpg
+    - Teymoori-Steurer-SidebarCUT.jpg
+    - Teymoori-Steurer-Inhalt1Cut.jpg
+    - Teymoori-Steurer-ZeitstrahlCut.jpg
     - Teymoori-Steurer-Inhalt2Zoom.jpg
 ---
 
