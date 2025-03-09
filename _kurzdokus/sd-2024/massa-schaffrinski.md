@@ -7,14 +7,14 @@ teaserimage: massa-schaffrinski-desktop-startseite.jpg
 gallery:
     - massa-schaffrinski-desktop-startseite.jpg
     - massa-schaffrinski-desktop-darkmode.jpg
-    - massa-schaffrinski-desktop-aktuelles.jpg
-    - massa-schaffrinski-desktop-forschung-zugeklappt.jpg
+    - 
+    - 
     - massa-schaffrinski-desktop-cranach-zugeklappt.jpg
-    - massa-schaffrinski-desktop-cranach-lesemodus.jpg
-    - massa-schaffrinski-mobil-startseite.jpg
+    - 
+    - 
     - massa-schaffrinski-mobil-swipedemo.jpg
     - massa-schaffrinski-mobil-menu.jpg
-    - massa-schaffrinski-mobil-forschung.jpg
+    - 
     - massa-schaffrinski-mobil-forschung-navigation.jpg
 ---
 
