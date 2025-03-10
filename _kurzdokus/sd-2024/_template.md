@@ -5,27 +5,38 @@ people:
     - 
 teaserimage: Runde-Teaser.png
 gallery:
-    - Runde-Startseite-Desktop.png
-    - Runde-Artikelseite-LC-Desktop.png
-    - Runde-Artikelseite-LC-Menü-Desktop.png
-    - Runde-Artikelseite-F-Desktop.png
-    - Runde-Artikelseite-II-Desktop.png
-    - Runde-Startseite-Mobile.png
-    - Runde-Artikelseite-Mobile.png
-    - Runde-Artikelseite-Menü-Mobile.png
+    - Runde-Desktop-Startseite1.png
+    - Runde-Desktop-Startseite2.png
+    - Runde-Desktop-Startseite3.png
+    - Runde-Desktop-LucasCranach1.png
+    - Runde-Desktop-LucasCranach2.png
+    - Runde-Desktop-LucasCranach3.png
+    - Runde-Desktop-Forschung1.png
+    - Runde-Desktop-Forschung2.png
+    - Runde-Desktop-Interdisziplinär1.png
+    - Runde-Desktop-Interdisziplinär2.png
+    - Runde-Desktop-Interdisziplinär3.png
+    - Runde-Desktop-Navigation.png
+    - Runde-Mobile-Startseite1.png
+    - Runde-Mobile-Startseite2.png
+    - Runde-Mobile-Startseite3.png
+    - Runde-Mobile-Navigation.png
+    - Runde-Mobile-LucasCranach1.png
+    - Runde-Mobile-LucasCranach2.png
+    - Runde-Mobile-LucasCranach3.png
     
 ---
 
-Das Ziel dieses Projekts war die Entwicklung eines Designkonzepts und dessen Umsetzung als grafisches Mockup, um die Kommunikationsaufgabe des CDA zu optimieren und sinnvoll zu erweitern . Das Redesign sollte den redaktionellen Bereich des Archivs modernisieren, dabei jedoch mit dem bestehenden Design harmonieren und es sinnvoll erweitern. Besondere Anforderungen lagen darin die Startseite neugierde entweckend zu gestalten undAktuelle Informationen präsenter zu machen. Die Artikelseite soll dem Nutzer weitere Inhalte suggerieren um Interesse zu wecken. Für das Redesign des CDAs bedarf es einer verbesserten Nutzerführung sowie einer ästhetisch überzeugenden Gestaltung, die den hohen wissenschaftlichen Anspruch des Archivs widerspiegelt. Zudem sollte das neue Design barrierefrei und responsiv für Desktop- und Mobilgeräte funktionieren.
+Im Rahmen des Screendesign-Projekts 2024 wurde ein Redesign für den redaktionellen Bereich des Cranach Digital Archive (CDA) entwickelt. Ziel war es, das bestehende Designkonzept zu modernisieren, zu erweitern und die Kommunikationsaufgabe des Archivs gezielt zu optimieren. Während das Redesign der Startseite darauf abzielt, Neugierde zu wecken und aktuelle Informationen prominenter zu platzieren, wurde die Artikelseite darauf ausgelegt, weiterführende Inhalte intuitiv zu suggerieren, um das Interesse der Nutzer zu steigern.
 
-Die bestehende Website hatte Optimierungspotenzial in mehreren Bereichen. Die visuelle Hierarchie war unklar, wichtige Inhalte waren nicht ausreichend hervorgehoben. Die Seite wirkte durch eine statische Rasterstruktur zu textlastig, während die Navigation unübersichtlich und verstreut war. Die Darstellung der Bilder war nicht optimal integriert, sodass die Kunstwerke nicht ausreichend im Fokus standen. Zudem gab es keine klare Nutzerführung, da Call-to-Actions nicht eindeutig genug waren.
+Das bestehende Design hatte klare Schwächen: Die visuelle Hierarchie war unklar, relevante Inhalte gingen unter, und die Navigation wirkte verstreut und wenig intuitiv. Zudem war die Gestaltung sehr textlastig, wodurch Kunstwerke nicht ausreichend im Fokus standen. Auch die Call-to-Actions waren unauffällig platziert, was die Nutzerführung erschwerte. Diese Probleme wurden durch eine klarere Struktur, eine optimierte Navigation sowie eine interaktive und ästhetisch ansprechende Gestaltung gezielt angegangen.
 
-Das Redesign hatte das Ziel, Klarheit und Struktur in die Seite zu bringen. Inhalte und Kunstwerke sollten im Mittelpunkt stehen, ohne unnötige visuelle Ablenkungen. Die Ergonomie und Lesbarkeit wurden durch Weißraum, klare Hierarchien und eine einfache Navigation verbessert. Gleichzeitig sollte das neue Design mit dem bestehenden harmonieren, dabei aber moderne, interaktive und barrierefreie Elemente integrieren. Um den Nutzer intuitiv durch die Inhalte zu führen, wurden visuelle Ankerpunkte und optimierte Call-to-Actions gezielt eingesetzt. Auch die Navigation wurde vereinfacht, indem verstreute Menüpunkte im Header zusammengeführt und ausklappbare Unterpunkte integriert wurden. Die Hauptzielgruppe bestand aus Kunsthistorikern und Wissenschaftlern, aber das Archiv sollte auch für interessierte Laien besser zugänglich sein.
+Das neue Design setzt auf visuelle Klarheit, Ergonomie und eine intuitive Nutzerführung. Die Inhalte und Kunstwerke stehen im Mittelpunkt, wobei überflüssige Gestaltungselemente entfernt wurden. Eine durchdachte Anordnung von Weißraum, klare Typografie und logische Strukturierung verbessern die Lesbarkeit und Nutzerführung. Die Navigation wurde vereinfacht, indem verstreute Menüpunkte in einem offenen Header-Menü zusammengeführt und durch ausklappbare Unterpunkte ergänzt wurden. Des weiteren wird die Seite auf der man sich befindet durch einen gelb unterstrichenen Menüpunkt angezeigt, um dem Nutzer eine minimalistische Breadcrumb Navigation zu geben, die dem Nutzer immer anzeigt wo ers sich gerade befindet. Zudem sorgt eine reduzierte, aber gezielt eingesetzte Farb- und Typografiehierarchie für eine stärkere visuelle Orientierung.
 
-Im Rahmen des Redesigns habe ich mehrere Screens entwickelt, darunter die Startseite sowie drei Artikelseiten zu Forschung, Lucas Cranach und interdisziplinärer Zusammenarbeit, welche mein entwickeltes Designkonzept erfahrbar machen. Die Navigation wurde vereinfacht und durch ein einheitliches, offenes Menü im Header optimiert. Eine minimalistische Breadcrumb-Navigation mit farblichem Akzent verbessert die Orientierung. Unwichtige Inhalte wurden in den Footer verschoben und klar strukturiert. Die Darstellung von Bildern und Texten wurde großzügiger gestaltet, sodass Kunstwerke mehr Raum erhielten. Interaktive Elemente wie Hover-Effekte erhöhen die visuelle Dynamik. Besonders wichtig war die prominente Platzierung aktueller Inhalte, die in einer horizontal scrollbaren Leiste direkt unter dem Hauptbild erscheinen. Ein Button am rechten Ende der Leiste führt zu einer speziellen Artikelseite mit weiteren News. Auch der Lesefluss wurde optimiert, indem die Inhalte so angeordnet wurden, dass der Blick des Nutzers gezielt auf Kunstwerke gelenkt wird und diese im Fokus stehen.
+Im Zuge des Redesigns wurden mehrere Screens entwickelt, darunter die Startseite sowie drei Artikelseiten zu Forschung, Lucas Cranach und interdisziplinärer Zusammenarbeit. Diese Screens setzen das Designkonzept konsequent um. Die Startseite empfängt den Nutzer mit einem heroischen Kunstwerk als visuellem Anker und setzt auf eine prominent platzierte, horizontal scrollbare Aktuelles-Leiste, die schnell über neue Inhalte informiert. Eine verbesserte Call-to-Action-Struktur sorgt dafür, dass der Nutzer gezielt durch die Seite geführt wird und wichtige Inhalte wie die Sammlung, dargestellt durch 3 Buttons  leicht zugänglich erreichen kann. Die Artikelseiten wurden dynamischer gestaltet: Sehr lange Textblöcke wurden durch ausklappbare Absätze verkürzt, um die Inhalte kompakter und übersichtlicher machen. Die Bild-Text-Anordnung wurde optimiert, sodass Kunstwerke den visuellen Rahmen geben und den Lesefluss intuitiv unterstützen.
 
-Durch das Redesign wurden die anfänglichen Probleme erfolgreich gelöst. Die Navigation ist nun klarer und ermöglicht eine schnellere Orientierung.  Artikelseiten die zu textlastig waren, sind durch ausklappbare Textbereiche nun weniger überladen. Call-to-Actions wurden durch klar erkennbare Buttons und Ankerpunkte visuell optimiert. Die Startseite lenkt den Fokus direkt auf die Kunstwerke und Forschungsergebnisse, anstatt textlastig zu wirken. Interaktive Elemente und eine bewusst reduzierte Gestaltung sorgen für ein ansprechenderes Nutzererlebnis.
+Die Umstrukturierung führte zu spürbaren Verbesserungen in der Nutzerführung. Die neue Navigation erleichtert das schnelle Auffinden von Inhalten, während die Startseite durch klare Ankerpunkte ein visuelles Leitsystem schafft. Die Artikelseiten wirken durch ihre neuen interaktiven Elemente lebendiger und ermöglichen es den Nutzern, gezielt zwischen den Abschnitten zu navigieren. Durch die konsequente Umsetzung einer modernen visuellen Hierarchie wird der Fokus auf die Kunstwerke gelenkt, während gleichzeitig wissenschaftliche Inhalte verständlich und leicht zugänglich präsentiert werden.
 
-Das Gestaltungskonzept basiert auf der Übernahme und gezielten Akzentuierung des bestehenden Farbschemas. Bestehende Designelemente wurden beibehalten, wenn sie der Kommunikationsaufgabe dienten. Eine modernere visuelle Hierarchie wurde durch den gezielten Einsatz von Typografie, Weißraum und interaktiven Elementen geschaffen. Die Gestaltung ist minimalistisch und funktional, wodurch ein zeitloses Design erreicht wurde. Für mobile Geräte wurde die Navigation durch ausklappbare Inhalte optimiert, sodass auch auf kleineren Bildschirmen eine kompakte und intuitive Darstellung gewährleistet ist.
+Gestalterisch basiert das Konzept auf der Übernahme und gezielten Akzentuierung des bestehenden Farbschemas. Bestehende Designelemente wurden übernommen, sofern sie die Kommunikationsaufgabe unterstützten, während neue visuelle Hierarchien durch die optimierte Typografie, den gezielten Einsatz von Weißraum und interaktive Elemente geschaffen wurden. Das Ergebnis ist eine minimalistische, funktionale und gleichzeitig visuell ansprechende Gestaltung, die eine zeitlose Ästhetik bewahrt. Auch die mobile Optimierung wurde berücksichtigt: Die Navigation wird über ein Hamburger Menü geöffnet und ist durch ausklappbare Inhalte kompakter und leichter zugänglich, was insbesondere auf kleineren Bildschirmen für eine intuitive Benutzerführung sorgt.
 
-Das Redesign des CDA verbindet klare Strukturen, moderne Ästhetik und hohe Funktionalität. Die Umsetzung erfüllt die gesetzten Kommunikations- und Interaktionsziele und sorgt für eine bessere Lesbarkeit, klarere Navigation und einen stärkeren Fokus auf die Kunstwerke. Durch die Harmonisierung mit dem bestehenden Design, die Optimierung der Nutzerführung und die visuelle Modernisierung wurde eine zeitlose und ergonomische Gestaltung erreicht, die das Archiv langfristig zugänglich und attraktiv macht.
+Das Redesign des CDA schafft eine klare Struktur, moderne Ästhetik und eine verbesserte Funktionalität. Die Umsetzung erfüllt die gesetzten Kommunikations- und Interaktionsziele, indem sie die Lesbarkeit erhöht, die Navigation vereinfacht und den Fokus auf die Kunstwerke stärkt. Durch die harmonische Integration in das bestehende Design, die Optimierung der Nutzerführung und eine moderne visuelle Sprache wurde ein zeitloses und ergonomisches Screendesign geschaffen, das das Archiv langfristig zugänglich und ansprechend macht.
