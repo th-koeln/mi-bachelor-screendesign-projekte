@@ -2,7 +2,7 @@
 title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Eylem Palali
-teaserimage: - palali-teaser.png
+teaserimage: palali-teaser.png
 gallery:
     - palali_bild1.png
     - palali_bild2.png
