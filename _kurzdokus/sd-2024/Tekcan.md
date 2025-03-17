@@ -12,7 +12,7 @@ gallery:
     - Tekcan-Desktop-04.png
     - Tekcan-Mobil-01.png
     - Tekcan-Mobil-02.png
-    - Tekcan-Mobil-menü-03.png
+    - Tekcan-Mobil-menu-03.png
     - Tekcan-Tablet-01.png
     - Tekcan-Tablet-02.png
 ---

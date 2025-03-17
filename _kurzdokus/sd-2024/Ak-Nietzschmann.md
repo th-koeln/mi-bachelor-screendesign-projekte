@@ -1,8 +1,8 @@
 ---
 title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
-people: Merve Ak, Michelle Marie Nietzschmann
-    - 
-    - 
+people:
+    - Merve Ak
+    - Michelle Marie Nietzschmann
 teaserimage: Nietzschmann-Ak-teaser.png
 gallery: 
     - Nietzschmann-Ak-desktop-startseite.jpg
@@ -13,7 +13,6 @@ gallery:
     - Nietzschmann-Ak-desktop-Partner.jpg
     - Nietzschmann-Ak-tablet-startseite.jpg
     - Nietzschmann-Ak-mobileStartseite.jpg
-    - Nietzschmann-Ak-teaser.png
 ---
 Im Rahmen des Screendesign-Projekts 2024 wurde ein umfassendes Redesign für den redaktionellen Bereich des Cranach Digital Archive (CDA) entwickelt. Das CDA, als eine der führenden digitalen Plattformen für die Forschung zu den Werken des berühmten Malers Lucas Cranach, spielt eine zentrale Rolle in der wissenschaftlichen und kunsthistorischen Community. Angesichts der Bedeutung dieses Archivs war es das Ziel des Projekts, die visuelle Gestaltung zu modernisieren und dabei eine elegante, ansprechende und zeitgemäße Ästhetik zu gestalten, ohne jedoch zu aufdringlich zu wirken.  
 

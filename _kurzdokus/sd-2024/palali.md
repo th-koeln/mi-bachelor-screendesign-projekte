@@ -4,13 +4,13 @@ people:
     - Eylem Palali
 teaserimage: palali-teaser.png
 gallery:
-    - palali_bild1.png
-    - palali_bild2.png
-    - palali_bild3.png
-    - palali_bild4.png
-    - palali_bild5.png
-    - palali_bild6.png
-    - palali_bild7.png
+    - palali-bild1.png
+    - palali-bild2.png
+    - palali-bild3.png
+    - palali-bild4.png
+    - palali-bild5.png
+    - palali-bild6.png
+    - palali-bild7.png
 ---
 
 Das diesjährige Projekt widmet sich der Gestaltung des redaktionellen Bereichs des Cranach Digital Archive (CDA), einer umfassenden digitalen Forschungsplattform zur Dokumentation des Werks von Lucas Cranach dem Älteren, seinen Söhnen und seiner Werkstatt. Ziel der Neugestaltung des redaktionellen Bereichs ist es, eine professionelle, zugleich aber auch lebendigere und einladender Plattform zu schaffen, die den Ansprüchen der Benutzer gerecht ist.
@@ -27,6 +27,3 @@ Trotzdem bleiben alte Funktionen relevant, dass sie mit der jetzigen Webseite zu
 Die umgestaltete Webseite ist herausstechender im Vergleich zu der alten konzipierten Webseite. Der Fokus wurde besonders auf die Navigation und Interaktion hingelegt, durch eine interaktive Navigation ist das Nutzererlebnis spannender, weil sie nicht nur stumpf dargestellt wird, sondern ein passender Überblick über die Themen gibt, dass man besser fokussiert ist. Grundsätzlich passt sie sich der Animation und der Interaktion an, dass man alles einheitlich mitbekommt. Durch das größere Menü bekommt man eine lebendigere und intuitivere Webseite, was sich für den Nutzer lohnt.
 Das Hauptgerüst der Website wurde gezielt mit verschiedenen Unterseiten strukturiert, um eine klare Trennung der Themenbereiche zu ermöglichen. Dadurch wird vor allem sichergestellt, dass die Nutzer schnell und gezielt zu den für sie relevanten Inhalten navigieren können.
 Jede Unterseite wurde für das jeweilige Thema optimiert, so dass die Inhalte nicht nur logisch gegliedert, sondern auch optisch und funktional angepasst sind. Das erleichtert die Orientierung und verbessert das Nutzererlebnis, denn jeder Bereich bietet eine klare Struktur, intuitive Navigation und themenspezifische Funktionen.
-
-
-Fügen Sie oben bei "people" die Namen ihrer Gruppenmitglieder ein. Bei "teaserimage" und "gallery" geben Sie nun die korrekten Filename der vorher in diesem Ordner von Ihnen abgelegten Bilder an. Die Galerie kann/sollte natürlich erweitert werden.

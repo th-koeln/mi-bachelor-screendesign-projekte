@@ -3,28 +3,20 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Nikolay Gofman
     - Fabian Tölke
-teaserimage: gofman-toelke-teaser.webp
+teaserimage: gofman-toelke-teaser.png
 gallery:
     - gofman-toelke-startseite.webp
-    - gofman-toelke-startseite-kleiner_schritt_1.webp
     - gofman-toelke-startseite-kleiner_schritt_2.webp
     - gofman-toelke-lucas_cranach-eingeklappt.webp
-    - gofman-toelke-lucas_cranach-ausgeklappt.webp
     - gofman-toelke-forschung-eingeklappt.webp
-    - gofman-toelke-forschung-ausgeklappt.webp
-    - gofman-toelke-partner-eingeklappt.webp
-    - gofman-toelke-partner-ausgeklappt.webp
-    - gofman-toelke-startseite-über_uns_gehovert_1.webp
+    - gofman-toelke-partner-eingeklappt.png
     - gofman-toelke-startseite-über_uns_gehovert_2.webp
     - gofman-toelke-Suchseite-angepasst_neuer_button.webp
-    - gofman-toelke-mobile_startseite.webp
-    - gofman-toelke-mobile_lucas_cranach-eingeklappt.webp
-    - gofman-toelke-mobile_forschung-eingeklappt.webp
-    - gofman-toelke-mobile_partner-eingeklappt.webp
-    - gofman-toelke-mobile_startseite-über_uns_geklickt_1.webp
+    - gofman-toelke-mobile-startseite.png
+    - gofman-toelke-mobile_lucas_cranach-eingeklappt.png
+    - gofman-toelke-mobile_forschung-eingeklappt.png
     - gofman-toelke-mobile_startseite-über_uns_geklickt_2.webp
     - gofman-toelke-mobile_suchleiste.webp
-
 ---
 
 Im Rahmen des Projektes 2024 für das Wintersemester im Fachbereich Screendesign sollte eine Neugestaltung des redaktionellen Bereiches des Cranach Digital Archive (CDA) realisiert werden. 

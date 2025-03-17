@@ -13,7 +13,7 @@ gallery:
     - jahn-teo-7desktopinhaltsseite1.jpg
     - jahn-teo-7desktopinhaltsseite2.jpg
     - jahn-teo-7desktopinhaltsseite3.jpg
-    - jahn-teo-10zoomdektopinhaltsseite.jpgg
+    - jahn-teo-10zoomdektopinhaltsseite.jpg
     - jahn-teo-11zoomdektopinhaltsseitetabelle.jpg
     - jahn-teo-11zoomtabletinhaltsseite.jpg
     - jahn-teo-12zoommobiletinhaltsseite.jpg

@@ -14,7 +14,6 @@ gallery:
     - hamid-sarac-destop-forschung-Kunsttechnologie.png
     - hamid-sarac-mobile-forschung-text.png
     - hamid-sarac-mobile-forschung.png
-styleguide: hamid-sarac-styleguide.svg
 ---
 
 Das letzte Projekt des Moduls Screendesign verlangt ein Designkonzept zum Redesign für den redaktionellen Bereich des Cranach Digital Archive (CDA). Zudem bestand der Auftrag darin, ein Gestaltungs- und Interaktionskonzept zu entwickeln, das für WIMP-Geräte und Touchdevices gleichermaßen optimal funktioniert. Das Design sollte systematisch, einfach und zeitlos sein. Im Rahmen des Redesigns des redaktionellen Bereichs des Cranach Digital Archive (CDA) sollen Benutzerfreundlichkeit, Barrierefreiheit und Funktionalität erreicht werden. Zudem soll den redaktionelle Bereich gestalterisch mit der Suche und den Artefakt Seiten harmonisiert werden. Damit wird das Redesign des CDA ästhetisch ansprechend, funktional und benutzerfreundlich, um eine breite Zielgruppe zu unterstützen.

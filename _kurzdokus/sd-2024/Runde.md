@@ -2,7 +2,6 @@
 title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Hendrik Runde
-    - 
 teaserimage: Runde-Teaser.png
 gallery:
     - Runde-Desktop-Startseite1.png
@@ -12,10 +11,9 @@ gallery:
     - Runde-Desktop-LucasCranach2.png
     - Runde-Desktop-LucasCranach3.png
     - Runde-Desktop-Forschung1.png
-    - Runde-Desktop-Forschung2.png
-    - Runde-Desktop-Interdisziplinär1.png
-    - Runde-Desktop-Interdisziplinär2.png
-    - Runde-Desktop-Interdisziplinär3.png
+    - Runde-Desktop-Interdisziplinaer1.png
+    - Runde-Desktop-Interdisziplinaer2.png
+    - Runde-Desktop-Interdisziplinaer3.png
     - Runde-Desktop-Navigation.png
     - Runde-Mobile-Startseite1.png
     - Runde-Mobile-Startseite2.png
