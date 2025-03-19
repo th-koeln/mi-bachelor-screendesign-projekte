@@ -5,20 +5,20 @@ people:
     - Nico Oelmann
 teaserimage: Eroglu-Oelmann-Teaser.webp
 gallery:
-    - sd-desktop_startseite_abschnitt1-eroglu-oelmann.png
-    - sd-desktop_startseite_abschnitt2-eroglu-oelmann.png
-    - sd-desktop_startseite_abschnitt3-eroglu-oelmann.png
-    - sd-desktop_startseite_footer-eroglu-oelmann.png
-    - sd-desktop_navigationsmenue-eroglu-oelmann.png
-    - sd-desktop_inhaltsseite_lucas_cranach_eingeklappt-eroglu-oelmann.png
-    - sd-desktop_inhaltsseite_lucas_cranach_ausgeklappt-eroglu-oelmann.png
-    - sd-desktop_inhaltsseite_forschung_eingeklappt-eroglu-oelmann.png
-    - sd-desktop_inhaltsseite_aktuelles_eingeklappt-eroglu-oelmann.png
-    - sd-tablet_startseite_abschnitt1-eroglu-oelmann.png
-    - sd-tablet_startseite_abschnitt2-eroglu-oelmann.png
-    - sd-tablet_startseite_abschnitt3-eroglu-oelmann.png
-    - sd-tablet_navigationsmenue-eroglu-oelmann.png
-    - sd-tablet_inhaltsseite_lucas_cranach_eingeklappt-eroglu-oelmann.png
+    - sd-desktop_startseite_abschnitt1-eroglu-oelmann.webp
+    - sd-desktop_startseite_abschnitt2-eroglu-oelmann.webp
+    - sd-desktop_startseite_abschnitt3-eroglu-oelmann.webp
+    - sd-desktop_startseite_footer-eroglu-oelmann.webp
+    - sd-desktop_navigationsmenue-eroglu-oelmann.webp
+    - sd-desktop_inhaltsseite_lucas_cranach_eingeklappt-eroglu-oelmann.webp
+    - sd-desktop_inhaltsseite_lucas_cranach_ausgeklappt-eroglu-oelmann.webp
+    - sd-desktop_inhaltsseite_forschung_eingeklappt-eroglu-oelmann.webp
+    - sd-desktop_inhaltsseite_aktuelles_eingeklappt-eroglu-oelmann.webp
+    - sd-tablet_startseite_abschnitt1-eroglu-oelmann.webp
+    - sd-tablet_startseite_abschnitt2-eroglu-oelmann.webp
+    - sd-tablet_startseite_abschnitt3-eroglu-oelmann.webp
+    - sd-tablet_navigationsmenue-eroglu-oelmann.webp
+    - sd-tablet_inhaltsseite_lucas_cranach_eingeklappt-eroglu-oelmann.webp
 ---
 
 Im Rahmen des Screendesign-Projekt des Jahres 2024 sollte ein modernes Redesign des redaktionellen Bereiches des Cranach Digital Archive erfolgen, welches nicht nur ästhetisch ansprechend ist, sondern auch auf die Bedürfnisse der Zielgruppe, sowohl professionelle Nutzer als auch interessierte Laien, eingeht. Dabei sollte der Fokus auf die Abdeckung der Ansprüche des professionellen Klientels, wie Kunsthistoriker und Kostümbildner liegen.

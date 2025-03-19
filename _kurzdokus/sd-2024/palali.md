@@ -2,15 +2,15 @@
 title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Eylem Palali
-teaserimage: palali-teaser.png
+teaserimage: palali-teaser.webp
 gallery:
-    - palali-bild1.png
-    - palali-bild2.png
-    - palali-bild3.png
-    - palali-bild4.png
-    - palali-bild5.png
-    - palali-bild6.png
-    - palali-bild7.png
+    - palali-bild1.webp
+    - palali-bild2.webp
+    - palali-bild3.webp
+    - palali-bild4.webp
+    - palali-bild5.webp
+    - palali-bild6.webp
+    - palali-bild7.webp
 ---
 
 Das diesjährige Projekt widmet sich der Gestaltung des redaktionellen Bereichs des Cranach Digital Archive (CDA), einer umfassenden digitalen Forschungsplattform zur Dokumentation des Werks von Lucas Cranach dem Älteren, seinen Söhnen und seiner Werkstatt. Ziel der Neugestaltung des redaktionellen Bereichs ist es, eine professionelle, zugleich aber auch lebendigere und einladender Plattform zu schaffen, die den Ansprüchen der Benutzer gerecht ist.

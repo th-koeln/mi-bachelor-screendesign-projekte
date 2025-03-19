@@ -3,15 +3,15 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Kerimcan Karpuz
     - Kaan Kalinkarci
-teaserimage: Cranach-Start-Preview.png
+teaserimage: Cranach-Start-Preview.webp
 gallery:
-    - Cranach-Start-Gallery1.png
-    - LucasCranach-Gallery2.png
-    - Start-mobile-Gallery3.png
-    - Forschung-Gallery4.png
-    - Forschung-mobile-Gallery5.png
-    - Interdisziplinär&Interinstitutionell-Gallery6.png
-    - Start-Scrollfunction-Gallery7.png
+    - Cranach-Start-Gallery1-small.webp
+    - LucasCranach-Gallery2.webp
+    - Start-mobile-Gallery3.webp
+    - Forschung-Gallery4.webp
+    - Forschung-mobile-Gallery5.webp
+    - Interdisziplinaer-Interinstitutionell-Gallery6.webp
+    - Start-Scrollfunction-Gallery7.webp
 ---
 
 Im Rahmen unseres Projekts haben wir bestehende Museumswebsites analysiert, um Best Practices zu identifizieren und eine eigene Designstrategie zu entwickeln. Unser Ziel war es, eine ansprechende, leicht verständliche und benutzerfreundliche Museumswebsite zu konzipieren, die sich an modernen Webdesign-Standards orientiert. Dabei haben wir uns an erfolgreichen Beispielen wie der Website des Rijksmuseums und des Mütter Museums orientiert und weitere Referenzen aus Fachartikeln zu den besten Museumswebsites genutzt.

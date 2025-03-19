@@ -3,22 +3,22 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Frank Lingxiang Bao
     - Felix Mueller
-teaserimage: sd-Bao-Mueller-Teaser.png
+teaserimage: sd-Bao-Mueller-Teaser.webp
 gallery:
-    - sd-Bao-Mueller-Search.png
-    - sd-Startseite_DE_Handelsseite_hover-Bao-Mueller.png
-    - sd-Inhaltsseite_DE_1-Bao-Mueller.png
-    - sd-Inhaltsseite_DE_2-Bao-Mueller.png
-    - sd-Startseite_DE_lucas_2-Bao-Mueller.png
-    - sd-Startseite_DE_lucas_zusammenfassung-Bao-Mueller.png
-    - sd-Startseite_DE_Interdiziplinär-Bao-Mueller.png
-    - sd-Bao-Mueller-Smartphone.png
-    - sd-Inhaltseite 2_1_DE-Bao-Mueller.png
-    - sd-Inhaltseite 2_2_DE-Bao-Mueller.png
-    - sd-Inhaltseite 3.1_DE-Bao-Mueller.png
-    - sd-Inhaltseite 4_DE-Bao-Mueller.png
-    - sd-Menü_DE-Bao-Mueller.png
-    - sd-Suchleiste_DE-Bao-Mueller.png
+    - sd-Bao-Mueller-Search.webp
+    - sd-Startseite_DE_Handelsseite_hover-Bao-Mueller.webp
+    - sd-Inhaltsseite_DE_1-Bao-Mueller.webp
+    - sd-Inhaltsseite_DE_2-Bao-Mueller.webp
+    - sd-Startseite_DE_lucas_2-Bao-Mueller.webp
+    - sd-Startseite_DE_lucas_zusammenfassung-Bao-Mueller.webp
+    - sd-Startseite_DE_Interdiziplinaer-Bao-Mueller.webp
+    - sd-Bao-Mueller-Smartphone.webp
+    - sd-Inhaltseite2_1_DE-Bao-Mueller.webp
+    - sd-Inhaltseite2_2_DE-Bao-Mueller.webp
+    - sd-Inhaltseite3.1_DE-Bao-Mueller.webp
+    - sd-Inhaltseite4_DE-Bao-Mueller.webp
+    - sd-Menu_DE-Bao-Mueller.webp
+    - sd-Suchleiste_DE-Bao-Mueller.webp
 ---
 
 Ziel des diesjährigen Projekt war es, eine Neugestaltung für den redaktionellen Bereich des Cranach Digital Archive durchzuführen. Diese muss auf WIMP-fähige Computer als auch Touchdevices (Handys, iPads) funktionieren. 

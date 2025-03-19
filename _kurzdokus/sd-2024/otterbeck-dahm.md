@@ -3,20 +3,20 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Alexander Otterbeck
     - Nils Dahm
-teaserimage: otterbeck-dahm-teaser.jpg
+teaserimage: otterbeck-dahm-teaser.webp
 gallery:
-    - otterbeck-dahm-desktop-startseite.jpg
-    - otterbeck-dahm-settings.jpg
-    - otterbeck-dahm-desktop-lucas-cranach.jpg
-    - otterbeck-dahm-desktop-lucas-cranach_hans_cranach.jpg
-    - otterbeck-dahm-desktop-ueber-uns_die_ausgangssituation-auschnitt_mengentext.jpg
-    - otterbeck-dahm-desktop-ueber-uns_produktion.jpg
-    - otterbeck-dahm-desktop-forschung_das_graphische_werk.jpg
-    - otterbeck-dahm-desktop-forschung_2017.jpg
-    - otterbeck-dahm-tablet-startseite.jpg
-    - otterbeck-dahm-tablet-lucas-cranach_lebenslauf.jpg
-    - otterbeck-dahm-tablet-ueber-uns_projektteam.jpg
-    - otterbeck-dahm-tablet-forschung_das_opfer_des_elias.jpg
+    - otterbeck-dahm-desktop-startseite.webp
+    - otterbeck-dahm-settings.webp
+    - otterbeck-dahm-desktop-lucas-cranach.webp
+    - otterbeck-dahm-desktop-lucas-cranach_hans_cranach.webp
+    - otterbeck-dahm-desktop-ueber-uns_die_ausgangssituation-auschnitt_mengentext.webp
+    - otterbeck-dahm-desktop-ueber-uns_produktion.webp
+    - otterbeck-dahm-desktop-forschung_das_graphische_werk.webp
+    - otterbeck-dahm-desktop-forschung_2017.webp
+    - otterbeck-dahm-tablet-startseite.webp
+    - otterbeck-dahm-tablet-lucas-cranach_lebenslauf.webp
+    - otterbeck-dahm-tablet-ueber-uns_projektteam.webp
+    - otterbeck-dahm-tablet-forschung_das_opfer_des_elias.webp
 ---
 
 ### Einleitung

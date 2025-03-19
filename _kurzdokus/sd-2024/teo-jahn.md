@@ -3,20 +3,20 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Fabien Jahn
     - Mike Teo
-teaserimage: jahn-teo-1cover.jpg
+teaserimage: jahn-teo-1cover.webp
 gallery:
-    - jahn-teo-2fulldesktophomepage.jpg
-    - jahn-teo-3desktophomepage.jpg
-    - jahn-teo-4desktophomepage.jpg
-    - jahn-teo-5footerhomepage.jpg
-    - jahn-teo-6navigationdesktop.jpg
-    - jahn-teo-7desktopinhaltsseite1.jpg
-    - jahn-teo-7desktopinhaltsseite2.jpg
-    - jahn-teo-7desktopinhaltsseite3.jpg
-    - jahn-teo-10zoomdektopinhaltsseite.jpg
-    - jahn-teo-11zoomdektopinhaltsseitetabelle.jpg
-    - jahn-teo-11zoomtabletinhaltsseite.jpg
-    - jahn-teo-12zoommobiletinhaltsseite.jpg
+    - jahn-teo-2fulldesktophomepage.webp
+    - jahn-teo-3desktophomepage.webp
+    - jahn-teo-4desktophomepage.webp
+    - jahn-teo-5footerhomepage.webp
+    - jahn-teo-6navigationdesktop.webp
+    - jahn-teo-7desktopinhaltsseite1.webp
+    - jahn-teo-7desktopinhaltsseite2.webp
+    - jahn-teo-7desktopinhaltsseite3.webp
+    - jahn-teo-10zoomdektopinhaltsseite.webp
+    - jahn-teo-11zoomdektopinhaltsseitetabelle.webp
+    - jahn-teo-11zoomtabletinhaltsseite.webp
+    - jahn-teo-12zoommobiletinhaltsseite.webp
 ---
 
 Im Rahmen des Moduls "Screendesign" sollten wir für das Projekt 2024 ein Redesign des redaktionellen Bereichs der Cranach Digital Archive vornehmen. Zweck des Projekts war es ein zeitgemäßes und moderneres Gestaltungs- und Interaktionskonzept zu entwickeln, das eine klare, verständliche, spannende, aber dennoch unaufdringliche Designsprache verkörpert. Dabei sollte das bestehende Design des Archivs analysiert werden und darauf aufbauen. Zu gestalten waren die Startseite, die Navigation sowie mindestens drei Inhaltsseiten. Es sollte der Desktop-First-Ansatz verfolgt werden, aber auch andere Geräteklassen wie Tablet oder Mobile waren zu beachten. Auch berücksichtigt werden sollte die Barrierefreiheit mit der Option eines barrierefreien Modus. Außerdem war die Harmonisierung mit der Suche und den Artefakt-Seiten wichtig. Die Zielgruppen sind im wesentlichen professionelle Nutzer:innen, wie z.B. Kunsthistoriker:innen, aber auch mehr und mehr interessierte Laien.  

@@ -3,22 +3,22 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Moritz Grass
     - Julien Hetzl
-teaserimage: grass-hetzl-teaser-min.png
+teaserimage: grass-hetzl-teaser-min.webp
 gallery:
-    - grass-hetzl-desktop-aktuelles-article-scroll-min.png
-    - grass-hetzl-desktop-aktuelles-scroll-min.png
-    - grass-hetzl-desktop-cranach-scroll-min.png
-    - grass-hetzl-desktop-landingpage-preview-min.png
-    - grass-hetzl-desktop-partner-scroll-min.png
-    - grass-hetzl-desktop-startseitemithover-scroll-min.png
-    - grass-hetzl-desktop-startseite-scroll-min.png
-    - grass-hetzl-iphone-aktuelles-kontakt-preview-min.png
-    - grass-hetzl-iphone-aktuelles-preview-min.png
-    - grass-hetzl-iphone-aktuelles-scroll-min.png
-    - grass-hetzl-iphone-cranach-preview-min.png
-    - grass-hetzl-iphone-navigation-min.png
-    - grass-hetzl-iphone-partner-preview-min.png
-    - grass-hetzl-iphone-startseite-scroll-min.png
+    - grass-hetzl-desktop-aktuelles-article-scroll-min.webp
+    - grass-hetzl-desktop-aktuelles-scroll-min.webp
+    - grass-hetzl-desktop-cranach-scroll-min.webp
+    - grass-hetzl-desktop-landingpage-preview-min.webp
+    - grass-hetzl-desktop-partner-scroll-min.webp
+    - grass-hetzl-desktop-startseitemithover-scroll-min.webp
+    - grass-hetzl-desktop-startseite-scroll-min.webp
+    - grass-hetzl-iphone-aktuelles-kontakt-preview-min.webp
+    - grass-hetzl-iphone-aktuelles-preview-min.webp
+    - grass-hetzl-iphone-aktuelles-scroll-min.webp
+    - grass-hetzl-iphone-cranach-preview-min.webp
+    - grass-hetzl-iphone-navigation-min.webp
+    - grass-hetzl-iphone-partner-preview-min.webp
+    - grass-hetzl-iphone-startseite-scroll-min.webp
 ---
 
 Die vorliegende Projektarbeit wurde im Wintersemester 2024/25 im Modul Screendesign entwickelt und beschäftigt sich mit der Umsetzung eines Gestaltungs- und Interaktionskonzepts für den redaktionellen Bereich des Cranach Digital Archive (CDA). Das CDA ist ein 2009 gegründetes Forschungsprojekt, an dem das Museum Kunstpalast Düsseldorf und die Technische Hochschule Köln beteiligt sind. Es dient der digitalen Erschließung der Werke von Lucas Cranach. Ziel ist es, die veraltete Seite neu zu gestalten und sie verständlich und zugänglich für sowohl professionelle Nutzer (z. B. Kunsthistoriker:innen, Kostümbildner:innen etc.) als auch interessierte Laien zu machen. Dabei soll eine, typisch für Seiten im Kultur- und Kunstbereich, klare, geradlinige und interessante Designsprache verwendet werden.

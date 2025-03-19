@@ -3,20 +3,20 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Louis Axt
     - Dustin Huynh
-teaserimage: Axt-Huynh-Desktop_Teaser.png
+teaserimage: Axt-Huynh-Desktop_Teaser.webp
 gallery:
-    - Axt-Huynh-Desktop_Teaser.png
-    - Axt-Huynh-Desktop_Startseite2.png
-    - Axt-Huynh-Desktop_Startseite3.png
-    - Axt-Huynh-Desktop_Startseite4.png
-    - Axt-Huynh-Desktop_Inhaltsseite1.png
-    - Axt-Huynh-Desktop_Inhaltsseite2.png
-    - Axt-Huynh-Desktop_Inhaltsseite3.png
-    - Axt-Huynh-Mobile_Startseite1.png
-    - Axt-Huynh-Mobile_Startseite2.png
-    - Axt-Huynh-Mobile_Startseite3.png
-    - Axt-Huynh-Mobile_Inhaltsseite1.png
-    - Axt-Huynh-Mobile_Inhaltsseite2.png
+    - Axt-Huynh-Desktop_Teaser.webp
+    - Axt-Huynh-Desktop_Startseite2.webp
+    - Axt-Huynh-Desktop_Startseite3.webp
+    - Axt-Huynh-Desktop_Startseite4.webp
+    - Axt-Huynh-Desktop_Inhaltsseite1.webp
+    - Axt-Huynh-Desktop_Inhaltsseite2.webp
+    - Axt-Huynh-Desktop_Inhaltsseite3.webp
+    - Axt-Huynh-Mobile_Startseite1.webp
+    - Axt-Huynh-Mobile_Startseite2.webp
+    - Axt-Huynh-Mobile_Startseite3.webp
+    - Axt-Huynh-Mobile_Inhaltsseite1.webp
+    - Axt-Huynh-Mobile_Inhaltsseite2.webp
 ---
 
 Im Rahmen des Screendesign Projektes “Redesign für den redaktionellen Bereich des Cranach Digital Archive” soll ein neues moderneres, einladenes und interessantes Design, dass auch neugierig macht, designed werden. Des weiteren soll das Design nur den redaktionellen Bereich redesignen und mit den existierenden Suche und Artefakt Seiten harmonisieren. Die Website sollte primär auf WIMP-fähige Computer, aber auch für Smartphones und Tablets funktionieren. Die Zielgruppe besteht primär aus professionellen Nutzer:innen, z.B. Kunsthistoriker, Kostümbildner, zukünftig aber auch mehr interessierte Personen.

@@ -2,17 +2,17 @@
 title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Maximilian Erves-Timm
-teaserimage: ervestimm-cda-teaser.png
+teaserimage: ervestimm-cda-teaser.webp
 gallery:
-    - ervestimm-cda-home-full.png
-    - ervestimm-cda-home-full-annotated.png
-    - ervestimm-cda-cranach-full.png
-    - ervestimm-cda-cranach-full-annotated.png
-    - ervestimm-cda-home-1.png
-    - ervestimm-cda-home-2.png
-    - ervestimm-cda-home-3.png
-    - ervestimm-cda-cranach-1.png
-    - ervestimm-cda-cranach-2.png
+    - ervestimm-cda-home-full.webp
+    - ervestimm-cda-home-full-annotated.webp
+    - ervestimm-cda-cranach-full.webp
+    - ervestimm-cda-cranach-full-annotated.webp
+    - ervestimm-cda-home-1.webp
+    - ervestimm-cda-home-2.webp
+    - ervestimm-cda-home-3.webp
+    - ervestimm-cda-cranach-1.webp
+    - ervestimm-cda-cranach-2.webp
 ---
 
 Das diesjährige Abschlussprojekt des MI-Moduls Screendesign beschäftigt sich mit dem redaktionellen Bereich des Cranach Digital Archive's (CDA). Das zu erstellende Designkonzept soll die Startseite, das bestehende Navigationskonzept und die Inhaltsseiten (Bsp.: "Über Lucas Cranach") des redaktionellen Bereichs überarbeiten und an das bestehende Design von bereits überarbeiteten Elementen des CDAs (Bsp.: Suche) anpassen. 

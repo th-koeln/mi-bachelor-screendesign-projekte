@@ -2,26 +2,26 @@
 title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Hendrik Runde
-teaserimage: Runde-Teaser.png
+teaserimage: Runde-Teaser.webp
 gallery:
-    - Runde-Desktop-Startseite1.png
-    - Runde-Desktop-Startseite2.png
-    - Runde-Desktop-Startseite3.png
-    - Runde-Desktop-LucasCranach1.png
-    - Runde-Desktop-LucasCranach2.png
-    - Runde-Desktop-LucasCranach3.png
-    - Runde-Desktop-Forschung1.png
-    - Runde-Desktop-Interdisziplinaer1.png
-    - Runde-Desktop-Interdisziplinaer2.png
-    - Runde-Desktop-Interdisziplinaer3.png
-    - Runde-Desktop-Navigation.png
-    - Runde-Mobile-Startseite1.png
-    - Runde-Mobile-Startseite2.png
-    - Runde-Mobile-Startseite3.png
-    - Runde-Mobile-Navigation.png
-    - Runde-Mobile-LucasCranach1.png
-    - Runde-Mobile-LucasCranach2.png
-    - Runde-Mobile-LucasCranach3.png
+    - Runde-Desktop-Startseite1.webp
+    - Runde-Desktop-Startseite2.webp
+    - Runde-Desktop-Startseite3.webp
+    - Runde-Desktop-LucasCranach1.webp
+    - Runde-Desktop-LucasCranach2.webp
+    - Runde-Desktop-LucasCranach3.webp
+    - Runde-Desktop-Forschung1.webp
+    - Runde-Desktop-Interdisziplinaer1.webp
+    - Runde-Desktop-Interdisziplinaer2.webp
+    - Runde-Desktop-Interdisziplinaer3.webp
+    - Runde-Desktop-Navigation.webp
+    - Runde-Mobile-Startseite1.webp
+    - Runde-Mobile-Startseite2.webp
+    - Runde-Mobile-Startseite3.webp
+    - Runde-Mobile-Navigation.webp
+    - Runde-Mobile-LucasCranach1.webp
+    - Runde-Mobile-LucasCranach2.webp
+    - Runde-Mobile-LucasCranach3.webp
     
 ---
 

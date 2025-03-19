@@ -3,18 +3,18 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Tolga Akkus
     - Artem Schadt
-teaserimage: akkus-schadt-teaser.jpg
+teaserimage: akkus-schadt-teaser.webp
 gallery:
-    - akkus-schadt-desktop-startseite.jpg
-    - akkus-schadt-desktop-lucascranach-1-2.jpg
-    - akkus-schadt-desktop-lucascranach-2-2.jpg
-    - akkus-schadt-desktop-partner.jpg
-    - akkus-schadt-desktop-forschung.jpg
-    - akkus-schadt-mobile-startseite.jpg
-    - akkus-schadt-mobile-lucascranach-1-2.jpg
-    - akkus-schadt-mobile-lucascranach-2-2.jpg
-    - akkus-schadt-mobile-partner.jpg
-    - akkus-schadt-mobile-forschung.jpg
+    - akkus-schadt-desktop-startseite.webp
+    - akkus-schadt-desktop-lucascranach-1-2.webp
+    - akkus-schadt-desktop-lucascranach-2-2.webp
+    - akkus-schadt-desktop-partner.webp
+    - akkus-schadt-desktop-forschung.webp
+    - akkus-schadt-mobile-startseite.webp
+    - akkus-schadt-mobile-lucascranach-1-2.webp
+    - akkus-schadt-mobile-lucascranach-2-2.webp
+    - akkus-schadt-mobile-partner.webp
+    - akkus-schadt-mobile-forschung.webp
 ---
 
 Das Cranach-Digital-Archive (cda) ist die größte Sammlung der Werke von Lucas Cranach und seinen Söhnen. Das Projekt selbst existiert nun seit Oktober 2009 und soll im Rahmen des Projekts im Modul Screendesign einen neuen Anstrich erhalten. Bearbeitet wurden hier die Startseite und drei Inhaltsseiten der Plattform.

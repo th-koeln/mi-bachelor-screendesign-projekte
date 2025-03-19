@@ -3,12 +3,12 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Meryem Selo
     - Elif Tuerker
-teaserimage: 01-d-startseite-selo-tuerker.png
+teaserimage: 01-d-startseite-selo-tuerker.webp
 gallery:
-    - tuerker-selo-startseite-min.png
-    - 07-d-ueberlucascranach-tuerker-selo.png
-    - 08-d-aktuelles-tuerker-selo.png
-    - 09-d-forschung-tuerker-selo.png
+    - tuerker-selo-startseite-min.webp
+    - 07-d-ueberlucascranach-tuerker-selo.webp
+    - 08-d-aktuelles-tuerker-selo.webp
+    - 09-d-forschung-tuerker-selo.webp
 ---
 
 Im Rahmen dieses Projekts bestand unser Auftrag darin, die Startseite und drei Inhaltsseiten des ,,Cranach Digitale Archive” neu zu gestalten, um das bislang sehr statische und monotone Design einladender und interessanter zu machen. Unser Ziel war es eine klarere, ansprechendere Informationsstruktur zu schaffen, indem wir zentrale Inhalte wie Bilder, Videos und Navigation ausreichend in den Fokus stellen. Dadurch wirken die Seiten gleich farbenfroher und lebendiger. Neben den Bildern und Videos stellten wir auch die Auflistung der digitalen Ressourcenübersicht mehr in den Fokus, die als Eye-Catcher dienen und Interesse wecken soll.
