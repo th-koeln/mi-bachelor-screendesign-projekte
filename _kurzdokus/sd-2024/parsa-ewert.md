@@ -3,20 +3,20 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Soheb Parsa
     - Alina Ewert
-teaserimage: sd-Startseite-Parsa-Ewert.png
+teaserimage: sd-Startseite-Parsa-Ewert.webp
 gallery:
-    - sd-Aktuelles1-Parsa-Ewert.png
-    - sd-Aktuelles3-Parsa-Ewert.png
-    - sd-Forschung1-Parsa-Ewert.png
-    - sd-Forschung2-Parsa-Ewert.png
-    - sd-Cranach-Parsa-Ewert.png
-    - sd-Cranach-1-Parsa-Ewert.png
-    - sd-MobileStart-Parsa-Ewert.png
-    - sd-MobileForschung-Parsa-Ewert.png
-    - sd-MobileForschung2-Parsa-Ewert.png
-    - sd-MobileCranach-Parsa-Ewert.png
-    - sd-MobileCranach2-Parsa-Ewert.png
-    - sd-Menue-Parsa-Ewert.png
+    - sd-Aktuelles1-Parsa-Ewert.webp
+    - sd-Aktuelles3-Parsa-Ewert.webp
+    - sd-Forschung1-Parsa-Ewert.webp
+    - sd-Forschung2-Parsa-Ewert.webp
+    - sd-Cranach-Parsa-Ewert.webp
+    - sd-Cranach-1-Parsa-Ewert.webp
+    - sd-MobileStart-Parsa-Ewert.webp
+    - sd-MobileForschung-Parsa-Ewert.webp
+    - sd-MobileForschung2-Parsa-Ewert.webp
+    - sd-MobileCranach-Parsa-Ewert.webp
+    - sd-MobileCranach2-Parsa-Ewert.webp
+    - sd-Menue-Parsa-Ewert.webp
 ---
 Das Projekt umfasste das Redesign für den redaktionellen Bereich des Cranach Digital Archive für die Desktop-Version sowie die visuelle Darstellung des Interfaces auf einem Touchdevice. Ziel war es, die Website in ein moderneres und nutzerfreundlicheres Format zu bringen, ohne ihren ursprünglichen Charakter zu verlieren. Dabei sollte sie sowohl Kunstinteressierte als auch Historiker und neue Besucher ansprechen, die sich intuitiv zurechtfinden und Interesse an Cranach und seinem Werk entwickeln können. Um die Informationsaufnahme zu erleichtern, wurden unnötige Elemente entfernt oder neu angeordnet. Gleichzeitig wurde die Interaktivität verbessert, während eine klare Navigation und ein harmonisches Design im Vordergrund standen. Das vorgegebene Styleguide diente als Orientierungshilfe und half dabei, eine durchgehende Struktur und konsistente Gestaltung über alle Seiten hinweg beizubehalten. Insbesondere die Abstände zwischen den Elementen wurden gezielt eingesetzt, um ein aufgeräumtes und professionelles Layout zu schaffen.
 

@@ -3,18 +3,18 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Nikolay Gofman
     - Fabian Tölke
-teaserimage: gofman-toelke-teaser.png
+teaserimage: gofman-toelke-teaser.webp
 gallery:
     - gofman-toelke-startseite.webp
     - gofman-toelke-startseite-kleiner_schritt_2.webp
     - gofman-toelke-lucas_cranach-eingeklappt.webp
     - gofman-toelke-forschung-eingeklappt.webp
-    - gofman-toelke-partner-eingeklappt.png
+    - gofman-toelke-partner-eingeklappt.webp
     - gofman-toelke-startseite-über_uns_gehovert_2.webp
     - gofman-toelke-Suchseite-angepasst_neuer_button.webp
-    - gofman-toelke-mobile-startseite.png
-    - gofman-toelke-mobile_lucas_cranach-eingeklappt.png
-    - gofman-toelke-mobile_forschung-eingeklappt.png
+    - gofman-toelke-mobile-startseite.webp
+    - gofman-toelke-mobile_lucas_cranach-eingeklappt.webp
+    - gofman-toelke-mobile_forschung-eingeklappt.webp
     - gofman-toelke-mobile_startseite-über_uns_geklickt_2.webp
     - gofman-toelke-mobile_suchleiste.webp
 ---

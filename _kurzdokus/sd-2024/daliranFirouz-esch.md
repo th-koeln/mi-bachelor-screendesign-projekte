@@ -3,24 +3,24 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Arash Daliran Firouz 
     - Robin Lou Esch
-teaserimage: sd-startseite-desktop-1-daliranFirouz-esch.png
+teaserimage: sd-startseite-desktop-1-daliranFirouz-esch.webp
 gallery:
-    - sd-startseite-desktop-1-daliranFirouz-esch.png
-    - sd-startseite-desktop-3-daliranFirouz-esch.png
-    - sd-aktuelles-desktop-daliranFirouz-esch.png
-    - sd-aktuelles-handy-daliranFirouz-esch.png
-    - sd-cranach-desktop-daliranFirouz-esch.png
-    - sd-cranach-handy-daliranFirouz-esch.png
-    - sd-explore-desktop-2-daliranFirouz-esch.png
-    - sd-explore-desktop-4-daliranFirouz-esch.png
-    - sd-explore-desktop-5-daliranFirouz-esch.png
-    - sd-explore-desktop-6-daliranFirouz-esch.png
-    - sd-explore-handy-2-daliranFirouz-esch.png
-    - sd-explore-handy-3-daliranFirouz-esch.png
-    - sd-forschung-desktop-daliranFirouz-esch.png
-    - sd-forschung-handy-daliranFirouz-esch.png
-    - sd-startseite-handy-1-daliranFirouz-esch.png
-    - sd-startseite-handy-2-daliranFirouz-esch.png
+    - sd-startseite-desktop-1-daliranFirouz-esch.webp
+    - sd-startseite-desktop-3-daliranFirouz-esch.webp
+    - sd-aktuelles-desktop-daliranFirouz-esch.webp
+    - sd-aktuelles-handy-daliranFirouz-esch.webp
+    - sd-cranach-desktop-daliranFirouz-esch.webp
+    - sd-cranach-handy-daliranFirouz-esch.webp
+    - sd-explore-desktop-2-daliranFirouz-esch.webp
+    - sd-explore-desktop-4-daliranFirouz-esch.webp
+    - sd-explore-desktop-5-daliranFirouz-esch.webp
+    - sd-explore-desktop-6-daliranFirouz-esch.webp
+    - sd-explore-handy-2-daliranFirouz-esch.webp
+    - sd-explore-handy-3-daliranFirouz-esch.webp
+    - sd-forschung-desktop-daliranFirouz-esch.webp
+    - sd-forschung-handy-daliranFirouz-esch.webp
+    - sd-startseite-handy-1-daliranFirouz-esch.webp
+    - sd-startseite-handy-2-daliranFirouz-esch.webp
 ---
 
 Das Ziel des Projekts war das Redesign des redaktionellen Bereichs der Cranach Digital Archive Webseite sowie einiger Inhaltsseiten – sowohl für Desktop als auch für Touchgeräte. Basierend auf der Analyse der ursprünglichen Webseite waren einige Änderungen erforderlich:

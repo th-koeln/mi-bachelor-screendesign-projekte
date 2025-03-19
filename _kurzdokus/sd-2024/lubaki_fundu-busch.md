@@ -3,18 +3,18 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Gradie Lubaki Fundu
     - Nils Busch
-teaserimage: sd-Startseite_Teaser-LUBAKI_FUNDU-BUSCH.png
+teaserimage: sd-Startseite_Teaser-LUBAKI_FUNDU-BUSCH.webp
 gallery:
-    - sd-Startseite-LUBAKI_FUNDU-BUSCH.png
-    - sd-Startseite_Dropdown_Menü-LUBAKI_FUNDU-BUSCH.png
-    - sd-Martin_Luther_Inhaltsseite-LUBAKI_FUNDU-BUSCH.png
-    - sd-Lucas_Cranach_Inhaltsseite-LUBAKI_FUNDU-BUSCH.png
-    - sd-Forschung_Inhaltsseite-LUBAKI_FUNDU-BUSCH.png
-    - sd-Startseite_Mobile-LUBAKI_FUNDU-BUSCH.png
-    - sd-Lucas_Cranach_Inhaltsseite_Mobile-LUBAKI_FUNDU-BUSCH.png
-    - sd-Lucas_Cranach_Inhaltsseite_Mobile_Dropdown-LUBAKI_FUNDU-BUSCH.png
-    - sd-Forschung_Inhaltsseite_Mobile-LUBAKI_FUNDU-BUSCH.png
-    - sd-Forschung_Inhaltsseite_Mobile_Dropdown-LUBAKI_FUNDU-BUSCH.png
+    - sd-Startseite-LUBAKI_FUNDU-BUSCH.webp
+    - sd-Startseite_Dropdown_Menü-LUBAKI_FUNDU-BUSCH.webp
+    - sd-Martin_Luther_Inhaltsseite-LUBAKI_FUNDU-BUSCH.webp
+    - sd-Lucas_Cranach_Inhaltsseite-LUBAKI_FUNDU-BUSCH.webp
+    - sd-Forschung_Inhaltsseite-LUBAKI_FUNDU-BUSCH.webp
+    - sd-Startseite_Mobile-LUBAKI_FUNDU-BUSCH.webp
+    - sd-Lucas_Cranach_Inhaltsseite_Mobile-LUBAKI_FUNDU-BUSCH.webp
+    - sd-Lucas_Cranach_Inhaltsseite_Mobile_Dropdown-LUBAKI_FUNDU-BUSCH.webp
+    - sd-Forschung_Inhaltsseite_Mobile-LUBAKI_FUNDU-BUSCH.webp
+    - sd-Forschung_Inhaltsseite_Mobile_Dropdown-LUBAKI_FUNDU-BUSCH.webp
 ---
 
 Für das Projekt „Redesign für den redaktionellen Bereich des Cranach Digital Archive“ sollen die Startseite sowie die Inhaltsseiten des Cranach Digital Archive (CDA) neugestaltet werden, um die Website ansprechender und übersichtlicher zu machen. Das Design soll für Laptops, Computer und mobile Endgeräte passend dargestellt werden. Diese Überarbeitung dient als Konzept für eine mögliche Umstrukturierung des Layouts des CDA. Das Design soll modern, schlicht, angenehm und interessant sein.

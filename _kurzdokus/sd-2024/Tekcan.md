@@ -3,18 +3,18 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Melisa Tekcan
     
-teaserimage: Tekcan-teaser.png
+teaserimage: Tekcan-teaser.webp
 gallery:
-    - Tekcan-Desktop-01.png
-    - Tekcan-Deskdark-01.png
-    - Tekcan-Desktop-02.png
-    - Tekcan-Desktop-03.png
-    - Tekcan-Desktop-04.png
-    - Tekcan-Mobil-01.png
-    - Tekcan-Mobil-02.png
-    - Tekcan-Mobil-menu-03.png
-    - Tekcan-Tablet-01.png
-    - Tekcan-Tablet-02.png
+    - Tekcan-Desktop-01.webp
+    - Tekcan-Deskdark-01.webp
+    - Tekcan-Desktop-02.webp
+    - Tekcan-Desktop-03.webp
+    - Tekcan-Desktop-04.webp
+    - Tekcan-Mobil-01.webp
+    - Tekcan-Mobil-02.webp
+    - Tekcan-Mobil-menu-03.webp
+    - Tekcan-Tablet-01.webp
+    - Tekcan-Tablet-02.webp
 ---
 
 Im Rahmen des Moduls „Screendesign“ bestand unsere Aufgabe darin, für das Projekt 2024 den redaktionellen Bereich des Cranach Digital Archive neu zu gestalten. Ziel war es, ein modernes und zeitgemäßes Design- und Interaktionskonzept zu entwickeln, das durch eine klare, verständliche und zugleich spannende, aber unaufdringliche Designsprache überzeugt. Dafür sollte zunächst das bestehende Design des Archivs analysiert und darauf aufbauend ein neues Konzept erarbeitet werden.

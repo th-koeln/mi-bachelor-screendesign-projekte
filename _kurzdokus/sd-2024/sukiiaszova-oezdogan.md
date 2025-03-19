@@ -3,16 +3,16 @@ title: Projekt 2024
 people:
     - Diana Sukiiazova
     - Ibrahim Oezdogan
-teaserimage: sukiiazova-oezdogan-teaser-image.png
+teaserimage: sukiiazova-oezdogan-teaser-image.webp
 gallery:
-    - sukiiazova-oezdogan-desktop-forschung.png
-    - sukiiazova-oezdogan-desktop-lucasCranach.png
-    - sukiiazova-oezdogan-desktop-aktuelles.png
-    - sukiiazova-oezdogan-desktop-startseite.png
-    - sukiiazova-oezdogan-mobile-startseite.png
-    - sukiiazova-oezdogan-mobile-aktuelles.png
-    - sukiiazova-oezdogan-mobile-lucasCranach.png
-    - sukiiazova-oezdogan-mobile-forschung.png
+    - sukiiazova-oezdogan-desktop-forschung.webp
+    - sukiiazova-oezdogan-desktop-lucasCranach.webp
+    - sukiiazova-oezdogan-desktop-aktuelles.webp
+    - sukiiazova-oezdogan-desktop-startseite.webp
+    - sukiiazova-oezdogan-mobile-startseite.webp
+    - sukiiazova-oezdogan-mobile-aktuelles.webp
+    - sukiiazova-oezdogan-mobile-lucasCranach.webp
+    - sukiiazova-oezdogan-mobile-forschung.webp
 ---
 Das Screendesign-Projekt im Wintersemester 24/25 zielte darauf ab, die Webseite des Cranach Digital Archive zu optimieren und neu zu gestalten. Der Fokus lag auf einer verbesserten Benutzerfreundlichkeit und einem modernen Design. Das Projekt umfasste Konzeption, Design und Umsetzung eines Prototyps, der sich harmonisch in die bestehenden Artefakt- und Suchseiten integriert.
 

@@ -3,22 +3,22 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Daria Zecha
     - Rina Meisenhelter
-teaserimage: Zecha-Meisenhelter-Teaser.jpg
+teaserimage: Zecha-Meisenhelter-Teaser.webp
 gallery:
-    - Zecha-Meisenhelter-Startseite1.jpg
-    - Zecha-Meisenhelter-Startseite2.jpg
-    - Zecha-Meisenhelter-NavigationBar.jpg
-    - Zecha-Meisenhelter-SubPageLucas1.jpg
-    - Zecha-Meisenhelter-SubPageLucas2.jpg
-    - Zecha-Meisenhelter-SubPageLuther.jpg
-    - Zecha-Meisenhelter-SubPageAktuelles1.jpg
-    - Zecha-Meisenhelter-SubPageAktuelles2.jpg
-    - Zecha-Meisenhelter-SubPageForschung1.jpg
-    - Zecha-Meisenhelter-SubPageForschung2.jpg
-    - Zecha-Meisenhelter-PhoneStartseite.jpg
-    - Zecha-Meisenhelter-PhoneNavigation.jpg
-    - Zecha-Meisenhelter-PhoneAktuelles.jpg
-    - Zecha-Meisenhelter-PhoneFooter.jpg
+    - Zecha-Meisenhelter-Startseite1.webp
+    - Zecha-Meisenhelter-Startseite2.webp
+    - Zecha-Meisenhelter-NavigationBar.webp
+    - Zecha-Meisenhelter-SubPageLucas1.webp
+    - Zecha-Meisenhelter-SubPageLucas2.webp
+    - Zecha-Meisenhelter-SubPageLuther.webp
+    - Zecha-Meisenhelter-SubPageAktuelles1.webp
+    - Zecha-Meisenhelter-SubPageAktuelles2.webp
+    - Zecha-Meisenhelter-SubPageForschung1.webp
+    - Zecha-Meisenhelter-SubPageForschung2.webp
+    - Zecha-Meisenhelter-PhoneStartseite.webp
+    - Zecha-Meisenhelter-PhoneNavigation.webp
+    - Zecha-Meisenhelter-PhoneAktuelles.webp
+    - Zecha-Meisenhelter-PhoneFooter.webp
 ---
 
 Im Screendesign-Projekt 2024/25 „Redesign für den redaktionellen Bereich des Cranach Digital Archive“ sollte ein Gestaltungs- und Interaktionskonzept entwickelt werden, welches den Designstandards von Museen, Kunst und Kultur entspricht und die Kunstinhalte in den Fokus rückt. Das Konzept präsentiert den redaktionellen Bereich der bestehenden Website lucascranach.org in einem modernen, minimalistischen, barrierefreien und klar strukturierten Stil. Es harmoniert, anhand des Style-Guides mit warmen Tönen und kontrastreichen, dunkleren Grautönen, mit den Artefakt Seiten und der Suche. Zudem wurde die Website für Smartphones, Tablets und WIMP-fähige Computer optimiert. Die Hauptzielgruppe umfasst Kunstinteressierte, Kunsthistoriker, Wissenschaftler, Akademiker, Schüler, Studierende und Kostümbildner.

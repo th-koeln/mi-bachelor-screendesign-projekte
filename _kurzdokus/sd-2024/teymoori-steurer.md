@@ -3,15 +3,15 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Artin Teymoori
     - Andre Steurer
-teaserimage: Teymoori-Steurer-Teaser.jpg
+teaserimage: Teymoori-Steurer-Teaser.webp
 gallery:
-    - Teymoori-Steurer-Startseite.jpg
-    - Teymoori-Steurer-StartseiteZoom.jpg
-    - Teymoori-Steurer-StartseiteMobileCut.jpg
-    - Teymoori-Steurer-SidebarCUT.jpg
-    - Teymoori-Steurer-Inhalt1Cut.jpg
-    - Teymoori-Steurer-ZeitstrahlCut.jpg
-    - Teymoori-Steurer-Inhalt2Zoom.jpg
+    - Teymoori-Steurer-Startseite.webp
+    - Teymoori-Steurer-StartseiteZoom.webp
+    - Teymoori-Steurer-StartseiteMobileCut.webp
+    - Teymoori-Steurer-SidebarCUT.webp
+    - Teymoori-Steurer-Inhalt1Cut.webp
+    - Teymoori-Steurer-ZeitstrahlCut.webp
+    - Teymoori-Steurer-Inhalt2Zoom.webp
 ---
 
 Unser Projekt zielte darauf ab, den redaktionellen Bereich des Cranach Digital Archives (CDA) auf Vordermann zu bringen. Das CDA ist eine Plattform, die sich der Erforschung und Dokumentation der Werke von Lucas Cranach dem Älteren, seiner Werkstatt und seinen Söhnen widmet. Mit wissenschaftlichen Analysen und kuratorischen Infos spricht die Seite Kunsthistoriker:innen, Restaurator:innen und Kunstinteressierte weltweit an. Unsere Aufgabe war es, die Seite frischer und nutzerfreundlicher zu gestalten, ohne den wissenschaftlichen Charakter zu verlieren.

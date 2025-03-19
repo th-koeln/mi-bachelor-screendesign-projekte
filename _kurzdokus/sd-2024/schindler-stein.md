@@ -4,16 +4,16 @@ people:
     - Laura Schindler
     - Anna Stein
 teaserimage: 
-    - schindler-stein-teaser-image.jpg
+    - schindler-stein-teaser-image.webp
 gallery:
-    - schindler-stein-desktop-startseite.png
-    - schindler-stein-desktop-navidropdown.png 
-    - schindler-stein-desktop-forschung.png 
-    - schindler-stein-desktop-cranach.png  
-    - schindler-stein-desktop-detailansicht.png 
-    - schindler-stein-mobile-startseite.png
-    - schindler-stein-mobile-navigation.png
-    - schindler-stein-mobile-inpagenavi.png
+    - schindler-stein-desktop-startseite.webp
+    - schindler-stein-desktop-navidropdown.webp 
+    - schindler-stein-desktop-forschung.webp 
+    - schindler-stein-desktop-cranach.webp  
+    - schindler-stein-desktop-detailansicht.webp 
+    - schindler-stein-mobile-startseite.webp
+    - schindler-stein-mobile-navigation.webp
+    - schindler-stein-mobile-inpagenavi.webp
 ---
 
 

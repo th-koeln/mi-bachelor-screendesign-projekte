@@ -3,17 +3,17 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Rana Hamid
     - Gizem Sarac
-teaserimage: hamid-sarac-teaser.png
+teaserimage: hamid-sarac-teaser.webp
 gallery:
-    - hamid-sarac-destop-hauptseite.png
-    - hamid-sarac-destop-hauptseite-unten.png
-    - hamid-sarac-mobile-hauptseite.png
-    - hamid-sarac-mobile-navigationsleiste.png
-    - hamid-sarac-destop-cranach.png
-    - hamid-sarac-destop-forschung.png
-    - hamid-sarac-destop-forschung-Kunsttechnologie.png
-    - hamid-sarac-mobile-forschung-text.png
-    - hamid-sarac-mobile-forschung.png
+    - hamid-sarac-destop-hauptseite.webp
+    - hamid-sarac-destop-hauptseite-unten.webp
+    - hamid-sarac-mobile-hauptseite.webp
+    - hamid-sarac-mobile-navigationsleiste.webp
+    - hamid-sarac-destop-cranach.webp
+    - hamid-sarac-destop-forschung.webp
+    - hamid-sarac-destop-forschung-Kunsttechnologie.webp
+    - hamid-sarac-mobile-forschung-text.webp
+    - hamid-sarac-mobile-forschung.webp
 ---
 
 Das letzte Projekt des Moduls Screendesign verlangt ein Designkonzept zum Redesign für den redaktionellen Bereich des Cranach Digital Archive (CDA). Zudem bestand der Auftrag darin, ein Gestaltungs- und Interaktionskonzept zu entwickeln, das für WIMP-Geräte und Touchdevices gleichermaßen optimal funktioniert. Das Design sollte systematisch, einfach und zeitlos sein. Im Rahmen des Redesigns des redaktionellen Bereichs des Cranach Digital Archive (CDA) sollen Benutzerfreundlichkeit, Barrierefreiheit und Funktionalität erreicht werden. Zudem soll den redaktionelle Bereich gestalterisch mit der Suche und den Artefakt Seiten harmonisiert werden. Damit wird das Redesign des CDA ästhetisch ansprechend, funktional und benutzerfreundlich, um eine breite Zielgruppe zu unterstützen.

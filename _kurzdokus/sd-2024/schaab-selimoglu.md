@@ -3,17 +3,17 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people: 
     - Karina Schaab
     - Ceyda Selimoglu
-teaserimage: schaab-selimoglu-teaser.png
+teaserimage: schaab-selimoglu-teaser.webp
 gallery: 
-    - schaab-selimoglu-menü.png
-    - schaab-selimoglu-barrierefreiheit.png
-    - schaab-selimoglu-LC1.png
-    - schaab-selimoglu-LC2.png
-    - schaab-selimoglu-FOR1.png
-    - schaab-selimoglu-FOR2.png
-    - schaab-selimoglu-EIN.png
-    -  schaab-selimoglu-handymd.png
-    - schaab-selimoglu-handyinhalt.png
+    - schaab-selimoglu-menü.webp
+    - schaab-selimoglu-barrierefreiheit.webp
+    - schaab-selimoglu-LC1.webp
+    - schaab-selimoglu-LC2.webp
+    - schaab-selimoglu-FOR1.webp
+    - schaab-selimoglu-FOR2.webp
+    - schaab-selimoglu-EIN.webp
+    - schaab-selimoglu-handymd.webp
+    - schaab-selimoglu-handyinhalt.webp
 ---
 
 Im Rahmen des diesjährigen Projekts wurde der redaktionelle Teil des Cranach Digital Archives (CDA) sowie drei Inhaltsseiten des CDAs umgestaltet. Mit seinem unvergleichbaren Sortiment von digitalisierten Gemälden des Lucas Cranach dem Älteren, seiner Söhne und seiner Werkstatt ist das CDA die zentrale Anlaufstelle für Kunsthistoriker:innen, Wissenschaftler:innen, Forschende und interessierte Öffentlichkeit für seine Werke. Das Archiv stellt hochauflösende Bilder von Kunstwerken sowie Dokumentation von Forschungsergebnissen zur Verfügung. Zudem stellt sie detaillierte Filteroptionen für intensive Sucharbeiten bereit. 

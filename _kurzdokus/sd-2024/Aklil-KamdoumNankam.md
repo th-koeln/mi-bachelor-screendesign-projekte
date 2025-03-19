@@ -3,25 +3,25 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Thea Elisabeth Kamdoum-Nankam
     - Liya Aklil
-teaserimage: Aklil-KamdoumNankam-Header-Bild.png
+teaserimage: Aklil-KamdoumNankam-Header-Bild.webp
 gallery:
-    - Aklil-KamdoumNankam-Startseite-Desktop3_1.jpg
-    - Aklil-KamdoumNankam-Startseite-Desktop3_2.jpg
-    - Aklil-KamdoumNankam-Startseite-Desktop4.jpg
-    - Aklil-KamdoumNankam-Startseite-iPhoneSE-1_1.jpg
-    - Aklil-KamdoumNankam-Startseite-iPhoneSE1_3.jpg
-    - Aklil-KamdoumNankam-Aktuell-Desktop1_1.jpg
-    - Aklil-KamdoumNankam-Aktuell-Desktop1_2.jpg
-    - Aklil-KamdoumNankam-Footer.jpg
-    - Aklil-KamdoumNankam-Aktuell-iPhoneSE-1_1.jpg
-    - Aklil-KamdoumNankam-Aktuell-iPhoneSE-1_3.jpg
-    - Aklil-KamdoumNankam-Bildliteratur-Desktop1.jpg
-    - Aklil-KamdoumNankam-Bildliteratur-Desktop1_4.jpg
-    - Aklil-KamdoumNankam-Bildliteratur-iPhoneSE1_1.jpg
-    - Aklil-KamdoumNankam-Bildliteratur-iPhoneSE1_4.jpg
-    - Aklil-KamdoumNankam-Publikation-Tablet1.jpg
-    - Aklil-KamdoumNankam-Publikation-iPhoneSE_1_3.jpg
-    - Aklil-KamdoumNankam-Publikation-iPhoneSE_1_2.jpg
+    - Aklil-KamdoumNankam-Startseite-Desktop3_1.webp
+    - Aklil-KamdoumNankam-Startseite-Desktop3_2.webp
+    - Aklil-KamdoumNankam-Startseite-Desktop4.webp
+    - Aklil-KamdoumNankam-Startseite-iPhoneSE-1_1.webp
+    - Aklil-KamdoumNankam-Startseite-iPhoneSE1_3.webp
+    - Aklil-KamdoumNankam-Aktuell-Desktop1_1.webp
+    - Aklil-KamdoumNankam-Aktuell-Desktop1_2.webp
+    - Aklil-KamdoumNankam-Footer.webp
+    - Aklil-KamdoumNankam-Aktuell-iPhoneSE-1_1.webp
+    - Aklil-KamdoumNankam-Aktuell-iPhoneSE-1_3.webp
+    - Aklil-KamdoumNankam-Bildliteratur-Desktop1.webp
+    - Aklil-KamdoumNankam-Bildliteratur-Desktop1_4.webp
+    - Aklil-KamdoumNankam-Bildliteratur-iPhoneSE1_1.webp
+    - Aklil-KamdoumNankam-Bildliteratur-iPhoneSE1_4.webp
+    - Aklil-KamdoumNankam-Publikation-Tablet1.webp
+    - Aklil-KamdoumNankam-Publikation-iPhoneSE_1_3.webp
+    - Aklil-KamdoumNankam-Publikation-iPhoneSE_1_2.webp
 ---
 ## Projektkontext
 
