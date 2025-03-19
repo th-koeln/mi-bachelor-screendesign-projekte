@@ -6,7 +6,7 @@ people:
 teaserimage: Teymoori-Steurer-Teaser.jpg
 gallery:
     - Teymoori-Steurer-Startseite.jpg
-    - Teymoori-Steurer-Startseite Zoom.jpg
+    - Teymoori-Steurer-StartseiteZoom.jpg
     - Teymoori-Steurer-StartseiteMobileCut.jpg
     - Teymoori-Steurer-SidebarCUT.jpg
     - Teymoori-Steurer-Inhalt1Cut.jpg

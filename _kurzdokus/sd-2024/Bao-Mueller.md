@@ -11,13 +11,13 @@ gallery:
     - sd-Inhaltsseite_DE_2-Bao-Mueller.png
     - sd-Startseite_DE_lucas_2-Bao-Mueller.png
     - sd-Startseite_DE_lucas_zusammenfassung-Bao-Mueller.png
-    - sd-Startseite_DE_Interdiziplinär-Bao-Mueller.png
+    - sd-Startseite_DE_Interdiziplinaer-Bao-Mueller.png
     - sd-Bao-Mueller-Smartphone.png
-    - sd-Inhaltseite 2_1_DE-Bao-Mueller.png
-    - sd-Inhaltseite 2_2_DE-Bao-Mueller.png
-    - sd-Inhaltseite 3.1_DE-Bao-Mueller.png
-    - sd-Inhaltseite 4_DE-Bao-Mueller.png
-    - sd-Menü_DE-Bao-Mueller.png
+    - sd-Inhaltseite2_1_DE-Bao-Mueller.png
+    - sd-Inhaltseite2_2_DE-Bao-Mueller.png
+    - sd-Inhaltseite3.1_DE-Bao-Mueller.png
+    - sd-Inhaltseite4_DE-Bao-Mueller.png
+    - sd-Menu_DE-Bao-Mueller.png
     - sd-Suchleiste_DE-Bao-Mueller.png
 ---
 

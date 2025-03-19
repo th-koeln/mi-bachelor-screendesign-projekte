@@ -10,7 +10,7 @@ gallery:
     - Start-mobile-Gallery3.png
     - Forschung-Gallery4.png
     - Forschung-mobile-Gallery5.png
-    - Interdisziplinär&Interinstitutionell-Gallery6.png
+    - Interdisziplinaer-Interinstitutionell-Gallery6.png
     - Start-Scrollfunction-Gallery7.png
 ---
 

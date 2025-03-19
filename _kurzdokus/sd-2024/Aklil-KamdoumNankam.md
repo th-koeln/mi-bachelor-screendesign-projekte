@@ -3,25 +3,25 @@ title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people:
     - Thea Elisabeth Kamdoum-Nankam
     - Liya Aklil
-teaserimage: Aklil-Kamdoum Nankam-Header-Bild.png
+teaserimage: Aklil-KamdoumNankam-Header-Bild.png
 gallery:
-    - Aklil-Kamdoum Nankam-Startseite-Desktop 3_1.jpg
-    - Aklil-Kamdoum Nankam-Startseite-Desktop 3_2.jpg
-    - Aklil-Kamdoum Nankam-Startseite-Desktop 4.jpg
-    - Aklil-Kamdoum Nankam-Startseite-iPhone SE 1.jpg
-    - Aklil-Kamdoum Nankam-Startseite-iPhone SE 1_3.jpg
-    - Aklil-Kamdoum Nankam-Aktuell-Desktop 1_1.jpg
-    - Aklil-Kamdoum Nankam-Aktuell-Desktop 1_2.jpg
-    - Aklil-Kamdoum Nankam-Footer.jpg
-    - Aklil-Kamdoum Nankam-Aktuell-iPhone SE - 1_1.jpg
-    - Aklil-Kamdoum Nankam-Aktuell-iPhone SE - 1_3.jpg
-    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-Desktop 1.jpg
-    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-Desktop 1_4.jpg
-    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-iPhone SE 1_1.jpg
-    - Aklil-Kamdoum Nankam-Bildliteratur(Klage unter dem Kreuz)-iPhone SE 1_4.jpg
-    - Aklil-Kamdoum Nankam-Publikation-Tablet 1.jpg
-    - Aklil-Kamdoum Nankam-Publikation-iPhone SE_1_2 (2).jpg
-    - Aklil-Kamdoum Nankam-Publikation-iPhone SE_1_2.jpg
+    - Aklil-KamdoumNankam-Startseite-Desktop3_1.jpg
+    - Aklil-KamdoumNankam-Startseite-Desktop3_2.jpg
+    - Aklil-KamdoumNankam-Startseite-Desktop4.jpg
+    - Aklil-KamdoumNankam-Startseite-iPhoneSE-1_1.jpg
+    - Aklil-KamdoumNankam-Startseite-iPhoneSE1_3.jpg
+    - Aklil-KamdoumNankam-Aktuell-Desktop1_1.jpg
+    - Aklil-KamdoumNankam-Aktuell-Desktop1_2.jpg
+    - Aklil-KamdoumNankam-Footer.jpg
+    - Aklil-KamdoumNankam-Aktuell-iPhoneSE-1_1.jpg
+    - Aklil-KamdoumNankam-Aktuell-iPhoneSE-1_3.jpg
+    - Aklil-KamdoumNankam-Bildliteratur-Desktop1.jpg
+    - Aklil-KamdoumNankam-Bildliteratur-Desktop1_4.jpg
+    - Aklil-KamdoumNankam-Bildliteratur-iPhoneSE1_1.jpg
+    - Aklil-KamdoumNankam-Bildliteratur-iPhoneSE1_4.jpg
+    - Aklil-KamdoumNankam-Publikation-Tablet1.jpg
+    - Aklil-KamdoumNankam-Publikation-iPhoneSE_1_3.jpg
+    - Aklil-KamdoumNankam-Publikation-iPhoneSE_1_2.jpg
 ---
 ## Projektkontext
 
