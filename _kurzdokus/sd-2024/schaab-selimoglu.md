@@ -2,7 +2,7 @@
 title: Redesign für den redaktionellen Bereich des Cranach Digital Archive
 people: 
     - Karina Schaab
-    - Ceyda Selimoglu
+    - Team
 teaserimage: schaab-selimoglu-teaser.webp
 gallery: 
     - schaab-selimoglu-menü.webp
