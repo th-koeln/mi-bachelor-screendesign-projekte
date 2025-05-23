@@ -1,5 +1,5 @@
 ---
-title: ProjectSurvival4All – Praktishce Survival-Tipps für die Projektarbeit im Studium und darüber hinaus
+title: ProjectSurvival4All – Praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus
 people:
     - Sebastian Fuhrmann
     - Gökhan Serindik
