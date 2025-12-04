@@ -1,0 +1,271 @@
+{
+  "id": "sd-2020",
+  "title": "Projekt 2020",
+  "subtitle": "Funktionserweiterung «Bilder vergleichen»",
+  "context": "Cranach Digital Archive (CDA)",
+  "modul": "Screendesign",
+  "studiengang": "Medieninformatik Ba.",
+  "semester": "Wintersemester 2020/21",
+  "hero": "assets/images/projekt-2020-hero.jpg",
+  "kurzdokus": [
+    {
+      "filename": "Caltabiano-Wolf.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Enrico Caltabiano",
+        "Domenic Wolf"
+      ],
+      "teaserimage": "Caltabiano-Wolf-teaser.webp"
+    },
+    {
+      "filename": "Crisci-Johne.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Nick Crisci",
+        "Paul Johne"
+      ],
+      "teaserimage": "Crisci-Johne-teaser.webp"
+    },
+    {
+      "filename": "Haering-Hammer.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Lennard Häring",
+        "Marius Hammer"
+      ],
+      "teaserimage": "Haering-Hammer-Teaser.webp"
+    },
+    {
+      "filename": "Tadesse-Engelbertz.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Helina Tadesse",
+        "Esther Engelbertz"
+      ],
+      "teaserimage": "tadesse-engelbertz-teaser.webp"
+    },
+    {
+      "filename": "Tschitschke-Niggemann.md",
+      "title": "",
+      "people": [
+
+      ],
+      "teaserimage": ""
+    },
+    {
+      "filename": "Ziegler-Sienz.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Lisa-Marie Sienz",
+        "Yasmin Ziegler"
+      ],
+      "teaserimage": "Ziegler-Sienz-teaser.jpeg"
+    },
+    {
+      "filename": "brenner-rogowski.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Nico Brenner",
+        "Daniel Rogowski"
+      ],
+      "teaserimage": "brenner-rogowski-001_teaser.webp"
+    },
+    {
+      "filename": "brock.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Sebastian Brock"
+      ],
+      "teaserimage": "brock-teaser.webp"
+    },
+    {
+      "filename": "bulut-grimmeisen.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Emre Bulut",
+        "David Grimmeisen"
+      ],
+      "teaserimage": "bulut-grimmeisen-teaser.webp"
+    },
+    {
+      "filename": "chan-neubert-selim.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Achelia Selim",
+        "Sofia Neubert",
+        "Chan Ching Ying"
+      ],
+      "teaserimage": "chan-neubert-selim-teaser.webp"
+    },
+    {
+      "filename": "comez-tretjakov.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Fatmagül Cömez",
+        "Julia Tretjakov"
+      ],
+      "teaserimage": "comez-tretjakov-teaser.webp"
+    },
+    {
+      "filename": "engeln-schaefer.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Lara Engeln",
+        "Domenic Schäfer"
+      ],
+      "teaserimage": "engeln-schaefer-teaser.webp"
+    },
+    {
+      "filename": "fafengut-selbach.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Paul Fafengut",
+        "Yannik Selbach"
+      ],
+      "teaserimage": "fafengut-selbach-teaser.webp"
+    },
+    {
+      "filename": "gerold-klein.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Tom Gerold",
+        "Jannis Klein"
+      ],
+      "teaserimage": "gerold-klein-teaser.webp"
+    },
+    {
+      "filename": "haskan-schaefer.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Fatih Haskan",
+        "Yannick Schäfer"
+      ],
+      "teaserimage": "haskan-schaefer-teaser.webp"
+    },
+    {
+      "filename": "heissbach-germund.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Verena Heissbach",
+        "Anne Germund"
+      ],
+      "teaserimage": "heissbach-germund-teaser.webp"
+    },
+    {
+      "filename": "jakupi-mejri.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Dalila Mejri",
+        "Egzona Jakupi"
+      ],
+      "teaserimage": "jakupi-mejri-teaser.webp"
+    },
+    {
+      "filename": "kretschmer-remberg.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Yannik Leon Kretschmer",
+        "Luca Remberg"
+      ],
+      "teaserimage": "kretschmer-remberg-teaser.webp"
+    },
+    {
+      "filename": "kumas-sancak.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Beyza Kumas",
+        "Esra Sancak"
+      ],
+      "teaserimage": "kumas-sancak-teaser.webp"
+    },
+    {
+      "filename": "maiworm-thimm.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Caterina Sophia Thimm",
+        "Linda Maiworm"
+      ],
+      "teaserimage": "maiworm-thimm-teaser.webp"
+    },
+    {
+      "filename": "moujtahid.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Abdelbasset Moujtahid"
+      ],
+      "teaserimage": "moujtahid-teaser.webp"
+    },
+    {
+      "filename": "mueller-denitto.md",
+      "title": "",
+      "people": [
+
+      ],
+      "teaserimage": ""
+    },
+    {
+      "filename": "nguyen.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Trang Nguyen"
+      ],
+      "teaserimage": "nguyen-teaser.webp"
+    },
+    {
+      "filename": "repke-bensch_malave.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Kevin Repke",
+        "Mauricio Bensch Malavé"
+      ],
+      "teaserimage": "repke-bensch_malave-teaser.webp"
+    },
+    {
+      "filename": "reuschenbach-grin.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Franziska Eva Reuschenbach",
+        "Emely Grin"
+      ],
+      "teaserimage": "Reuschenbach-Grin-teaser.webp"
+    },
+    {
+      "filename": "sammoud-schurawlev.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Andreas Schurawlev",
+        "Mayess Sammoud"
+      ],
+      "teaserimage": "sammoud-schurawlev-teaser.webp"
+    },
+    {
+      "filename": "schirp-pottrick.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Fabian Schirp",
+        "Nicolas Pottrick"
+      ],
+      "teaserimage": "schirp-pottrick-teaser.webp"
+    },
+    {
+      "filename": "schleipfer-chouliaras.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Nadine Schleipfer",
+        "Anastasia Chouliaras"
+      ],
+      "teaserimage": "schleipfer-chouliaras-teaser.webp"
+    },
+    {
+      "filename": "voß-busch-russmann.md",
+      "title": "Funktionserweiterung «Bilder vergleichen» im Cranach Digital Archive",
+      "people": [
+        "Thyron Voß-Busch",
+        "Oliver Russmann"
+      ],
+      "teaserimage": "voß-busch-russmann-teaser.webp"
+    }
+  ],
+  "kurzdokus_count": 29,
+  "generated_at": "2025-12-04T17:33:53+01:00"
+}

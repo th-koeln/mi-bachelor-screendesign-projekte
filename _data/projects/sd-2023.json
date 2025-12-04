@@ -1,0 +1,181 @@
+{
+  "id": "sd-2023",
+  "title": "Projekt 2023",
+  "subtitle": "ProjectSurvival4All – Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus",
+  "context": "Studium am Campus Gummersbach",
+  "modul": "Screendesign",
+  "studiengang": "Medieninformatik Ba.",
+  "semester": "Wintersemester 2023/24",
+  "hero": "assets/images/projekt-2023-bunt.jpg",
+  "kurzdokus": [
+    {
+      "filename": "Anhalt-Dueck.md",
+      "title": "ProjectSurvival4All – Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Julius Anhalt",
+        "Daniel Dück"
+      ],
+      "teaserimage": "Anhalt-Dueck-Teaser.webp"
+    },
+    {
+      "filename": "Durukan-Gielen.md",
+      "title": "ProjectSurvival4All Sympathische und praktische Survival Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Buraq Durukan",
+        "Sebastian Gielen-Pereira"
+      ],
+      "teaserimage": "Durukan-Gielen-teaserimage.webp"
+    },
+    {
+      "filename": "ElFraygui-Kellner.md",
+      "title": "ProjectSurvival4All – Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Yassin El-Fraygui",
+        "Maximilian Kellner"
+      ],
+      "teaserimage": "El-Fraygui-Kellner-teaser.webp"
+    },
+    {
+      "filename": "Fehrenbacher-Storm.md",
+      "title": "ProjectSurvival4All",
+      "people": [
+        "Cordelia Fehrenbacher",
+        "Jesaja Storm"
+      ],
+      "teaserimage": "Fehrenbacher-Storm-tablet-5.webp"
+    },
+    {
+      "filename": "Feldmann_Dedy.md",
+      "title": "Projekt 2023 - ProjectSurvival4All",
+      "people": [
+        "Maximilian Feldmann",
+        "Christian Dedy"
+      ],
+      "teaserimage": "feldmann_dedy_teaser.webp"
+    },
+    {
+      "filename": "Irmscher_Korte.md",
+      "title": "",
+      "people": [
+
+      ],
+      "teaserimage": ""
+    },
+    {
+      "filename": "Runde.md",
+      "title": "ProjectSurvival4All",
+      "people": [
+        "Hendrik Runde"
+      ],
+      "teaserimage": "sd-TeaserBild-Runde.webp"
+    },
+    {
+      "filename": "Sonnenberg-He.md",
+      "title": "ProjektSurvival4All, eine Wissensplattform für Projekte und Projektarbeiten",
+      "people": [
+        "Daniel Sonnenberg",
+        "Chenghua He"
+      ],
+      "teaserimage": "Sonnenberg-He-Teaser.webp"
+    },
+    {
+      "filename": "Walsh-Merzouk.md",
+      "title": "Neue Website für die Studierenden der TH Köln «ProjektSurvival4All»",
+      "people": [
+        "Rasmus Walsh",
+        "Amin Merzouk"
+      ],
+      "teaserimage": "Walsh-Merzouk-Teaser.webp"
+    },
+    {
+      "filename": "bernhardt_diekmann.md",
+      "title": "ProjectSurvival4All - Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Cherilyn Bernhardt",
+        "Lukas Diekmann"
+      ],
+      "teaserimage": "sd_Coverbild-Bernhardt-Diekmann.webp"
+    },
+    {
+      "filename": "foth-jennifer-jungilligens-meike.md",
+      "title": "ProjectSurvival4All – Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Jennifer Foth",
+        "Meike Jungilligens"
+      ],
+      "teaserimage": "foth-jennifer-jungilligens-meike-teaser-image.webp"
+    },
+    {
+      "filename": "fuhrmann-serindik.md",
+      "title": "ProjectSurvival4All – Praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Sebastian Fuhrmann",
+        "Gökhan Serindik"
+      ],
+      "teaserimage": "fuhrmann-serindik-teaser.webp"
+    },
+    {
+      "filename": "henrichsmeyer-zink.md",
+      "title": "ProjectSurvival4All - Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Mia Charlotte Henrichsmeyer",
+        "Cosima Hiromi Zink"
+      ],
+      "teaserimage": "henrichsmeyer-zink-vorschau.webp"
+    },
+    {
+      "filename": "klein-hartono.md",
+      "title": "ProjectSurvival4All – Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Paula Klein",
+        "Jason Hartono"
+      ],
+      "teaserimage": "klein-hartono-teaser.webp"
+    },
+    {
+      "filename": "oswald-roesch.md",
+      "title": "ProjectSurvival4All – Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Ben Oswald",
+        "Amy Rösch"
+      ],
+      "teaserimage": "oswald-roesch-teaser.webp"
+    },
+    {
+      "filename": "pritzkau-schlegel.md",
+      "title": "ProjectSurvival4All",
+      "people": [
+        "Ben Pritzkau",
+        "Robin Schlegel"
+      ],
+      "teaserimage": "pritzkau-schlegel-teaser.webp"
+    },
+    {
+      "filename": "sd-Lindek-Kueper.md",
+      "title": "ProjectSurvival4All - Praktische Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Jonas Lindek",
+        "Tom Küper"
+      ],
+      "teaserimage": "lindek-kueper-desktop-1.webp"
+    },
+    {
+      "filename": "sd-kurzdoku-fels.md",
+      "title": "ProjectSurvival4All – Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Marvin Fels"
+      ],
+      "teaserimage": "sd-mockup-Fels-Desktop.webp"
+    },
+    {
+      "filename": "timm.md",
+      "title": "ProjectSurvival4All - Sympathische und praktische Survival-Tipps für die Projektarbeit im Studium und darüber hinaus",
+      "people": [
+        "Ricardo Timm"
+      ],
+      "teaserimage": "timm-mockup-1-macbook-teaser.webp"
+    }
+  ],
+  "kurzdokus_count": 19,
+  "generated_at": "2025-12-04T17:33:53+01:00"
+}

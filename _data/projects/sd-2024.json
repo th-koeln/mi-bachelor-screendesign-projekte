@@ -1,0 +1,280 @@
+{
+  "id": "sd-2024",
+  "title": "Projekt 2024",
+  "subtitle": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+  "context": "Cranach Digital Archive (CDA)",
+  "modul": "Screendesign",
+  "studiengang": "Medieninformatik Ba.",
+  "semester": "Wintersemester 2024/25",
+  "hero": "assets/images/projekt-2024-hero.webp",
+  "kurzdokus": [
+    {
+      "filename": "Ak-Nietzschmann.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Merve Ak",
+        "Michelle Marie Nietzschmann"
+      ],
+      "teaserimage": "Nietzschmann-Ak-teaser.webp"
+    },
+    {
+      "filename": "Aklil-KamdoumNankam.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Thea Elisabeth Kamdoum-Nankam",
+        "Liya Aklil"
+      ],
+      "teaserimage": "Aklil-KamdoumNankam-Header-Bild.webp"
+    },
+    {
+      "filename": "Axt-Huynh.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Louis Axt",
+        "Dustin Huynh"
+      ],
+      "teaserimage": "Axt-Huynh-Desktop_Teaser.webp"
+    },
+    {
+      "filename": "Bao-Mueller.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Frank Lingxiang Bao",
+        "Felix Mueller"
+      ],
+      "teaserimage": "sd-Bao-Mueller-Teaser.webp"
+    },
+    {
+      "filename": "Eroglu-Oelmann.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Muhammed Eroglu",
+        "Nico Oelmann"
+      ],
+      "teaserimage": "Eroglu-Oelmann-Teaser.webp"
+    },
+    {
+      "filename": "Runde.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Hendrik Runde"
+      ],
+      "teaserimage": "Runde-Teaser.webp"
+    },
+    {
+      "filename": "Tekcan.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Melisa Tekcan"
+      ],
+      "teaserimage": "Tekcan-teaser.webp"
+    },
+    {
+      "filename": "Zecha-Meisenhelter-Kurzdokumentation.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Daria Zecha",
+        "Rina Meisenhelter"
+      ],
+      "teaserimage": "Zecha-Meisenhelter-Teaser.webp"
+    },
+    {
+      "filename": "akkus-schadt.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Tolga Akkus",
+        "Artem Schadt"
+      ],
+      "teaserimage": "akkus-schadt-teaser.webp"
+    },
+    {
+      "filename": "belbachir-guerkan.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Yousef Belbachir",
+        "Emirhan Gürkan"
+      ],
+      "teaserimage": "belbachir-guerkan-teaser.webp"
+    },
+    {
+      "filename": "daliranFirouz-esch.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Arash Daliran Firouz",
+        "Robin Lou Esch"
+      ],
+      "teaserimage": "sd-startseite-desktop-1-daliranFirouz-esch.webp"
+    },
+    {
+      "filename": "eigenseer-mohamed.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Michelle Eigenseer",
+        "Samra Mohamed"
+      ],
+      "teaserimage": "Eigenseer-Mohamed-Teaser.webp"
+    },
+    {
+      "filename": "ermemis-phan.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Türker Ermemis",
+        "Ngoc Phuong Khanh Phan"
+      ],
+      "teaserimage": "ermemis-phan-teaser-small.webp"
+    },
+    {
+      "filename": "ervestimm-kurzdokumentation.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Maximilian Erves-Timm"
+      ],
+      "teaserimage": "ervestimm-cda-teaser.webp"
+    },
+    {
+      "filename": "gofman-toelke.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Nikolay Gofman",
+        "Fabian Tölke"
+      ],
+      "teaserimage": "gofman-toelke-teaser.webp"
+    },
+    {
+      "filename": "grass-hetzl.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Moritz Grass",
+        "Julien Hetzl"
+      ],
+      "teaserimage": "grass-hetzl-teaser-min.webp"
+    },
+    {
+      "filename": "hamid-sarac.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Rana Hamid",
+        "Gizem Sarac"
+      ],
+      "teaserimage": "hamid-sarac-teaser.webp"
+    },
+    {
+      "filename": "hildmann-kessmann.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Lisa Sophie Charlotte Hildmann",
+        "Marvin Dominik Kessmann"
+      ],
+      "teaserimage": "sd-teaser-hildmann-kessmann.webp"
+    },
+    {
+      "filename": "karpuz-kalinkarci.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Kerimcan Karpuz",
+        "Kaan Kalinkarci"
+      ],
+      "teaserimage": "Cranach-Start-Preview.webp"
+    },
+    {
+      "filename": "lubaki_fundu-busch.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Gradie Lubaki Fundu",
+        "Nils Busch"
+      ],
+      "teaserimage": "sd-Startseite_Teaser-LUBAKI_FUNDU-BUSCH.webp"
+    },
+    {
+      "filename": "massa-schaffrinski.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Riccardo Harry Guiseppe Massa",
+        "Alexander Schaffrinski"
+      ],
+      "teaserimage": "massa-schaffrinski-desktop-startseite.webp"
+    },
+    {
+      "filename": "otterbeck-dahm.md",
+      "title": "",
+      "people": [
+
+      ],
+      "teaserimage": ""
+    },
+    {
+      "filename": "palali.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Eylem Palali"
+      ],
+      "teaserimage": "palali-teaser.webp"
+    },
+    {
+      "filename": "parsa-ewert.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Soheb Parsa",
+        "Alina Ewert"
+      ],
+      "teaserimage": "sd-Startseite-Parsa-Ewert.webp"
+    },
+    {
+      "filename": "schaab-selimoglu.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Karina Schaab",
+        "Team"
+      ],
+      "teaserimage": "schaab-selimoglu-teaser.webp"
+    },
+    {
+      "filename": "schindler-stein.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Laura Schindler",
+        "Anna Stein"
+      ],
+      "teaserimage": [
+        "schindler-stein-teaser-image.webp"
+      ]
+    },
+    {
+      "filename": "sukiiaszova-oezdogan.md",
+      "title": "",
+      "people": [
+
+      ],
+      "teaserimage": ""
+    },
+    {
+      "filename": "teo-jahn.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Fabien Jahn",
+        "Mike Teo"
+      ],
+      "teaserimage": "jahn-teo-1cover.webp"
+    },
+    {
+      "filename": "teymoori-steurer.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Artin Teymoori",
+        "Andre Steurer"
+      ],
+      "teaserimage": "Teymoori-Steurer-Teaser.webp"
+    },
+    {
+      "filename": "tuerker-selo.md",
+      "title": "Redesign für den redaktionellen Bereich des Cranach Digital Archive",
+      "people": [
+        "Meryem Selo",
+        "Elif Tuerker"
+      ],
+      "teaserimage": "01-d-startseite-selo-tuerker.webp"
+    }
+  ],
+  "kurzdokus_count": 30,
+  "generated_at": "2025-12-04T17:33:53+01:00"
+}

@@ -1,0 +1,326 @@
+{
+  "id": "sd-2021",
+  "title": "Projekt 2021",
+  "subtitle": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+  "context": "VINCENT&VOLTAIRE",
+  "modul": "Screendesign",
+  "studiengang": "Medieninformatik Ba.",
+  "semester": "Wintersemester 2021/22",
+  "hero": "assets/images/projekt-2021-hero.jpg",
+  "kurzdokus": [
+    {
+      "filename": "Berg-Rosenfeld.md",
+      "title": "Endecker & Stöberfunktion für Vincent & Voltaire",
+      "people": [
+        "Anton Berg",
+        "Jan Rosenfeld"
+      ],
+      "teaserimage": "Berg-Rosenfeld-teaser.webp"
+    },
+    {
+      "filename": "Britz-Myrcik.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Joelle Britz",
+        "Daniel Myrcik"
+      ],
+      "teaserimage": "Britz-Myrcik-teaser.webp"
+    },
+    {
+      "filename": "Calinski-Schadwinkel.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Lea Calinski",
+        "Meliha Schadwinkel"
+      ],
+      "teaserimage": "Calinski-Schadwinkel-Mockup-Header.jpg"
+    },
+    {
+      "filename": "Denissov-Krapp.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Artur Denissov",
+        "Lennard Krapp"
+      ],
+      "teaserimage": "Denissov-Krapp-Teaser.webp"
+    },
+    {
+      "filename": "Erzigkeit-Stein.md",
+      "title": "Template für die Kurzdoku",
+      "people": [
+        "Moritz Erzigkeit",
+        "Jannik Stein"
+      ],
+      "teaserimage": "Erzigkeit-Stein-Übersicht_Desktop.webp"
+    },
+    {
+      "filename": "Grebe-Malgadey.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Lisa Grebe",
+        "Nino Malgadey"
+      ],
+      "teaserimage": "Grebe-Malgadey-Teser-MockUp.webp"
+    },
+    {
+      "filename": "Karakas-Runde.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Orhan Serdar Karakas",
+        "Hendrick Runde"
+      ],
+      "teaserimage": "Notzon-Klein-Header.webp"
+    },
+    {
+      "filename": "Khanian-Allah.md",
+      "title": "Endecker & Stöberfunktion für Vincent & Voltaire",
+      "people": [
+        "Losik Amir Khanian",
+        "Roua Al Dakhel Allah"
+      ],
+      "teaserimage": "Amir_Khanian-Al_Dakhel_Allah-Teaser.webp"
+    },
+    {
+      "filename": "Kowalski-Seibt.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Collin Seibt",
+        "Konstantin Kowalski"
+      ],
+      "teaserimage": "Kowalski-Seibt-Teaser.webp"
+    },
+    {
+      "filename": "Lenneper-Mehlem.md",
+      "title": "Endecker & Stöberfunktion für Vincent & Voltaire",
+      "people": [
+        "Annika Lenneper",
+        "Niklas Mehlem"
+      ],
+      "teaserimage": "Lenneper-Mehlem-Header.webp"
+    },
+    {
+      "filename": "Notzon-Klein.md",
+      "title": "",
+      "people": [
+
+      ],
+      "teaserimage": ""
+    },
+    {
+      "filename": "Osaj-Sabetnia.md",
+      "title": "Erweiterung der «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Alberije Osaj",
+        "Mohammadamin Benjamin Sabetnia"
+      ],
+      "teaserimage": "Osaj-Sabetnia-Teaser.jpg"
+    },
+    {
+      "filename": "Pausch-VanEimeren.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Tim Pausch",
+        "Colin van Eimeren"
+      ],
+      "teaserimage": "Pausch-VanEimeren-teaser.webp"
+    },
+    {
+      "filename": "Reh-Misenko.md",
+      "title": "Erweiterung der «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Richard Reh",
+        "Vassilij Misenko"
+      ],
+      "teaserimage": "Reh-Misenko-Desktop-4.webp"
+    },
+    {
+      "filename": "SINGH-NIENHAUS.md",
+      "title": "Gestaltungskonzepte für „Stöber- und Entdeckerformate“ für VINCENT&VOLTAIRE",
+      "people": [
+        "Prerit Singh",
+        "Sven Nienhaus"
+      ],
+      "teaserimage": "SINGH-NIENHAUS-teaser.webp"
+    },
+    {
+      "filename": "Wiskirchen-Fels.md",
+      "title": "Endecker & Stöberfunktion für Vincent & Voltaire",
+      "people": [
+        "Wiskirchen Rene",
+        "Fels Marvin"
+      ],
+      "teaserimage": "sd-202122-Desktop-Startseite-WISKIRCHEN-FELS.webp"
+    },
+    {
+      "filename": "ban-noah-burgdorf-jens.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Noah Kyeong-Seo Ban",
+        "Jens Burgdorf"
+      ],
+      "teaserimage": "sd-ban-burgdorf-teaser.png.webp"
+    },
+    {
+      "filename": "benjumea.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Maria Paula Benjumea Cañón"
+      ],
+      "teaserimage": "benjumea-teaser.webp"
+    },
+    {
+      "filename": "epackchi-simonis.md",
+      "title": "Erweiterung der Stöber und Entdeckerformate der Online-Buchhandlung VINCENT & VOLTAIRE",
+      "people": [
+        "Arwin Epackchi",
+        "Luca Simonis"
+      ],
+      "teaserimage": "epackchi-simonis-teaser.webp"
+    },
+    {
+      "filename": "henskes-fuhrmann.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Patricia Henskes",
+        "Lisa Fuhrmann"
+      ],
+      "teaserimage": "sd-henskes-patricia-fuhrmann-lisa-ws2122-teaser.webp"
+    },
+    {
+      "filename": "hesse-huynh.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Angelina Hesse",
+        "Justin Huynh"
+      ],
+      "teaserimage": "hesse-huynh-teaser.webp"
+    },
+    {
+      "filename": "hinzer-khemiri.md",
+      "title": "Stöber- und Entdeckerformate für VINCENT & VOLTAIRE",
+      "people": [
+        "Calvin Hinzer",
+        "Karim Khemiri"
+      ],
+      "teaserimage": "hinzer-khemiri-teaser.jpg"
+    },
+    {
+      "filename": "hoehler-nguyen-kurzdoku.md",
+      "title": "Optimierung des Stöber- und Entdeckerformats für VINCENT & VOLTAIRE",
+      "people": [
+        "Tom Höhler",
+        "Tony Nguyen"
+      ],
+      "teaserimage": "hoehler-nguyen-teaser.webp"
+    },
+    {
+      "filename": "hufnagel-hufnagel.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Lukas Hufnagel",
+        "Paul Hufnagel"
+      ],
+      "teaserimage": "hufnagel-hufnagel-VundV-teaser.jpg"
+    },
+    {
+      "filename": "kalaburda-regnery.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Marko Kalaburda",
+        "Florian Regnery"
+      ],
+      "teaserimage": "kalaburda-regnery-teaser.webp"
+    },
+    {
+      "filename": "kim-swann.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Tscho Young Nina Kim",
+        "John Swann"
+      ],
+      "teaserimage": "kim-swann-teaser.webp"
+    },
+    {
+      "filename": "loshaj.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Ylli Loshaj"
+      ],
+      "teaserimage": "sd-202122-teaser-loshaj.webp"
+    },
+    {
+      "filename": "mustermann-beispiel.md",
+      "title": "Template für die Kurzdoku",
+      "people": [
+        "Klaus Mustermann",
+        "Beate Beispiel"
+      ],
+      "teaserimage": "mustermann-beispiel-teaser.jpg"
+    },
+    {
+      "filename": "ngo-zellman.md",
+      "title": "Template für die Kurzdoku",
+      "people": [
+        "Fabian Ngo",
+        "Alexander Zellmann"
+      ],
+      "teaserimage": "ngo-zellmann-teaser.jpg"
+    },
+    {
+      "filename": "pannier-maus.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Marie Pannier",
+        "Zoe Maus"
+      ],
+      "teaserimage": "pannier-maus-Coverflow.webp"
+    },
+    {
+      "filename": "pipper-jolbej.md",
+      "title": "Verbesserung der Stöber- und Entdeckerformate der Online-Buchhandlung Vincent & Voltaire",
+      "people": [
+        "Anton Pipper",
+        "Simon Jolbej"
+      ],
+      "teaserimage": "sd-202122-mockup_3-pipper-jolbej.webp"
+    },
+    {
+      "filename": "sd-202122-kurzdoku-koshan-klassen.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Joash Koshan",
+        "Nick Klassen"
+      ],
+      "teaserimage": "sd-202122-teaser-koshan-klassen.webp"
+    },
+    {
+      "filename": "sd-paris-georg-neufeld-nicole-ws2122.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Georg Paris",
+        "Nicole Neufeld"
+      ],
+      "teaserimage": "sd-paris-neufeld-Mockup-2122.webp"
+    },
+    {
+      "filename": "sd202122-kurzdoku-Pankiv-Zaitsev.md",
+      "title": "Gestaltungskonzept für «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Christian Pankiv",
+        "Anton Zaitsev"
+      ],
+      "teaserimage": "sd-202122-teaser-Pankiv-Zaitsev.webp"
+    },
+    {
+      "filename": "vonScheidt-Issa.md",
+      "title": "Erweiterung der «Stöber- und Entdeckerformate» für VINCENT&VOLTAIRE",
+      "people": [
+        "Alessa von Scheidt",
+        "Leyla Issa"
+      ],
+      "teaserimage": "sd-202122-vonScheidt-Issa-teaser.webp"
+    }
+  ],
+  "kurzdokus_count": 35,
+  "generated_at": "2025-12-04T17:33:53+01:00"
+}

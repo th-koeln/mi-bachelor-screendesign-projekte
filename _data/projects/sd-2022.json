@@ -1,0 +1,214 @@
+{
+  "id": "sd-2022",
+  "title": "Projekt 2022",
+  "subtitle": "Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»",
+  "context": "Cranach Digital Archive (CDA)",
+  "modul": "Screendesign",
+  "studiengang": "Medieninformatik Ba.",
+  "semester": "Wintersemester 2022/23",
+  "hero": "assets/images/projekt-2022.webp",
+  "kurzdokus": [
+    {
+      "filename": "Benaggoune-El-Masoudi.md",
+      "title": "Neue Ansicht «Ortsbezogene Dartstellung der Artefakte» im Cranach Digital Archive",
+      "people": [
+        "Ilias El-Masoudi",
+        "Sekarja Benaggoune"
+      ],
+      "teaserimage": "Benaggoune-El-Masoudi-Teaser.webp"
+    },
+    {
+      "filename": "Calisir-Nikolic.md",
+      "title": "Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»",
+      "people": [
+        "Mila Calisir",
+        "Stefan Nikolic"
+      ],
+      "teaserimage": "Calisir-Nikolic-Teaser.webp"
+    },
+    {
+      "filename": "Drekopf_Ganz_Kurzdoku.md",
+      "title": "Ortsbezogene Darstellung der Artefakte des CDA",
+      "people": [
+        "Mona Drekopf",
+        "Jacqueline Ganz"
+      ],
+      "teaserimage": "Drekopf_Ganz_Teaser.webp"
+    },
+    {
+      "filename": "Engel-Hatzke-Kurzdoku.md",
+      "title": "",
+      "people": [
+
+      ],
+      "teaserimage": ""
+    },
+    {
+      "filename": "Gashi-Ibragimova.md",
+      "title": "Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»",
+      "people": [
+        "Adonisa Gashi",
+        "Madina Ibragimova"
+      ],
+      "teaserimage": "Gashi-Ibragimova-teaser.jpg"
+    },
+    {
+      "filename": "Hayani.md",
+      "title": "Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»",
+      "people": [
+        "Karam Hayani"
+      ],
+      "teaserimage": "Hayani-teaser.webp"
+    },
+    {
+      "filename": "Krivosheev.md",
+      "title": "Gestaltungskonzept \"Bildstandorte\" für \"Cranach Digital Archive\" von Stepan Krivosheev",
+      "people": [
+        "Stepan Krivosheev"
+      ],
+      "teaserimage": "Krivosheev-Teaser.webp"
+    },
+    {
+      "filename": "Luna-Montufar.md",
+      "title": "Cranach Digital Archive “Ortsbezogene Dartstellung der Artefakte”",
+      "people": [
+        "María José Luna Valenzuela",
+        "Javier Montufar Pérez"
+      ],
+      "teaserimage": "Luna-Montufar-teaser.webp"
+    },
+    {
+      "filename": "Mamudi-Schmitgen.md",
+      "title": "Neue Ansicht für das Cranach Digital Archive <<Ortbezogene Darstellung der Artefakte>>",
+      "people": [
+        "Nora Mamudi",
+        "Amelie Schmitgen"
+      ],
+      "teaserimage": "Schmitgen-Mamudi-Teaser.jpg"
+    },
+    {
+      "filename": "Reh-Wiskirchen-Kurzdoku.md",
+      "title": "Ortsbezogene Darstellung von Gemälden für das Cranach Digital Archieve (CDA)",
+      "people": [
+        "Richard Reh",
+        "Rene Wiskirchen"
+      ],
+      "teaserimage": "Reh-Wiskirchen-teaser.webp"
+    },
+    {
+      "filename": "Vuco-Zaric.md",
+      "title": "Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»",
+      "people": [
+        "Paula Vuco",
+        "Zara Zaric"
+      ],
+      "teaserimage": "Vuco-Zaric-Teaser.webp"
+    },
+    {
+      "filename": "altunok-nussbaum.md",
+      "title": "Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»",
+      "people": [
+        "Cansel Altunok",
+        "Vanessa Nussbaum"
+      ],
+      "teaserimage": "altunok-nussbaum-teaser.webp"
+    },
+    {
+      "filename": "brachtendorf-jaik.md",
+      "title": "Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»",
+      "people": [
+        "Clemens Brachtendorf",
+        "Maximilian Jaik"
+      ],
+      "teaserimage": "Desktop_CDA_Standorte_Vollbild_07.webp"
+    },
+    {
+      "filename": "chung-schacht.md",
+      "title": "Umsetzung einer ortsbezogenen Darstellung der Artefakte im Cranach Digital Archive.",
+      "people": [
+        "Sing Mao Chung",
+        "Morris Schacht"
+      ],
+      "teaserimage": "chung-schacht-desktop-1.webp"
+    },
+    {
+      "filename": "goecen-witscher-Kurzdoku.md",
+      "title": "Gestaltungskonzept für «Ortsbezogene Dartstellung der Artefakte» für das CRANACH DIGITAL ARCHIVE",
+      "people": [
+        "Hannah Witscher",
+        "Rojin Göcen"
+      ],
+      "teaserimage": "sd-einstiegsseite-desktop-goecen-witscher.jpg"
+    },
+    {
+      "filename": "hesse.md",
+      "title": "Funktionserweiterung «Bildstandorte anzeigen» im Cranach Digital Archive",
+      "people": [
+        "Manuel Hesse"
+      ],
+      "teaserimage": "hesse-sd-01-teaser.webp"
+    },
+    {
+      "filename": "koeppen-martinez-kurzdokumentation.md",
+      "title": "",
+      "people": [
+
+      ],
+      "teaserimage": ""
+    },
+    {
+      "filename": "kolahi-khamkaew.md",
+      "title": "Neue Ansicht für das Cranach Digital Archive <<Ortbezogene Darstellung der Artefakte>>",
+      "people": [
+        "Elahe Kolahi",
+        "Phithaya Khamkaew"
+      ],
+      "teaserimage": "kolahi-khamkaew-teaser.webp"
+    },
+    {
+      "filename": "lang-krenz.md",
+      "title": "Kurzdoku Screendesign Projekt 22/23",
+      "people": [
+        "Paul Lang",
+        "Bogdan Krenz"
+      ],
+      "teaserimage": "lang-krenz-teaser.webp"
+    },
+    {
+      "filename": "meisenhelter-launer.md",
+      "title": "",
+      "people": [
+
+      ],
+      "teaserimage": ""
+    },
+    {
+      "filename": "penner-strebinger.md",
+      "title": "Neue Ansicht für das Cranach Digital Archive — “Ortsbezogene Dartstellung der Artefakte”​",
+      "people": [
+        "Justin Penner",
+        "Paul Strebinger"
+      ],
+      "teaserimage": "penner-strebinger-teaser.jpg"
+    },
+    {
+      "filename": "pepeoglu-rudnytska.md",
+      "title": "",
+      "people": [
+
+      ],
+      "teaserimage": ""
+    },
+    {
+      "filename": "sd-kurzdokumentation-breidbach-maurer.md",
+      "title": "Neue Ansicht für das Cranach Digital Archive «Ortsbezogene Dartstellung der Artefakte»",
+      "people": [
+        "Angelina Maurer",
+        "Ines Breidbach"
+      ],
+      "teaserimage": "sd-teaser-breidbach-maurer.webp"
+    }
+  ],
+  "kurzdokus_count": 23,
+  "generated_at": "2025-12-04T17:33:53+01:00"
+}
