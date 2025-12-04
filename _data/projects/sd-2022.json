@@ -7,7 +7,7 @@
   "studiengang": "Medieninformatik Ba.",
   "semester": "Wintersemester 2022/23",
   "hero": "assets/images/projekt-2022.webp",
-  "excerpt": "Das diesjährige Projekt dreht sich um das Cranach Digital Archive\n          (CDA),\n        eine Initiative der Stiftung Museum Kunstpalast, Düsseldorf und der Technischen Hochschule Köln in\n        Zusammenarbeit mit über 270 Museen, Forschungseinrichtungen und Kirchengemeinden in 30 Ländern, geförd...",
+  "excerpt": "Das diesjährige Projekt dreht sich um das Cranach Digital Archive\n          (CDA),\n        eine Initiative der Stiftung Museum Kunstpalast, Düsseldorf und der Technischen Hochschule Köln in\n        Zusammenarbeit mit über 270 Museen, Forschungseinrichtungen und Kirchengemeinden in 30 Ländern, gefördert durch\n        die Andrew W. Mellon Foundation.",
   "kurzdokus": [
     {
       "filename": "Benaggoune-El-Masoudi.md",
@@ -234,5 +234,5 @@
     }
   ],
   "kurzdokus_count": 23,
-  "generated_at": "2025-12-04T18:21:01+01:00"
+  "generated_at": "2025-12-04T18:57:29+01:00"
 }

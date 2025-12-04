@@ -79,9 +79,8 @@ module Jekyll
         else
           excerpt = body.strip.split("\n\n").first || ''
         end
-        # Remove HTML tags and truncate
-        excerpt = excerpt.gsub(/<[^>]*>/, '').strip
-        excerpt.length > 300 ? excerpt[0...300] + '...' : excerpt
+        # Remove HTML tags
+        excerpt.gsub(/<[^>]*>/, '').strip
       else
         ''
       end

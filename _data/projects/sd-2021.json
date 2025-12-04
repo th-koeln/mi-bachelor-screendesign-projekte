@@ -7,7 +7,7 @@
   "studiengang": "Medieninformatik Ba.",
   "semester": "Wintersemester 2021/22",
   "hero": "assets/images/projekt-2021-hero.jpg",
-  "excerpt": "Den Projektkontext für das diesjährige Screendesign Projekt stellt\n        VINCENT&VOLTAIRE, eine\n        inhaberin-geführte, unabhängige, female-founded Online-Buchhandlung mit\n        Blog und kuratierter Buchauswahl. Das analoge Buch fungiert beim StartUp\n        aus Köln als Kunstobjekt. Die Buc...",
+  "excerpt": "Den Projektkontext für das diesjährige Screendesign Projekt stellt\n        VINCENT&VOLTAIRE, eine\n        inhaberin-geführte, unabhängige, female-founded Online-Buchhandlung mit\n        Blog und kuratierter Buchauswahl. Das analoge Buch fungiert beim StartUp\n        aus Köln als Kunstobjekt. Die Buchauswahl wird sorgfältig kuratiert und\n        die ausgewählten Bücher werden auf Themenseiten porträtiert. Der\n        klassische Buchtisch aus stationären Buchhandlungen wird so\n        digital nachempfunden.",
   "kurzdokus": [
     {
       "filename": "Berg-Rosenfeld.md",
@@ -358,5 +358,5 @@
     }
   ],
   "kurzdokus_count": 35,
-  "generated_at": "2025-12-04T18:21:01+01:00"
+  "generated_at": "2025-12-04T18:57:29+01:00"
 }
