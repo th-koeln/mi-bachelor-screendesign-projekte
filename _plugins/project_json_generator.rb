@@ -30,6 +30,9 @@ module Jekyll
           # Get kurzdokus for this project
           kurzdokus = get_project_kurzdokus(kurzdokus_dir, project_id)
 
+          # Extract excerpt from project file
+          project_excerpt = extract_excerpt(project_file)
+
           # Create project JSON
           project_json = {
             'id' => project_id,
@@ -40,6 +43,7 @@ module Jekyll
             'studiengang' => project_data['studiengang'] || '',
             'semester' => project_data['semester'] || '',
             'hero' => project_data['hero'] || '',
+            'excerpt' => project_excerpt,
             'kurzdokus' => kurzdokus,
             'kurzdokus_count' => kurzdokus.length,
             'generated_at' => Time.now.iso8601
@@ -56,6 +60,25 @@ module Jekyll
     end
 
     private
+
+    def extract_excerpt(file_path)
+      content = File.read(file_path)
+      # Remove frontmatter
+      if content =~ /^---\n(.*?)\n---\n(.*)/m
+        body = $2
+        # Extract first paragraph (text before first <p> closing tag or first double newline)
+        if body =~ /<p[^>]*>(.*?)<\/p>/m
+          excerpt = $1.strip
+        else
+          excerpt = body.strip.split("\n\n").first || ''
+        end
+        # Remove HTML tags and truncate
+        excerpt = excerpt.gsub(/<[^>]*>/, '').strip
+        excerpt.length > 300 ? excerpt[0...300] + '...' : excerpt
+      else
+        ''
+      end
+    end
 
     def parse_frontmatter(file_path)
       content = File.read(file_path)

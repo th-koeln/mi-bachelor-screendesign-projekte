@@ -7,6 +7,7 @@
   "studiengang": "Medieninformatik Ba.",
   "semester": "Wintersemester 2023/24",
   "hero": "assets/images/projekt-2023-bunt.jpg",
+  "excerpt": "In der Arbeitswelt dominieren Projekte den Alltag. Das Hochschulstudium hat die Aufgabe, Studierende gezielt\n        auf diese Anforderungen vorzubereiten. Durch die konsequente Integration von Projekten in die Lehre ermöglichen\n        wir unseren Studierenden bereits während ihres Studiums in zahl...",
   "kurzdokus": [
     {
       "filename": "Anhalt-Dueck.md",
@@ -177,5 +178,5 @@
     }
   ],
   "kurzdokus_count": 19,
-  "generated_at": "2025-12-04T17:49:30+01:00"
+  "generated_at": "2025-12-04T17:58:35+01:00"
 }
