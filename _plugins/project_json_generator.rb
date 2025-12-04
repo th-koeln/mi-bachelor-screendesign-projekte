@@ -1,5 +1,6 @@
 require 'yaml'
 require 'fileutils'
+require 'json'
 
 module Jekyll
   class ProjectJsonGenerator < Generator
@@ -7,6 +8,7 @@ module Jekyll
     priority :high
 
     def generate(site)
+      @site = site
       projects_dir = File.join(site.source, '_projekte')
       kurzdokus_dir = File.join(site.source, '_kurzdokus')
       output_dir = File.join(site.source, '_data', 'projects')
@@ -43,7 +45,7 @@ module Jekyll
             'generated_at' => Time.now.iso8601
           }
 
-          # Write JSON file
+          # Write JSON file to _data
           output_file = File.join(output_dir, "#{project_id}.json")
           File.write(output_file, JSON.pretty_generate(project_json))
           Jekyll.logger.info "✅ Generated #{output_file} (#{kurzdokus.length} kurzdokus)"
@@ -89,6 +91,21 @@ module Jekyll
       end
 
       kurzdokus
+    end
+  end
+
+  # Hook to copy JSON files to _site after build
+  Hooks.register :site, :post_write do |site|
+    source_dir = File.join(site.source, '_data', 'projects')
+    dest_dir = File.join(site.dest, '_data', 'projects')
+
+    if Dir.exist?(source_dir)
+      FileUtils.mkdir_p(dest_dir)
+      Dir.glob(File.join(source_dir, '*.json')).each do |json_file|
+        dest_file = File.join(dest_dir, File.basename(json_file))
+        FileUtils.copy_file(json_file, dest_file)
+        Jekyll.logger.info "📦 Copied #{File.basename(json_file)} to _site"
+      end
     end
   end
 end
