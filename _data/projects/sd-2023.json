@@ -17,7 +17,7 @@
         "Daniel Dück"
       ],
       "teaserimage": "Anhalt-Dueck-Teaser.webp",
-      "url": "/sd-2023/anhalt-dueck/"
+      "url": "/sd-2023/Anhalt-Dueck/"
     },
     {
       "filename": "Durukan-Gielen.md",
@@ -27,7 +27,7 @@
         "Sebastian Gielen-Pereira"
       ],
       "teaserimage": "Durukan-Gielen-teaserimage.webp",
-      "url": "/sd-2023/durukan-gielen/"
+      "url": "/sd-2023/Durukan-Gielen/"
     },
     {
       "filename": "ElFraygui-Kellner.md",
@@ -37,7 +37,7 @@
         "Maximilian Kellner"
       ],
       "teaserimage": "El-Fraygui-Kellner-teaser.webp",
-      "url": "/sd-2023/elfraygui-kellner/"
+      "url": "/sd-2023/ElFraygui-Kellner/"
     },
     {
       "filename": "Fehrenbacher-Storm.md",
@@ -47,7 +47,7 @@
         "Jesaja Storm"
       ],
       "teaserimage": "Fehrenbacher-Storm-tablet-5.webp",
-      "url": "/sd-2023/fehrenbacher-storm/"
+      "url": "/sd-2023/Fehrenbacher-Storm/"
     },
     {
       "filename": "Feldmann_Dedy.md",
@@ -57,7 +57,7 @@
         "Christian Dedy"
       ],
       "teaserimage": "feldmann_dedy_teaser.webp",
-      "url": "/sd-2023/feldmann_dedy/"
+      "url": "/sd-2023/Feldmann_Dedy/"
     },
     {
       "filename": "Irmscher_Korte.md",
@@ -66,7 +66,7 @@
 
       ],
       "teaserimage": "",
-      "url": "/sd-2023/irmscher_korte/"
+      "url": "/sd-2023/Irmscher_Korte/"
     },
     {
       "filename": "Runde.md",
@@ -75,7 +75,7 @@
         "Hendrik Runde"
       ],
       "teaserimage": "sd-TeaserBild-Runde.webp",
-      "url": "/sd-2024/runde/"
+      "url": "/sd-2024/Runde/"
     },
     {
       "filename": "Sonnenberg-He.md",
@@ -85,7 +85,7 @@
         "Chenghua He"
       ],
       "teaserimage": "Sonnenberg-He-Teaser.webp",
-      "url": "/sd-2023/sonnenberg-he/"
+      "url": "/sd-2023/Sonnenberg-He/"
     },
     {
       "filename": "Walsh-Merzouk.md",
@@ -95,7 +95,7 @@
         "Amin Merzouk"
       ],
       "teaserimage": "Walsh-Merzouk-Teaser.webp",
-      "url": "/sd-2023/walsh-merzouk/"
+      "url": "/sd-2023/Walsh-Merzouk/"
     },
     {
       "filename": "bernhardt_diekmann.md",
@@ -175,7 +175,7 @@
         "Tom Küper"
       ],
       "teaserimage": "lindek-kueper-desktop-1.webp",
-      "url": "/sd-2023/sd-lindek-kueper/"
+      "url": "/sd-2023/sd-Lindek-Kueper/"
     },
     {
       "filename": "sd-kurzdoku-fels.md",
@@ -197,5 +197,5 @@
     }
   ],
   "kurzdokus_count": 19,
-  "generated_at": "2025-12-04T18:10:33+01:00"
+  "generated_at": "2025-12-04T18:21:01+01:00"
 }

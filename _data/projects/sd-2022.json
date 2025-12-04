@@ -17,7 +17,7 @@
         "Sekarja Benaggoune"
       ],
       "teaserimage": "Benaggoune-El-Masoudi-Teaser.webp",
-      "url": "/sd-2022/benaggoune-el-masoudi/"
+      "url": "/sd-2022/Benaggoune-El-Masoudi/"
     },
     {
       "filename": "Calisir-Nikolic.md",
@@ -27,7 +27,7 @@
         "Stefan Nikolic"
       ],
       "teaserimage": "Calisir-Nikolic-Teaser.webp",
-      "url": "/sd-2022/calisir-nikolic/"
+      "url": "/sd-2022/Calisir-Nikolic/"
     },
     {
       "filename": "Drekopf_Ganz_Kurzdoku.md",
@@ -37,7 +37,7 @@
         "Jacqueline Ganz"
       ],
       "teaserimage": "Drekopf_Ganz_Teaser.webp",
-      "url": "/sd-2022/drekopf_ganz_kurzdoku/"
+      "url": "/sd-2022/Drekopf_Ganz_Kurzdoku/"
     },
     {
       "filename": "Engel-Hatzke-Kurzdoku.md",
@@ -46,7 +46,7 @@
 
       ],
       "teaserimage": "",
-      "url": "/sd-2022/engel-hatzke-kurzdoku/"
+      "url": "/sd-2022/Engel-Hatzke-Kurzdoku/"
     },
     {
       "filename": "Gashi-Ibragimova.md",
@@ -56,7 +56,7 @@
         "Madina Ibragimova"
       ],
       "teaserimage": "Gashi-Ibragimova-teaser.jpg",
-      "url": "/sd-2022/gashi-ibragimova/"
+      "url": "/sd-2022/Gashi-Ibragimova/"
     },
     {
       "filename": "Hayani.md",
@@ -65,7 +65,7 @@
         "Karam Hayani"
       ],
       "teaserimage": "Hayani-teaser.webp",
-      "url": "/sd-2022/hayani/"
+      "url": "/sd-2022/Hayani/"
     },
     {
       "filename": "Krivosheev.md",
@@ -74,7 +74,7 @@
         "Stepan Krivosheev"
       ],
       "teaserimage": "Krivosheev-Teaser.webp",
-      "url": "/sd-2022/krivosheev/"
+      "url": "/sd-2022/Krivosheev/"
     },
     {
       "filename": "Luna-Montufar.md",
@@ -84,7 +84,7 @@
         "Javier Montufar Pérez"
       ],
       "teaserimage": "Luna-Montufar-teaser.webp",
-      "url": "/sd-2022/luna-montufar/"
+      "url": "/sd-2022/Luna-Montufar/"
     },
     {
       "filename": "Mamudi-Schmitgen.md",
@@ -94,7 +94,7 @@
         "Amelie Schmitgen"
       ],
       "teaserimage": "Schmitgen-Mamudi-Teaser.jpg",
-      "url": "/sd-2022/mamudi-schmitgen/"
+      "url": "/sd-2022/Mamudi-Schmitgen/"
     },
     {
       "filename": "Reh-Wiskirchen-Kurzdoku.md",
@@ -104,7 +104,7 @@
         "Rene Wiskirchen"
       ],
       "teaserimage": "Reh-Wiskirchen-teaser.webp",
-      "url": "/sd-2022/reh-wiskirchen-kurzdoku/"
+      "url": "/sd-2022/Reh-Wiskirchen-Kurzdoku/"
     },
     {
       "filename": "Vuco-Zaric.md",
@@ -114,7 +114,7 @@
         "Zara Zaric"
       ],
       "teaserimage": "Vuco-Zaric-Teaser.webp",
-      "url": "/sd-2022/vuco-zaric/"
+      "url": "/sd-2022/Vuco-Zaric/"
     },
     {
       "filename": "altunok-nussbaum.md",
@@ -154,7 +154,7 @@
         "Rojin Göcen"
       ],
       "teaserimage": "sd-einstiegsseite-desktop-goecen-witscher.jpg",
-      "url": "/sd-2022/goecen-witscher-kurzdoku/"
+      "url": "/sd-2022/goecen-witscher-Kurzdoku/"
     },
     {
       "filename": "hesse.md",
@@ -234,5 +234,5 @@
     }
   ],
   "kurzdokus_count": 23,
-  "generated_at": "2025-12-04T18:10:33+01:00"
+  "generated_at": "2025-12-04T18:21:01+01:00"
 }

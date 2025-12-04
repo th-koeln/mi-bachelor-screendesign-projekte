@@ -110,14 +110,14 @@ module Jekyll
         begin
           frontmatter = parse_frontmatter(md_file)
           filename = File.basename(md_file)
-          url = kurzdoku_url_map[filename] || "/#{project_id}/#{File.basename(md_file, '.md').downcase}/"
+          url = kurzdoku_url_map[filename] || "/#{project_id}/#{File.basename(md_file, '.md')}/"
           
           kurzdokus << {
             'filename' => filename,
             'title' => frontmatter['title'] || '',
             'people' => frontmatter['people'] || [],
             'teaserimage' => frontmatter['teaserimage'] || '',
-            'url' => url.downcase
+            'url' => url
           }
         rescue StandardError => e
           Jekyll.logger.warn "Error parsing #{md_file}: #{e.message}"

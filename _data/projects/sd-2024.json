@@ -17,7 +17,7 @@
         "Michelle Marie Nietzschmann"
       ],
       "teaserimage": "Nietzschmann-Ak-teaser.webp",
-      "url": "/sd-2024/ak-nietzschmann/"
+      "url": "/sd-2024/Ak-Nietzschmann/"
     },
     {
       "filename": "Aklil-KamdoumNankam.md",
@@ -27,7 +27,7 @@
         "Liya Aklil"
       ],
       "teaserimage": "Aklil-KamdoumNankam-Header-Bild.webp",
-      "url": "/sd-2024/aklil-kamdoumnankam/"
+      "url": "/sd-2024/Aklil-KamdoumNankam/"
     },
     {
       "filename": "Axt-Huynh.md",
@@ -37,7 +37,7 @@
         "Dustin Huynh"
       ],
       "teaserimage": "Axt-Huynh-Desktop_Teaser.webp",
-      "url": "/sd-2024/axt-huynh/"
+      "url": "/sd-2024/Axt-Huynh/"
     },
     {
       "filename": "Bao-Mueller.md",
@@ -47,7 +47,7 @@
         "Felix Mueller"
       ],
       "teaserimage": "sd-Bao-Mueller-Teaser.webp",
-      "url": "/sd-2024/bao-mueller/"
+      "url": "/sd-2024/Bao-Mueller/"
     },
     {
       "filename": "Eroglu-Oelmann.md",
@@ -57,7 +57,7 @@
         "Nico Oelmann"
       ],
       "teaserimage": "Eroglu-Oelmann-Teaser.webp",
-      "url": "/sd-2024/eroglu-oelmann/"
+      "url": "/sd-2024/Eroglu-Oelmann/"
     },
     {
       "filename": "Runde.md",
@@ -66,7 +66,7 @@
         "Hendrik Runde"
       ],
       "teaserimage": "Runde-Teaser.webp",
-      "url": "/sd-2024/runde/"
+      "url": "/sd-2024/Runde/"
     },
     {
       "filename": "Tekcan.md",
@@ -75,7 +75,7 @@
         "Melisa Tekcan"
       ],
       "teaserimage": "Tekcan-teaser.webp",
-      "url": "/sd-2024/tekcan/"
+      "url": "/sd-2024/Tekcan/"
     },
     {
       "filename": "Zecha-Meisenhelter-Kurzdokumentation.md",
@@ -85,7 +85,7 @@
         "Rina Meisenhelter"
       ],
       "teaserimage": "Zecha-Meisenhelter-Teaser.webp",
-      "url": "/sd-2024/zecha-meisenhelter-kurzdokumentation/"
+      "url": "/sd-2024/Zecha-Meisenhelter-Kurzdokumentation/"
     },
     {
       "filename": "akkus-schadt.md",
@@ -115,7 +115,7 @@
         "Robin Lou Esch"
       ],
       "teaserimage": "sd-startseite-desktop-1-daliranFirouz-esch.webp",
-      "url": "/sd-2024/daliranfirouz-esch/"
+      "url": "/sd-2024/daliranFirouz-esch/"
     },
     {
       "filename": "eigenseer-mohamed.md",
@@ -307,5 +307,5 @@
     }
   ],
   "kurzdokus_count": 30,
-  "generated_at": "2025-12-04T18:10:33+01:00"
+  "generated_at": "2025-12-04T18:21:01+01:00"
 }

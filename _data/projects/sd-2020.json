@@ -17,7 +17,7 @@
         "Domenic Wolf"
       ],
       "teaserimage": "Caltabiano-Wolf-teaser.webp",
-      "url": "/sd-2020/caltabiano-wolf/"
+      "url": "/sd-2020/Caltabiano-Wolf/"
     },
     {
       "filename": "Crisci-Johne.md",
@@ -27,7 +27,7 @@
         "Paul Johne"
       ],
       "teaserimage": "Crisci-Johne-teaser.webp",
-      "url": "/sd-2020/crisci-johne/"
+      "url": "/sd-2020/Crisci-Johne/"
     },
     {
       "filename": "Haering-Hammer.md",
@@ -37,7 +37,7 @@
         "Marius Hammer"
       ],
       "teaserimage": "Haering-Hammer-Teaser.webp",
-      "url": "/sd-2020/haering-hammer/"
+      "url": "/sd-2020/Haering-Hammer/"
     },
     {
       "filename": "Tadesse-Engelbertz.md",
@@ -47,7 +47,7 @@
         "Esther Engelbertz"
       ],
       "teaserimage": "tadesse-engelbertz-teaser.webp",
-      "url": "/sd-2020/tadesse-engelbertz/"
+      "url": "/sd-2020/Tadesse-Engelbertz/"
     },
     {
       "filename": "Tschitschke-Niggemann.md",
@@ -56,7 +56,7 @@
 
       ],
       "teaserimage": "",
-      "url": "/sd-2020/tschitschke-niggemann/"
+      "url": "/sd-2020/Tschitschke-Niggemann/"
     },
     {
       "filename": "Ziegler-Sienz.md",
@@ -66,7 +66,7 @@
         "Yasmin Ziegler"
       ],
       "teaserimage": "Ziegler-Sienz-teaser.jpeg",
-      "url": "/sd-2020/ziegler-sienz/"
+      "url": "/sd-2020/Ziegler-Sienz/"
     },
     {
       "filename": "brenner-rogowski.md",
@@ -293,9 +293,9 @@
         "Oliver Russmann"
       ],
       "teaserimage": "voß-busch-russmann-teaser.webp",
-      "url": "/sd-2020/vo%c3%9f-busch-russmann/"
+      "url": "/sd-2020/vo%C3%9F-busch-russmann/"
     }
   ],
   "kurzdokus_count": 29,
-  "generated_at": "2025-12-04T18:10:33+01:00"
+  "generated_at": "2025-12-04T18:21:01+01:00"
 }
