@@ -16,7 +16,8 @@
         "Ilias El-Masoudi",
         "Sekarja Benaggoune"
       ],
-      "teaserimage": "Benaggoune-El-Masoudi-Teaser.webp"
+      "teaserimage": "Benaggoune-El-Masoudi-Teaser.webp",
+      "url": "/sd-2022/benaggoune-el-masoudi/"
     },
     {
       "filename": "Calisir-Nikolic.md",
@@ -25,7 +26,8 @@
         "Mila Calisir",
         "Stefan Nikolic"
       ],
-      "teaserimage": "Calisir-Nikolic-Teaser.webp"
+      "teaserimage": "Calisir-Nikolic-Teaser.webp",
+      "url": "/sd-2022/calisir-nikolic/"
     },
     {
       "filename": "Drekopf_Ganz_Kurzdoku.md",
@@ -34,7 +36,8 @@
         "Mona Drekopf",
         "Jacqueline Ganz"
       ],
-      "teaserimage": "Drekopf_Ganz_Teaser.webp"
+      "teaserimage": "Drekopf_Ganz_Teaser.webp",
+      "url": "/sd-2022/drekopf_ganz_kurzdoku/"
     },
     {
       "filename": "Engel-Hatzke-Kurzdoku.md",
@@ -42,7 +45,8 @@
       "people": [
 
       ],
-      "teaserimage": ""
+      "teaserimage": "",
+      "url": "/sd-2022/engel-hatzke-kurzdoku/"
     },
     {
       "filename": "Gashi-Ibragimova.md",
@@ -51,7 +55,8 @@
         "Adonisa Gashi",
         "Madina Ibragimova"
       ],
-      "teaserimage": "Gashi-Ibragimova-teaser.jpg"
+      "teaserimage": "Gashi-Ibragimova-teaser.jpg",
+      "url": "/sd-2022/gashi-ibragimova/"
     },
     {
       "filename": "Hayani.md",
@@ -59,7 +64,8 @@
       "people": [
         "Karam Hayani"
       ],
-      "teaserimage": "Hayani-teaser.webp"
+      "teaserimage": "Hayani-teaser.webp",
+      "url": "/sd-2022/hayani/"
     },
     {
       "filename": "Krivosheev.md",
@@ -67,7 +73,8 @@
       "people": [
         "Stepan Krivosheev"
       ],
-      "teaserimage": "Krivosheev-Teaser.webp"
+      "teaserimage": "Krivosheev-Teaser.webp",
+      "url": "/sd-2022/krivosheev/"
     },
     {
       "filename": "Luna-Montufar.md",
@@ -76,7 +83,8 @@
         "María José Luna Valenzuela",
         "Javier Montufar Pérez"
       ],
-      "teaserimage": "Luna-Montufar-teaser.webp"
+      "teaserimage": "Luna-Montufar-teaser.webp",
+      "url": "/sd-2022/luna-montufar/"
     },
     {
       "filename": "Mamudi-Schmitgen.md",
@@ -85,7 +93,8 @@
         "Nora Mamudi",
         "Amelie Schmitgen"
       ],
-      "teaserimage": "Schmitgen-Mamudi-Teaser.jpg"
+      "teaserimage": "Schmitgen-Mamudi-Teaser.jpg",
+      "url": "/sd-2022/mamudi-schmitgen/"
     },
     {
       "filename": "Reh-Wiskirchen-Kurzdoku.md",
@@ -94,7 +103,8 @@
         "Richard Reh",
         "Rene Wiskirchen"
       ],
-      "teaserimage": "Reh-Wiskirchen-teaser.webp"
+      "teaserimage": "Reh-Wiskirchen-teaser.webp",
+      "url": "/sd-2022/reh-wiskirchen-kurzdoku/"
     },
     {
       "filename": "Vuco-Zaric.md",
@@ -103,7 +113,8 @@
         "Paula Vuco",
         "Zara Zaric"
       ],
-      "teaserimage": "Vuco-Zaric-Teaser.webp"
+      "teaserimage": "Vuco-Zaric-Teaser.webp",
+      "url": "/sd-2022/vuco-zaric/"
     },
     {
       "filename": "altunok-nussbaum.md",
@@ -112,7 +123,8 @@
         "Cansel Altunok",
         "Vanessa Nussbaum"
       ],
-      "teaserimage": "altunok-nussbaum-teaser.webp"
+      "teaserimage": "altunok-nussbaum-teaser.webp",
+      "url": "/sd-2022/altunok-nussbaum/"
     },
     {
       "filename": "brachtendorf-jaik.md",
@@ -121,7 +133,8 @@
         "Clemens Brachtendorf",
         "Maximilian Jaik"
       ],
-      "teaserimage": "Desktop_CDA_Standorte_Vollbild_07.webp"
+      "teaserimage": "Desktop_CDA_Standorte_Vollbild_07.webp",
+      "url": "/sd-2022/brachtendorf-jaik/"
     },
     {
       "filename": "chung-schacht.md",
@@ -130,7 +143,8 @@
         "Sing Mao Chung",
         "Morris Schacht"
       ],
-      "teaserimage": "chung-schacht-desktop-1.webp"
+      "teaserimage": "chung-schacht-desktop-1.webp",
+      "url": "/sd-2022/chung-schacht/"
     },
     {
       "filename": "goecen-witscher-Kurzdoku.md",
@@ -139,7 +153,8 @@
         "Hannah Witscher",
         "Rojin Göcen"
       ],
-      "teaserimage": "sd-einstiegsseite-desktop-goecen-witscher.jpg"
+      "teaserimage": "sd-einstiegsseite-desktop-goecen-witscher.jpg",
+      "url": "/sd-2022/goecen-witscher-kurzdoku/"
     },
     {
       "filename": "hesse.md",
@@ -147,7 +162,8 @@
       "people": [
         "Manuel Hesse"
       ],
-      "teaserimage": "hesse-sd-01-teaser.webp"
+      "teaserimage": "hesse-sd-01-teaser.webp",
+      "url": "/sd-2022/hesse/"
     },
     {
       "filename": "koeppen-martinez-kurzdokumentation.md",
@@ -155,7 +171,8 @@
       "people": [
 
       ],
-      "teaserimage": ""
+      "teaserimage": "",
+      "url": "/sd-2022/koeppen-martinez-kurzdokumentation/"
     },
     {
       "filename": "kolahi-khamkaew.md",
@@ -164,7 +181,8 @@
         "Elahe Kolahi",
         "Phithaya Khamkaew"
       ],
-      "teaserimage": "kolahi-khamkaew-teaser.webp"
+      "teaserimage": "kolahi-khamkaew-teaser.webp",
+      "url": "/sd-2022/kolahi-khamkaew/"
     },
     {
       "filename": "lang-krenz.md",
@@ -173,7 +191,8 @@
         "Paul Lang",
         "Bogdan Krenz"
       ],
-      "teaserimage": "lang-krenz-teaser.webp"
+      "teaserimage": "lang-krenz-teaser.webp",
+      "url": "/sd-2022/lang-krenz/"
     },
     {
       "filename": "meisenhelter-launer.md",
@@ -181,7 +200,8 @@
       "people": [
 
       ],
-      "teaserimage": ""
+      "teaserimage": "",
+      "url": "/sd-2022/meisenhelter-launer/"
     },
     {
       "filename": "penner-strebinger.md",
@@ -190,7 +210,8 @@
         "Justin Penner",
         "Paul Strebinger"
       ],
-      "teaserimage": "penner-strebinger-teaser.jpg"
+      "teaserimage": "penner-strebinger-teaser.jpg",
+      "url": "/sd-2022/penner-strebinger/"
     },
     {
       "filename": "pepeoglu-rudnytska.md",
@@ -198,7 +219,8 @@
       "people": [
 
       ],
-      "teaserimage": ""
+      "teaserimage": "",
+      "url": "/sd-2022/pepeoglu-rudnytska/"
     },
     {
       "filename": "sd-kurzdokumentation-breidbach-maurer.md",
@@ -207,9 +229,10 @@
         "Angelina Maurer",
         "Ines Breidbach"
       ],
-      "teaserimage": "sd-teaser-breidbach-maurer.webp"
+      "teaserimage": "sd-teaser-breidbach-maurer.webp",
+      "url": "/sd-2022/sd-kurzdokumentation-breidbach-maurer/"
     }
   ],
   "kurzdokus_count": 23,
-  "generated_at": "2025-12-04T17:58:35+01:00"
+  "generated_at": "2025-12-04T18:10:33+01:00"
 }

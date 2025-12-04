@@ -16,6 +16,13 @@ module Jekyll
       # Create output directory if it doesn't exist
       FileUtils.mkdir_p(output_dir)
 
+      # Build kurzdoku URL map from site.kurzdokus
+      kurzdoku_url_map = {}
+      site.collections['kurzdokus'].docs.each do |doc|
+        filename = File.basename(doc.path)
+        kurzdoku_url_map[filename] = doc.url
+      end
+
       # Get all project files
       project_files = Dir.glob(File.join(projects_dir, '*.html')).sort
 
@@ -28,7 +35,7 @@ module Jekyll
           project_data = parse_frontmatter(project_file)
 
           # Get kurzdokus for this project
-          kurzdokus = get_project_kurzdokus(kurzdokus_dir, project_id)
+          kurzdokus = get_project_kurzdokus(kurzdokus_dir, project_id, kurzdoku_url_map)
 
           # Extract excerpt from project file
           project_excerpt = extract_excerpt(project_file)
@@ -90,7 +97,7 @@ module Jekyll
       end
     end
 
-    def get_project_kurzdokus(kurzdokus_dir, project_id)
+    def get_project_kurzdokus(kurzdokus_dir, project_id, kurzdoku_url_map = {})
       kurzdoku_dir = File.join(kurzdokus_dir, project_id)
       kurzdokus = []
 
@@ -102,11 +109,15 @@ module Jekyll
       md_files.each do |md_file|
         begin
           frontmatter = parse_frontmatter(md_file)
+          filename = File.basename(md_file)
+          url = kurzdoku_url_map[filename] || "/#{project_id}/#{File.basename(md_file, '.md').downcase}/"
+          
           kurzdokus << {
-            'filename' => File.basename(md_file),
+            'filename' => filename,
             'title' => frontmatter['title'] || '',
             'people' => frontmatter['people'] || [],
-            'teaserimage' => frontmatter['teaserimage'] || ''
+            'teaserimage' => frontmatter['teaserimage'] || '',
+            'url' => url.downcase
           }
         rescue StandardError => e
           Jekyll.logger.warn "Error parsing #{md_file}: #{e.message}"

@@ -16,7 +16,8 @@
         "Anton Berg",
         "Jan Rosenfeld"
       ],
-      "teaserimage": "Berg-Rosenfeld-teaser.webp"
+      "teaserimage": "Berg-Rosenfeld-teaser.webp",
+      "url": "/sd-2021/berg-rosenfeld/"
     },
     {
       "filename": "Britz-Myrcik.md",
@@ -25,7 +26,8 @@
         "Joelle Britz",
         "Daniel Myrcik"
       ],
-      "teaserimage": "Britz-Myrcik-teaser.webp"
+      "teaserimage": "Britz-Myrcik-teaser.webp",
+      "url": "/sd-2021/britz-myrcik/"
     },
     {
       "filename": "Calinski-Schadwinkel.md",
@@ -34,7 +36,8 @@
         "Lea Calinski",
         "Meliha Schadwinkel"
       ],
-      "teaserimage": "Calinski-Schadwinkel-Mockup-Header.jpg"
+      "teaserimage": "Calinski-Schadwinkel-Mockup-Header.jpg",
+      "url": "/sd-2021/calinski-schadwinkel/"
     },
     {
       "filename": "Denissov-Krapp.md",
@@ -43,7 +46,8 @@
         "Artur Denissov",
         "Lennard Krapp"
       ],
-      "teaserimage": "Denissov-Krapp-Teaser.webp"
+      "teaserimage": "Denissov-Krapp-Teaser.webp",
+      "url": "/sd-2021/denissov-krapp/"
     },
     {
       "filename": "Erzigkeit-Stein.md",
@@ -52,7 +56,8 @@
         "Moritz Erzigkeit",
         "Jannik Stein"
       ],
-      "teaserimage": "Erzigkeit-Stein-Übersicht_Desktop.webp"
+      "teaserimage": "Erzigkeit-Stein-Übersicht_Desktop.webp",
+      "url": "/sd-2021/erzigkeit-stein/"
     },
     {
       "filename": "Grebe-Malgadey.md",
@@ -61,7 +66,8 @@
         "Lisa Grebe",
         "Nino Malgadey"
       ],
-      "teaserimage": "Grebe-Malgadey-Teser-MockUp.webp"
+      "teaserimage": "Grebe-Malgadey-Teser-MockUp.webp",
+      "url": "/sd-2021/grebe-malgadey/"
     },
     {
       "filename": "Karakas-Runde.md",
@@ -70,7 +76,8 @@
         "Orhan Serdar Karakas",
         "Hendrick Runde"
       ],
-      "teaserimage": "Notzon-Klein-Header.webp"
+      "teaserimage": "Notzon-Klein-Header.webp",
+      "url": "/sd-2021/karakas-runde/"
     },
     {
       "filename": "Khanian-Allah.md",
@@ -79,7 +86,8 @@
         "Losik Amir Khanian",
         "Roua Al Dakhel Allah"
       ],
-      "teaserimage": "Amir_Khanian-Al_Dakhel_Allah-Teaser.webp"
+      "teaserimage": "Amir_Khanian-Al_Dakhel_Allah-Teaser.webp",
+      "url": "/sd-2021/khanian-allah/"
     },
     {
       "filename": "Kowalski-Seibt.md",
@@ -88,7 +96,8 @@
         "Collin Seibt",
         "Konstantin Kowalski"
       ],
-      "teaserimage": "Kowalski-Seibt-Teaser.webp"
+      "teaserimage": "Kowalski-Seibt-Teaser.webp",
+      "url": "/sd-2021/kowalski-seibt/"
     },
     {
       "filename": "Lenneper-Mehlem.md",
@@ -97,7 +106,8 @@
         "Annika Lenneper",
         "Niklas Mehlem"
       ],
-      "teaserimage": "Lenneper-Mehlem-Header.webp"
+      "teaserimage": "Lenneper-Mehlem-Header.webp",
+      "url": "/sd-2021/lenneper-mehlem/"
     },
     {
       "filename": "Notzon-Klein.md",
@@ -105,7 +115,8 @@
       "people": [
 
       ],
-      "teaserimage": ""
+      "teaserimage": "",
+      "url": "/sd-2021/notzon-klein/"
     },
     {
       "filename": "Osaj-Sabetnia.md",
@@ -114,7 +125,8 @@
         "Alberije Osaj",
         "Mohammadamin Benjamin Sabetnia"
       ],
-      "teaserimage": "Osaj-Sabetnia-Teaser.jpg"
+      "teaserimage": "Osaj-Sabetnia-Teaser.jpg",
+      "url": "/sd-2021/osaj-sabetnia/"
     },
     {
       "filename": "Pausch-VanEimeren.md",
@@ -123,7 +135,8 @@
         "Tim Pausch",
         "Colin van Eimeren"
       ],
-      "teaserimage": "Pausch-VanEimeren-teaser.webp"
+      "teaserimage": "Pausch-VanEimeren-teaser.webp",
+      "url": "/sd-2021/pausch-vaneimeren/"
     },
     {
       "filename": "Reh-Misenko.md",
@@ -132,7 +145,8 @@
         "Richard Reh",
         "Vassilij Misenko"
       ],
-      "teaserimage": "Reh-Misenko-Desktop-4.webp"
+      "teaserimage": "Reh-Misenko-Desktop-4.webp",
+      "url": "/sd-2021/reh-misenko/"
     },
     {
       "filename": "SINGH-NIENHAUS.md",
@@ -141,7 +155,8 @@
         "Prerit Singh",
         "Sven Nienhaus"
       ],
-      "teaserimage": "SINGH-NIENHAUS-teaser.webp"
+      "teaserimage": "SINGH-NIENHAUS-teaser.webp",
+      "url": "/sd-2021/singh-nienhaus/"
     },
     {
       "filename": "Wiskirchen-Fels.md",
@@ -150,7 +165,8 @@
         "Wiskirchen Rene",
         "Fels Marvin"
       ],
-      "teaserimage": "sd-202122-Desktop-Startseite-WISKIRCHEN-FELS.webp"
+      "teaserimage": "sd-202122-Desktop-Startseite-WISKIRCHEN-FELS.webp",
+      "url": "/sd-2021/wiskirchen-fels/"
     },
     {
       "filename": "ban-noah-burgdorf-jens.md",
@@ -159,7 +175,8 @@
         "Noah Kyeong-Seo Ban",
         "Jens Burgdorf"
       ],
-      "teaserimage": "sd-ban-burgdorf-teaser.png.webp"
+      "teaserimage": "sd-ban-burgdorf-teaser.png.webp",
+      "url": "/sd-2021/ban-noah-burgdorf-jens/"
     },
     {
       "filename": "benjumea.md",
@@ -167,7 +184,8 @@
       "people": [
         "Maria Paula Benjumea Cañón"
       ],
-      "teaserimage": "benjumea-teaser.webp"
+      "teaserimage": "benjumea-teaser.webp",
+      "url": "/sd-2021/benjumea/"
     },
     {
       "filename": "epackchi-simonis.md",
@@ -176,7 +194,8 @@
         "Arwin Epackchi",
         "Luca Simonis"
       ],
-      "teaserimage": "epackchi-simonis-teaser.webp"
+      "teaserimage": "epackchi-simonis-teaser.webp",
+      "url": "/sd-2021/epackchi-simonis/"
     },
     {
       "filename": "henskes-fuhrmann.md",
@@ -185,7 +204,8 @@
         "Patricia Henskes",
         "Lisa Fuhrmann"
       ],
-      "teaserimage": "sd-henskes-patricia-fuhrmann-lisa-ws2122-teaser.webp"
+      "teaserimage": "sd-henskes-patricia-fuhrmann-lisa-ws2122-teaser.webp",
+      "url": "/sd-2021/henskes-fuhrmann/"
     },
     {
       "filename": "hesse-huynh.md",
@@ -194,7 +214,8 @@
         "Angelina Hesse",
         "Justin Huynh"
       ],
-      "teaserimage": "hesse-huynh-teaser.webp"
+      "teaserimage": "hesse-huynh-teaser.webp",
+      "url": "/sd-2021/hesse-huynh/"
     },
     {
       "filename": "hinzer-khemiri.md",
@@ -203,7 +224,8 @@
         "Calvin Hinzer",
         "Karim Khemiri"
       ],
-      "teaserimage": "hinzer-khemiri-teaser.jpg"
+      "teaserimage": "hinzer-khemiri-teaser.jpg",
+      "url": "/sd-2021/hinzer-khemiri/"
     },
     {
       "filename": "hoehler-nguyen-kurzdoku.md",
@@ -212,7 +234,8 @@
         "Tom Höhler",
         "Tony Nguyen"
       ],
-      "teaserimage": "hoehler-nguyen-teaser.webp"
+      "teaserimage": "hoehler-nguyen-teaser.webp",
+      "url": "/sd-2021/hoehler-nguyen-kurzdoku/"
     },
     {
       "filename": "hufnagel-hufnagel.md",
@@ -221,7 +244,8 @@
         "Lukas Hufnagel",
         "Paul Hufnagel"
       ],
-      "teaserimage": "hufnagel-hufnagel-VundV-teaser.jpg"
+      "teaserimage": "hufnagel-hufnagel-VundV-teaser.jpg",
+      "url": "/sd-2021/hufnagel-hufnagel/"
     },
     {
       "filename": "kalaburda-regnery.md",
@@ -230,7 +254,8 @@
         "Marko Kalaburda",
         "Florian Regnery"
       ],
-      "teaserimage": "kalaburda-regnery-teaser.webp"
+      "teaserimage": "kalaburda-regnery-teaser.webp",
+      "url": "/sd-2021/kalaburda-regnery/"
     },
     {
       "filename": "kim-swann.md",
@@ -239,7 +264,8 @@
         "Tscho Young Nina Kim",
         "John Swann"
       ],
-      "teaserimage": "kim-swann-teaser.webp"
+      "teaserimage": "kim-swann-teaser.webp",
+      "url": "/sd-2021/kim-swann/"
     },
     {
       "filename": "loshaj.md",
@@ -247,7 +273,8 @@
       "people": [
         "Ylli Loshaj"
       ],
-      "teaserimage": "sd-202122-teaser-loshaj.webp"
+      "teaserimage": "sd-202122-teaser-loshaj.webp",
+      "url": "/sd-2021/loshaj/"
     },
     {
       "filename": "mustermann-beispiel.md",
@@ -256,7 +283,8 @@
         "Klaus Mustermann",
         "Beate Beispiel"
       ],
-      "teaserimage": "mustermann-beispiel-teaser.jpg"
+      "teaserimage": "mustermann-beispiel-teaser.jpg",
+      "url": "/sd-2021/mustermann-beispiel/"
     },
     {
       "filename": "ngo-zellman.md",
@@ -265,7 +293,8 @@
         "Fabian Ngo",
         "Alexander Zellmann"
       ],
-      "teaserimage": "ngo-zellmann-teaser.jpg"
+      "teaserimage": "ngo-zellmann-teaser.jpg",
+      "url": "/sd-2021/ngo-zellman/"
     },
     {
       "filename": "pannier-maus.md",
@@ -274,7 +303,8 @@
         "Marie Pannier",
         "Zoe Maus"
       ],
-      "teaserimage": "pannier-maus-Coverflow.webp"
+      "teaserimage": "pannier-maus-Coverflow.webp",
+      "url": "/sd-2021/pannier-maus/"
     },
     {
       "filename": "pipper-jolbej.md",
@@ -283,7 +313,8 @@
         "Anton Pipper",
         "Simon Jolbej"
       ],
-      "teaserimage": "sd-202122-mockup_3-pipper-jolbej.webp"
+      "teaserimage": "sd-202122-mockup_3-pipper-jolbej.webp",
+      "url": "/sd-2021/pipper-jolbej/"
     },
     {
       "filename": "sd-202122-kurzdoku-koshan-klassen.md",
@@ -292,7 +323,8 @@
         "Joash Koshan",
         "Nick Klassen"
       ],
-      "teaserimage": "sd-202122-teaser-koshan-klassen.webp"
+      "teaserimage": "sd-202122-teaser-koshan-klassen.webp",
+      "url": "/sd-2021/sd-202122-kurzdoku-koshan-klassen/"
     },
     {
       "filename": "sd-paris-georg-neufeld-nicole-ws2122.md",
@@ -301,7 +333,8 @@
         "Georg Paris",
         "Nicole Neufeld"
       ],
-      "teaserimage": "sd-paris-neufeld-Mockup-2122.webp"
+      "teaserimage": "sd-paris-neufeld-Mockup-2122.webp",
+      "url": "/sd-2021/sd-paris-georg-neufeld-nicole-ws2122/"
     },
     {
       "filename": "sd202122-kurzdoku-Pankiv-Zaitsev.md",
@@ -310,7 +343,8 @@
         "Christian Pankiv",
         "Anton Zaitsev"
       ],
-      "teaserimage": "sd-202122-teaser-Pankiv-Zaitsev.webp"
+      "teaserimage": "sd-202122-teaser-Pankiv-Zaitsev.webp",
+      "url": "/sd-2021/sd202122-kurzdoku-pankiv-zaitsev/"
     },
     {
       "filename": "vonScheidt-Issa.md",
@@ -319,9 +353,10 @@
         "Alessa von Scheidt",
         "Leyla Issa"
       ],
-      "teaserimage": "sd-202122-vonScheidt-Issa-teaser.webp"
+      "teaserimage": "sd-202122-vonScheidt-Issa-teaser.webp",
+      "url": "/sd-2021/vonscheidt-issa/"
     }
   ],
   "kurzdokus_count": 35,
-  "generated_at": "2025-12-04T17:58:35+01:00"
+  "generated_at": "2025-12-04T18:10:33+01:00"
 }

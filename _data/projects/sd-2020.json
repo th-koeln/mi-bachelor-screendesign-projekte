@@ -16,7 +16,8 @@
         "Enrico Caltabiano",
         "Domenic Wolf"
       ],
-      "teaserimage": "Caltabiano-Wolf-teaser.webp"
+      "teaserimage": "Caltabiano-Wolf-teaser.webp",
+      "url": "/sd-2020/caltabiano-wolf/"
     },
     {
       "filename": "Crisci-Johne.md",
@@ -25,7 +26,8 @@
         "Nick Crisci",
         "Paul Johne"
       ],
-      "teaserimage": "Crisci-Johne-teaser.webp"
+      "teaserimage": "Crisci-Johne-teaser.webp",
+      "url": "/sd-2020/crisci-johne/"
     },
     {
       "filename": "Haering-Hammer.md",
@@ -34,7 +36,8 @@
         "Lennard Häring",
         "Marius Hammer"
       ],
-      "teaserimage": "Haering-Hammer-Teaser.webp"
+      "teaserimage": "Haering-Hammer-Teaser.webp",
+      "url": "/sd-2020/haering-hammer/"
     },
     {
       "filename": "Tadesse-Engelbertz.md",
@@ -43,7 +46,8 @@
         "Helina Tadesse",
         "Esther Engelbertz"
       ],
-      "teaserimage": "tadesse-engelbertz-teaser.webp"
+      "teaserimage": "tadesse-engelbertz-teaser.webp",
+      "url": "/sd-2020/tadesse-engelbertz/"
     },
     {
       "filename": "Tschitschke-Niggemann.md",
@@ -51,7 +55,8 @@
       "people": [
 
       ],
-      "teaserimage": ""
+      "teaserimage": "",
+      "url": "/sd-2020/tschitschke-niggemann/"
     },
     {
       "filename": "Ziegler-Sienz.md",
@@ -60,7 +65,8 @@
         "Lisa-Marie Sienz",
         "Yasmin Ziegler"
       ],
-      "teaserimage": "Ziegler-Sienz-teaser.jpeg"
+      "teaserimage": "Ziegler-Sienz-teaser.jpeg",
+      "url": "/sd-2020/ziegler-sienz/"
     },
     {
       "filename": "brenner-rogowski.md",
@@ -69,7 +75,8 @@
         "Nico Brenner",
         "Daniel Rogowski"
       ],
-      "teaserimage": "brenner-rogowski-001_teaser.webp"
+      "teaserimage": "brenner-rogowski-001_teaser.webp",
+      "url": "/sd-2020/brenner-rogowski/"
     },
     {
       "filename": "brock.md",
@@ -77,7 +84,8 @@
       "people": [
         "Sebastian Brock"
       ],
-      "teaserimage": "brock-teaser.webp"
+      "teaserimage": "brock-teaser.webp",
+      "url": "/sd-2020/brock/"
     },
     {
       "filename": "bulut-grimmeisen.md",
@@ -86,7 +94,8 @@
         "Emre Bulut",
         "David Grimmeisen"
       ],
-      "teaserimage": "bulut-grimmeisen-teaser.webp"
+      "teaserimage": "bulut-grimmeisen-teaser.webp",
+      "url": "/sd-2020/bulut-grimmeisen/"
     },
     {
       "filename": "chan-neubert-selim.md",
@@ -96,7 +105,8 @@
         "Sofia Neubert",
         "Chan Ching Ying"
       ],
-      "teaserimage": "chan-neubert-selim-teaser.webp"
+      "teaserimage": "chan-neubert-selim-teaser.webp",
+      "url": "/sd-2020/chan-neubert-selim/"
     },
     {
       "filename": "comez-tretjakov.md",
@@ -105,7 +115,8 @@
         "Fatmagül Cömez",
         "Julia Tretjakov"
       ],
-      "teaserimage": "comez-tretjakov-teaser.webp"
+      "teaserimage": "comez-tretjakov-teaser.webp",
+      "url": "/sd-2020/comez-tretjakov/"
     },
     {
       "filename": "engeln-schaefer.md",
@@ -114,7 +125,8 @@
         "Lara Engeln",
         "Domenic Schäfer"
       ],
-      "teaserimage": "engeln-schaefer-teaser.webp"
+      "teaserimage": "engeln-schaefer-teaser.webp",
+      "url": "/sd-2020/engeln-schaefer/"
     },
     {
       "filename": "fafengut-selbach.md",
@@ -123,7 +135,8 @@
         "Paul Fafengut",
         "Yannik Selbach"
       ],
-      "teaserimage": "fafengut-selbach-teaser.webp"
+      "teaserimage": "fafengut-selbach-teaser.webp",
+      "url": "/sd-2020/fafengut-selbach/"
     },
     {
       "filename": "gerold-klein.md",
@@ -132,7 +145,8 @@
         "Tom Gerold",
         "Jannis Klein"
       ],
-      "teaserimage": "gerold-klein-teaser.webp"
+      "teaserimage": "gerold-klein-teaser.webp",
+      "url": "/sd-2020/gerold-klein/"
     },
     {
       "filename": "haskan-schaefer.md",
@@ -141,7 +155,8 @@
         "Fatih Haskan",
         "Yannick Schäfer"
       ],
-      "teaserimage": "haskan-schaefer-teaser.webp"
+      "teaserimage": "haskan-schaefer-teaser.webp",
+      "url": "/sd-2020/haskan-schaefer/"
     },
     {
       "filename": "heissbach-germund.md",
@@ -150,7 +165,8 @@
         "Verena Heissbach",
         "Anne Germund"
       ],
-      "teaserimage": "heissbach-germund-teaser.webp"
+      "teaserimage": "heissbach-germund-teaser.webp",
+      "url": "/sd-2020/heissbach-germund/"
     },
     {
       "filename": "jakupi-mejri.md",
@@ -159,7 +175,8 @@
         "Dalila Mejri",
         "Egzona Jakupi"
       ],
-      "teaserimage": "jakupi-mejri-teaser.webp"
+      "teaserimage": "jakupi-mejri-teaser.webp",
+      "url": "/sd-2020/jakupi-mejri/"
     },
     {
       "filename": "kretschmer-remberg.md",
@@ -168,7 +185,8 @@
         "Yannik Leon Kretschmer",
         "Luca Remberg"
       ],
-      "teaserimage": "kretschmer-remberg-teaser.webp"
+      "teaserimage": "kretschmer-remberg-teaser.webp",
+      "url": "/sd-2020/kretschmer-remberg/"
     },
     {
       "filename": "kumas-sancak.md",
@@ -177,7 +195,8 @@
         "Beyza Kumas",
         "Esra Sancak"
       ],
-      "teaserimage": "kumas-sancak-teaser.webp"
+      "teaserimage": "kumas-sancak-teaser.webp",
+      "url": "/sd-2020/kumas-sancak/"
     },
     {
       "filename": "maiworm-thimm.md",
@@ -186,7 +205,8 @@
         "Caterina Sophia Thimm",
         "Linda Maiworm"
       ],
-      "teaserimage": "maiworm-thimm-teaser.webp"
+      "teaserimage": "maiworm-thimm-teaser.webp",
+      "url": "/sd-2020/maiworm-thimm/"
     },
     {
       "filename": "moujtahid.md",
@@ -194,7 +214,8 @@
       "people": [
         "Abdelbasset Moujtahid"
       ],
-      "teaserimage": "moujtahid-teaser.webp"
+      "teaserimage": "moujtahid-teaser.webp",
+      "url": "/sd-2020/moujtahid/"
     },
     {
       "filename": "mueller-denitto.md",
@@ -202,7 +223,8 @@
       "people": [
 
       ],
-      "teaserimage": ""
+      "teaserimage": "",
+      "url": "/sd-2020/mueller-denitto/"
     },
     {
       "filename": "nguyen.md",
@@ -210,7 +232,8 @@
       "people": [
         "Trang Nguyen"
       ],
-      "teaserimage": "nguyen-teaser.webp"
+      "teaserimage": "nguyen-teaser.webp",
+      "url": "/sd-2020/nguyen/"
     },
     {
       "filename": "repke-bensch_malave.md",
@@ -219,7 +242,8 @@
         "Kevin Repke",
         "Mauricio Bensch Malavé"
       ],
-      "teaserimage": "repke-bensch_malave-teaser.webp"
+      "teaserimage": "repke-bensch_malave-teaser.webp",
+      "url": "/sd-2020/repke-bensch_malave/"
     },
     {
       "filename": "reuschenbach-grin.md",
@@ -228,7 +252,8 @@
         "Franziska Eva Reuschenbach",
         "Emely Grin"
       ],
-      "teaserimage": "Reuschenbach-Grin-teaser.webp"
+      "teaserimage": "Reuschenbach-Grin-teaser.webp",
+      "url": "/sd-2020/reuschenbach-grin/"
     },
     {
       "filename": "sammoud-schurawlev.md",
@@ -237,7 +262,8 @@
         "Andreas Schurawlev",
         "Mayess Sammoud"
       ],
-      "teaserimage": "sammoud-schurawlev-teaser.webp"
+      "teaserimage": "sammoud-schurawlev-teaser.webp",
+      "url": "/sd-2020/sammoud-schurawlev/"
     },
     {
       "filename": "schirp-pottrick.md",
@@ -246,7 +272,8 @@
         "Fabian Schirp",
         "Nicolas Pottrick"
       ],
-      "teaserimage": "schirp-pottrick-teaser.webp"
+      "teaserimage": "schirp-pottrick-teaser.webp",
+      "url": "/sd-2020/schirp-pottrick/"
     },
     {
       "filename": "schleipfer-chouliaras.md",
@@ -255,7 +282,8 @@
         "Nadine Schleipfer",
         "Anastasia Chouliaras"
       ],
-      "teaserimage": "schleipfer-chouliaras-teaser.webp"
+      "teaserimage": "schleipfer-chouliaras-teaser.webp",
+      "url": "/sd-2020/schleipfer-chouliaras/"
     },
     {
       "filename": "voß-busch-russmann.md",
@@ -264,9 +292,10 @@
         "Thyron Voß-Busch",
         "Oliver Russmann"
       ],
-      "teaserimage": "voß-busch-russmann-teaser.webp"
+      "teaserimage": "voß-busch-russmann-teaser.webp",
+      "url": "/sd-2020/vo%c3%9f-busch-russmann/"
     }
   ],
   "kurzdokus_count": 29,
-  "generated_at": "2025-12-04T17:58:35+01:00"
+  "generated_at": "2025-12-04T18:10:33+01:00"
 }

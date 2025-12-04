@@ -16,7 +16,8 @@
         "Julius Anhalt",
         "Daniel Dück"
       ],
-      "teaserimage": "Anhalt-Dueck-Teaser.webp"
+      "teaserimage": "Anhalt-Dueck-Teaser.webp",
+      "url": "/sd-2023/anhalt-dueck/"
     },
     {
       "filename": "Durukan-Gielen.md",
@@ -25,7 +26,8 @@
         "Buraq Durukan",
         "Sebastian Gielen-Pereira"
       ],
-      "teaserimage": "Durukan-Gielen-teaserimage.webp"
+      "teaserimage": "Durukan-Gielen-teaserimage.webp",
+      "url": "/sd-2023/durukan-gielen/"
     },
     {
       "filename": "ElFraygui-Kellner.md",
@@ -34,7 +36,8 @@
         "Yassin El-Fraygui",
         "Maximilian Kellner"
       ],
-      "teaserimage": "El-Fraygui-Kellner-teaser.webp"
+      "teaserimage": "El-Fraygui-Kellner-teaser.webp",
+      "url": "/sd-2023/elfraygui-kellner/"
     },
     {
       "filename": "Fehrenbacher-Storm.md",
@@ -43,7 +46,8 @@
         "Cordelia Fehrenbacher",
         "Jesaja Storm"
       ],
-      "teaserimage": "Fehrenbacher-Storm-tablet-5.webp"
+      "teaserimage": "Fehrenbacher-Storm-tablet-5.webp",
+      "url": "/sd-2023/fehrenbacher-storm/"
     },
     {
       "filename": "Feldmann_Dedy.md",
@@ -52,7 +56,8 @@
         "Maximilian Feldmann",
         "Christian Dedy"
       ],
-      "teaserimage": "feldmann_dedy_teaser.webp"
+      "teaserimage": "feldmann_dedy_teaser.webp",
+      "url": "/sd-2023/feldmann_dedy/"
     },
     {
       "filename": "Irmscher_Korte.md",
@@ -60,7 +65,8 @@
       "people": [
 
       ],
-      "teaserimage": ""
+      "teaserimage": "",
+      "url": "/sd-2023/irmscher_korte/"
     },
     {
       "filename": "Runde.md",
@@ -68,7 +74,8 @@
       "people": [
         "Hendrik Runde"
       ],
-      "teaserimage": "sd-TeaserBild-Runde.webp"
+      "teaserimage": "sd-TeaserBild-Runde.webp",
+      "url": "/sd-2024/runde/"
     },
     {
       "filename": "Sonnenberg-He.md",
@@ -77,7 +84,8 @@
         "Daniel Sonnenberg",
         "Chenghua He"
       ],
-      "teaserimage": "Sonnenberg-He-Teaser.webp"
+      "teaserimage": "Sonnenberg-He-Teaser.webp",
+      "url": "/sd-2023/sonnenberg-he/"
     },
     {
       "filename": "Walsh-Merzouk.md",
@@ -86,7 +94,8 @@
         "Rasmus Walsh",
         "Amin Merzouk"
       ],
-      "teaserimage": "Walsh-Merzouk-Teaser.webp"
+      "teaserimage": "Walsh-Merzouk-Teaser.webp",
+      "url": "/sd-2023/walsh-merzouk/"
     },
     {
       "filename": "bernhardt_diekmann.md",
@@ -95,7 +104,8 @@
         "Cherilyn Bernhardt",
         "Lukas Diekmann"
       ],
-      "teaserimage": "sd_Coverbild-Bernhardt-Diekmann.webp"
+      "teaserimage": "sd_Coverbild-Bernhardt-Diekmann.webp",
+      "url": "/sd-2023/bernhardt_diekmann/"
     },
     {
       "filename": "foth-jennifer-jungilligens-meike.md",
@@ -104,7 +114,8 @@
         "Jennifer Foth",
         "Meike Jungilligens"
       ],
-      "teaserimage": "foth-jennifer-jungilligens-meike-teaser-image.webp"
+      "teaserimage": "foth-jennifer-jungilligens-meike-teaser-image.webp",
+      "url": "/sd-2023/foth-jennifer-jungilligens-meike/"
     },
     {
       "filename": "fuhrmann-serindik.md",
@@ -113,7 +124,8 @@
         "Sebastian Fuhrmann",
         "Gökhan Serindik"
       ],
-      "teaserimage": "fuhrmann-serindik-teaser.webp"
+      "teaserimage": "fuhrmann-serindik-teaser.webp",
+      "url": "/sd-2023/fuhrmann-serindik/"
     },
     {
       "filename": "henrichsmeyer-zink.md",
@@ -122,7 +134,8 @@
         "Mia Charlotte Henrichsmeyer",
         "Cosima Hiromi Zink"
       ],
-      "teaserimage": "henrichsmeyer-zink-vorschau.webp"
+      "teaserimage": "henrichsmeyer-zink-vorschau.webp",
+      "url": "/sd-2023/henrichsmeyer-zink/"
     },
     {
       "filename": "klein-hartono.md",
@@ -131,7 +144,8 @@
         "Paula Klein",
         "Jason Hartono"
       ],
-      "teaserimage": "klein-hartono-teaser.webp"
+      "teaserimage": "klein-hartono-teaser.webp",
+      "url": "/sd-2023/klein-hartono/"
     },
     {
       "filename": "oswald-roesch.md",
@@ -140,7 +154,8 @@
         "Ben Oswald",
         "Amy Rösch"
       ],
-      "teaserimage": "oswald-roesch-teaser.webp"
+      "teaserimage": "oswald-roesch-teaser.webp",
+      "url": "/sd-2023/oswald-roesch/"
     },
     {
       "filename": "pritzkau-schlegel.md",
@@ -149,7 +164,8 @@
         "Ben Pritzkau",
         "Robin Schlegel"
       ],
-      "teaserimage": "pritzkau-schlegel-teaser.webp"
+      "teaserimage": "pritzkau-schlegel-teaser.webp",
+      "url": "/sd-2023/pritzkau-schlegel/"
     },
     {
       "filename": "sd-Lindek-Kueper.md",
@@ -158,7 +174,8 @@
         "Jonas Lindek",
         "Tom Küper"
       ],
-      "teaserimage": "lindek-kueper-desktop-1.webp"
+      "teaserimage": "lindek-kueper-desktop-1.webp",
+      "url": "/sd-2023/sd-lindek-kueper/"
     },
     {
       "filename": "sd-kurzdoku-fels.md",
@@ -166,7 +183,8 @@
       "people": [
         "Marvin Fels"
       ],
-      "teaserimage": "sd-mockup-Fels-Desktop.webp"
+      "teaserimage": "sd-mockup-Fels-Desktop.webp",
+      "url": "/sd-2023/sd-kurzdoku-fels/"
     },
     {
       "filename": "timm.md",
@@ -174,9 +192,10 @@
       "people": [
         "Ricardo Timm"
       ],
-      "teaserimage": "timm-mockup-1-macbook-teaser.webp"
+      "teaserimage": "timm-mockup-1-macbook-teaser.webp",
+      "url": "/sd-2023/timm/"
     }
   ],
   "kurzdokus_count": 19,
-  "generated_at": "2025-12-04T17:58:35+01:00"
+  "generated_at": "2025-12-04T18:10:33+01:00"
 }
