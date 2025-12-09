@@ -1,0 +1,16 @@
+{
+  "id": "sd-2025",
+  "title": "Projekt 2025",
+  "subtitle": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+  "context": "TH Köln, Campus Gummersbach",
+  "modul": "Screendesign",
+  "studiengang": "Medieninformatik Ba.",
+  "semester": "Wintersemester 2025/26",
+  "hero": "assets/images/projekt-2024-hero.webp",
+  "excerpt": "Das diesjährige Projekt widmet sich dem redaktionellen Bereich des Cranach Digital Archive (CDA). Das Cranach Digital Archive ist ein Forschungsprojekt, das die umfassende digitale Erschließung und Dokumentation des Werks von Lucas Cranach dem Älteren, seiner Söhne und seiner Werkstatt zum Ziel hat. Seit seiner Gründung im Jahr 2009 bietet das CDA Kunsthistoriker:innen, Restaurator:innen, Wissenschaftler:innen und der interessierten Öffentlichkeit eine einzigartige Plattform. Hier werden hochauflösende Bilddaten, wissenschaftliche Analysen und kuratorische Informationen zusammengeführt, um detaillierte Einblicke in das künstlerische Schaffen der Cranach-Dynastie zu ermöglichen.",
+  "kurzdokus": [
+
+  ],
+  "kurzdokus_count": 0,
+  "generated_at": "2025-12-06T13:40:03+01:00"
+}

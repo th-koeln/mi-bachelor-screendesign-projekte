@@ -57,8 +57,17 @@ Jede JSON-Datei hat folgende Struktur:
 
 ## Verwendung
 
-Beim normalen Jekyll Build wird der Plugin automatisch ausgeführt:
+Der Plugin läuft **nur auf Kommando**, nicht bei jedem normalen Build. Um die JSON-Dateien zu generieren, setzen Sie die Umgebungsvariable `JEKYLL_GENERATE_JSON`:
 
+```bash
+# JSON-Dateien generieren
+JEKYLL_GENERATE_JSON=1 jekyll build
+
+# oder mit serve
+JEKYLL_GENERATE_JSON=1 jekyll serve
+```
+
+Normaler Build ohne JSON-Generierung:
 ```bash
 jekyll build
 # oder

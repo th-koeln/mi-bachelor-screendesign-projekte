@@ -1,0 +1,337 @@
+---
+title: Projekt 2025
+subtitle: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
+context: TH Köln, Campus Gummersbach
+modul: Screendesign
+studiengang: Medieninformatik Ba.
+semester: Wintersemester 2025/26
+hero: assets/images/projekt-2025-hero.webp
+---
+
+<section class="section">
+  <div class="container">
+    <div class="content is-medium">
+      <p>Im diesjähringen Projekt gestalten wir das neue Frontend für die Veranstaltungsplanung an der Fakultät 10. Das
+        zugrunde liegende System ist bereits implementiert – unser Fokus liegt auf der Gestaltung der Nutzeroberfläche,
+        die Studierende, Lehrende und Mitarbeitende im Alltag tatsächlich verwenden.</p>
+      <p>Lehrveranstaltungen finden in verschiedenen Formaten, Rhythmen und Räumen statt – mal wöchentlich, mal
+        geblockt, mal hybrid. Daraus ergeben sich unterschiedliche Anforderungen an Ansichten, Filter und Interaktionen.
+        Unser Ziel: eine zugängliche, anpassungsfähige und klar strukturierte Oberfläche, die Orientierung schafft und
+        Bedürfnisse ernst nimmt – ohne überladen zu sein.</p>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container">
+    <div class="content is-medium">
+
+      <div class="box">
+        <div class="columns">
+          <div class="column is-one-third">
+            <h2>Screendesign<br>Projektaufgabe</h2>
+          </div>
+
+          <div class="column">
+            <p>
+              Entwickeln Sie ein Gestaltungs- und Interaktionskonzept für das neue Frontend der digitalen
+              Veranstaltungsplanung an der Fakultät 10. Berücksichtigen Sie dabei die unterschiedlichen Bedürfnisse und
+              Nutzungsszenarien von Studierenden, Lehrenden und Mitarbeitenden. Ziel ist eine zugängliche, flexible und
+              gut strukturierte Nutzungsoberfläche, die komplexe Veranstaltungsdaten übersichtlich darstellt und
+              sinnvolle Interaktionen ermöglicht – vom schnellen Überblick bis zur detaillierten Planung. Das Konzept
+              muss auf verschiedenen Endgeräten (Desktop, Tablet, Smartphone) funktionieren und situationsabhängige
+              Nutzungskontexte berücksichtigen.
+            </p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <h2>Ziele des Redesigns</h2>
+
+      <p>
+        <strong>Verständliche und konsistente Darstellung</strong><br>
+        Die Nutzeroberfläche soll Veranstaltungen übersichtlich, verständlich und konsistent darstellen – unabhängig von
+        Gerät, Format oder Nutzungssituation.
+      </p>
+
+      <p>
+        <strong>Responsives Design für verschiedene Endgeräte</strong><br>
+        Das Interface muss auf Desktop, Tablet und Smartphone gleichermaßen funktionieren und dabei eine möglichst gute
+        Nutzererfahrung bieten.
+      </p>
+
+      <p>
+        <strong>Barrierefreiheit</strong><br>
+        Das Design soll möglichst barrierefrei gestaltet werden und dabei die Zugänglichkeit für alle Nutzergruppen
+        gewährleisten – im Sinne digitaler Teilhabe.
+      </p>
+
+      <p>
+        <strong>Integration in das Hochschuldesign</strong><br>
+        Die Gestaltung muss sich nahtlos in das bestehende visuelle Erscheinungsbild der TH Köln einfügen und deren
+        Designrichtlinien berücksichtigen.
+      </p>
+
+      <p>
+        <strong>Unterstützung unterschiedlicher Stakeholder-Bedarfe</strong><br>
+        Die verschiedenen Perspektiven und Anforderungen von Studierenden, Lehrenden und Mitarbeitenden sollen sinnvoll
+        abgebildet und in der Nutzung adressiert werden.
+      </p>
+
+      <p>
+        <strong>Optimierung für den Einsatz im Browser</strong><br>
+        Die Lösung ist für die Nutzung im Webbrowser gedacht und soll dort schnell, stabil und intuitiv funktionieren.
+      </p>
+
+      <p>
+        <strong>(Optional) Unterstützung von Dark- und Light-Mode</strong><br>
+        Die Oberfläche kann – idealerweise – zwischen hellen und dunklen Anzeigeoptionen wechseln, um unterschiedlichen
+        Umgebungen und Vorlieben gerecht zu werden.
+      </p>
+
+
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="content has-seperator">
+      <h2>Bereiche & erforderliche Screens</h2>
+      <p>Welche Screens sind zu gestalten und welche Aufgabe haben sie?</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Ansicht / Screen</th>
+            <th>Beschreibung & Anforderungen</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><strong>Tagesansicht</strong></td>
+            <td>Zeigt alle Veranstaltungen eines Tages. Gut geeignet für den tagesaktuellen Überblick. Muss klar
+              strukturiert und auch auf kleinen Displays (z. B. Smartphone) gut nutzbar sein. Kann Uhrzeiten, Räume und
+              ggf. Überschneidungen anzeigen.</td>
+          </tr>
+          <tr>
+            <td><strong>Wochenansicht</strong></td>
+            <td>Zeigt alle Veranstaltungen einer Woche, gegliedert nach Tagen und Zeiten. </td>
+          </tr>
+          <tr>
+            <td><strong>Monatsansicht</strong> optional</td>
+            <td>Gibt einen Überblick über den gesamten Monat. Eher zur Orientierung und zur Planung. Nicht alle
+              Veranstaltungsdetails sichtbar, aber Hinweise auf Anzahl/Typ von Terminen.</td>
+          </tr>
+          <tr>
+            <td><strong>Langzeit-/Semesteransicht</strong> optional</td>
+            <td>Zeigt Veranstaltungen über einen längeren Zeitraum, z. B. ein ganzes Semester. Besonders relevant für
+              Blockveranstaltungen oder zur Planung der Prüfungsphase. Darf ggf. stärker abstrahiert sein.</td>
+          </tr>
+          <tr>
+            <td><strong>Filterleiste mit Pinfunktion</strong></td>
+            <td>Ermöglicht es, Veranstaltungen nach Zielgruppe (Studierende, Lehrende), Semester, Studiengang, Raum etc.
+              zu filtern. Wichtig: Nutzer:innen sollen Filter pinnen können, um ihre Ansicht dauerhaft anzupassen (z. B.
+              „nur mein Semester“).</td>
+          </tr>
+          <tr>
+            <td><strong>Raumübersicht</strong></td>
+            <td>Gibt Überblick über Räume und deren Belegung. Hilfreich für Lehrende oder Mitarbeitende. Darstellung als
+              Liste, Grid oder (optional) Gebäudeplan. Kann auch Leerzeiten anzeigen.</td>
+          </tr>
+          <tr>
+            <td><strong>Wählbare Termine</strong></td>
+            <td>Für Veranstaltungen mit mehreren Wahlterminen: Darstellung eines Auswahlmechanismus. Nutzer:innen können
+              einzelne Termine „pinnen“ oder auswählen, um ihren individuellen
+              Plan zu erstellen.</td>
+          </tr>
+          <tr>
+            <td><strong>Veranstaltungs-Detailansicht</strong></td>
+            <td>Zeigt alle wesentlichen Infos zu einer Veranstaltung: Titel, Zeit, Ort, Dozierende, Format, evtl.
+              Teilnahmebedingungen. Optional: Kurzbeschreibung des Moduls, Verlinkung auf Modulhandbuch oder andere
+              weiterführende Infos.</td>
+          </tr>
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+</section>
+
+<!--section class="section ">
+  <div class="container">
+    <div class="content has-seperator">
+
+      <h2 class="title">Zahlen & Fakten</h2>
+      <p>Die wesentlichen Informationen rund um den zu gestaltenden redaktionellen Bereich.</p>
+      <table class="table">
+        <tbody>
+
+          <tr>
+            <th width="33%">Anwendung</th>
+            <td>Redaktioneller Bereich des Cranach Digital Archive</td>
+          </tr>
+
+          <tr>
+            <th>Unterstützte Geräte</th>
+            <td>WIMP Geräte und Touchdevices, Desktop-first</td>
+          </tr>
+
+          <tr>
+            <th>Zielgruppe</th>
+            <td>im wesentlichen professionelle Nutzer:innen, z.B. Kunsthistoriker:innen, Kostümbildner:innen, etc. zukünftig aber auch mehr und mehr interessierte Laien</td>
+          </tr>
+
+          <tr>
+            <th>CDA</th>
+            <td>
+              Wesentliche Bereiche im CDA und deren URLs:
+              <ul>
+                <li><a href="https://lucascranach.org/">Redaktioneller Bereich</a></li>
+                <li><a href="https://lucascranach.org/de/search">Suchbereich</a></li>
+                <li><a href="https://lucascranach.org/de/archival-documents">Archivalien</a></li>
+                <li><a href="https://lucascranach.org/de/publications">Literatur</a></li>
+              </ul>
+          </tr>
+
+          <tr>
+            <th>Designvorgaben</th>
+            <td>
+              Nutzen Sie diesen <a href="https://www.figma.com/design/txwGdVNoreUdcbdaAUrmWz/Canach-Styleguide-SD-%2F%2F-2024?node-id=2825-77&t=ZD0jxqlB9r9TJWhW-1">Styleguide</a> als Basis für Ihr Designkonzept. Sie können den Styleguide auch in Ihr eigenes Figma Projekt kopieren.
+            </td>
+          </tr>
+
+          <tr>
+            <th>Kommunikationsziele/ Leitplanken</th>
+            <td>Das Cranach Digital Archive ist professionell, klar, möglichst einfach, reduziert, akzentuiert und zeitlos. Die Startseite muss auch diesen Anforderungen genügen, hat aber deutlich mehr Freiheitsgrade und darf überraschen und neugierig machen. Der redkationelle Teil sollte deutlich lebendiger und weniger schematisch sein als die Suche und die Artefakt Seiten.</td>
+          </tr>
+
+          <tr>
+            <th>Mengengerüst</th>
+            <td>Visualisieren Sie Ihr Designkonzept an der Startseite und mindestens drei Inhaltsseiten jeweils für Desktop und Touchdevices.</td>
+          </tr>
+
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section-->
+
+<section class="section">
+  <div class="container">
+    <div class="content has-seperator">
+      <h2>Vorgehen</h2>
+      <p>Bitte nutzen Sie diese die folgend dargestellten Projektphasen. Ergebnisse aus den einzelnen Phasen sollten in
+        die Präsentation und Kurzdokumentation eingebracht werden. Die Phasen bauen aufeinander auf. Iterationen sind
+        möglich und oft sinnvoll. Jede Phase hat Aufgaben und Ziele, die den Weg zu einem guten, nachvollziehbaren und
+        fundiertem Screendesign ebnen.</p>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Phase</th>
+            <th>Beschreibung</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td width="33%"><strong>Verstehen </strong>(Discover)</td>
+            <td>
+              Analyse des Problemraums: Wer sind die Nutzer:innen und Stakeholder? Was sind ihre Bedürfnisse, Ziele und
+              Nutzungskontexte? Welche Veranstaltungsarten gibt es, wie sind sie modelliert, und welche Daten stehen zur
+              Verfügung? Das Design der Hochschule wird detailliert untersucht, um zu Verstehen wie Inhalte dargestellt
+              werden können. Ergänzend wird der Wettbewerb analysiert, um relevante Designkonzepte und Best Practices zu
+              identifizieren. Methoden: Stakeholder-Mapping, Interviews, User-Stories, Personas, Marktanalyse,
+              Best-Practice-Recherche.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>Gemeinsames Bild schaffen </strong>(Define)</td>
+            <td>
+              Konsolidierung der Erkenntnisse: Nutzergruppen und User Stories werden verdichtet, Anforderungen
+              abgeleitet. Es wird ein gemeinsames Bild vom Gestaltungskontext erarbeitet: Was sind
+              Gestaltungskonstanten, was sind Spielräume? Ziel ist eine Problemdefinition als Grundlage für die
+              Ideation.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>Ideenfindung </strong>(Develop – Phase 1)</td>
+            <td>
+              Generierung erster Lösungsansätze mit Fokus auf die visuelle Darstellung komplexer Informationen (z. B.
+              Zeiträume, Überschneidungen, Formate). Methoden wie Brainstorming, Crazy 8, High-Five oder 6-3-5 können
+              eingesetzt werden. Ziel ist ein breites Spektrum an Ideen zur Darstellung der Veranstaltungsübersicht.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>Bewertung & Auswahl</strong></td>
+            <td>
+              Kritische Reflexion und Bewertung der gesammelten Ideen anhand definierter Kriterien: Nutzerzentrierung,
+              Verständlichkeit, Umsetzbarkeit, Zielerreichung. Auswahl eines oder mehrerer vielversprechender Ansätze
+              für die Weiterentwicklung.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>Designkonzept entwickeln </strong>(Develop – Phase 2)</td>
+            <td>
+              Ausgewählte Ideen werden zu einem kohärenten Designkonzept ausgearbeitet: Definition von visuellen und
+              interaktiven Prinzipien, Layout-Richtlinien, Navigationskonzepten und ggf. States oder Übergängen. Ziel
+              ist ein konsistenter Gestaltungsrahmen.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>Prototyping & Ausarbeitung </strong>(Deliver – Phase 1)</td>
+            <td>
+              Umsetzung des Konzepts in klickbare oder animierte Prototypen. Anwendung und Vertiefung von Techniken zur
+              Darstellung von Interface-Ideen (z. B. Wireframes, UI-Komponenten, Microinteractions). Ziel: Ein
+              erlebbarer Entwurf, der die Idee kommuniziert.
+            </td>
+          </tr>
+          <tr>
+            <td><strong>Kommunikation & Präsentation </strong>(Deliver – Phase 2)</td>
+            <td>
+              Das finale Design wird aufbereitet und verständlich kommuniziert: Dokumentation des Konzepts, ggf.
+              interaktive Demos oder animierte Sequenzen, Visualisierung von Use-Cases. Ziel: Die Lösung soll
+              überzeugend präsentiert und nachvollziehbar gemacht werden.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="content">
+      <h2>Deliverables, Projektteam & Prüfung</h2>
+      <p>
+        Die Arbeit erfolgt in 2er Teams. Im Rahmen des Screendesign Projekts müssen folgende Deliverables via
+        Übergabepunkt abgegeben werden: Designkonzept als Mockup, Präsentation und Kurzdokumentation. Informationen zur
+        Abgabe der Kurzdokumentation finden Sie unten auf der <a
+          href="https://th-koeln.github.io/mi-bachelor-screendesign-projekte/">Website der Projektergebnisse</a>. Für
+        das Projekt 2025 ist die Abgabe eines Styleguides nicht erforderlich, das Feld kann also in Ihrer Markdown-Datei
+        freigelassen oder entfernt werden. Weitere Informationen zur Bewertung finden Sie unter <a
+          href="https://th-koeln.github.io/mi-bachelor-screendesign/niveaustufen/">Niveaustufen und Deliverables</a>.
+      </p>
+
+      <p>
+        Die Prüfung findet in Form einer Projektpräsentationsprüfung statt. Zur Prüfung müssen Sie sich im
+        PSSO anmelden <strong>und</strong> einen Termin im Ilu buchen. Die Bewertung erfolgt mit Hilfe der <a
+          href="https://th-koeln.github.io/mi-bachelor-screendesign/niveaustufen/">Niveaustufen</a>.
+        Dies sollten Sie sich unbedingt zur Projektlaufzeit und vor der Prüfung anschauen, um zu wissen, was erwartet
+        wird und Ihre Arbeit entsprechend ausrichten. Hier finden Sie weitere <a
+          href="https://th-koeln.github.io/mi-bachelor-screendesign/projektpraesentationspruefung/">Informationen zur
+          Projektpräsentationsprüfung</a>.
+      </p>
+    </div>
+  </div>
+</section>

@@ -8,6 +8,9 @@ module Jekyll
     priority :high
 
     def generate(site)
+      # Only run if JEKYLL_GENERATE_JSON environment variable is set
+      return unless ENV['JEKYLL_GENERATE_JSON']
+      
       @site = site
       projects_dir = File.join(site.source, '_projekte')
       kurzdokus_dir = File.join(site.source, '_kurzdokus')
