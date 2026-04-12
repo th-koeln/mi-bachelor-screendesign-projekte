@@ -1,5 +1,6 @@
 ---
 title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
+people: 
     - Neva Kizilaslan
     - Cihan Eryetli
     - Bünyamin Ersoy
