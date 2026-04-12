@@ -3,16 +3,30 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Samet Özmen
     - Paul Horbert
-teaserimage: Nietzschmann-Ak-teaser.webp
+teaserimage: Oezmen-Horbert-teaser.png
 gallery: 
-    - Nietzschmann-Ak-desktop-startseite.webp
-    - Nietzschmann-Ak-desktop-ButtonStartseite.webp
-    - Nietzschmann-Ak-desktop-HellmodusStartseite.webp
-    - Nietzschmann-Ak-desktop-LucasCranach.webp
-    - Nietzschmann-Ak-desktop-Forschung.webp
-    - Nietzschmann-Ak-desktop-Partner.webp
-    - Nietzschmann-Ak-tablet-startseite.webp
-    - Nietzschmann-Ak-mobileStartseite.webp
+    - Oezmen-Horbert-desktop-dashboard-studenten.jpg
+    - Oezmen-Horbert-desktop-dashboard-professoren.jpg
+    - Oezmen-Horbert-desktop-einstellungen.jpg
+    - Oezmen-Horbert-desktop-stundenplan.jpg
+    - Oezmen-Horbert-desktop-stundenplan-filter.jpg
+    - Oezmen-Horbert-desktop-professoren.jpg
+    - Oezmen-Horbert-desktop-ankuendigungen-1.jpg
+    - Oezmen-Horbert-desktop-ankuendigungen-2.jpg
+    - Oezmen-Horbert-desktop-modul.jpg
+    - Oezmen-Horbert-mobile-dashboard-studenten.jpg
+    - Oezmen-Horbert-mobile-dashboard-professoren.jpg
+    - Oezmen-Horbert-mobile-dashboard-sidelist.jpg
+    - Oezmen-Horbert-mobile-stundenplan.jpg
+    - Oezmen-Horbert-mobile-professoren.jpg
+    - Oezmen-Horbert-mobile-ankuendigungen-1.jpg
+    - Oezmen-Horbert-mobile-ankuendigungen-2.jpg
+    - Oezmen-Horbert-mobile-modul.jpg
+    - Oezmen-Horbert-desktop-dashboard-kontrast.jpg
+    - Oezmen-Horbert-desktop-stundenplan-v_2.jpg
+    - Oezmen-Horbert-mobile-dashboard-kontrast.jpg
+    - Oezmen-Horbert-mobile-dashboard-kontrast_sidelist.jpg
+    - Oezmen-Horbert-mobile-stundenplan-v_2.jpg
 ---
 Im Rahmen des Screendesign-Projekts 2025/26 wurde ein umfassendes Redesign für den aktuell genutzten Stundenplan der TH Köln (HOPS) entwickelt. Das HOPS ist eine Plattform, die alle Studenten der TH Köln nutzen und daher eine Anwendung ist, auf die man nicht verzichten kann. Angesichts der Bedeutung dieser Anwendung war es das Ziel des Projekts, die visuelle Gestaltung zu modernisieren und dabei ein elegantes, ansprechendes und zeitgemäßes Design zu gestalten, ohne jedoch zu aufdringlich oder erdrückend zu wirken, wie das bis jetzt der Fall war.
 
