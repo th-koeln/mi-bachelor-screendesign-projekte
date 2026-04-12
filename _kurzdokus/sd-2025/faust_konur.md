@@ -3,7 +3,7 @@ title: Redesign der digitalen Veranstaltungsübersicht an der Fakultät 10 der T
 people:
     - Max Faust
     - Burak Konur
-teaserimage: Nietzschmann-Ak-teaser.webp
+teaserimage: teaserbild-Konur-Faust
 gallery: 
     - 01-d-Wochenplan-Konur-Faust.png
     - 02-d-Wochenplan-Sidebar-Konur-Faust.png
@@ -11,6 +11,12 @@ gallery:
     - 01-d-Wochenplan-Modulhinzufügen-Konur-Faust.png
     - 04-d-Wochenplan-kurzinfo-Konur-Faust.png
     - 05-d-tagesplan-Konur-Faust.png
+    - 06-d-Raumplan-Konur-Faust.png
+    - 01-m-3tagesAnsicht-Konur-Faust.png
+    - 02-sidebar-Konur-Faust.png
+    - 03-modulehinzufügen-Konur-Faust.png
+    - 04-m-raumplan-Konur-Faust.png
+    - 05-m-detailAnsicht-Konur-Faust.png
 ---
 Im Rahmen des Screendesignprojekts zum Jahr 2025/26 wurde ein modernes Front-End-Designkonzept für die digitalen Veranstaltungsübersichtsseite der Fakultät 10 an der TH Köln entwickelt. Ziel der Website ist es, Studierende, Dozierende sowie Angehörige des Personals schnell und unkompliziert über die Verwaltung der Veranstaltungsdaten zu informieren.
 
