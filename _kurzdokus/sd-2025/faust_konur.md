@@ -5,14 +5,12 @@ people:
     - Burak Konur
 teaserimage: Nietzschmann-Ak-teaser.webp
 gallery: 
-    - Nietzschmann-Ak-desktop-startseite.webp
-    - Nietzschmann-Ak-desktop-ButtonStartseite.webp
-    - Nietzschmann-Ak-desktop-HellmodusStartseite.webp
-    - Nietzschmann-Ak-desktop-LucasCranach.webp
-    - Nietzschmann-Ak-desktop-Forschung.webp
-    - Nietzschmann-Ak-desktop-Partner.webp
-    - Nietzschmann-Ak-tablet-startseite.webp
-    - Nietzschmann-Ak-mobileStartseite.webp
+    - 01-d-Wochenplan-Konur-Faust.png
+    - 02-d-Wochenplan-Sidebar-Konur-Faust.png
+    - 03-d-Wochenplan-Konur-Faust.png
+    - 01-d-Wochenplan-Modulhinzufügen-Konur-Faust.png
+    - 04-d-Wochenplan-kurzinfo-Konur-Faust.png
+    - 05-d-tagesplan-Konur-Faust.png
 ---
 Im Rahmen des Screendesignprojekts zum Jahr 2025/26 wurde ein modernes Front-End-Designkonzept für die digitalen Veranstaltungsübersichtsseite der Fakultät 10 an der TH Köln entwickelt. Ziel der Website ist es, Studierende, Dozierende sowie Angehörige des Personals schnell und unkompliziert über die Verwaltung der Veranstaltungsdaten zu informieren.
 
