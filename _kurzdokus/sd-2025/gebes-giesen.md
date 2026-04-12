@@ -29,7 +29,7 @@ gallery:
 # Kurzdokumentation: Redesign der Veranstaltungsübersicht (HoPS)
 ---
 
-## 🎯 Projektauftrag & Zielsetzung
+##  Projektauftrag & Zielsetzung
 Das Ziel des diesjährigen Projekts bestand darin, die bestehende **Veranstaltungsübersicht der Fakultät** grundlegend neu zu gestalten. Der Fokus dieses Designs bestand darin, das eine klare intuitive Benutzerführung mit einem langlebigen, modernen Standard vereint.
 
 ---
