@@ -3,7 +3,7 @@ title: Redesign der digitalen Veranstaltungsübersicht an der Fakultät 10 der T
 people:
     - Max Faust
     - Burak Konur
-teaserimage: teaserbild-Konur-Faust
+teaserimage: teaserbild-Konur-Faust.png
 gallery: 
     - 01-d-Wochenplan-Konur-Faust.png
     - 02-d-Wochenplan-Sidebar-Konur-Faust.png
