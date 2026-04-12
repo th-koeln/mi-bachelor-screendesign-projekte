@@ -14,27 +14,14 @@ gallery:
     - Nietzschmann-Ak-tablet-startseite.webp
     - Nietzschmann-Ak-mobileStartseite.webp
 ---
-Im Rahmen des Screendesign-Projekts 2025 wurde ein neues Frontend-Konzept für die digitale 
-Veranstaltungsübersicht der Fakultät 10 an der TH Köln entwickelt. Die Plattform richtet sich 
-an Studierende, Lehrende und Mitarbeitende, die im Alltag schnell und zuverlässig auf 
-Veranstaltungsdaten zugreifen müssen. Ziel des Projekts war es, ein zugängliches, 
-übersichtliches und flexibles Interface zu gestalten, das komplexe Stundenplan- und 
-Raumdaten verständlich aufbereitet, ohne dabei überladen zu wirken.
+Im Rahmen des Screendesignprojekts zum Jahr 2025/26 wurde ein modernes Front-End-Designkonzept für die digitalen Veranstaltungsübersichtsseite der Fakultät 10 an der TH Köln entwickelt. Ziel der Website ist es, Studierende, Dozierende sowie Angehörige des Personals schnell und unkompliziert über die Verwaltung der Veranstaltungsdaten zu informieren.
 
-Das Designkonzept folgt einem hellen, minimalistischen Ansatz. Als Akzentfarben wurden 
-die charakteristischen Farben des Medieninformatik-Auftritts der TH Köln übernommen, 
-um eine nahtlose Integration in das bestehende Hochschuldesign zu gewährleisten. Die 
-reduzierte Gestaltung lenkt den Fokus klar auf die Inhalte und sorgt für eine ruhige, 
-konsistente Nutzererfahrung auf allen Endgeräten.
+Der Schwerpunkt beim Entwurf dieser Website lag auf der Erstellung eines einfach verständlichen, strukturierten und flexiblen Front-End-Designs, das alle notwendigen Informationen zu den verschiedenen Zeitspannen und Räumen übersichtlich und ohne Überfluss bietet.
 
-Gestaltet wurden Ansichten für den Tag, die Woche sowie eine Raumübersicht, jeweils 
-optimiert für Desktop, Tablet und Smartphone. Eine Filterleiste mit Pinfunktion ermöglicht 
-es Nutzer:innen, ihre Ansicht dauerhaft anzupassen, etwa nach Studiengang, Semester oder 
-Raum. Veranstaltungen mit mehreren Wahlterminen können gezielt ausgewählt und in einen 
-individuellen Plan übernommen werden. Eine Detailansicht liefert alle wesentlichen 
-Informationen zu einer Veranstaltung auf einen Blick.
+Das gestalterische Konzept legt dem hellen Minimalismus eine besondere Priorität zu. Bei diesem ansprechenden Erscheinungsbild sind die typischen Farben des Bereichs Medieninformatik der TH Köln als Akzentfarben zu betrachten und stellen sicher, dass die Website nahtlos in das bestehende Design der Hochschule integriert ist. Die sparsame Gestaltung führt dazu, dass sich der Fokus auf die Inhalte legt.
 
-Barrierefreiheit war ein zentrales Anliegen im Gestaltungsprozess. Das helle Farbschema 
-bietet hohe Lesbarkeit und klare Kontraste, während die Struktur der Oberfläche auch 
-bei unterschiedlichen Nutzungskontexten, ob kurzer Überblick unterwegs oder detaillierte 
-Planung am Desktop, intuitiv nutzbar bleibt.
+Vereinzelte Ansichten zur Tages-, Wochen- und Raumperspektive wurden entworfen, bei denen sowohl das Desktop-, als auch das Tablet- und das Smartphone-Anwendungsszenario berücksichtigt wird. Mit Hilfe einer Barrierefreien Filterleiste kann man einzelne Aspekte anpinnen und diese Ansicht individualisiert bearbeiten, beispielsweise nach Studienfach, Semester oder Raum. Veranstaltungen, die verschiedene Auswahlzeiten haben, können in den eigenen Plan übernommen und individuell ausgewählt werden. Eine Ansicht mit den Informationen zu jeder Veranstaltung enthält zusätzliche Details zu dieser Veranstaltung.
+
+Beim Entwurf spielt das Prinzip der progressive Disclosure eine bedeutende Rolle. Zuerst werden nur relevante Informationen angezeigt, während sich immer dann, wenn man sie explizit benötigt, weitere Informationen einstellen.
+
+Barrierefreiheit hatte eine besonders wichtige Rolle im Entwurfsprozess inne. Durch den hellen Farbton ist eine gute Lesbarkeit und ein klarer Kontrast gewährleistet, während die Oberfläche sowohl für den schnellen Überblick unterwegs, als auch für die detaillierte Planung am Desktop intuitiv nutzbar ist.
