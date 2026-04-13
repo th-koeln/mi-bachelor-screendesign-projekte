@@ -11,24 +11,24 @@ gallery:
      - falih-rackwitz-handy-04-Einstellungsscreen.png
      - falih-rackwitz-handy-05-Benachrichtigungsscreen.png
      - falih-rackwitz-handy-06-Wochenansicht-Filterscreen-ungefiltert-vollständig.png
-     - falih-rackwitz-handy-07-Wochenansicht-alle Veranstaltungen-vollständig.png
+     - falih-rackwitz-handy-07-Wochenansicht-alleVeranstaltungen-vollständig.png
      - falih-rackwitz-handy-09-Wochenansicht-Favoritenscreen.png
      - falih-rackwitz-handy-12-Tagesansicht-Montag.png
      - falih-rackwitz-handy-14-Tagesansicht-Veranstaltungsdetailansicht-TI1.png
      - falih-rackwitz-handy-15-Tagesansicht-Filterleiste(1).png
-     - falih-rackwitz-handy-16-Tagesansicht-eine Veranstaltung.png
+     - falih-rackwitz-handy-16-Tagesansicht-eineVeranstaltung.png
      - falih-rackwitz-handy-19-Tagesansicht-Searchbar.png
      - falih-rackwitz-handy-21-Tagesansicht-Freitag.png
-     - falih-rackwitz-desktop-01-Wochenansicht-nur Vorlesungen.png
+     - falih-rackwitz-desktop-01-Wochenansicht-nurVorlesungen.png
      - falih-rackwitz-desktop-02-Wochenansicht-Optionleiste.png
      - falih-rackwitz-desktop-03-Wochenansicht-Profil(Dozent).png
-     - falih-rackwitz-desktop-04-Wochenansicht-alle Veranstaltungen-vollständig.png
+     - falih-rackwitz-desktop-04-Wochenansicht-alleVeranstaltungen-vollständig.png
      - falih-rackwitz-desktop-05-Tagesansicht-Montag.png
      - falih-rackwitz-desktop-07-Tagesansicht-Veranstaltungsübersicht-TI1.png
-     - falih-rackwitz-tablet(hoch)-01-Wochenansicht-alle Veranstaltungen.png
-     - falih-rackwitz-tablet(hoch)-02-Tagesansicht-alle Veranstaltungen.png
-     - falih-rackwitz-tablet(quer)-01-Wochenansicht-alle Veranstaltungen.png
-     - falih-rackwitz-tablet(quer)-02-Tagesansicht-alle Veranstaltungen.png
+     - falih-rackwitz-tablet(hoch)-01-Wochenansicht-alleVeranstaltungen.png
+     - falih-rackwitz-tablet(hoch)-02-Tagesansicht-alleVeranstaltungen.png
+     - falih-rackwitz-tablet(quer)-01-Wochenansicht-alleVeranstaltungen.png
+     - falih-rackwitz-tablet(quer)-02-Tagesansicht-alleVeranstaltungen.png
 ---       
 Beim Screendesignprojekt dieses Jahres bestand die Aufgabe darin, die in HOPS gezeigte Stundenplanansicht der Fakultät 10 der TH Köln neu zu gestalten. Ziel war es, ein zugängliches, flexibles und gut strukturiertes Interface zu entwickeln, das die Veranstaltungen übersichtlich auf drei verschiedenen Endgeräten (Desktop, Tablet und Smartphone) darstellt. Hierbei sollten auch auf die Mängeln vom HOPS geachtet werden, um die selben Fehler zu vermeiden.
 
