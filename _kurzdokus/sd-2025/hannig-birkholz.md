@@ -3,17 +3,17 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Constantin Hannig
     - Jan Birkholz
-teaserimage: hannig-birkholz-teaser.png
+teaserimage: hannig-birkholz-teaser.webp
 gallery:
-    - hannig-birkholz-bild1.png
-    - hannig-birkholz-bild2.png
-    - hannig-birkholz-bild3.png
-    - hannig-birkholz-bild4.png
-    - hannig-birkholz-bild5.png
-    - hannig-birkholz-bild6.png
-    - hannig-birkholz-bild7.png
-    - hannig-birkholz-bild8.png
-    - hannig-birkholz-bild9.png
+    - hannig-birkholz-bild1.webp
+    - hannig-birkholz-bild2.webp
+    - hannig-birkholz-bild3.webp
+    - hannig-birkholz-bild4.webp
+    - hannig-birkholz-bild5.webp
+    - hannig-birkholz-bild6.webp
+    - hannig-birkholz-bild7.webp
+    - hannig-birkholz-bild8.webp
+    - hannig-birkholz-bild9.webp
 ---
 
 Das Screendesign-Projekt für das Redesign der Veranstaltungsübersicht am Campus Gummersbach zielt darauf ab, das bisherige unübersichtliche System durch Layout und Designänderungen zu vereinfachen. Da Studierende die häufigsten Nutzer des Systems sind, liegt der Fokus auf Funktionen, welche die Komplexität der bisherigen Terminübersicht verringern und auf den ersten Blick eine bessere Orientierung bieten. Anstatt einfach nur riesige und unpersonalisierte Datenmengen abzubilden, wurde ein alternatives Design entwickelt, das die tatsächlichen Bedürfnisse der Studierenden aktiv unterstützt.

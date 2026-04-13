@@ -1,7 +1,7 @@
 ---
 title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
-    -Ahmad Al Ali
+    - Ahmad Al Ali
 teaserimage: Ahmad_AlAli_Teaser.png
 gallery:
 # Desktop

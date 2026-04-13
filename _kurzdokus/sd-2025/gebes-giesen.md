@@ -3,7 +3,7 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
   - Moritz Giesen
   - Eray Gebes
-teaserimage: gebes-giesen-teaser.png
+teaserimage: gebes-giesen-teaser.webp
 gallery:
   - gebes-giesen-01-tagesansicht-mobil-dark-gebes.png
   - gebes-giesen-02-tagesansicht-desktop-dark-gebes.png

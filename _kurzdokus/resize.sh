@@ -1,5 +1,5 @@
 #!/bin/bash
-files="$(find ./_kurzdokus/sd-2024 -name '*.jpg' -o -name '*.png' -o -name '*.jpeg')"
+files="$(find ./sd-2025 -name '*.jpg' -o -name '*.png' -o -name '*.jpeg')"
 minimumWidth=1200
 minimumHeight=1200
 

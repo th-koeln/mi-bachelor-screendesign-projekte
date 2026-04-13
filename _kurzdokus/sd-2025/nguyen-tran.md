@@ -3,17 +3,17 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Ky Nhi Nguyen
     - Giao Tran
-teaserimage: nguyen-tran-teaser.jpeg
+teaserimage: nguyen-tran-teaser.webp
 gallery:
-    - nguyen-tran-mobile-login-01.png
-    - nguyen-tran-mobile-login-02.png
+    - nguyen-tran-mobile-login-01.webp
+    - nguyen-tran-mobile-login-02.webp
     - nguyen-tran-mobile-wochenansicht.png
     - nguyen-tran-mobile-tagesansicht.png
-    - nguyen-tran-mobile-menu-01.png
-    - nguyen-tran-mobile-menu-02.png
-    - nguyen-tran-desktop-wochenansicht-klein.png
-    - nguyen-tran-desktop-räume-lehrende-reservieren-01.png
-    - nguyen-tran-desktop-räume-lehrende-reservieren-02.png
+    - nguyen-tran-mobile-menu-01.webp
+    - nguyen-tran-mobile-menu-02.webp
+    - nguyen-tran-desktop-wochenansicht-klein.webp
+    - nguyen-tran-desktop-räume-lehrende-reservieren-01.webp
+    - nguyen-tran-desktop-räume-lehrende-reservieren-02.webp
 ---
 
 

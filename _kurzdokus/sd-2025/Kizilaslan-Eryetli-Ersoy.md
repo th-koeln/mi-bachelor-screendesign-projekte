@@ -4,23 +4,23 @@ people:
     - Neva Kizilaslan
     - Cihan Eryetli
     - Bünyamin Ersoy
-teaserimage: Kizilasla-Eryetli-Ersoy-Header.png
+teaserimage: Kizilasla-Eryetli-Ersoy-Header.webp
 gallery: 
-    - Kizilaslan-Eryetli-Ersoy-Wochenansicht.png
-    - Kizilaslan-Eryetli-Ersoy-Monatsansicht.png
-    - Kizilaslan-Eryetli-Ersoy-Raumansicht.png
-    - Kizilaslan-Eryetli-Ersoy-Raumubersicht.png
-    - Kizilaslan-Eryetli-Ersoy-SemesterBlocke.png
-    - Kizilaslan-Eryetli-Ersoy-Tagesplan.png
-    - Kizilaslan-Eryetli-Ersoy-Darkmodus.png
-    - Kizilaslan-Eryetli-Ersoy-Filteransicht.png
-    - sd-Raumubersicht-Kizilaslan-01.png
-    - sd-Raumubersicht-Kizilaslan-02.png
-    - sd-Wochenansicht-Kizilaslan.png
-    - sd-Termine-Kizilaslan.png
-    - sd-Tagansicht-Kizilaslan.png
-    - sd-Filterleiste-Kizilaslan.png
-    - sd-Detailansicht-Kizilaslan.png
+    - Kizilaslan-Eryetli-Ersoy-Wochenansicht.webp
+    - Kizilaslan-Eryetli-Ersoy-Monatsansicht.webp
+    - Kizilaslan-Eryetli-Ersoy-Raumansicht.webp
+    - Kizilaslan-Eryetli-Ersoy-Raumubersicht.webp
+    - Kizilaslan-Eryetli-Ersoy-SemesterBlocke.webp
+    - Kizilaslan-Eryetli-Ersoy-Tagesplan.webp
+    - Kizilaslan-Eryetli-Ersoy-Darkmodus.webp
+    - Kizilaslan-Eryetli-Ersoy-Filteransicht.webp
+    - sd-Raumubersicht-Kizilaslan-01.webp
+    - sd-Raumubersicht-Kizilaslan-02.webp
+    - sd-Wochenansicht-Kizilaslan.webp
+    - sd-Termine-Kizilaslan.webp
+    - sd-Tagansicht-Kizilaslan.webp
+    - sd-Filterleiste-Kizilaslan.webp
+    - sd-Detailansicht-Kizilaslan.webp
 ---
 Kurzdokumentation: Redesign der Veranstaltungsübersicht an der Fakultät 10
 

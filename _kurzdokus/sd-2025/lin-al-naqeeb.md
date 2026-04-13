@@ -3,20 +3,20 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Lydia Lin
     - Mizoun Al Naqeeb
-teaserimage: lin-al-naqeeb-teaser.png
+teaserimage: lin-al-naqeeb-teaser.webp
 gallery:
-    - lin-al-naqeeb-desktop-wochenansicht-01.png
-    - lin-al-naqeeb-desktop-popup-02.png
-    - lin-al-naqeeb-mobile-wochenansicht-01.png
-    - lin-al-naqeeb-mobile-wochenansicht-02.png
-    - lin-al-naqeeb-mobile-tagesansicht-01.png
-    - lin-al-naqeeb-mobile-tagesansicht-03.png
-    - lin-al-naqeeb-mobile-popup-02.png
-    - lin-al-naqeeb-mobile-popup-03.png
-    - lin-al-naqeeb-mobile-filteransicht-02.png
-    - lin-al-naqeeb-mobile-filtersuche-01.png
-    - lin-al-naqeeb-mobile-filtersuche-03.png
-    - lin-al-naqeeb-mobile-sidemenue-01.png
+    - lin-al-naqeeb-desktop-wochenansicht-01.webp
+    - lin-al-naqeeb-desktop-popup-02.webp
+    - lin-al-naqeeb-mobile-wochenansicht-01.webp
+    - lin-al-naqeeb-mobile-wochenansicht-02.webp
+    - lin-al-naqeeb-mobile-tagesansicht-01.webp
+    - lin-al-naqeeb-mobile-tagesansicht-03.webp
+    - lin-al-naqeeb-mobile-popup-02.webp
+    - lin-al-naqeeb-mobile-popup-03.webp
+    - lin-al-naqeeb-mobile-filteransicht-02.webp
+    - lin-al-naqeeb-mobile-filtersuche-01.webp
+    - lin-al-naqeeb-mobile-filtersuche-03.webp
+    - lin-al-naqeeb-mobile-sidemenue-01.webp
 ---
 
 Im Rahmen des Screendesign Projekts wurde ein grundlegendes Redesign der HoPS-Veranstaltungsplattform der Fakultät 10 der Technischen Hochschule Köln entwickelt. Das zentrale Ziel bestand darin, eine Mobile-first-Anwendung zu gestalten, die den Studierenden, Lehrenden und Mitarbeitern einen schnellen und intuitiven Zugriff auf ihren persönlichen Stundenplan ohne unnötige Umwege oder überladene Interfaces ermöglicht. 

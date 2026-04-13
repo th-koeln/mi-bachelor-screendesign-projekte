@@ -3,28 +3,28 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Amina Ben Fraj
     - Mikal Sara Tesfai
-teaserimage: BenFraj-Tesfai-teaser.png
+teaserimage: BenFraj-Tesfai-teaser.webp
 gallery:
-    - BenFraj-Tesfai-Startpage-1.png
-    - BenFraj-Tesfai-Loginpage-2.png
-    - BenFraj-Tesfai-Wochenansicht-3.png
-    - BenFraj-Tesfai-Tagesansicht-4.png
-    - BenFraj-Tesfai-Sidebar-5.png
-    - BenFraj-Tesfai-MeinPlan-6.png
-    - BenFraj-Tesfai-Filter-7.png
-    - BenFraj-Tesfai-Überschneidung-8.png
-    - BenFraj-Tesfai-Menü-9.png
-    - BenFraj-Tesfai-Modulinfo-10.png
-    - BenFraj-Tesfai-Raumbuchung-11.png
-    - BenFraj-Tesfai-Übersicht-12.png
-    - BenFraj-Tesfai-Studiengangplan-13.png
+    - BenFraj-Tesfai-Startpage-1.webp
+    - BenFraj-Tesfai-Loginpage-2.webp
+    - BenFraj-Tesfai-Wochenansicht-3.webp
+    - BenFraj-Tesfai-Tagesansicht-4.webp
+    - BenFraj-Tesfai-Sidebar-5.webp
+    - BenFraj-Tesfai-MeinPlan-6.webp
+    - BenFraj-Tesfai-Filter-7.webp
+    - BenFraj-Tesfai-Überschneidung-8.webp
+    - BenFraj-Tesfai-Menü-9.webp
+    - BenFraj-Tesfai-Modulinfo-10.webp
+    - BenFraj-Tesfai-Raumbuchung-11.webp
+    - BenFraj-Tesfai-Übersicht-12.webp
+    - BenFraj-Tesfai-Studiengangplan-13.webp
     - BenFraj-Tesfai-Tagdesktop-14.png
-    - BenFraj-Tesfai-Fachbeschreibung-15.png
-    - BenFraj-Tesfai-Zeitüberschneidung-16.png
-    - BenFraj-Tesfai-meinPlan-17.png
-    - BenFraj-Tesfai-LogedinMenü-18.png
-    - BenFraj-Tesfai-ProfileSettings-19.png
-    - BenFraj-Tesfai-FilterStartpage-20.png
+    - BenFraj-Tesfai-Fachbeschreibung-15.webp
+    - BenFraj-Tesfai-Zeitüberschneidung-16.webp
+    - BenFraj-Tesfai-meinPlan-17.webp
+    - BenFraj-Tesfai-LogedinMenü-18.webp
+    - BenFraj-Tesfai-ProfileSettings-19.webp
+    - BenFraj-Tesfai-FilterStartpage-20.webp
 styleguide: 
 ---
 

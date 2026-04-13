@@ -3,14 +3,14 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Imran Moujtahid
     - Arijan Kurmemovic
-teaserimage: moujtahid-kurmemovic-teaser.png
+teaserimage: moujtahid-kurmemovic-teaser.webp
 gallery:
-    - moujtahid-kurmemovic-loginansicht.png
-    - moujtahid-kurmemovic-heuteansicht.png
-    - moujtahid-kurmemovic-modulansicht.png
-    - moujtahid-kurmemovic-raumansicht.png
-    - moujtahid-kurmemovic-raumansichtfrei.png
-    - moujtahid-kurmemovic-wochenansicht.png
+    - moujtahid-kurmemovic-loginansicht.webp
+    - moujtahid-kurmemovic-heuteansicht.webp
+    - moujtahid-kurmemovic-modulansicht.webp
+    - moujtahid-kurmemovic-raumansicht.webp
+    - moujtahid-kurmemovic-raumansichtfrei.webp
+    - moujtahid-kurmemovic-wochenansicht.webp
 ---
 
 Im Rahmen des Moduls Screendesign stand die Aufgabe, eine bestehende Anwendung grundlegend zu überarbeiten. Die Ausgangssituation: das HoPS, das seinen Job zwar erfüllt, aber designtechnisch in der Vergangenheit feststeckt. Kein klares visuelles Konzept, keine Hierarchie, kaum Orientierung. Wer seinen nächsten Kurs sucht, muss sich erst durch die Oberfläche kämpfen. Das war der Startpunkt und gleichzeitig die Einladung, von Grund auf neu zu denken.

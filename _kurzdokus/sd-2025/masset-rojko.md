@@ -3,15 +3,15 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Antonia Masset
     - Lee-Ann Rojko
-teaserimage: masset-rojko-teaser.png
+teaserimage: masset-rojko-teaser.webp
 gallery:
-    - masset-rojko-smartphone.png
-    - masset-rojko-info.png
-    - masset-rojko-menu.png
-    - masset-rojko-benachrichtigung.png
-    - masset-rojko-desktop.png
-    - masset-rojko-raum.png
-    - masset-rojko-rauminfo.png
+    - masset-rojko-smartphone.webp
+    - masset-rojko-info.webp
+    - masset-rojko-menu.webp
+    - masset-rojko-benachrichtigung.webp
+    - masset-rojko-desktop.webp
+    - masset-rojko-raum.webp
+    - masset-rojko-rauminfo.webp
 ---
 
 Das Ziel der diesjährigen Projektarbeit des Moduls Screendesign ist die visuelle und funktionale Neugestaltung des Hochschulplanungsystems HoPS der Technischen Hochschule Köln. Um den Anforderungen an ein modernes Campus-Management gerecht zu werden, wurde das bisherige Frontend-Interface grundlegend überarbeitet und in eine moderne und nutzerzentrierter Benutzeroberfläche überführt.

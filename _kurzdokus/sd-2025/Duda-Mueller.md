@@ -3,31 +3,31 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Lucas-Noah Duda
     - Max Christian Müller
-teaserimage: Duda-Mueller-teaser.png
+teaserimage: Duda-Mueller-teaser.webp
 gallery:
-    - Duda-Mueller-desktop-kalender-oeffentlich--ohne-eintraege.png
-    - Duda-Mueller-desktop-kalender-personalisiert.png
-    - Duda-Mueller-desktop-kalender-unpersonalisiert.png
-    - Duda-Mueller-desktop-kalender-personalisiert-suche.png
-    - Duda-Mueller-desktop-kalender-personalisiert-suche-2.png
-    - Duda-Mueller-desktop-detail-ansicht.png
-    - Duda-Mueller-desktop-news.png
-    - Duda-Mueller-desktop-profil.png
-    - Duda-Mueller-desktop-pruefungen.png
-    - Duda-Mueller-desktop-teilen-link-dropdown.png
-    - Duda-Mueller-desktop-teilen-pdf-export.png
-    - Duda-Mueller-mobile-kalender-1.png
-    - Duda-Mueller-mobile-kalender-1-monats-ansicht.png
-    - Duda-Mueller-mobile-kalender-2.png
-    - Duda-Mueller-mobile-suche.png
-    - Duda-Mueller-mobile-suche-mit-eingabe.png
-    - Duda-Mueller-mobile-detail-ansicht.png
-    - Duda-Mueller-mobile-sidebar.png
-    - Duda-Mueller-mobile-news.png
-    - Duda-Mueller-mobile-profil.png
-    - Duda-Mueller-mobile-pruefungen.png
-    - Duda-Mueller-mobile-teilen-link-dropdown.png
-    - Duda-Mueller-mobile-teilen-pdf-export.png
+    - Duda-Mueller-desktop-kalender-oeffentlich--ohne-eintraege.webp
+    - Duda-Mueller-desktop-kalender-personalisiert.webp
+    - Duda-Mueller-desktop-kalender-unpersonalisiert.webp
+    - Duda-Mueller-desktop-kalender-personalisiert-suche.webp
+    - Duda-Mueller-desktop-kalender-personalisiert-suche-2.webp
+    - Duda-Mueller-desktop-detail-ansicht.webp
+    - Duda-Mueller-desktop-news.webp
+    - Duda-Mueller-desktop-profil.webp
+    - Duda-Mueller-desktop-pruefungen.webp
+    - Duda-Mueller-desktop-teilen-link-dropdown.webp
+    - Duda-Mueller-desktop-teilen-pdf-export.webp
+    - Duda-Mueller-mobile-kalender-1.webp
+    - Duda-Mueller-mobile-kalender-1-monats-ansicht.webp
+    - Duda-Mueller-mobile-kalender-2.webp
+    - Duda-Mueller-mobile-suche.webp
+    - Duda-Mueller-mobile-suche-mit-eingabe.webp
+    - Duda-Mueller-mobile-detail-ansicht.webp
+    - Duda-Mueller-mobile-sidebar.webp
+    - Duda-Mueller-mobile-news.webp
+    - Duda-Mueller-mobile-profil.webp
+    - Duda-Mueller-mobile-pruefungen.webp
+    - Duda-Mueller-mobile-teilen-link-dropdown.webp
+    - Duda-Mueller-mobile-teilen-pdf-export.webp
 ---
 
 Im Rahmen des Projekts haben wir eine zentrale Veranstaltungsübersicht für die Technische Hochschule entwickelt. An der TH Köln existierte bereits ein System zur Darstellung von Veranstaltungen, dessen Nutzung in der Praxis aber erheblich schwerer war als vergleichbare Systeme. Die Bedienung war umständlich, die Darstellung unpassend zum Corporate Design, und auf mobilen Endgeräten funktionierte es nur mit Umwegen. Unser Ziel bestand daher darin, eine Lösung zu schaffen, die nicht nur stilistisch passend ist, sondern vor allem auf jedem Gerät und für jeden Nutzer deutlich zugänglicher ist.

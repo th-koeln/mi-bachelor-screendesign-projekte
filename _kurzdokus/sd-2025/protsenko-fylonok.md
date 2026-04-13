@@ -3,25 +3,25 @@ title: Redesign der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Anna Protsenko
     - Galina Fylonok
-teaserimage: protsenko-fylonok-teaser.png
+teaserimage: protsenko-fylonok-teaser.webp
 gallery: 
-    - protsenko-fylonok-mobile-tagesansicht.png
-    - protsenko-fylonok-mobile-monatsansicht.png
-    - protsenko-fylonok-mobile-veranstaltungsdetailansicht.png
-    - protsenko-fylonok-mobile-veranstaltungen-1.png
-    - protsenko-fylonok-mobile-veranstaltungen-2.png
-    - protsenko-fylonok-mobile-raumbuchung.png
-    - protsenko-fylonok-mobile-raumbuchung-auswahl.png
-    - protsenko-fylonok-web-tagesansicht.png
-    - protsenko-fylonok-web-wochenansicht.png
-    - protsenko-fylonok-web-veranstaltungsdetailansicht.png
-    - protsenko-fylonok-web-veranstaltungen.png
-    - protsenko-fylonok-web-favoritenliste.png
-    - protsenko-fylonok-ipad-tagesansicht.png
-    - protsenko-fylonok-ipad-wochenansicht.png
-    - protsenko-fylonok-ipad-veranstaltungsdetailansicht.png
-    - protsenko-fylonok-ipad-veranstaltungen.png
-    - protsenko-fylonok-ipad-favoritenliste.png
+    - protsenko-fylonok-mobile-tagesansicht.webp
+    - protsenko-fylonok-mobile-monatsansicht.webp
+    - protsenko-fylonok-mobile-veranstaltungsdetailansicht.webp
+    - protsenko-fylonok-mobile-veranstaltungen-1.webp
+    - protsenko-fylonok-mobile-veranstaltungen-2.webp
+    - protsenko-fylonok-mobile-raumbuchung.webp
+    - protsenko-fylonok-mobile-raumbuchung-auswahl.webp
+    - protsenko-fylonok-web-tagesansicht.webp
+    - protsenko-fylonok-web-wochenansicht.webp
+    - protsenko-fylonok-web-veranstaltungsdetailansicht.webp
+    - protsenko-fylonok-web-veranstaltungen.webp
+    - protsenko-fylonok-web-favoritenliste.webp
+    - protsenko-fylonok-ipad-tagesansicht.webp
+    - protsenko-fylonok-ipad-wochenansicht.webp
+    - protsenko-fylonok-ipad-veranstaltungsdetailansicht.webp
+    - protsenko-fylonok-ipad-veranstaltungen.webp
+    - protsenko-fylonok-ipad-favoritenliste.webp
 ---
 
 ## Ausgangsbasis und Auftrag

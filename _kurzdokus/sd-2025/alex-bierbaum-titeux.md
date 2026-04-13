@@ -4,16 +4,16 @@ people:
     - Jan Philip Alex
     - Duvin Bierbaum
     - Jonatan Titeux
-teaserimage: alex-bierbaum-titeux-teaser.png
+teaserimage: alex-bierbaum-titeux-teaser.webp
 gallery:
-    - alex-bierbaum-titeux-bild1.png
-    - alex-bierbaum-titeux-bild2.png
-    - alex-bierbaum-titeux-bild3.png
-    - alex-bierbaum-titeux-bild4.png
-    - alex-bierbaum-titeux-bild5.png
-    - alex-bierbaum-titeux-bild6.png
-    - alex-bierbaum-titeux-bild7.png
-    - alex-bierbaum-titeux-bild8.png
+    - alex-bierbaum-titeux-bild1.webp
+    - alex-bierbaum-titeux-bild2.webp
+    - alex-bierbaum-titeux-bild3.webp
+    - alex-bierbaum-titeux-bild4.webp
+    - alex-bierbaum-titeux-bild5.webp
+    - alex-bierbaum-titeux-bild6.webp
+    - alex-bierbaum-titeux-bild7.webp
+    - alex-bierbaum-titeux-bild8.webp
 styleguide: alex-bierbaum-titeux-styleguide.svg
 ---
 Unser Designprozess

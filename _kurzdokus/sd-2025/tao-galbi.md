@@ -3,24 +3,24 @@ title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
     - Xinyu Tao
     - Rahma Galbi
-teaserimage: tao-galbi-taeser.png
+teaserimage: tao-galbi-taeser.webp
 gallery:
-    - tao-galbi-desktop-nichtAngemeldet-überschneidung-beginn.png
-    - tao-galbi-desktop-angemeldet-meineKurse.png
-    - tao-galbi-desktop-angemeldet-meineKurse-veranstaltungsdetailansicht-MA1.png
-    - tao-galbi-desktop-angemeldet-meineKurse-filter-KurstypWählen-gepinnt.png
-    - tao-galbi-desktop-angemeldet-meineKurse-menü.png
-    - tao-galbi-desktop-angemeldet-raumübersicht.png
-    - tao-galbi-desktop-angemeldet-meineKurse-ausfall-pushNachricht.png
-    - tao-galbi-desktop-WM-angemeldet-meineKurse.png
-    - tao-galbi-handy-Listenansicht-Angemeldet-Übung-Absenden.png
-    - tao-galbi-handy-Listenansicht-Benachrichtigung.png
-    - tao-galbi-handy-Listenansicht-meineKurse-02.png
-    - tao-galbi-handy-Menü-angemeldet-Studentin-LumiEssert.png
-    - tao-galbi-handy-Raumreservierung-home.png
-    - tao-galbi-handy-SEM-Freitag.png
-    - tao-galbi-handy-Überschneidung-angemeldet-Beginn.png
-    - tao-galbi-handy-WM-angemeldet-meineKurse-01.png
+    - tao-galbi-desktop-nichtAngemeldet-überschneidung-beginn.webp
+    - tao-galbi-desktop-angemeldet-meineKurse.webp
+    - tao-galbi-desktop-angemeldet-meineKurse-veranstaltungsdetailansicht-MA1.webp
+    - tao-galbi-desktop-angemeldet-meineKurse-filter-KurstypWählen-gepinnt.webp
+    - tao-galbi-desktop-angemeldet-meineKurse-menü.webp
+    - tao-galbi-desktop-angemeldet-raumübersicht.webp
+    - tao-galbi-desktop-angemeldet-meineKurse-ausfall-pushNachricht.webp
+    - tao-galbi-desktop-WM-angemeldet-meineKurse.webp
+    - tao-galbi-handy-Listenansicht-Angemeldet-Übung-Absenden.webp
+    - tao-galbi-handy-Listenansicht-Benachrichtigung.webp
+    - tao-galbi-handy-Listenansicht-meineKurse-02.webp
+    - tao-galbi-handy-Menü-angemeldet-Studentin-LumiEssert.webp
+    - tao-galbi-handy-Raumreservierung-home.webp
+    - tao-galbi-handy-SEM-Freitag.webp
+    - tao-galbi-handy-Überschneidung-angemeldet-Beginn.webp
+    - tao-galbi-handy-WM-angemeldet-meineKurse-01.webp
 ---
 
 Das Projekt basiert auf dem bestehenden Veranstaltungsübersichtssystem HoPS der Fakultät 10 der Technischen Hochschule Köln. Ziel war die Konzeption eines neuen Frontend-Interfaces – eines Interaktions- und Gestaltungskonzepts, das Studierende, Lehrende sowie Mitarbeitende im Alltag effektiv unterstützt.
