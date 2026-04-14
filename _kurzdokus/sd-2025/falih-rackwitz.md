@@ -1,30 +1,34 @@
 ---
 title: Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach
 people:
-  - Husayn Falih
-  - Enno Rackwitz
+    - Husayn Falih
+    - Enno Rackwitz
 teaserimage: falih-rackwitz-teaser.webp 
 gallery: 
-  - falih-rackwitz-desktop-01-Wochenansicht-nur-Vorlesungen.png
-  - falih-rackwitz-desktop-02-Wochenansicht-Optionleiste.png
-  - falih-rackwitz-desktop-03-Wochenansicht-Profil-Dozent.png
-  - falih-rackwitz-desktop-04-Wochenansicht-alle Veranstaltungen-vollstaendig.png
-  - falih-rackwitz-desktop-05-Tagesansicht-Montag.png
-  - falih-rackwitz-desktop-07-Tagesansicht-Veranstaltungsübersicht-TI1.png
-  - falih-rackwitz-handy-01-Wochenansicht-Startseite.png
-  - falih-rackwitz-handy-02-Wochenansicht-Optionleiste.png
-  - falih-rackwitz-handy-03-Profilscreen-vollstaendig.png
-  - falih-rackwitz-handy-04-Einstellungsscreen.png
-  - falih-rackwitz-handy-05-Benachrichtigungsscreen.png
-  - falih-rackwitz-handy-06-Wochenansicht-Filterscreen-ungefiltert-vollstaendig.png
-  - falih-rackwitz-handy-07-Wochenansicht-alle-Veranstaltungen-vollstaendig.png
-  - falih-rackwitz-handy-09-Wochenansicht-Favoritenscreen.png
-  - falih-rackwitz-handy-12-Tagesansicht-Montag.png
-  - falih-rackwitz-handy-14-Tagesansicht-Veranstaltungsdetailansicht-TI1.png
-  - falih-rackwitz-handy-15-Tagesansicht-Filterleiste.png
-  - falih-rackwitz-handy-16-Tagesansicht-eine Veranstaltung.png
-  - falih-rackwitz-handy-19-Tagesansicht-Searchbar.png
-  - falih-rackwitz-handy-21-Tagesansicht-Freitag.png
+    - falih-rackwitz-desktop-01-Wochenansicht-nurVorlesungen.png
+    - falih-rackwitz-desktop-02-Wochenansicht-Optionleiste.png
+    - falih-rackwitz-desktop-03-Wochenansicht-Profil-Dozent.png
+    - falih-rackwitz-desktop-04-Wochenansicht-alleVeranstaltungen-vollstaendig.png
+    - falih-rackwitz-desktop-05-Tagesansicht-Montag.png
+    - falih-rackwitz-desktop-07-Tagesansicht-Veranstaltungsuebersicht-TI1.png
+    - falih-rackwitz-handy-01-Wochenansicht-Startseite.png
+    - falih-rackwitz-handy-02-Wochenansicht-Optionleiste.png
+    - falih-rackwitz-handy-03-Profilscreen-vollstaendig.png
+    - falih-rackwitz-handy-04-Einstellungsscreen.png
+    - falih-rackwitz-handy-05-Benachrichtigungsscreen.png
+    - falih-rackwitz-handy-06-Wochenansicht-Filterscreen-ungefiltert-vollstaendig.png
+    - falih-rackwitz-handy-07-Wochenansicht-alleVeranstaltungen-vollstaendig.png
+    - falih-rackwitz-handy-09-Wochenansicht-Favoritenscreen.png
+    - falih-rackwitz-handy-12-Tagesansicht-Montag.png
+    - falih-rackwitz-handy-14-Tagesansicht-Veranstaltungsdetailansicht-TI1.png
+    - falih-rackwitz-handy-15-Tagesansicht-Filterleiste-1.png
+    - falih-rackwitz-handy-16-Tagesansicht-eineVeranstaltung.png
+    - falih-rackwitz-handy-19-Tagesansicht-Searchbar.png
+    - falih-rackwitz-handy-21-Tagesansicht-Freitag.png
+    - falih-rackwitz-tablet-hoch-01-Wochenansicht-alleVeranstaltungen.png
+    - falih-rackwitz-tablet-hoch-02-Tagesansicht-alleVeranstaltungen.png
+    - falih-rackwitz-tablet-quer-01-Wochenansicht-alleVeranstaltungen.png
+    - falih-rackwitz-tablet-quer-02-Tagesansicht-alleVeranstaltungen.png
 ---       
 Beim Screendesignprojekt dieses Jahres bestand die Aufgabe darin, die in HOPS gezeigte Stundenplanansicht der Fakultät 10 der TH Köln neu zu gestalten. Ziel war es, ein zugängliches, flexibles und gut strukturiertes Interface zu entwickeln, das die Veranstaltungen übersichtlich auf drei verschiedenen Endgeräten (Desktop, Tablet und Smartphone) darstellt. Hierbei sollten auch auf die Mängeln vom HOPS geachtet werden, um die selben Fehler zu vermeiden.
 
