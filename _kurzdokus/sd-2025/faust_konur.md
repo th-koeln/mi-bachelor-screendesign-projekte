@@ -7,14 +7,13 @@ teaserimage: teaserbild-Konur-Faust.webp
 gallery: 
     - 01-d-Wochenplan-Konur-Faust.webp
     - 02-d-Wochenplan-Sidebar-Konur-Faust.webp
-    - 03-d-Wochenplan-Konur-Faust.png
-    - 01-d-Wochenplan-Modulhinzufügen-Konur-Faust.png
+    - 03-d-Wochenplan-Modulehinzufügen-Konur-Faust.webp
     - 04-d-Wochenplan-kurzinfo-Konur-Faust.webp
     - 05-d-tagesplan-Konur-Faust.webp
     - 06-d-Raumplan-Konur-Faust.webp
     - 01-m-3tagesAnsicht-Konur-Faust.webp
-    - 02-sidebar-Konur-Faust.png
-    - 03-modulehinzufügen-Konur-Faust.png
+    - 02-m-sidebar-Konur-Faust.webp
+    - 03-m-modulehinzufügen-Konur-Faust.webp
     - 04-m-raumplan-Konur-Faust.webp
     - 05-m-detailAnsicht-Konur-Faust.webp
 ---

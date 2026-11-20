@@ -7,8 +7,8 @@ teaserimage: nguyen-tran-teaser.webp
 gallery:
     - nguyen-tran-mobile-login-01.webp
     - nguyen-tran-mobile-login-02.webp
-    - nguyen-tran-mobile-wochenansicht.png
-    - nguyen-tran-mobile-tagesansicht.png
+    - nguyen-tran-mobile-wochenansicht.webp
+    - nguyen-tran-mobile-tagesansicht.webp
     - nguyen-tran-mobile-menu-01.webp
     - nguyen-tran-mobile-menu-02.webp
     - nguyen-tran-desktop-wochenansicht-klein.webp

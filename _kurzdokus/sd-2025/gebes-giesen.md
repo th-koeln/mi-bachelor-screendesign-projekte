@@ -5,26 +5,26 @@ people:
   - Eray Gebes
 teaserimage: gebes-giesen-teaser.webp
 gallery:
-  - gebes-giesen-01-tagesansicht-mobil-dark-gebes.png
-  - gebes-giesen-02-tagesansicht-desktop-dark-gebes.png
-  - gebes-giesen-03-tagesansicht-desktop-light-gebes.png
-  - gebes-giesen-04-veranstaltungsdetails-mobil-dark-gebes.png
-  - gebes-giesen-05-veranstaltungsdetails-desktop-dark-gebes.png
-  - gebes-giesen-06-veranstaltungsdetails-desktop-light-gebes.png
-  - gebes-giesen-07-veranstaltungsfilter-desktop-dark-gebes.png
-  - gebes-giesen-08-veranstaltung-standalone-desktop-dark-gebes.png
-  - gebes-giesen-09-wochenansicht-mobil-dark-gebes.png
-  - gebes-giesen-10-wochenansicht-desktop-dark-gebes.png
-  - gebes-giesen-11-wochenansicht-desktop-light-gebes.png
-  - gebes-giesen-12-filter-mobil-dark-gebes.png
-  - gebes-giesen-13-filter-desktop-dark-gebes.png
-  - gebes-giesen-14-filter-desktop-light-gebes.png
-  - gebes-giesen-15-raeume-mobile-dark-gebes.png
-  - gebes-giesen-16-raeume-desktop-dark-gebes.png
-  - gebes-giesen-17-raeume-desktop-light-gebes.png
-  - gebes-giesen-18-profil-mobile-dark-gebes.png
-  - gebes-giesen-19-profil-desktop-dark-gebes.png
-  - gebes-giesen-20-profil-desktop-light-gebes.png
+  - gebes-giesen-01-tagesansicht-mobil-dark.webp
+  - gebes-giesen-02-tagesansicht-desktop-dark.webp
+  - gebes-giesen-03-tagesansicht-desktop-light.webp
+  - gebes-giesen-04-veranstalltungsdetails-mobil-dark.webp
+  - gebes-giesen-05-veranstalltungsdetails-desktop-dark.webp
+  - gebes-giesen-06-veranstalltungsdetails-desktop-light.webp
+  - gebes-giesen-07-veranstaltungsfilter-desktop-dark.webp
+  - gebes-giesen-08-veranstaltungsfilter-standalone-desktop-dark.webp
+  - gebes-giesen-09-wochenansicht-mobil-dark.webp
+  - gebes-giesen-10-wochenansicht-desktop-dark.webp
+  - gebes-giesen-11-wochenansicht-desktop-lightpng.webp
+  - gebes-giesen-12-filter-mobil-dark.webp
+  - gebes-giesen-13-filter-desktop-dark.webp
+  - gebes-giesen-14-filter-desktop-light.webp
+  - gebes-giesen-15-raeume-mobile-dark.webp
+  - gebes-giesen-16-raeume-desktop-dark.webp
+  - gebes-giesen-17-raeume-desktop-light.webp
+  - gebes-giesen-18-profil-mobile-dark.webp
+  - gebes-giesen-19-profil-desktop-dark.webp
+  - gebes-giesen-20-profil-desktop-light.webp
 ---
 # Kurzdokumentation: Redesign der Veranstaltungsübersicht (HoPS)
 ---

@@ -18,7 +18,7 @@ gallery:
     - BenFraj-Tesfai-Raumbuchung-11.webp
     - BenFraj-Tesfai-Übersicht-12.webp
     - BenFraj-Tesfai-Studiengangplan-13.webp
-    - BenFraj-Tesfai-Tagdesktop-14.png
+    - BenFraj-Tesfai-Tagesdesktop-14.webp
     - BenFraj-Tesfai-Fachbeschreibung-15.webp
     - BenFraj-Tesfai-Zeitüberschneidung-16.webp
     - BenFraj-Tesfai-meinPlan-17.webp
