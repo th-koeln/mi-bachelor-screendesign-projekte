@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:,">
+<title>Aufbau der Installation · Screendesign Projekt 2026</title>
+<style>
+  :root { --ink: #231f20; --grau: #888888; --hell: #d9d9d9; --lila: #9313ce; }
+  html, body { margin: 0; height: 100%; background: #ffffff; color: var(--ink); font-family: "PT Sans", "Helvetica Neue", Arial, sans-serif; }
+  #buehne { position: fixed; inset: 0; }
+  .label { font-size: 13px; line-height: 1.25; color: var(--ink); background: rgba(255,255,255,.85); padding: 2px 6px; white-space: nowrap; pointer-events: none; }
+  .label.mass { color: var(--grau); }
+  .label.fahne { background: var(--lila); color: #ffffff; padding: 3px 8px; }
+  nav { position: fixed; left: 16px; bottom: 16px; display: flex; flex-wrap: wrap; gap: 6px; z-index: 2; }
+  nav button { font: inherit; font-size: 14px; border: 0; background: #e4e4e4; color: var(--ink); padding: 8px 12px; cursor: pointer; }
+  nav button[aria-pressed="true"] { background: var(--ink); color: #ffffff; }
+  nav button:focus-visible { outline: 2px solid var(--lila); outline-offset: 2px; }
+</style>
+<script type="importmap">
+  { "imports": { "three": "./lib/three.module.min.js" } }
+</script>
+</head>
+<body>
+<div id="buehne"></div>
+<nav aria-label="Ansichten">
+  <button data-view="frei" aria-pressed="true">Frei</button>
+  <button data-view="vorn" aria-pressed="false">Von vorn</button>
+  <button data-view="seite" aria-pressed="false">Von der Seite</button>
+  <button data-view="oben" aria-pressed="false">Von oben</button>
+  <button data-view="pult" aria-pressed="false">Am Pult</button>
+  <button id="masse" aria-pressed="true">Maße</button>
+  <button id="fahnen" aria-pressed="true">Beschriftung</button>
+</nav>
+<script type="module">
+import * as THREE from 'three';
+import { OrbitControls } from './lib/OrbitControls.js';
+import { CSS2DRenderer, CSS2DObject } from './lib/CSS2DRenderer.js';
+
+// Maße in Metern. Wand bei z = 0, die Displays schauen in Richtung +z, das Pult steht 2,5 m davor.
+const M = {
+  displayB: 0.934, displayH: 1.660, rahmen: 0.012, displayT: 0.06, displayUnten: 0.80, // Hochformat
+  pultZ: 2.5, pultH: 0.85, pultB: 0.70, pultT: 0.46, neigung: 15,
+  tabletB: 0.249, tabletH: 0.179, reglerR: 0.03,
+};
+const FARBE = { ink: 0x231f20, grau: 0x888888, hell: 0xe4e4e4, flaeche: 0xf4f4f4, screen: 0x3a3a3a, lila: 0x9313ce };
+const reduziert = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+const buehne = document.getElementById('buehne');
+const renderer = new THREE.WebGLRenderer({ antialias: true, preserveDrawingBuffer: true });
+renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+renderer.setClearColor(0xffffff);
+buehne.appendChild(renderer.domElement);
+const labelRenderer = new CSS2DRenderer();
+labelRenderer.domElement.style.position = 'absolute';
+labelRenderer.domElement.style.inset = '0';
+labelRenderer.domElement.style.pointerEvents = 'none';
+buehne.appendChild(labelRenderer.domElement);
+
+const scene = new THREE.Scene();
+const camera = new THREE.PerspectiveCamera(40, 1, 0.05, 100);
+const controls = new OrbitControls(camera, renderer.domElement);
+controls.enableDamping = true;
+controls.maxPolarAngle = Math.PI * 0.495;
+controls.minDistance = 0.6;
+controls.maxDistance = 20;
+
+scene.add(new THREE.HemisphereLight(0xffffff, 0xdddddd, 2.2));
+const sonne = new THREE.DirectionalLight(0xffffff, 1.1);
+sonne.position.set(3, 6, 5);
+scene.add(sonne);
+
+// Körper mit schwarzen Kanten: leicht schattierte Fläche plus Linienzeichnung
+function koerper(geo, farbe = FARBE.hell, kanten = FARBE.ink, opts = {}) {
+  const mat = new THREE.MeshLambertMaterial({ color: farbe, ...opts });
+  const mesh = new THREE.Mesh(geo, mat);
+  const linien = new THREE.LineSegments(new THREE.EdgesGeometry(geo, 25), new THREE.LineBasicMaterial({ color: kanten }));
+  mesh.add(linien);
+  return mesh;
+}
+function label(text, cls = '') {
+  const el = document.createElement('div');
+  el.className = 'label ' + cls;
+  el.textContent = text;
+  return new CSS2DObject(el);
+}
+// Fähnchen: Beschriftung neben dem Element, mit leiser Linie zum Ankerpunkt verbunden
+const fahnenLinie = new THREE.LineBasicMaterial({ color: FARBE.lila, transparent: true, opacity: 0.6 });
+const fahnenPunkt = new THREE.MeshBasicMaterial({ color: FARBE.lila });
+const fahnenTeile = [];
+function fahne(eltern, text, anker, versatz) {
+  const ziel = anker.clone().add(versatz);
+  const linie = new THREE.Line(new THREE.BufferGeometry().setFromPoints([anker, ziel]), fahnenLinie);
+  const punkt = new THREE.Mesh(new THREE.SphereGeometry(0.012, 12, 8), fahnenPunkt);
+  punkt.position.copy(anker);
+  const l = label(text, 'fahne');
+  l.position.copy(ziel);
+  eltern.add(linie, punkt, l);
+  fahnenTeile.push(linie, punkt, l);
+  return l;
+}
+const masse = new THREE.Group();
+scene.add(masse);
+function massLinie(a, b, text, versatz = new THREE.Vector3()) {
+  const geo = new THREE.BufferGeometry().setFromPoints([a, b]);
+  const linie = new THREE.Line(geo, new THREE.LineDashedMaterial({ color: FARBE.grau, dashSize: 0.06, gapSize: 0.04 }));
+  linie.computeLineDistances();
+  masse.add(linie);
+  for (const p of [a, b]) {
+    const punkt = new THREE.Mesh(new THREE.SphereGeometry(0.012, 12, 8), new THREE.MeshBasicMaterial({ color: FARBE.grau }));
+    punkt.position.copy(p);
+    masse.add(punkt);
+  }
+  const l = label(text, 'mass');
+  l.position.copy(a).add(b).multiplyScalar(0.5).add(versatz);
+  masse.add(l);
+}
+
+// Boden und Wand
+const boden = new THREE.GridHelper(12, 24, 0xd9d9d9, 0xeeeeee);
+boden.position.set(0, 0, 3.5);
+scene.add(boden);
+const wand = new THREE.Mesh(new THREE.PlaneGeometry(6, 3), new THREE.MeshLambertMaterial({ color: FARBE.flaeche }));
+wand.position.set(0, 1.5, -0.001);
+scene.add(wand);
+
+// Zwei Displays im Hochformat nebeneinander, Rahmen in der Mitte bleibt sichtbar
+const aussenB = M.displayB + 2 * M.rahmen, aussenH = M.displayH + 2 * M.rahmen;
+const mitteY = M.displayUnten + aussenH / 2;
+for (const [seite, name] of [[-1, 'Screen links'], [1, 'Screen rechts']]) {
+  const gehaeuse = koerper(new THREE.BoxGeometry(aussenB, aussenH, M.displayT), 0x2a2a2a);
+  gehaeuse.position.set(seite * aussenB / 2, mitteY, M.displayT / 2);
+  scene.add(gehaeuse);
+  const screen = new THREE.Mesh(new THREE.PlaneGeometry(M.displayB, M.displayH), new THREE.MeshBasicMaterial({ color: FARBE.screen }));
+  screen.position.set(seite * aussenB / 2, mitteY, M.displayT + 0.001);
+  scene.add(screen);
+  fahne(scene, name, new THREE.Vector3(seite * aussenB * 0.3, mitteY + aussenH * 0.25, M.displayT + 0.01), new THREE.Vector3(seite * 0.6, aussenH * 0.25 + 0.45, seite < 0 ? 0.6 : 0.2));
+}
+
+// Pult: Säule und geneigte Platte
+const pult = new THREE.Group();
+pult.position.set(0, 0, M.pultZ);
+scene.add(pult);
+const saeuleH = M.pultH - 0.06;
+const saeule = koerper(new THREE.BoxGeometry(0.44, saeuleH, 0.30));
+saeule.position.set(0, saeuleH / 2, 0);
+pult.add(saeule);
+const platte = new THREE.Group();
+platte.position.set(0, M.pultH, 0);
+platte.rotation.x = THREE.MathUtils.degToRad(M.neigung); // vorn (zur Person, +z) tiefer, hinten höher
+pult.add(platte);
+const plattenKoerper = koerper(new THREE.BoxGeometry(M.pultB, 0.04, M.pultT));
+plattenKoerper.position.y = -0.02;
+platte.add(plattenKoerper);
+const tablet = koerper(new THREE.BoxGeometry(M.tabletB, 0.008, M.tabletH), 0x2a2a2a);
+tablet.position.set(-0.09, 0.004, 0.02);
+platte.add(tablet);
+const tabletScreen = new THREE.Mesh(new THREE.PlaneGeometry(M.tabletB - 0.02, M.tabletH - 0.02), new THREE.MeshBasicMaterial({ color: 0x5a5a5a }));
+tabletScreen.rotation.x = -Math.PI / 2;
+tabletScreen.position.set(-0.09, 0.0085, 0.02);
+platte.add(tabletScreen);
+const regler = koerper(new THREE.CylinderGeometry(M.reglerR, M.reglerR, 0.035, 48), 0x555555);
+regler.position.set(0.21, 0.0175, 0.02);
+platte.add(regler);
+const ring = new THREE.Mesh(new THREE.TorusGeometry(M.reglerR + 0.008, 0.005, 12, 64), new THREE.MeshBasicMaterial({ color: FARBE.lila }));
+ring.rotation.x = Math.PI / 2;
+ring.position.set(0.21, 0.004, 0.02);
+platte.add(ring);
+fahne(platte, 'Tablet, 11 Zoll', new THREE.Vector3(-0.09, 0.01, 0.02), new THREE.Vector3(-0.7, 0.5, 0.55));
+fahne(platte, 'Drehregler mit Lichtring', new THREE.Vector3(0.21, 0.036, 0.02), new THREE.Vector3(0.65, 0.4, -0.55));
+
+// Menschen als Maßstab: wer die Installation nutzt, steht am Pult, wer zuschaut, weiter hinten
+// Flache Silhouette wie bei Maßstabsfiguren im Architekturmodell, dreht sich immer zur Kamera
+const umrissRechts = [
+  [0.045, 1.52], [0.17, 1.46], [0.205, 1.40], [0.215, 1.20], [0.225, 1.00], [0.215, 0.82], [0.195, 0.78],
+  [0.18, 0.83], [0.17, 1.02], [0.16, 1.22], [0.145, 1.20], [0.135, 1.00], [0.15, 0.90], [0.125, 0.50],
+  [0.10, 0.07], [0.12, 0.0], [0.035, 0.0], [0.04, 0.07], [0.0, 0.80],
+];
+const silhouettenFlaeche = new THREE.MeshBasicMaterial({ color: FARBE.hell, transparent: true, opacity: 0.75, side: THREE.DoubleSide, depthWrite: false });
+const silhouettenLinie = new THREE.LineBasicMaterial({ color: FARBE.grau });
+const silhouetten = [];
+function mensch(x, z, h = 1.75) {
+  const k = h / 1.75;
+  const punkte = [...umrissRechts, ...umrissRechts.slice(0, -1).reverse().map(([px, py]) => [-px, py])]
+    .map(([px, py]) => new THREE.Vector2(px * k, py * k));
+  const koerperForm = new THREE.Shape(punkte);
+  const kopfForm = new THREE.Shape().absarc(0, 1.645 * k, 0.1 * k, 0, Math.PI * 2);
+  const g = new THREE.Group();
+  for (const form of [koerperForm, kopfForm]) {
+    g.add(new THREE.Mesh(new THREE.ShapeGeometry(form, 24), silhouettenFlaeche));
+    const umriss = form.getPoints(48).map(p => new THREE.Vector3(p.x, p.y, 0));
+    g.add(new THREE.LineLoop(new THREE.BufferGeometry().setFromPoints(umriss), silhouettenLinie));
+  }
+  g.position.set(x, 0, z);
+  scene.add(g);
+  silhouetten.push(g);
+  return g;
+}
+const nutzende = mensch(0, M.pultZ + 0.42);
+const zuschauend = mensch(-1.5, 5.4, 1.68);
+mensch(1.25, 6.0, 1.82);
+// Fähnchen als Kinder der Figur, damit sie mit ihr ein- und ausgeblendet werden
+fahne(nutzende, 'Nutzende, ca. 2,5 m vor der Wand', new THREE.Vector3(0, 1.75, 0), new THREE.Vector3(-0.75, 0.45, 0));
+fahne(zuschauend, 'Zuschauende, bis ca. 6 m', new THREE.Vector3(0, 1.68, 0), new THREE.Vector3(-0.75, 0.4, 0));
+
+// Maße
+const gesamtB = 2 * aussenB;
+massLinie(new THREE.Vector3(-gesamtB / 2, mitteY + aussenH / 2 + 0.12, 0.05), new THREE.Vector3(gesamtB / 2, mitteY + aussenH / 2 + 0.12, 0.05), 'je 75 Zoll hochkant, 4K, gesamt ca. 1,9 m', new THREE.Vector3(0, 0.07, 0));
+massLinie(new THREE.Vector3(gesamtB / 2 + 0.12, M.displayUnten, 0.05), new THREE.Vector3(gesamtB / 2 + 0.12, M.displayUnten + aussenH, 0.05), 'ca. 1,7 m', new THREE.Vector3(0.28, 0, 0));
+massLinie(new THREE.Vector3(gesamtB / 2 + 0.12, 0, 0.05), new THREE.Vector3(gesamtB / 2 + 0.12, M.displayUnten, 0.05), 'Unterkante 0,8 m', new THREE.Vector3(0.36, 0, 0));
+massLinie(new THREE.Vector3(-0.9, 0.003, 0), new THREE.Vector3(-0.9, 0.003, M.pultZ), '2,5 m', new THREE.Vector3(-0.2, 0, 0));
+massLinie(new THREE.Vector3(-M.pultB / 2 - 0.12, 0, M.pultZ), new THREE.Vector3(-M.pultB / 2 - 0.12, M.pultH, M.pultZ), 'Höhe 85 cm', new THREE.Vector3(-0.42, 0, 0));
+massLinie(new THREE.Vector3(1.6, 0.003, 0), new THREE.Vector3(1.6, 0.003, 6.0), 'Zuschauende bis ca. 6 m', new THREE.Vector3(1.3, 0, 0));
+fahne(masse, 'Rahmen in der Mitte bleibt sichtbar', new THREE.Vector3(0, M.displayUnten + 0.4, M.displayT + 0.01), new THREE.Vector3(1.35, -0.35, 0.1));
+
+// Ansichten
+const ziel = new THREE.Vector3(0, 1.1, 2.4);
+const ansichten = {
+  frei:  { pos: [5.6, 3.4, 8.8], ziel: [0, 1.0, 2.8] },
+  vorn:  { pos: [0, 1.65, 5.2],  ziel: [0, 1.4, 1.2] },
+  seite: { pos: [8.6, 1.5, 3.0], ziel: [0, 1.0, 3.0] },
+  oben:  { pos: [0, 11.5, 3.45], ziel: [0, 0, 3.2] },
+  pult:  { pos: [0, 1.62, M.pultZ + 0.36], ziel: [0, mitteY - 0.05, 0] },
+};
+let flug = null;
+function zeige(name, sofort = false) {
+  const a = ansichten[name];
+  document.querySelectorAll('nav button[data-view]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.view === name)));
+  nutzende.visible = name !== 'pult' && name !== 'vorn';
+  const nachPos = new THREE.Vector3(...a.pos), nachZiel = new THREE.Vector3(...a.ziel);
+  if (sofort || reduziert) { camera.position.copy(nachPos); controls.target.copy(nachZiel); controls.update(); return; }
+  flug = { t: 0, vonPos: camera.position.clone(), vonZiel: controls.target.clone(), nachPos, nachZiel };
+}
+document.querySelectorAll('nav button[data-view]').forEach(b => b.addEventListener('click', () => zeige(b.dataset.view)));
+document.getElementById('masse').addEventListener('click', e => {
+  masse.visible = !masse.visible;
+  e.currentTarget.setAttribute('aria-pressed', String(masse.visible));
+  masse.traverse(o => { if (o.isCSS2DObject) o.element.style.display = masse.visible ? '' : 'none'; });
+});
+function fahnenZeigen(an) {
+  fahnenTeile.forEach(o => { o.visible = an; });
+  document.getElementById('fahnen').setAttribute('aria-pressed', String(an));
+}
+document.getElementById('fahnen').addEventListener('click', e => fahnenZeigen(e.currentTarget.getAttribute('aria-pressed') !== 'true'));
+controls.addEventListener('start', () => { flug = null; nutzende.visible = true; document.querySelectorAll('nav button[data-view]').forEach(b => b.setAttribute('aria-pressed', 'false')); });
+
+const params = new URLSearchParams(location.search);
+zeige(ansichten[params.get('ansicht')] ? params.get('ansicht') : 'frei', true);
+if (params.get('masse') === '0') document.getElementById('masse').click();
+if (params.get('fahnen') === '0') fahnenZeigen(false);
+if (params.get('ui') === '0') document.querySelector('nav').style.display = 'none'; // für Titelbilder
+
+function groesse() {
+  const w = buehne.clientWidth, h = buehne.clientHeight;
+  renderer.setSize(w, h);
+  labelRenderer.setSize(w, h);
+  camera.aspect = w / h;
+  camera.updateProjectionMatrix();
+}
+window.addEventListener('resize', groesse);
+groesse();
+
+const uhr = new THREE.Clock();
+renderer.setAnimationLoop(() => {
+  const dt = uhr.getDelta();
+  if (flug) {
+    flug.t = Math.min(1, flug.t + dt / 1.1);
+    const e = 1 - Math.pow(1 - flug.t, 3);
+    camera.position.lerpVectors(flug.vonPos, flug.nachPos, e);
+    controls.target.lerpVectors(flug.vonZiel, flug.nachZiel, e);
+    if (flug.t >= 1) flug = null;
+  }
+  // Ruhezustand: der Lichtring pulsiert leise
+  if (!reduziert) ring.material.color.setHSL(0.78, 0.82, 0.30 + 0.12 * (0.5 + 0.5 * Math.sin(uhr.elapsedTime * 2.2)));
+  controls.update();
+  for (const g of silhouetten) g.rotation.y = Math.atan2(camera.position.x - g.position.x, camera.position.z - g.position.z);
+  renderer.render(scene, camera);
+  labelRenderer.render(scene, camera);
+});
+</script>
+</body>
+</html>
