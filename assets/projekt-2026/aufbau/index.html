@@ -162,12 +162,8 @@ platte.add(tabletScreen);
 const regler = koerper(new THREE.CylinderGeometry(M.reglerR, M.reglerR, 0.035, 48), 0x555555);
 regler.position.set(0.21, 0.0175, 0.02);
 platte.add(regler);
-const ring = new THREE.Mesh(new THREE.TorusGeometry(M.reglerR + 0.008, 0.005, 12, 64), new THREE.MeshBasicMaterial({ color: FARBE.lila }));
-ring.rotation.x = Math.PI / 2;
-ring.position.set(0.21, 0.004, 0.02);
-platte.add(ring);
 fahne(platte, 'Tablet, 11 Zoll', new THREE.Vector3(-0.09, 0.01, 0.02), new THREE.Vector3(-0.7, 0.5, 0.55));
-fahne(platte, 'Drehregler mit Lichtring', new THREE.Vector3(0.21, 0.036, 0.02), new THREE.Vector3(0.65, 0.4, -0.55));
+fahne(platte, 'Drehregler', new THREE.Vector3(0.21, 0.036, 0.02), new THREE.Vector3(0.65, 0.4, -0.55));
 
 // Menschen als Maßstab: wer die Installation nutzt, steht am Pult, wer zuschaut, weiter hinten
 // Flache Silhouette wie bei Maßstabsfiguren im Architekturmodell, dreht sich immer zur Kamera
@@ -270,8 +266,6 @@ renderer.setAnimationLoop(() => {
     controls.target.lerpVectors(flug.vonZiel, flug.nachZiel, e);
     if (flug.t >= 1) flug = null;
   }
-  // Ruhezustand: der Lichtring pulsiert leise
-  if (!reduziert) ring.material.color.setHSL(0.78, 0.82, 0.30 + 0.12 * (0.5 + 0.5 * Math.sin(uhr.elapsedTime * 2.2)));
   controls.update();
   for (const g of silhouetten) g.rotation.y = Math.atan2(camera.position.x - g.position.x, camera.position.z - g.position.z);
   renderer.render(scene, camera);
