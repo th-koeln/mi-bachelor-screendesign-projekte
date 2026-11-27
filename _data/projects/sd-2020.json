@@ -52,9 +52,7 @@
     {
       "filename": "Tschitschke-Niggemann.md",
       "title": "",
-      "people": [
-
-      ],
+      "people": [],
       "teaserimage": "",
       "url": "/sd-2020/Tschitschke-Niggemann/"
     },
@@ -220,9 +218,7 @@
     {
       "filename": "mueller-denitto.md",
       "title": "",
-      "people": [
-
-      ],
+      "people": [],
       "teaserimage": "",
       "url": "/sd-2020/mueller-denitto/"
     },
@@ -297,5 +293,5 @@
     }
   ],
   "kurzdokus_count": 29,
-  "generated_at": "2025-12-06T13:40:03+01:00"
+  "generated_at": "2026-11-22T21:23:02+01:00"
 }

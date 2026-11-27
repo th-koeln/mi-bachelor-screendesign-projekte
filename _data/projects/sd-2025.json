@@ -6,11 +6,223 @@
   "modul": "Screendesign",
   "studiengang": "Medieninformatik Ba.",
   "semester": "Wintersemester 2025/26",
-  "hero": "assets/images/projekt-2024-hero.webp",
-  "excerpt": "Das diesjährige Projekt widmet sich dem redaktionellen Bereich des Cranach Digital Archive (CDA). Das Cranach Digital Archive ist ein Forschungsprojekt, das die umfassende digitale Erschließung und Dokumentation des Werks von Lucas Cranach dem Älteren, seiner Söhne und seiner Werkstatt zum Ziel hat. Seit seiner Gründung im Jahr 2009 bietet das CDA Kunsthistoriker:innen, Restaurator:innen, Wissenschaftler:innen und der interessierten Öffentlichkeit eine einzigartige Plattform. Hier werden hochauflösende Bilddaten, wissenschaftliche Analysen und kuratorische Informationen zusammengeführt, um detaillierte Einblicke in das künstlerische Schaffen der Cranach-Dynastie zu ermöglichen.",
+  "hero": "assets/images/projekt-2025-hero.webp",
+  "excerpt": "Im diesjähringen Projekt gestalten wir das neue Frontend für die Veranstaltungsübersicht an der Fakultät 10. Das\n        zugrunde liegende System ist bereits implementiert – unser Fokus liegt auf der Gestaltung der Schnittstelle (Interface),\n        die Studierende, Lehrende und Mitarbeitende im Alltag tatsächlich verwenden.",
   "kurzdokus": [
-
+    {
+      "filename": "Ben Fraj-Tesfai.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Amina Ben Fraj",
+        "Mikal Sara Tesfai"
+      ],
+      "teaserimage": "BenFraj-Tesfai-teaser.webp",
+      "url": "/sd-2025/Ben%20Fraj-Tesfai/"
+    },
+    {
+      "filename": "Duda-Mueller.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Lucas-Noah Duda",
+        "Max Christian Müller"
+      ],
+      "teaserimage": "Duda-Mueller-teaser.webp",
+      "url": "/sd-2025/Duda-Mueller/"
+    },
+    {
+      "filename": "Kizilaslan-Eryetli-Ersoy.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Neva Kizilaslan",
+        "Cihan Eryetli",
+        "Bünyamin Ersoy"
+      ],
+      "teaserimage": "Kizilasla-Eryetli-Ersoy-Header.webp",
+      "url": "/sd-2025/Kizilaslan-Eryetli-Ersoy/"
+    },
+    {
+      "filename": "Kröll-Kim-Reimer.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Carlo Kröll",
+        "Minhyuk Kim",
+        "Joel Reimer"
+      ],
+      "teaserimage": "Kröll-Kim-Reimer-Wochenansicht-1.webp",
+      "url": "/sd-2025/Kr%C3%B6ll-Kim-Reimer/"
+    },
+    {
+      "filename": "Oezmen-Horbert.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Samet Özmen",
+        "Paul Horbert"
+      ],
+      "teaserimage": "Oezmen-Horbert-teaser.webp",
+      "url": "/sd-2025/Oezmen-Horbert/"
+    },
+    {
+      "filename": "Purushotham-Stachwitz.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Miriam Purushotham",
+        "Samuel Stachwitz"
+      ],
+      "teaserimage": "Purushotham-Stachwitz-Teaser.webp",
+      "url": "/sd-2025/Purushotham-Stachwitz/"
+    },
+    {
+      "filename": "alex-bierbaum-titeux.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Jan Philip Alex",
+        "Duvin Bierbaum",
+        "Jonatan Titeux"
+      ],
+      "teaserimage": "alex-bierbaum-titeux-teaser.webp",
+      "url": "/sd-2025/alex-bierbaum-titeux/"
+    },
+    {
+      "filename": "alirksusee-steiger.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Lelas Al Irksusee",
+        "Elisabeth Steiger"
+      ],
+      "teaserimage": "al-irksusee-steiger-teaser.webp",
+      "url": "/sd-2025/alirksusee-steiger/"
+    },
+    {
+      "filename": "falih-rackwitz.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Husayn Falih",
+        "Enno Rackwitz"
+      ],
+      "teaserimage": "falih-rackwitz-teaser.webp",
+      "url": "/sd-2025/falih-rackwitz/"
+    },
+    {
+      "filename": "faust_konur.md",
+      "title": "Redesign der digitalen Veranstaltungsübersicht an der Fakultät 10 der TH Köln",
+      "people": [
+        "Max Faust",
+        "Burak Konur"
+      ],
+      "teaserimage": "teaserbild-Konur-Faust.webp",
+      "url": "/sd-2025/faust_konur/"
+    },
+    {
+      "filename": "fege-ley.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Josephine Fege",
+        "Timo Ley"
+      ],
+      "teaserimage": "Fege-Ley-Teaser.webp",
+      "url": "/sd-2025/fege-ley/"
+    },
+    {
+      "filename": "gebes-giesen.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Moritz Giesen",
+        "Eray Gebes"
+      ],
+      "teaserimage": "gebes-giesen-teaser.webp",
+      "url": "/sd-2025/gebes-giesen/"
+    },
+    {
+      "filename": "hannig-birkholz.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Constantin Hannig",
+        "Jan Birkholz"
+      ],
+      "teaserimage": "hannig-birkholz-teaser.webp",
+      "url": "/sd-2025/hannig-birkholz/"
+    },
+    {
+      "filename": "lin-al-naqeeb.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Lydia Lin",
+        "Mizoun Al Naqeeb"
+      ],
+      "teaserimage": "lin-al-naqeeb-teaser.webp",
+      "url": "/sd-2025/lin-al-naqeeb/"
+    },
+    {
+      "filename": "masset-rojko.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Antonia Masset",
+        "Lee-Ann Rojko"
+      ],
+      "teaserimage": "masset-rojko-teaser.webp",
+      "url": "/sd-2025/masset-rojko/"
+    },
+    {
+      "filename": "moujtahid-kurmemovic.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Imran Moujtahid",
+        "Arijan Kurmemovic"
+      ],
+      "teaserimage": "moujtahid-kurmemovic-teaser.webp",
+      "url": "/sd-2025/moujtahid-kurmemovic/"
+    },
+    {
+      "filename": "nguyen-tran.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Ky Nhi Nguyen",
+        "Giao Tran"
+      ],
+      "teaserimage": "nguyen-tran-teaser.webp",
+      "url": "/sd-2025/nguyen-tran/"
+    },
+    {
+      "filename": "protsenko-fylonok.md",
+      "title": "Redesign der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Anna Protsenko",
+        "Galina Fylonok"
+      ],
+      "teaserimage": "protsenko-fylonok-teaser.webp",
+      "url": "/sd-2025/protsenko-fylonok/"
+    },
+    {
+      "filename": "rozhkova-baer.md",
+      "title": "Redesign des Veranstaltungsverzeichnisses – Fakultät 10 (TH Köln)",
+      "people": [
+        "Daria Rozhkova",
+        "Nicole Baer"
+      ],
+      "teaserimage": "rozhkova-baer-teaser.webp",
+      "url": "/sd-2025/rozhkova-baer/"
+    },
+    {
+      "filename": "tao-galbi.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Xinyu Tao",
+        "Rahma Galbi"
+      ],
+      "teaserimage": "tao-galbi-taeser.webp",
+      "url": "/sd-2025/tao-galbi/"
+    },
+    {
+      "filename": "tran-oezdemir.md",
+      "title": "Redesign Web Frontend der Veranstaltungsübersicht am Campus Gummersbach",
+      "people": [
+        "Quynh Tran",
+        "Melda Özdemir"
+      ],
+      "teaserimage": "tran-oezdemir-teaser.webp",
+      "url": "/sd-2025/tran-oezdemir/"
+    }
   ],
-  "kurzdokus_count": 0,
-  "generated_at": "2025-12-06T13:40:03+01:00"
+  "kurzdokus_count": 21,
+  "generated_at": "2026-11-22T21:23:02+01:00"
 }

@@ -42,9 +42,7 @@
     {
       "filename": "Engel-Hatzke-Kurzdoku.md",
       "title": "",
-      "people": [
-
-      ],
+      "people": [],
       "teaserimage": "",
       "url": "/sd-2022/Engel-Hatzke-Kurzdoku/"
     },
@@ -168,9 +166,7 @@
     {
       "filename": "koeppen-martinez-kurzdokumentation.md",
       "title": "",
-      "people": [
-
-      ],
+      "people": [],
       "teaserimage": "",
       "url": "/sd-2022/koeppen-martinez-kurzdokumentation/"
     },
@@ -197,9 +193,7 @@
     {
       "filename": "meisenhelter-launer.md",
       "title": "",
-      "people": [
-
-      ],
+      "people": [],
       "teaserimage": "",
       "url": "/sd-2022/meisenhelter-launer/"
     },
@@ -216,9 +210,7 @@
     {
       "filename": "pepeoglu-rudnytska.md",
       "title": "",
-      "people": [
-
-      ],
+      "people": [],
       "teaserimage": "",
       "url": "/sd-2022/pepeoglu-rudnytska/"
     },
@@ -234,5 +226,5 @@
     }
   ],
   "kurzdokus_count": 23,
-  "generated_at": "2025-12-06T13:40:03+01:00"
+  "generated_at": "2026-11-22T21:23:02+01:00"
 }

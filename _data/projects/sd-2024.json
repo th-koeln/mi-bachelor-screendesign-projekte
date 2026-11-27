@@ -219,9 +219,7 @@
     {
       "filename": "otterbeck-dahm.md",
       "title": "",
-      "people": [
-
-      ],
+      "people": [],
       "teaserimage": "",
       "url": "/sd-2024/otterbeck-dahm/"
     },
@@ -269,9 +267,7 @@
     {
       "filename": "sukiiaszova-oezdogan.md",
       "title": "",
-      "people": [
-
-      ],
+      "people": [],
       "teaserimage": "",
       "url": "/sd-2024/sukiiaszova-oezdogan/"
     },
@@ -307,5 +303,5 @@
     }
   ],
   "kurzdokus_count": 30,
-  "generated_at": "2025-12-06T13:40:03+01:00"
+  "generated_at": "2026-11-22T21:23:02+01:00"
 }
