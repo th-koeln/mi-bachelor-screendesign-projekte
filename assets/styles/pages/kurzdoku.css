@@ -1,0 +1,78 @@
+/* Kurzdoku (Layout kurzdoku)
+############################################################################ */
+
+.layout-kurzdoku {
+
+  /* Header: Titel und Namen als Etiketten auf dem Teaserbild
+  ------------------------------------------------------------------------- */
+  .is-header {
+    .title {
+      font-size: var(--font-size-3xl);
+      font-weight: var(--font-weight-light);
+    }
+
+    .title.is-inverse,
+    .subtitle.is-inverse {
+      display: inline-block;
+      margin-bottom: 0;
+      padding: var(--spacing-2xs);
+      background-color: var(--color-mi-black);
+    }
+
+    .subtitle.is-inverse {
+      background-color: var(--color-primary-default);
+    }
+
+    /* Titel und Namen stehen per Flexbox untereinander */
+    br {
+      display: none;
+    }
+  }
+
+  /* Galerie-Steuerung (Swiper)
+  ------------------------------------------------------------------------- */
+  .swiper-controls {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: -10px;
+    margin-bottom: var(--spacing-m);
+
+    .prev,
+    .next {
+      display: inline-block;
+      padding: 5px;
+      cursor: pointer;
+
+      svg {
+        width: var(--icon-size-l);
+        height: var(--icon-size-l);
+        fill: var(--color-mi-black);
+      }
+
+      &.swiper-button-disabled {
+        cursor: default;
+
+        svg {
+          fill: rgb(35 31 32 / 20%);
+        }
+      }
+    }
+  }
+
+  /* Eckdaten (Kontext, Modul, Semester …)
+  ------------------------------------------------------------------------- */
+  .content.is-simple {
+    p,
+    li,
+    table,
+    .box {
+      max-width: var(--max-width-text);
+    }
+  }
+
+  /* Codeblöcke aus Markdown
+  ------------------------------------------------------------------------- */
+  .content .highlighter-rouge {
+    margin-bottom: var(--spacing-xl);
+  }
+}

@@ -1,0 +1,26 @@
+/* Helper
+############################################################################# */
+
+.is-small {
+  font-size: 80%;
+}
+
+.is-hidden {
+  display: none;
+}
+
+/* Print
+############################################################################# */
+
+@media print {
+  section.hero,
+  .is-non-print {
+    display: none;
+  }
+}
+
+@media screen {
+  .is-print {
+    display: none;
+  }
+}

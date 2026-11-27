@@ -1,0 +1,109 @@
+/**
+ * Design Tokens
+ * Projektergebnisse Screendesign – Medieninformatik TH Köln
+ *
+ * Breakpoints (Custom Properties funktionieren nicht in @media,
+ * deshalb stehen die Werte dort fest):
+ *   tablet:  width >= 769px  (Spalten, Navigation)
+ *   desktop: width >= 1000px (Überschriftengrößen, Teaser-Raster)
+ */
+
+:root {
+  /* font family */
+  --font-family-primary: 'PT Sans', sans-serif;
+  --font-family-mono: 'Courier New', Courier, monospace;
+  --base-font-size: 1rem;
+
+  /* font sizes */
+  --font-size-xs: calc(var(--base-font-size) * 0.75);
+  --font-size-s: calc(var(--base-font-size) * 0.875);
+  --font-size-m: var(--base-font-size);
+  --font-size-l: calc(var(--base-font-size) * 1.25);
+  --font-size-xl: calc(var(--base-font-size) * 1.5);
+  --font-size-2xl: calc(var(--base-font-size) * 1.75);
+  --font-size-3xl: calc(var(--base-font-size) * 2);
+  --font-size-4xl: calc(var(--base-font-size) * 3);
+
+  /* font weights */
+  --font-weight-light: 100;
+  --font-weight-regular: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+
+  /* line heights */
+  --line-height-tight: 1.125;
+  --line-height-snug: 1.2;
+  --line-height-normal: 1.3;
+  --line-height-loose: 1.5;
+
+  /* brand colors */
+  --color-mi-blau: #4952e1;
+  --color-mi-pink: #dd1166;
+  --color-mi-gruen: #00ad2f;
+  --color-mi-lila: #9313ce;
+  --color-mi-black: #231f20;
+  --color-mi-grau: #aaaaaa;
+  --color-mi-bg: #efefef;
+
+  /* neutrals */
+  --color-black: #0a0a0a;
+  --color-darker: #363636;
+  --color-dark: #4a4a4a;
+  --color-light: #dbdbdb;
+  --color-lighter: #f5f5f5;
+  --color-lightest: #fafafa;
+  --color-white: #fff;
+
+  /* semantic colors */
+  --color-primary-default: var(--color-mi-lila);
+  --color-info-default: var(--color-mi-blau);
+  --color-accent-default: var(--color-mi-pink);
+  --color-text-default: var(--color-dark);
+  --color-text-strong: var(--color-darker);
+  --color-text-inverse: var(--color-white);
+  --color-text-inverse-muted: rgb(255 255 255 / 70%);
+  --color-link-default: var(--color-primary-default);
+  --color-link-hover: var(--color-text-strong);
+  --color-background-default: var(--color-white);
+  --color-background-200: var(--color-lighter);
+  --color-background-300: var(--color-mi-bg);
+  --color-background-inverse: var(--color-black);
+  --color-border-default: var(--color-light);
+  --color-border-subtle: rgb(0 0 0 / 20%);
+  --color-border-inverse: rgb(255 255 255 / 20%);
+  --color-code: #ff3860;
+
+  /* spaces */
+  --spacing-3xs: calc(var(--base-font-size) * 0.125);
+  --spacing-2xs: calc(var(--base-font-size) * 0.25);
+  --spacing-xs: calc(var(--base-font-size) * 0.5);
+  --spacing-s: calc(var(--base-font-size) * 0.75);
+  --spacing-m: var(--base-font-size);
+  --spacing-l: calc(var(--base-font-size) * 1.5);
+  --spacing-xl: calc(var(--base-font-size) * 2);
+  --spacing-2xl: calc(var(--base-font-size) * 3);
+  --spacing-3xl: calc(var(--base-font-size) * 6);
+  --spacing-hero-large: calc(var(--base-font-size) * 18);
+
+  /* border widths */
+  --border-width-s: 1px;
+  --border-width-m: 2px;
+  --border-width-l: 5px;
+
+  /* shadows */
+  --shadow-card: 0 2px 3px rgb(10 10 10 / 10%), 0 0 0 1px rgb(10 10 10 / 10%);
+  --shadow-dropdown: 0 4px 7px rgb(10 10 10 / 10%);
+
+  /* transitions */
+  --transition-fast: 86ms;
+  --transition-slow: 500ms;
+
+  /* sizes */
+  --max-width-page: 896px;
+  --max-width-text: 36rem;
+  --nav-height: 3.25rem;
+  --logo-height: 1.75rem;
+  --icon-size-l: 1.8rem;
+  --teaser-image-height: 200px;
+}

@@ -75,9 +75,9 @@ kramdown:
     # Use existing pygments syntax highlighting css
     css_class: 'highlight'
 
-# Set the Sass partials directory, as we're using @imports
-sass:
-    style: :compressed
+# Jekyll überspringt Dateien mit "_" am Anfang, die zentrale CSS-Datei muss mit
+include:
+  - _combined.css
 
 # Exclude these files from your production _site
 exclude:

@@ -1,0 +1,27 @@
+/* _combined.css - Zentrale Datei für alle Styles
+* Import aller CSS-Dateien in der richtigen Reihenfolge.
+* Pfade sind relativ, weil die Seite unter einer baseurl läuft.
+*/
+
+/* Basis-Resets */
+@import url('reset.css');
+
+/* Design-Tokens und Variablen */
+@import url('variables.css');
+
+/* Basis-Stile */
+@import url('base.css');
+
+/* Komponenten und Layouts */
+@import url('layouts.css');
+@import url('header.css');
+@import url('components.css');
+@import url('footer.css');
+
+/* Zusätzliche Stile für spezifische Seiten */
+@import url('pages/home.css');
+@import url('pages/kurzdoku.css');
+@import url('pages/projekt.css');
+
+/* Hilfsklassen und Print */
+@import url('utilities.css');

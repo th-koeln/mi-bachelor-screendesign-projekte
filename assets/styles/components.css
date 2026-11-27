@@ -1,0 +1,328 @@
+/* Title & Subtitle
+############################################################################# */
+
+.title,
+.subtitle {
+  word-break: break-word;
+
+  &:not(:last-child) {
+    margin-bottom: var(--spacing-l);
+  }
+}
+
+.title {
+  color: var(--color-text-strong);
+  font-size: var(--font-size-m);
+  font-weight: var(--font-weight-semibold);
+  line-height: var(--line-height-tight);
+
+  &.is-1 {
+    font-size: var(--font-size-xl);
+  }
+
+  & + .subtitle {
+    margin-top: calc(var(--font-size-l) * -1);
+  }
+}
+
+.subtitle {
+  color: var(--color-text-default);
+  font-size: var(--font-size-l);
+  font-weight: var(--font-weight-regular);
+  line-height: 1.25;
+
+  &.is-3 {
+    font-size: var(--font-size-m);
+  }
+}
+
+/* Content (Fließtext aus Templates und Markdown)
+############################################################################# */
+
+.content {
+  &.is-small {
+    font-size: var(--font-size-xs);
+  }
+
+  &.is-medium {
+    font-size: var(--font-size-l);
+  }
+
+  p,
+  dl,
+  ol,
+  ul,
+  blockquote,
+  pre,
+  table {
+    &:not(:last-child) {
+      margin-bottom: 1em;
+    }
+  }
+
+  li + li {
+    margin-top: 0.25em;
+  }
+
+  ul,
+  ol {
+    margin-top: 1em;
+    margin-left: 2em;
+  }
+
+  ul {
+    list-style: disc outside;
+
+    ul {
+      margin-top: 0.5em;
+      list-style-type: circle;
+    }
+  }
+
+  ol {
+    list-style: decimal outside;
+  }
+
+  /* Überschriften: Größe relativ zur Schriftgröße des Blocks */
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--color-text-strong);
+    font-weight: var(--font-weight-regular);
+    line-height: var(--line-height-tight);
+  }
+
+  h1 {
+    margin-bottom: 0.5em;
+    font-size: 2em;
+  }
+
+  h2 {
+    margin-bottom: 0.5714em;
+    font-size: 1.75em;
+  }
+
+  h3 {
+    margin-bottom: 0.6666em;
+    font-size: 1.5em;
+  }
+
+  h4 {
+    margin-bottom: 0.8em;
+    font-size: 1.25em;
+  }
+
+  h5 {
+    margin-bottom: 0.8888em;
+    font-size: 1.125em;
+  }
+
+  h6 {
+    margin-bottom: 1em;
+    font-size: 1em;
+  }
+
+  h1:not(:first-child) {
+    margin-top: 1em;
+  }
+
+  h2:not(:first-child) {
+    margin-top: 1.1428em;
+  }
+
+  h3:not(:first-child) {
+    margin-top: 1.3333em;
+  }
+
+  @media (width < 1000px) {
+    h1 {
+      font-size: var(--font-size-l);
+      font-weight: var(--font-weight-medium);
+    }
+
+    h2 {
+      font-size: var(--font-size-l);
+      font-weight: var(--font-weight-medium);
+    }
+
+    h3 {
+      font-size: var(--font-size-m);
+      font-weight: var(--font-weight-bold);
+    }
+
+    h4, h5, h6 {
+      font-size: var(--font-size-m);
+      font-weight: var(--font-weight-semibold);
+    }
+  }
+
+  /* Definitionslisten: Begriff und Wert in einer Zeile */
+  dl {
+    margin-bottom: var(--spacing-m);
+  }
+
+  dt {
+    display: block;
+    float: left;
+    min-width: 10px;
+    padding: var(--spacing-3xs) 0;
+    color: var(--color-info-default);
+    font-weight: var(--font-weight-bold);
+
+    &::after {
+      display: inline-block;
+      padding-right: var(--spacing-2xs);
+      content: ":";
+    }
+  }
+
+  dd {
+    margin-left: 0;
+    padding: var(--spacing-3xs) 0;
+  }
+
+  figure {
+    margin: var(--spacing-m) 0 0;
+    padding-top: var(--spacing-m);
+    border-top: dotted var(--border-width-s) var(--color-mi-gruen);
+
+    figcaption {
+      display: block;
+      margin-bottom: var(--spacing-m);
+      padding: var(--spacing-m) 0 var(--spacing-xs);
+      border-top: dotted var(--border-width-s) var(--color-mi-gruen);
+      color: var(--color-mi-gruen);
+      text-align: left;
+    }
+  }
+
+  sup,
+  sub {
+    font-size: 75%;
+  }
+}
+
+/* Table
+############################################################################# */
+
+.table,
+.content table {
+  width: 100%;
+  margin-bottom: var(--spacing-l);
+  background-color: var(--color-background-default);
+  color: var(--color-text-strong);
+
+  td,
+  th {
+    padding: 0.5em 0.75em 0.5em 0;
+    border-bottom: var(--border-width-s) solid var(--color-border-default);
+    vertical-align: top;
+  }
+
+  th {
+    font-weight: var(--font-weight-semibold);
+    text-align: left;
+  }
+
+  tr:hover {
+    background-color: var(--color-lightest);
+  }
+
+  thead td,
+  thead th {
+    border-bottom-width: var(--border-width-m);
+  }
+
+  tbody tr:last-child td,
+  tbody tr:last-child th {
+    border-bottom-width: 0;
+  }
+
+  hr {
+    margin: var(--spacing-xs) 0;
+  }
+}
+
+/* Box (farbig hinterlegter Hinweis)
+############################################################################# */
+
+.box {
+  display: block;
+  padding: var(--spacing-xl);
+  background-color: var(--color-primary-default);
+  color: var(--color-text-inverse);
+
+  &:not(:last-child) {
+    margin-bottom: var(--spacing-l);
+  }
+
+  h2,
+  strong,
+  b {
+    color: var(--color-text-inverse);
+    font-weight: var(--font-weight-bold);
+  }
+
+  a {
+    color: var(--color-text-inverse);
+    text-decoration: underline;
+  }
+}
+
+/* Card (Teaser auf der Startseite)
+############################################################################# */
+
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  background-color: var(--color-background-default);
+  box-shadow: var(--shadow-card);
+  color: var(--color-text-default);
+}
+
+.card-image {
+  display: block;
+  width: 100%;
+  height: var(--teaser-image-height);
+  object-fit: cover;
+}
+
+.card-footer {
+  flex-grow: 1;
+  padding: var(--spacing-s);
+  border-top: var(--border-width-s) solid var(--color-border-default);
+}
+
+/* Separator
+############################################################################# */
+
+.has-seperator {
+  padding-bottom: var(--spacing-2xl);
+  border-bottom: var(--border-width-s) solid var(--color-primary-default);
+}
+
+/* Video-Embed (responsives 16:9)
+############################################################################# */
+
+.js-video {
+  position: relative;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+
+  embed,
+  iframe,
+  object,
+  video {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+/* Icons (Font Awesome)
+############################################################################# */
+
+.fa {
+  padding-right: var(--spacing-xs);
+}

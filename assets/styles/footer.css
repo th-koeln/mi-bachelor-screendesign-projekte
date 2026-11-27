@@ -1,0 +1,27 @@
+/* footer
+############################################################################# */
+
+.footer {
+  padding: var(--spacing-2xl) var(--spacing-l) var(--spacing-3xl);
+  border-top: var(--border-width-s) solid var(--color-primary-default);
+  background-color: var(--color-background-200);
+
+  .menu-list {
+    line-height: 1.25;
+
+    li + li {
+      border-top: var(--border-width-s) solid var(--color-border-subtle);
+    }
+
+    a {
+      display: block;
+      padding: var(--spacing-xs) var(--spacing-s) var(--spacing-xs) 0;
+      color: var(--color-text-default);
+      font-size: var(--font-size-s);
+
+      &:hover {
+        color: var(--color-text-strong);
+      }
+    }
+  }
+}

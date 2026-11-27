@@ -1,0 +1,51 @@
+/* Projekt (Layout projekt)
+############################################################################ */
+
+.layout-projekt {
+  line-height: var(--line-height-loose);
+
+  /* Header: Titel schwarz, Untertitel weiß hinterlegt
+  ------------------------------------------------------------------------- */
+  .is-header {
+    .title,
+    .subtitle {
+      display: inline-block;
+      margin: 0;
+      padding: var(--spacing-xs) var(--spacing-m);
+      line-height: var(--line-height-snug);
+    }
+
+    .title {
+      padding-top: var(--spacing-2xs);
+      background-color: var(--color-black);
+      font-size: var(--font-size-4xl);
+      font-weight: var(--font-weight-bold);
+    }
+
+    .subtitle {
+      background-color: var(--color-white);
+      color: var(--color-black);
+    }
+  }
+
+  /* Überschriften im Fließtext: feste Größen statt em-Skala
+  ------------------------------------------------------------------------- */
+  @media (width >= 1000px) {
+    .content {
+      h1 {
+        font-size: var(--font-size-2xl);
+        font-weight: var(--font-weight-medium);
+      }
+
+      h2 {
+        font-size: var(--font-size-xl);
+        font-weight: var(--font-weight-bold);
+      }
+
+      h3, h4, h5, h6 {
+        font-size: var(--font-size-m);
+        font-weight: var(--font-weight-semibold);
+      }
+    }
+  }
+}

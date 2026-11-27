@@ -1,0 +1,29 @@
+/* Home (Layout default/home)
+############################################################################ */
+
+.layout-default {
+
+  /* Header
+  ------------------------------------------------------------------------- */
+  .is-header .title {
+    font-size: var(--font-size-3xl);
+    font-weight: var(--font-weight-light);
+  }
+
+  /* Teaser-Raster der Kurzdokus
+  ------------------------------------------------------------------------- */
+  .is-tab-wrap {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--spacing-xl) var(--spacing-l);
+    margin: var(--spacing-l) 0;
+
+    @media (width >= 769px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
+
+    @media (width >= 1000px) {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+}
